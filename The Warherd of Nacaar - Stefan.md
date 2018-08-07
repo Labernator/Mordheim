@@ -76,6 +76,7 @@ Da lässt sich doch was mit anfangen!
 Auch hier hatte ich mich schon sehr früh festgelegt: Der [Games Workshop Doombull](https://games-workshop.com/de-DE/Todesbulle-der-Tiermenschen) sollte es sein.
 
 ![](http://directupload.net/file/d/5150/3erh8mq9_jpg.htm)
+![](http://directupload.net/show_image.php/d/5150/3erh8mq9_jpg.htm?d=5150&n=3erh8mq9_jpg.htm)
 
 ![](http://directupload.net/file/d/5150/bftuj6fm_jpg.htm)
 
