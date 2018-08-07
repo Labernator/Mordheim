@@ -47,14 +47,14 @@ Vorax: Base 20
 #### Vorax
 *Vorax was a mercenary. Always has been. The giant minotaur realized his most defining feature early. Other were smarter than him. Faster. Sneakier and stealthier. They could master the chaos that is magic or the science that is gun powder. 
 
-He could not do any of those things. He was strong but not overly so. He was tough but not that much tougher than the common beastmen. And he didn’t need to be. More than anything he was furious! His range was the reason he was feared. It was the reason he was hired. And the reason he never was able to form a warherd of his own: 
+*He could not do any of those things. He was strong but not overly so. He was tough but not that much tougher than the common beastmen. And he didn’t need to be. More than anything he was furious! His range was the reason he was feared. It was the reason he was hired. And the reason he never was able to form a warherd of his own: 
 Vorax didn’t take kindly to failure or defeat or even looking at him funny. And even beastmen weren’t foolish enough to accept a psychotic axe-wielding giant as a leader. They fled his command at the latest when he would inevitably decide to make an example of some poor underling he had chosen as scapegoat.
 
-So instead back in the Forest of Shadows he sold his axe and his anger to whichever chieftain was offering the most. As his loyalty only ever stretched as far as the purse of the chieftain he never formed any bonds with the warherds he served. He hated the beastmen for not bowing to his command and they knew it. So he never came closer to achieving his goal of commanding a fearsome warband of his own.
+*So instead back in the Forest of Shadows he sold his axe and his anger to whichever chieftain was offering the most. As his loyalty only ever stretched as far as the purse of the chieftain he never formed any bonds with the warherds he served. He hated the beastmen for not bowing to his command and they knew it. So he never came closer to achieving his goal of commanding a fearsome warband of his own.
 
-Then Naccaar came along with the promise of not only gold but Wyrdstone and with it unspeakable power. The power to subdue the beastmen that only saw him as an unpredictable weapon. The power to become a feared leader himself.
+*Then Naccaar came along with the promise of not only gold but Wyrdstone and with it unspeakable power. The power to subdue the beastmen that only saw him as an unpredictable weapon. The power to become a feared leader himself.
 
-With his axe in hand, power in mind and the red misty curtain of bloodrage clouding his thoughts Vorax is marching towards Mordheim*
+*With his axe in hand, power in mind and the red misty curtain of bloodrage clouding his thoughts Vorax is marching towards Mordheim
 
 Der Bulle ist definitiv der Hauptgrund warum ich die Beastherd Fraktion gewählt habe. Entsprechend soll er auch ein möglichst imposantes Centerpiece werden.
 
@@ -105,16 +105,16 @@ Base kommt später, jetzt werde ich mich erstmal den Ziegen zuwenden.
 
 ## 25.07.18
 From England with love
-Brunchaath:
+[Brunchaath]http://mierce-miniatures.com/index.php?act=pro&pre=mrm_dkl_fmr_blr_wcf_304_000:
 ![](http://www.directupload.net/file/d/5157/858ktjcm_jpg.htm)
 
-Daachuch:
+[Daachuch]http://mierce-miniatures.com/index.php?act=pro&pre=mrm_dkl_fmr_blr_wcf_334_000:
 ![](http://www.directupload.net/file/d/5157/vvdgb3tp_jpg.htm)
 
 Und Post aus Spanien, damit ist die Gang komplett:
 ![](http://www.directupload.net/file/d/5159/fz8w8c4q_jpg.htm)
 
-Shaman und Chieftain
+[Shaman]https://www.avatars-of-war.com/eng/web/index.php?option=com_content&view=article&prodcode=103&prodname=Beastman+Shaman&id=118&Itemid=53 und [Chieftain]https://www.avatars-of-war.com/eng/web/index.php?option=com_content&view=article&prodcode=11&prodname=Beast+Chieftain+with+great+weapon&id=118&Itemid=53
 
 und assembled (und in Teilen geprimed)
 
@@ -146,6 +146,9 @@ Das sind jetzt sicher nicht die geilsten Stadt-Bases, aber für mich auf jeden F
 
 ## 30.07.18
 So, die beiden Resin Chars sind fertig. Wer was wird entscheide ich, wenn alle fertig bemalt sind.
+
+Farbschema für die Ziegen: https://www.youtube.com/watch?v=1dcVW3Kvzg4
+
 ![](http://www.bilder-upload.eu/show.php?file=006f02-1532981345.jpg)
 
 ![](http://www.bilder-upload.eu/show.php?file=8a1e18-1532981367.jpg)
