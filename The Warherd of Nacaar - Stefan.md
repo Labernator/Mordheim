@@ -78,7 +78,7 @@ Google gibt dann auch einige Inspirationen:
 Da lässt sich doch was mit anfangen!
 
 **Step 0b: Mini**
-Auch hier hatte ich mich schon sehr früh festgelegt: Der [Games Workshop Doombull] (https://www.games-workshop.com/de-DE/Todesbulle-der-Tiermenschen) sollte es sein.
+Auch hier hatte ich mich schon sehr früh festgelegt: Der [Games Workshop Doombull] (https://games-workshop.com/de-DE/Todesbulle-der-Tiermenschen) sollte es sein.
 
 ![](http://www.directupload.net/file/d/5150/3erh8mq9_jpg.htm)
 
@@ -105,16 +105,16 @@ Base kommt später, jetzt werde ich mich erstmal den Ziegen zuwenden.
 
 ## 25.07.18
 From England with love
-[Brunchaath]http://mierce-miniatures.com/index.php?act=pro&pre=mrm_dkl_fmr_blr_wcf_304_000:
+[Brunchaath] (http://mierce-miniatures.com/index.php?act=pro&pre=mrm_dkl_fmr_blr_wcf_304_000)
 ![](http://www.directupload.net/file/d/5157/858ktjcm_jpg.htm)
 
-[Daachuch]http://mierce-miniatures.com/index.php?act=pro&pre=mrm_dkl_fmr_blr_wcf_334_000:
+[Daachuch] (http://mierce-miniatures.com/index.php?act=pro&pre=mrm_dkl_fmr_blr_wcf_334_000)
 ![](http://www.directupload.net/file/d/5157/vvdgb3tp_jpg.htm)
 
 Und Post aus Spanien, damit ist die Gang komplett:
 ![](http://www.directupload.net/file/d/5159/fz8w8c4q_jpg.htm)
 
-[Shaman]https://www.avatars-of-war.com/eng/web/index.php?option=com_content&view=article&prodcode=103&prodname=Beastman+Shaman&id=118&Itemid=53 und [Chieftain]https://www.avatars-of-war.com/eng/web/index.php?option=com_content&view=article&prodcode=11&prodname=Beast+Chieftain+with+great+weapon&id=118&Itemid=53
+[Shaman]https://avatars-of-war.com/eng/web/index.php?option=com_content&view=article&prodcode=103&prodname=Beastman+Shaman&id=118&Itemid=53 und [Chieftain] (https://avatars-of-war.com/eng/web/index.php?option=com_content&view=article&prodcode=11&prodname=Beast+Chieftain+with+great+weapon&id=118&Itemid=53)
 
 und assembled (und in Teilen geprimed)
 
