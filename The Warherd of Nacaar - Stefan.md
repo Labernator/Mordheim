@@ -132,10 +132,10 @@ Also erstmal alles auf die Base geklebt:
 ![](http://www.directupload.net/file/d/5160/n9b64yvg_png.htm)
 
 Dann ein bisschen Farbe drauf:
-![](http://www.bilder-upload.eu/show.php?file=48d1c3-1532612943.png)
+![](http://bilder-upload.eu/show.php?file=48d1c3-1532612943.png)
 
 Und drybrushen:
-![](http://www.bilder-upload.eu/show.php?file=d0984c-1532612981.png)
+![](http://bilder-upload.eu/show.php?file=d0984c-1532612981.png)
 
 Das sind jetzt sicher nicht die geilsten Stadt-Bases, aber für mich auf jeden Fall gut genug. Und vor allem umsonst =)
 
@@ -145,16 +145,16 @@ So, die beiden Resin Chars sind fertig. Wer was wird entscheide ich, wenn alle f
 
 Farbschema für die Ziegen: https://www.youtube.com/watch?v=1dcVW3Kvzg4
 
-![](http://www.bilder-upload.eu/show.php?file=006f02-1532981345.jpg)
+![](http://bilder-upload.eu/show.php?file=006f02-1532981345.jpg)
 
-![](http://www.bilder-upload.eu/show.php?file=8a1e18-1532981367.jpg)
+![](http://bilder-upload.eu/show.php?file=8a1e18-1532981367.jpg)
 
-![](http://www.bilder-upload.eu/show.php?file=e44e9d-1532981384.jpg)
+![](http://bilder-upload.eu/show.php?file=e44e9d-1532981384.jpg)
 
-![](http://www.bilder-upload.eu/show.php?file=8b88f3-1532981397.jpg)
+![](http://bilder-upload.eu/show.php?file=8b88f3-1532981397.jpg)
 
 Und noch ein Gruppen-Shot:
-![](http://www.bilder-upload.eu/show.php?file=6d441c-1532981423.jpg)
+![](http://bilder-upload.eu/show.php?file=6d441c-1532981423.jpg)
 
 
 ## 31.07.18
