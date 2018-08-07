@@ -4,7 +4,6 @@ Blinded by the unlimited power the wyrdstone shards promised Naccaar decided to 
 
 
 **Naccaar Scar-Face, Primal Warchief of the Warherd**
-
 Beastmen Chieftain: Dagger, Mace (70 GC) 
 
 **Munkoc, Carrier of the broken Moon Disk and Great Bray-Shaman of the Warherd**
