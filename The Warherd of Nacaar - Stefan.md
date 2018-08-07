@@ -9,25 +9,21 @@ Beastmen Chieftain: Dagger, Mace (70 GC)
 **Munkoc, Carrier of the broken Moon Disk and Great Bray-Shaman of the Warherd**  
 Beastmen Shaman: 2x Dagger (47 GC)
 
-**Zhirgac the Headtaker**
-
+**Zhirgac the Headtaker**  
 Bestigor: 2x Dagger (47 GC)
 
-**Goghaz the Spiteful**
-
+**Goghaz the Spiteful**  
 Bestigor: 2x Dagger (47 GC)
 
-**Tughar Halfboar**
-
+**Tughar Halfboar**  
 Centigor: 2x Dagger (82 GC)
 
-**Vorax**
-
+**Vorax**  
 Minotaur: Dagger, Mace (205 GC)
 
-**Treasure Chest:** 2 GC
-**Alignment:** Chaotic
-**Warband rating:**
+**Treasure Chest: ** 2 GC  
+**Alignment: ** Chaotic  
+**Warband rating:**  
 Naccaar: Base 5 + Hiring cost 5 + Experience 20 = 30
 Munkoc: Base 5 + Experience 11 = 16
 Zhirgac: Base 5 + Experience 8 = 13
@@ -52,7 +48,7 @@ Vorax didn’t take kindly to failure or defeat or even looking at him funny. An
 
 Der Bulle ist definitiv der Hauptgrund warum ich die Beastherd Fraktion gewählt habe. Entsprechend soll er auch ein möglichst imposantes Centerpiece werden.
 
-**Step 0a: Schema**
+**Step 0a: Schema**  
 Ich werde meine Gors vermutlich ziemlich traditionell in rot/braun-tönen bemalen. Dazu soll der Bulle in starkem Kontrast stehen um auf der Platte aufzufallen. Wenn er einfach wie ein übergroßer Gor aussieht, dann habe ich mein Ziel nicht erreicht.
 
 Schrille Farben bieten sich jetzt allerdings für mich kaum an. Ein pinker Bulle? Oder ein grüner? Das passt alles nicht zu dem realistischen Schema das ich für die Gors im Kopf habe.
@@ -71,18 +67,18 @@ Google gibt dann auch einige Inspirationen:
 
 Da lässt sich doch was mit anfangen!
 
-**Step 0b: Mini**
+**Step 0b: Mini**  
 Auch hier hatte ich mich schon sehr früh festgelegt: Der [Games Workshop Doombull](https://games-workshop.com/de-DE/Todesbulle-der-Tiermenschen) sollte es sein.
 
 ![](http://fs5.directupload.net/images/180716/temp/3erh8mq9.jpg)
 
-**Step 1: Assembly
+**Step 1: Assembly**  
 
 ![](http://fs5.directupload.net/images/180716/temp/bftuj6fm.jpg)
 
 
 ## 18.07.18
-**Step 2: Bemalung**
+**Step 2: Bemalung**  
 Der Stand nach einem Vormittag lang malen:
 
 ![](http://fs1.directupload.net/images/180718/temp/d29yehio.jpg)
@@ -101,16 +97,16 @@ Base kommt später, jetzt werde ich mich erstmal den Ziegen zuwenden.
 
 
 ## 25.07.18
-From England with love
+From England with love  
 ![](http://fs1.directupload.net/images/180723/temp/b9dw5mov.jpg)
 
-[Brunchaath](http://mierce-miniatures.com/index.php?act=pro&pre=mrm_dkl_fmr_blr_wcf_304_000)
+[Brunchaath](http://mierce-miniatures.com/index.php?act=pro&pre=mrm_dkl_fmr_blr_wcf_304_000)  
 ![](http://fs1.directupload.net/images/180723/temp/858ktjcm.jpg)
 
-[Daachuch](http://mierce-miniatures.com/index.php?act=pro&pre=mrm_dkl_fmr_blr_wcf_334_000)
+[Daachuch](http://mierce-miniatures.com/index.php?act=pro&pre=mrm_dkl_fmr_blr_wcf_334_000)  
 ![](http://fs5.directupload.net/images/180723/temp/vvdgb3tp.jpg)
 
-Und Post aus Spanien, damit ist die Gang komplett:
+Und Post aus Spanien, damit ist die Gang komplett:  
 ![](http://fs1.directupload.net/images/180725/temp/fz8w8c4q.jpg)
 
 [Shaman](https://avatars-of-war.com/eng/web/index.php?option=com_content&view=article&prodcode=103&prodname=Beastman+Shaman&id=118&Itemid=53) und [Chieftain](https://avatars-of-war.com/eng/web/index.php?option=com_content&view=article&prodcode=11&prodname=Beast+Chieftain+with+great+weapon&id=118&Itemid=53)
@@ -131,13 +127,13 @@ Im Internet gibt es ja jede Menge Anleitungen, wie man Kopfsteinpflaster-Bases s
 
 Ich habe in meiner Base-Kiste noch Deko Reste aus einem Modelleisenbahn-Kit gefunden das ich mir vor sehr langer Zeit mal gekauft habe. Die sahen nahe genug dran an Steinen aus =)
 
-Also erstmal alles auf die Base geklebt:
+Also erstmal alles auf die Base geklebt:  
 ![](http://fs1.directupload.net/images/180726/temp/n9b64yvg.png)
 
-Dann ein bisschen Farbe drauf:
+Dann ein bisschen Farbe drauf:  
 ![](http://bilder-upload.eu/upload/48d1c3-1532612943.png)
 
-Und drybrushen:
+Und drybrushen:  
 ![](http://bilder-upload.eu/upload/d0984c-1532612981.png)
 
 Das sind jetzt sicher nicht die geilsten Stadt-Bases, aber für mich auf jeden Fall gut genug. Und vor allem umsonst =)
