@@ -1,4 +1,4 @@
-#The Warherd of Naccaar (Beastmen Raiders)
+# The Warherd of Naccaar (Beastmen Raiders)
 *Deep in the Forest of Shadows Naccaar heard stories of how the Chaos gods had laid waste to the once-proud city of Mordheim. Morbidly ambitious and never one to pass on a good looting, Naccaar gathered his warband and headed south to make a name for himself in the eyes of mortals and Chaos gods.
 Blinded by the unlimited power the wyrdstone shards promised Naccaar decided to hire Vorax a doom bull to strengthen his warband. Little does he suspect that the mighty creature is only waiting for a chance to usurp control over the warband himself.*
 
@@ -43,8 +43,8 @@ Vorax: Base 20
 
 
 
-##16.07.18
-####Vorax
+## 16.07.18
+#### Vorax
 *Vorax was a mercenary. Always has been. The giant minotaur realized his most defining feature early. Other were smarter than him. Faster. Sneakier and stealthier. They could master the chaos that is magic or the science that is gun powder. 
 
 He could not do any of those things. He was strong but not overly so. He was tough but not that much tougher than the common beastmen. And he didn’t need to be. More than anything he was furious! His range was the reason he was feared. It was the reason he was hired. And the reason he never was able to form a warherd of his own: 
@@ -85,13 +85,13 @@ Auch hier hatte ich mich schon sehr früh festgelegt: Der [Games Workshop Doombu
 ![](http://www.directupload.net/file/d/5150/bftuj6fm_jpg.htm)
 
 
-##18.07.18
+## 18.07.18
 Der Stand nach einem Vormittag lang malen:
 
 ![](http://www.directupload.net/file/d/5152/d29yehio_jpg.htm)
 
 
-##24.07.18
+## 24.07.18
 Fast eine Woche und der Bulle ist soweit fertig.
 
 ![](http://www.directupload.net/file/d/5158/kdyr9qsp_jpg.htm)
@@ -103,7 +103,7 @@ Fast eine Woche und der Bulle ist soweit fertig.
 Base kommt später, jetzt werde ich mich erstmal den Ziegen zuwenden.
 
 
-##25.07.18
+## 25.07.18
 From England with love
 Brunchaath:
 ![](http://www.directupload.net/file/d/5157/858ktjcm_jpg.htm)
@@ -121,7 +121,7 @@ und assembled (und in Teilen geprimed)
 ![](http://www.directupload.net/file/d/5159/pfn54o42_jpg.htm)
 
 
-##26.07.18
+## 26.07.18
 Zeit für Bases.
 Ich wollte gerne Bases die zu dem Stadt-Hintergrund des Spiels passen. Kopfsteinpflaster ist da der Klassiker.
 
@@ -144,7 +144,7 @@ Und drybrushen:
 Das sind jetzt sicher nicht die geilsten Stadt-Bases, aber für mich auf jeden Fall gut genug. Und vor allem umsonst =)
 
 
-##30.07.18
+## 30.07.18
 So, die beiden Resin Chars sind fertig. Wer was wird entscheide ich, wenn alle fertig bemalt sind.
 ![](http://www.bilder-upload.eu/show.php?file=006f02-1532981345.jpg)
 
@@ -158,7 +158,7 @@ Und noch ein Gruppen-Shot:
 ![](http://www.bilder-upload.eu/show.php?file=6d441c-1532981423.jpg)
 
 
-##31.07.18
+## 31.07.18
 Mein Mordheim-Warband-Projekt läuft ziemlich rund im Moment. Schon drei Dudes fertig und nur noch… 2,5 Monate bis zum Zocken?
 Da sehe ich ein leichtes Missverhältnis…
 
