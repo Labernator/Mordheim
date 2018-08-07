@@ -21,16 +21,16 @@ Centigor: 2x Dagger (82 GC)
 **Vorax**  
 Minotaur: Dagger, Mace (205 GC)
 
-**Treasure Chest: ** 2 GC  
-**Alignment: ** Chaotic  
+**Treasure Chest:** 2 GC  
+**Alignment:** Chaotic  
 **Warband rating:**  
-Naccaar: Base 5 + Hiring cost 5 + Experience 20 = 30
-Munkoc: Base 5 + Experience 11 = 16
-Zhirgac: Base 5 + Experience 8 = 13
-Goghaz: Base 5 + Experience 8 = 13
-Tughar: Base 5 + Hiring cost 5 + Experience 8 = 18
-Vorax: Base 20
-=> 110
+Naccaar: Base 5 + Hiring cost 5 + Experience 20 = 30  
+Munkoc: Base 5 + Experience 11 = 16  
+Zhirgac: Base 5 + Experience 8 = 13  
+Goghaz: Base 5 + Experience 8 = 13  
+Tughar: Base 5 + Hiring cost 5 + Experience 8 = 18  
+Vorax: Base 20  
+=> 110  
 
 
 ## 16.07.18
