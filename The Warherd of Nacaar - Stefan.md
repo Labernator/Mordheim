@@ -74,46 +74,50 @@ Da lässt sich doch was mit anfangen!
 **Step 0b: Mini**
 Auch hier hatte ich mich schon sehr früh festgelegt: Der [Games Workshop Doombull](https://games-workshop.com/de-DE/Todesbulle-der-Tiermenschen) sollte es sein.
 
-![](http://directupload.net/file/d/5150/3erh8mq9_jpg.htm)
-![](http://directupload.net/show_image.php/d/5150/3erh8mq9_jpg.htm?d=5150&n=3erh8mq9_jpg.htm)
+![](http://fs5.directupload.net/images/180716/temp/3erh8mq9.jpg)
 
-![](http://directupload.net/file/d/5150/bftuj6fm_jpg.htm)
+**Step 1: Assembly
+
+![](http://fs5.directupload.net/images/180716/temp/bftuj6fm.jpg)
 
 
 ## 18.07.18
+**Step 2: Bemalung**
 Der Stand nach einem Vormittag lang malen:
 
-![](http://www.directupload.net/file/d/5152/d29yehio_jpg.htm)
+![](http://fs1.directupload.net/images/180718/temp/d29yehio.jpg)
 
 
 ## 24.07.18
 Fast eine Woche und der Bulle ist soweit fertig.
 
-![](http://www.directupload.net/file/d/5158/kdyr9qsp_jpg.htm)
+![](http://fs5.directupload.net/images/180724/temp/kdyr9qsp.jpg)
 
-![](http://www.directupload.net/file/d/5158/5hzww93s_jpg.htm)
+![](http://fs5.directupload.net/images/180724/temp/5hzww93s.jpg)
 
-![](http://www.directupload.net/file/d/5158/oowkqtyr_jpg.htm)
+![](http://fs1.directupload.net/images/180724/temp/oowkqtyr.jpg)
 
 Base kommt später, jetzt werde ich mich erstmal den Ziegen zuwenden.
 
 
 ## 25.07.18
 From England with love
+![](http://fs1.directupload.net/images/180723/temp/b9dw5mov.jpg)
+
 [Brunchaath](http://mierce-miniatures.com/index.php?act=pro&pre=mrm_dkl_fmr_blr_wcf_304_000)
-![](http://www.directupload.net/file/d/5157/858ktjcm_jpg.htm)
+![](http://fs1.directupload.net/images/180723/temp/858ktjcm.jpg)
 
 [Daachuch](http://mierce-miniatures.com/index.php?act=pro&pre=mrm_dkl_fmr_blr_wcf_334_000)
-![](http://www.directupload.net/file/d/5157/vvdgb3tp_jpg.htm)
+![](http://fs5.directupload.net/images/180723/temp/vvdgb3tp.jpg)
 
 Und Post aus Spanien, damit ist die Gang komplett:
-![](http://www.directupload.net/file/d/5159/fz8w8c4q_jpg.htm)
+![](http://fs1.directupload.net/images/180725/temp/fz8w8c4q.jpg)
 
 [Shaman](https://avatars-of-war.com/eng/web/index.php?option=com_content&view=article&prodcode=103&prodname=Beastman+Shaman&id=118&Itemid=53) und [Chieftain](https://avatars-of-war.com/eng/web/index.php?option=com_content&view=article&prodcode=11&prodname=Beast+Chieftain+with+great+weapon&id=118&Itemid=53)
 
 und assembled (und in Teilen geprimed)
 
-![](http://www.directupload.net/file/d/5159/pfn54o42_jpg.htm)
+![](http://fs5.directupload.net/images/180725/temp/pfn54o42.jpg)
 
 
 ## 26.07.18
@@ -128,7 +132,7 @@ Im Internet gibt es ja jede Menge Anleitungen, wie man Kopfsteinpflaster-Bases s
 Ich habe in meiner Base-Kiste noch Deko Reste aus einem Modelleisenbahn-Kit gefunden das ich mir vor sehr langer Zeit mal gekauft habe. Die sahen nahe genug dran an Steinen aus =)
 
 Also erstmal alles auf die Base geklebt:
-![](http://www.directupload.net/file/d/5160/n9b64yvg.png)
+![](http://fs1.directupload.net/images/180726/temp/n9b64yvg.png)
 
 Dann ein bisschen Farbe drauf:
 ![](http://bilder-upload.eu/upload/48d1c3-1532612943.png)
