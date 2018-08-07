@@ -70,7 +70,7 @@ Da lässt sich doch was mit anfangen!
 **Step 0b: Mini**  
 Auch hier hatte ich mich schon sehr früh festgelegt: Der [Games Workshop Doombull](https://games-workshop.com/de-DE/Todesbulle-der-Tiermenschen) sollte es sein.
 
-![](http://fs5.directupload.net/images/180716/temp/3erh8mq9.jpg)
+[![](http://fs5.directupload.net/images/180716/temp/3erh8mq9.jpg)](http://www.directupload.net/file/d/5150/3erh8mq9_jpg.htm)
 
 **Step 1: Assembly**  
 
