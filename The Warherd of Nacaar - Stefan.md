@@ -154,7 +154,7 @@ Farbschema für die Ziegen: https://www.youtube.com/watch?v=1dcVW3Kvzg4
 ![](http://bilder-upload.eu/show.php?file=8b88f3-1532981397.jpg)
 
 Und noch ein Gruppen-Shot:
-![](http://bilder-upload.eu/show.php?file=6d441c-1532981423.jpg)
+![](http://bilder-upload.eu/upload/6d441c-1532981423.jpg)
 
 
 ## 31.07.18
