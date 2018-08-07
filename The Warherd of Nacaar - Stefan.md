@@ -24,11 +24,11 @@ Minotaur: Dagger, Mace (205 GC)
 **Treasure Chest:** 2 GC  
 **Alignment:** Chaotic  
 **Warband rating:**  
-Naccaar: Base 5 + Hiring cost 5 + Experience 20 = 30  
+Naccaar: Base 5 + Experience 20 + Hiring cost 5 = 30  
 Munkoc: Base 5 + Experience 11 = 16  
 Zhirgac: Base 5 + Experience 8 = 13  
 Goghaz: Base 5 + Experience 8 = 13  
-Tughar: Base 5 + Hiring cost 5 + Experience 8 = 18  
+Tughar: Base 5 + Experience 8 + Hiring cost 5 = 18  
 Vorax: Base 20  
 => 110  
 
