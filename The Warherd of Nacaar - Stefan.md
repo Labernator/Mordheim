@@ -35,16 +35,16 @@ Vorax: Base 20
 
 ## 16.07.18
 #### Vorax
-*Vorax was a mercenary. Always has been. The giant minotaur realized his most defining feature early. Other were smarter than him. Faster. Sneakier and stealthier. They could master the chaos that is magic or the science that is gun powder. 
+*Vorax was a mercenary. Always has been. The giant minotaur realized his most defining feature early. Other were smarter than him. Faster. Sneakier and stealthier. They could master the chaos that is magic or the science that is gun powder.*
 
 *He could not do any of those things. He was strong but not overly so. He was tough but not that much tougher than the common beastmen. And he didn’t need to be. More than anything he was furious! His range was the reason he was feared. It was the reason he was hired. And the reason he never was able to form a warherd of his own: 
-Vorax didn’t take kindly to failure or defeat or even looking at him funny. And even beastmen weren’t foolish enough to accept a psychotic axe-wielding giant as a leader. They fled his command at the latest when he would inevitably decide to make an example of some poor underling he had chosen as scapegoat.
+Vorax didn’t take kindly to failure or defeat or even looking at him funny. And even beastmen weren’t foolish enough to accept a psychotic axe-wielding giant as a leader. They fled his command at the latest when he would inevitably decide to make an example of some poor underling he had chosen as scapegoat.*
 
-*So instead back in the Forest of Shadows he sold his axe and his anger to whichever chieftain was offering the most. As his loyalty only ever stretched as far as the purse of the chieftain he never formed any bonds with the warherds he served. He hated the beastmen for not bowing to his command and they knew it. So he never came closer to achieving his goal of commanding a fearsome warband of his own.
+*So instead back in the Forest of Shadows he sold his axe and his anger to whichever chieftain was offering the most. As his loyalty only ever stretched as far as the purse of the chieftain he never formed any bonds with the warherds he served. He hated the beastmen for not bowing to his command and they knew it. So he never came closer to achieving his goal of commanding a fearsome warband of his own.*
 
-*Then Naccaar came along with the promise of not only gold but Wyrdstone and with it unspeakable power. The power to subdue the beastmen that only saw him as an unpredictable weapon. The power to become a feared leader himself.
+*Then Naccaar came along with the promise of not only gold but Wyrdstone and with it unspeakable power. The power to subdue the beastmen that only saw him as an unpredictable weapon. The power to become a feared leader himself.*
 
-*With his axe in hand, power in mind and the red misty curtain of bloodrage clouding his thoughts Vorax is marching towards Mordheim
+*With his axe in hand, power in mind and the red misty curtain of bloodrage clouding his thoughts Vorax is marching towards Mordheim*
 
 Der Bulle ist definitiv der Hauptgrund warum ich die Beastherd Fraktion gewählt habe. Entsprechend soll er auch ein möglichst imposantes Centerpiece werden.
 
