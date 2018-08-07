@@ -38,11 +38,6 @@ Vorax: Base 20
 => 110
 
 
-
-
-
-
-
 ## 16.07.18
 #### Vorax
 *Vorax was a mercenary. Always has been. The giant minotaur realized his most defining feature early. Other were smarter than him. Faster. Sneakier and stealthier. They could master the chaos that is magic or the science that is gun powder. 
@@ -80,9 +75,9 @@ Da lässt sich doch was mit anfangen!
 **Step 0b: Mini**
 Auch hier hatte ich mich schon sehr früh festgelegt: Der [Games Workshop Doombull](https://games-workshop.com/de-DE/Todesbulle-der-Tiermenschen) sollte es sein.
 
-![](http://www.directupload.net/file/d/5150/3erh8mq9_jpg.htm)
+![](http://directupload.net/file/d/5150/3erh8mq9_jpg.htm)
 
-![](http://www.directupload.net/file/d/5150/bftuj6fm_jpg.htm)
+![](http://directupload.net/file/d/5150/bftuj6fm_jpg.htm)
 
 
 ## 18.07.18
