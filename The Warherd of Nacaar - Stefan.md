@@ -3,11 +3,10 @@
 Blinded by the unlimited power the wyrdstone shards promised Naccaar decided to hire Vorax a doom bull to strengthen his warband. Little does he suspect that the mighty creature is only waiting for a chance to usurp control over the warband himself.*
 
 
-**Naccaar Scar-Face, Primal Warchief of the Warherd**
+**Naccaar Scar-Face, Primal Warchief of the Warherd** 
 Beastmen Chieftain: Dagger, Mace (70 GC) 
 
-**Munkoc, Carrier of the broken Moon Disk and Great Bray-Shaman of the Warherd**
-
+**Munkoc, Carrier of the broken Moon Disk and Great Bray-Shaman of the Warherd** 
 Beastmen Shaman: 2x Dagger (47 GC)
 
 **Zhirgac the Headtaker**
@@ -129,7 +128,7 @@ Im Internet gibt es ja jede Menge Anleitungen, wie man Kopfsteinpflaster-Bases s
 Ich habe in meiner Base-Kiste noch Deko Reste aus einem Modelleisenbahn-Kit gefunden das ich mir vor sehr langer Zeit mal gekauft habe. Die sahen nahe genug dran an Steinen aus =)
 
 Also erstmal alles auf die Base geklebt:
-![](http://www.directupload.net/file/d/5160/n9b64yvg_png.htm)
+![](http://www.directupload.net/file/d/5160/n9b64yvg.png)
 
 Dann ein bisschen Farbe drauf:
 ![](http://bilder-upload.eu/upload/48d1c3-1532612943.png)
