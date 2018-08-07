@@ -4,21 +4,27 @@ Blinded by the unlimited power the wyrdstone shards promised Naccaar decided to 
 
 
 **Naccaar Scar-Face, Primal Warchief of the Warherd**
+
 Beastmen Chieftain: Dagger, Mace (70 GC) 
 
 **Munkoc, Carrier of the broken Moon Disk and Great Bray-Shaman of the Warherd**
+
 Beastmen Shaman: 2x Dagger (47 GC)
 
 **Zhirgac the Headtaker**
+
 Bestigor: 2x Dagger (47 GC)
 
 **Goghaz the Spiteful**
+
 Bestigor: 2x Dagger (47 GC)
 
 **Tughar Halfboar**
+
 Centigor: 2x Dagger (82 GC)
 
 **Vorax**
+
 Minotaur: Dagger, Mace (205 GC)
 
 **Treasure Chest:** 2 GC
@@ -42,8 +48,8 @@ Vorax: Base 20
 ####Vorax
 *Vorax was a mercenary. Always has been. The giant minotaur realized his most defining feature early. Other were smarter than him. Faster. Sneakier and stealthier. They could master the chaos that is magic or the science that is gun powder. 
 
-He could not do any of those things. He was strong but not overly so. He was tough but not that much tougher than the common beastmen. And he didn’t need to be. More than anything he was furious! His range was the reason he was feared. It was the reason he was hired. And the reason he never was able to form a warherd of his own: 
-Vorax didn’t take kindly to failure or defeat or even looking at him funny. And even beastmen weren’t foolish enough to accept a psychotic axe-wielding giant as a leader. They fled his command at the latest when he would inevitably decide to make an example of some poor underling he had chosen as scapegoat.
+He could not do any of those things. He was strong but not overly so. He was tough but not that much tougher than the common beastmen. And he didnâ€™t need to be. More than anything he was furious! His range was the reason he was feared. It was the reason he was hired. And the reason he never was able to form a warherd of his own: 
+Vorax didnâ€™t take kindly to failure or defeat or even looking at him funny. And even beastmen werenâ€™t foolish enough to accept a psychotic axe-wielding giant as a leader. They fled his command at the latest when he would inevitably decide to make an example of some poor underling he had chosen as scapegoat.
 
 So instead back in the Forest of Shadows he sold his axe and his anger to whichever chieftain was offering the most. As his loyalty only ever stretched as far as the purse of the chieftain he never formed any bonds with the warherds he served. He hated the beastmen for not bowing to his command and they knew it. So he never came closer to achieving his goal of commanding a fearsome warband of his own.
 
@@ -51,14 +57,14 @@ Then Naccaar came along with the promise of not only gold but Wyrdstone and with
 
 With his axe in hand, power in mind and the red misty curtain of bloodrage clouding his thoughts Vorax is marching towards Mordheim*
 
-Der Bulle ist definitiv der Hauptgrund warum ich die Beastherd Fraktion gewählt habe. Entsprechend soll er auch ein möglichst imposantes Centerpiece werden.
+Der Bulle ist definitiv der Hauptgrund warum ich die Beastherd Fraktion gewÃ¤hlt habe. Entsprechend soll er auch ein mÃ¶glichst imposantes Centerpiece werden.
 
 **Step 0a: Schema**
-Ich werde meine Gors vermutlich ziemlich traditionell in rot/braun-tönen bemalen. Dazu soll der Bulle in starkem Kontrast stehen um auf der Platte aufzufallen. Wenn er einfach wie ein übergroßer Gor aussieht, dann habe ich mein Ziel nicht erreicht.
+Ich werde meine Gors vermutlich ziemlich traditionell in rot/braun-tÃ¶nen bemalen. Dazu soll der Bulle in starkem Kontrast stehen um auf der Platte aufzufallen. Wenn er einfach wie ein Ã¼bergroÃŸer Gor aussieht, dann habe ich mein Ziel nicht erreicht.
 
-Schrille Farben bieten sich jetzt allerdings für mich kaum an. Ein pinker Bulle? Oder ein grüner? Das passt alles nicht zu dem realistischen Schema das ich für die Gors im Kopf habe.
+Schrille Farben bieten sich jetzt allerdings fÃ¼r mich kaum an. Ein pinker Bulle? Oder ein grÃ¼ner? Das passt alles nicht zu dem realistischen Schema das ich fÃ¼r die Gors im Kopf habe.
 
-Was an krassen Farben allerdings passen könnte ist schwarz und weiß. Weiß will ich eher den Schamanen machen weil es weniger bedrohlich wirkt. Bleibt noch schwarz für den Bullen.
+Was an krassen Farben allerdings passen kÃ¶nnte ist schwarz und weiÃŸ. WeiÃŸ will ich eher den Schamanen machen weil es weniger bedrohlich wirkt. Bleibt noch schwarz fÃ¼r den Bullen.
 
 Google gibt dann auch einige Inspirationen:
 
@@ -70,10 +76,10 @@ Google gibt dann auch einige Inspirationen:
 
 ![](https://vignette.wikia.nocookie.net/gamelore/images/1/17/Ordruun_Veteran.jpg/revision/latest/scale-to-width-down/640?cb=20141111161312)
 
-Da lässt sich doch was mit anfangen!
+Da lÃ¤sst sich doch was mit anfangen!
 
 **Step 0b: Mini**
-Auch hier hatte ich mich schon sehr früh festgelegt: Der [Games Workshop Doombull] (https://www.games-workshop.com/de-DE/Todesbulle-der-Tiermenschen) sollte es sein.
+Auch hier hatte ich mich schon sehr frÃ¼h festgelegt: Der [Games Workshop Doombull] (https://www.games-workshop.com/de-DE/Todesbulle-der-Tiermenschen) sollte es sein.
 
 ![](http://www.directupload.net/file/d/5150/3erh8mq9_jpg.htm)
 
@@ -95,7 +101,7 @@ Fast eine Woche und der Bulle ist soweit fertig.
 
 ![](http://www.directupload.net/file/d/5158/oowkqtyr_jpg.htm)
 
-Base kommt später, jetzt werde ich mich erstmal den Ziegen zuwenden.
+Base kommt spÃ¤ter, jetzt werde ich mich erstmal den Ziegen zuwenden.
 
 
 ##25.07.18
@@ -117,10 +123,10 @@ und assembled (und in Teilen geprimed)
 
 
 ##26.07.18
-Zeit für Bases.
+Zeit fÃ¼r Bases.
 Ich wollte gerne Bases die zu dem Stadt-Hintergrund des Spiels passen. Kopfsteinpflaster ist da der Klassiker.
 
-Leider sind die Bases die ich so bei den diversen Anbietern gefunden habe alle zu "ordentlich". Mordheim ist eine zerstörte Stadt, da passt ordentliches Kopfsteinpflaster für mich nicht rein.
+Leider sind die Bases die ich so bei den diversen Anbietern gefunden habe alle zu "ordentlich". Mordheim ist eine zerstÃ¶rte Stadt, da passt ordentliches Kopfsteinpflaster fÃ¼r mich nicht rein.
 Davon ganz abgesehen sind die Bases dann auch nie wirklich billig. Aber nicht verzagen, selbst ist der Mann und so habe ich beschlossen heute eine Testbase selber zu gestalten.
 
 Im Internet gibt es ja jede Menge Anleitungen, wie man Kopfsteinpflaster-Bases selber machen kann. Die habe ich gekonnt ignoriert.
@@ -136,7 +142,7 @@ Dann ein bisschen Farbe drauf:
 Und drybrushen:
 ![](http://www.bilder-upload.eu/show.php?file=d0984c-1532612981.png)
 
-Das sind jetzt sicher nicht die geilsten Stadt-Bases, aber für mich auf jeden Fall gut genug. Und vor allem umsonst =)
+Das sind jetzt sicher nicht die geilsten Stadt-Bases, aber fÃ¼r mich auf jeden Fall gut genug. Und vor allem umsonst =)
 
 
 ##30.07.18
@@ -154,16 +160,16 @@ Und noch ein Gruppen-Shot:
 
 
 ##31.07.18
-Mein Mordheim-Warband-Projekt läuft ziemlich rund im Moment. Schon drei Dudes fertig und nur noch… 2,5 Monate bis zum Zocken?
-Da sehe ich ein leichtes Missverhältnis…
+Mein Mordheim-Warband-Projekt lÃ¤uft ziemlich rund im Moment. Schon drei Dudes fertig und nur nochâ€¦ 2,5 Monate bis zum Zocken?
+Da sehe ich ein leichtes MissverhÃ¤ltnisâ€¦
 
-Gelände ist schon geordert, aber noch nicht da.
+GelÃ¤nde ist schon geordert, aber noch nicht da.
 
 Also habe ich einen langen Blick auf meine Warband Liste geworfen und festgestellt, bei genauem Hinsehen ist das ja ein 3/3 4/4 Biest!
 
-Sprich: Wenn ich alles Equipment über Board werfe, dann bekomme ich tatsächlich noch den Centigor in die Warband gedrückt. 
-Klingt geil! Wer braucht schon fortgeschrittene Waffen oder Rüstungen? Das passt sowieso nicht zu den Beastmen =) Dafür nehme ich doch lieber das betrunkene Halbpferd.
+Sprich: Wenn ich alles Equipment Ã¼ber Board werfe, dann bekomme ich tatsÃ¤chlich noch den Centigor in die Warband gedrÃ¼ckt. 
+Klingt geil! Wer braucht schon fortgeschrittene Waffen oder RÃ¼stungen? Das passt sowieso nicht zu den Beastmen =) DafÃ¼r nehme ich doch lieber das betrunkene Halbpferd.
 
 Ich habe meine Liste oben angepasst. Das hat zwei Konsequenzen:
-•	Ich kann einen Centigor bauen. Ich habe mir vorgenommen ihn aus Resten die ich noch so rumliegen habe selbst zu Kitbashen. Mal schauen was das wird. Stay tuned!
-•	Der MSC ist jetzt schon im ersten Spiel Underdog gegen mich weil mein Warband Rating nochmal deutlich hoch ist… ô0 Das ist schön für MSC (verdoppelte XP fürs überleben? Sweet!). Good for him… Bei Laber fehlt auch nur ein bisschen.
+â€¢	Ich kann einen Centigor bauen. Ich habe mir vorgenommen ihn aus Resten die ich noch so rumliegen habe selbst zu Kitbashen. Mal schauen was das wird. Stay tuned!
+â€¢	Der MSC ist jetzt schon im ersten Spiel Underdog gegen mich weil mein Warband Rating nochmal deutlich hoch istâ€¦ Ã´0 Das ist schÃ¶n fÃ¼r MSC (verdoppelte XP fÃ¼rs Ã¼berleben? Sweet!). Good for himâ€¦ Bei Laber fehlt auch nur ein bisschen.
