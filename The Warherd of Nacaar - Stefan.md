@@ -171,3 +171,37 @@ Klingt geil! Wer braucht schon fortgeschrittene Waffen oder Rüstungen? Das pass
 Ich habe meine Liste oben angepasst. Das hat zwei Konsequenzen:
 •	Ich kann einen Centigor bauen. Ich habe mir vorgenommen ihn aus Resten die ich noch so rumliegen habe selbst zu Kitbashen. Mal schauen was das wird. Stay tuned!
 •	Der MSC ist jetzt schon im ersten Spiel Underdog gegen mich weil mein Warband Rating nochmal deutlich hoch ist… ô0 Das ist schön für MSC (verdoppelte XP fürs überleben? Sweet!). Good for him… Bei Laber fehlt auch nur ein bisschen.
+
+
+## 08.08.18
+**Die Erschaffung des Centigor**  
+Wie oben geschrieben habe ich mir vorgenommen den Centigor selbst zu Kitbashen.
+Hier kommt die Foto-Love-Story :)
+
+Alles beginnt mit einem Mantic Oger und einem Games Workshop Wildschwein die ich noch irgendwo rumfahren habe.
+![](http://www.bilder-upload.eu/upload/246764-1533755314.jpg)
+
+Man merkt schon, dass das Größenverhältnis zwischen Torso und Schwein etwas... unausgewogen ist.
+
+Schritt zwei ist jede Menge schnitzen. So, dass der Torso zumindest halbwegs auf den Körper passt. Das ist keine sehr erfüllende Arbeit bei Hartplastik. Aber der mühen Lohn ist ein sehr geflickschusterter Centaur.
+![](http://www.bilder-upload.eu/upload/8f0a68-1533755487.jpg)
+
+Jetzt muss das ganze natürlich irgendwie so modelliert werden, dass es auch halbwegs nach etwas aussieht. Die magische Zutat ist Green Stuff. Also alle Lücken füllen, Fell drüber ziehen und Haare erweitern. Ein paar Hörner habe ich ihm auch noch spendiert weil das irgendwie alle Beastmen haben =)
+
+So sah er dann am Ende aus:
+![](http://www.bilder-upload.eu/upload/9a6f7b-1533755716.jpg)
+
+Das Missverhältnis zwischen Torso und Körper besteht definitiv immer noch, auch wenn man es aus der Perspektive nicht so sieht.
+
+Das ging bis jetzt alles vergleichsweise schnell, jetzt muss noch Farbe dran.
+
+Hier ist das Endergebnis:
+![](http://www.bilder-upload.eu/upload/e5ade1-1533755943.jpg)
+
+![](http://www.bilder-upload.eu/upload/bfbc88-1533755967.jpg)
+
+![](http://www.bilder-upload.eu/upload/b5881e-1533755982.jpg)
+
+Wenn der Mantic Oger 50% größer gewesen wäre hätte das sicher nicht geschadet. Auch beim Überziehen mit Fell auf dem Rücken habe ich es etwas gut gemeint, weswegen er jetzt auf halber Höhe eine Art Absatz hat.
+
+Trotzdem bin ich alles in allem ziemlich zufrieden und ein weiteres Mitglied der Warband ist einsatzbereit!
