@@ -205,3 +205,25 @@ Hier ist das Endergebnis:
 Wenn der Mantic Oger 50% größer gewesen wäre hätte das sicher nicht geschadet. Auch beim Überziehen mit Fell auf dem Rücken habe ich es etwas gut gemeint, weswegen er jetzt auf halber Höhe eine Art Absatz hat.
 
 Trotzdem bin ich alles in allem ziemlich zufrieden und ein weiteres Mitglied der Warband ist einsatzbereit!
+
+
+## 09.08.2018
+**Terrain**  
+Ich hatte gestern meinen freien Mittwoch und habe die Zeit genützt mich in das frisch angekommene Gelände zu knien.
+Angefangen habe ich mit den Fabled Realms Häusern von 4Grounds.
+
+Das Terrain besteht aus einer Art Sperrholz und ist vorbedruckt.
+
+Hier sind die ersten Gebäude:
+
+![](http://www.bilder-upload.eu/upload/d2041f-1533821124.jpg)
+
+![](http://www.bilder-upload.eu/upload/cfbb03-1533821140.jpg)
+
+![](http://www.bilder-upload.eu/upload/f1b28d-1533821161.jpg)
+
+Soweit so gut, das ist schon kein schlechter Anfang. Die Häuser sind im Vergleich zu den Minis etwas klein. Vermutlich müssen sie das auch sein, weil man sonst nur drei Gebäude auf dem Tisch hätte.
+
+Sieht auf jeden Fall gut aus soweit.
+
+Als nächstes widme ich mich entweder mehr Gelände oder dem Schamane, je nach gusto =)
