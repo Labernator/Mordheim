@@ -227,3 +227,16 @@ Soweit so gut, das ist schon kein schlechter Anfang. Die Häuser sind im Verglei
 Sieht auf jeden Fall gut aus soweit.
 
 Als nächstes widme ich mich entweder mehr Gelände oder dem Schamane, je nach gusto =)
+
+## 12.08.2018
+> Als nächstes widme ich mich entweder mehr Gelände oder dem Schamane, je nach gusto =)
+
+Es ist der Schamane geworden.
+
+Ich wollte ihn ein bisschen von den Combat Chars abheben (genau wie den Bullen), deswegen habe ich für ihn eine Art Albino Farbschema vorgesehen.
+
+![](http://www.bilder-upload.eu/upload/956507-1534101520.jpg)
+
+![](http://www.bilder-upload.eu/upload/53cb2c-1534101544.jpg)
+
+![](http://www.bilder-upload.eu/upload/f6aab6-1534101557.jpg)
