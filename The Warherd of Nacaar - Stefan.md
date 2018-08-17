@@ -240,3 +240,15 @@ Ich wollte ihn ein bisschen von den Combat Chars abheben (genau wie den Bullen),
 ![](http://www.bilder-upload.eu/upload/53cb2c-1534101544.jpg)
 
 ![](http://www.bilder-upload.eu/upload/f6aab6-1534101557.jpg)
+
+
+## 17.08.2018
+Und geschafft.
+Ich muss sagen, dass mich das Preis-Leistungs Verhältnis der Avatars of War Minis nicht sehr überzeugt hat.
+Für das gleiche Geld kann ich auch bei Mierce oder Gamezone einkaufen (oder GW) und da ist die Qualität durch die Bank besser.
+
+Haben wir das auch gelernt.
+
+Ich habe auch gemerkt, dass ich es langsam überdrüssig werde Hörner zu bemalen :) Aber jetzt ist das ja erstmal abgehakt und ich habe noch vor meinem Urlaub die Warband fertig. Und pünktlich zwei Monate vor dem ersten Termin.
+
+Bilder liefere ich nach, sobald die Hostseite wieder da ist.
