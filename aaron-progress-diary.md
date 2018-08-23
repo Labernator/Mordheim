@@ -12,3 +12,7 @@ angefangen die GC in einem excel sheet zu vergeben, um so die Warband besser
 planen zu können. Für die Minis bin ich auf http://sciborminiatures.com/ fündig
 geworden, welche bezahlbar sind und gut aussehen. Nächster Schritt: Die Warband
 komplett planen, dann kann ich die Minis bestellen.
+
+2018/08/21: Ich hab mal auf thingiverse ein paar Bases rausgesucht in 32mm
+Größe. Zudem muss ich meine excel noch etwas verfeinern (siehe Kai) und die
+Tips einfließen lassen die mir gegeben wurden.
