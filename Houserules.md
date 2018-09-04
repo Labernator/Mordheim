@@ -9,3 +9,5 @@
 4.) Wann kann man versuchen sich freiwillig aus dem Combat zurückzuziehen? (S.60 "Breaking from combat") In der eigenen Movement Phase?
 
 5.) Kann man frisch erworbene Skills gleich nutzen? (Z.B. S.177 Money Maker oder Eye of the Gods)
+
+6.) Können Hired Swords ihr besonderen Fähigkeiten gleich einsetzen nachdem man sie angeworben hat? (Z.B. S.232 Arabian Merchant: Marketeer, oder S.252 Thief: Tea-Leaf!)
