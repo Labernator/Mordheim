@@ -79,6 +79,9 @@ Weeks and months tehy were lurch through the worls, no reason to stay, no reason
 All happend during this oscure period of their ramble was that Waggle figgured out that Gazbag self-evidently appear as a catalyst for the Waaagh! he can use to reenforce his powers.
 
 Til they met the brothers of yawn - a covey of war zesty nights goblins - four of them to be strictly correct.
+Their names are Higgz / Snotz / Roddz the three spearmen and Gurnch the vicious swordfighter. Swords... Grumlock looked at the two enormous small human bread knive sizes chaser in his hand and on the top of their spears and started to grin.
+He didn't know that toothpicks are used in combat.
+
 Lorn - cause they lost their warband - and with a crank mood they mooched around a tavern they were not allowed to enter.
 All they wanted was to get drunk becaus of ther lost pack and to sing about ther past combat.
 A very musically group, aren't they?
