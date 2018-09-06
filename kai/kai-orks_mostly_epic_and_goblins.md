@@ -1,3 +1,7 @@
+
+# Orks mostly epic & goblins
+
+## Lore
 Doomed are the orks of the bloody sunz clan, the black ork boyz are suffering of an diabolic injury.
 
 The bloodlust was growing bigger and bigger over centuries and no one could satisfy their morbid hankering.
@@ -36,7 +40,7 @@ leaped directly to the next fighting brother on ther sided. None of them surwive
 The last doomey boy who surviced the battle died because he tried to fight against himself - he won in a heroic way of
 a real ork warriour with a one hit decapitation.
 
-Grumlok run - his target was the hut great shaman Woggle from the adversely clan of the
+Grumlok run - his target was the hut great shaman Wogga from the adversely clan of the
 black snakes. An outstanding healer and also skillful in the usage of the Waaagh!.
 Grumlok knew that his hut was a bit away from the camp of the clan. The black snake clan also know that it is to dangerous to keep shamans in
 their camps. The Waaagh! they try to use and control lead to spontanous bursting heads and huts. No ork was save in the near of
@@ -47,14 +51,14 @@ at least his body. But his brain was eaten by the squig - which wasn't that bad 
 Grumlok was sure that there was no way to retrive it, it was a puddle of mud.
 But hi does not accept that this may be the end of his mate.
 
-Gazbak knows the shaman Waggle since the great Waagh! against the Northwall Elves n ancient times, which was a long time ago.
+Gazbak knows the shaman Wogga since the great Waagh! against the Northwall Elves n ancient times, which was a long time ago.
 He knows him as a trustable savant, a healer and outstanding battle witcher using the Waaagh! but also as a loony mind.
 
-It was his only chance to safe the live of Gazbag, find Waggle and heal him or something.
+It was his only chance to safe the live of Gazbag, find Wogga and heal him or something.
 For about four days and three nights Grumlok run throu the mountain range and the wooden valley
 till he arrived the hut of Woggle.
 
-Reverent was the appearance of Waggle as he aready stand in front of the door of his hut. His eyes were concealed under his hood, but the
+Reverent was the appearance of Wogga as he aready stand in front of the door of his hut. His eyes were concealed under his hood, but the
 same slightly green glow was visible - as it was visible in the eyes of Grumlok during the fight between him and it's clan.
 
 Grumlok still tells the story that Gazbag bend up his upper part of the body and the broken head and Woggle said some words of Magic to him,
@@ -76,7 +80,7 @@ And why don't accompany an old and retired warband leader on his adventures. Wog
 doesn't stop long enough to finish even a short idea to the end.
 
 Weeks and months tehy were lurch through the worls, no reason to stay, no reason to step on, no fight to blastoff not reason to retreat.
-All happend during this oscure period of their ramble was that Waggle figgured out that Gazbag self-evidently appear as a catalyst for the Waaagh! he can use to reenforce his powers.
+All happend during this oscure period of their ramble was that Wogga figgured out that Gazbag self-evidently appear as a catalyst for the Waaagh! he can use to reenforce his powers.
 
 Til they met the brothers of yawn - a covey of war zesty nights goblins - four of them to be strictly correct.
 Their names are Higgz / Snotz / Roddz the three spearmen and Gurnch the vicious swordfighter. Swords... Grumlock looked at the two enormous small human bread knive sizes chaser in his hand and on the top of their spears and started to grin.
@@ -116,5 +120,98 @@ and more challanges to pass as they want.
 In this moment of fight and the clarification of hierarchy the warband of a mostly epic ork and goblins warband was born.
 A warband to scavange huge amounts of gold crowns, conquer for treasures and copmete with other warbands for honor or at least not to get killed by other warbands.
 
+## Warband detail
+
+**Leader Grumlok and Gazbag**
+| | |
+|:---|---:|
+|hiring cost|80 gc|
+|experience|20|
+|warband rating addition|5 (>61 gc hiring cost)|
+|special rule|Leader|
+|ork special skill|da cunnin' plan|
+|common skill|money maker|
+|two-handed|15 gc|
+|shield|5 gc|
+|light armor|20 gc|
+|helm|10 gc|
+|summary| ***130 gc***|
+
+**Big'Un Grommok**
+| | |
+|:---|---:|
+|hiring cost|40 gc|
+|experience|15|
+|ork special skill|'eadbasher|
+|common skill|money maker|
+|two-handded|15 gc|
+|schield|5 gc|
+|light armour|20 gc|
+|summary|***80 gc***|
 
 
+**Big'Un Karhag**
+| | |
+|:---|---:|
+|hiring cost|40 gc|
+|experience|15xp|
+|ork special skill|'eadbasher|
+|common skill|money maker|
+|axe|5 gc|
+|sword|10 gc|
+|light armour|20gc|
+|summary|***75 gc***|
+
+
+**Big'Un Ug'lash**
+| | |
+|:---|---:|
+|hiring cost|40 gc|
+|experience|15|
+|ork special skill|'eadbasher|
+|common skill|money maker|
+|axe|5 gc|
+|sword|10 gc|
+|light armour|20 gc|	
+|summary|***75 gc***|
+
+
+**Shaman Woggah**
+| | |
+|:---|---:|
+|hiring cost|40 gc|
+|experience|10|
+|special rule|Magic user|
+|ork special skill|well 'ard|
+|common skill|Far-Sight|
+|summary|***40 gc***|
+
+
+**Goblin Warrior Higgz / Snotz / Roddz**
+| | |
+|:---|---:|
+|hiring cost|15 gc|
+|experience|0|
+|special rule|Animosity|
+| |Not Orcs|
+| |Runts|
+|common skill|dirty fighter (bite)|
+| |dirty fighter (bite)|
+| |musician with (minstrel)|
+|spear|5 gc|
+|shield|5 gc|
+|summary|***3x 25 gc***|
+
+
+**Goblin Warrior Gurnch**
+| | |
+|:---|---:|
+|hiring cost|15 gc|
+|experience|0|
+|special rule|Animosity|
+| |Not Orcs|
+| |Runts|
+|common skill|dirty fighter (bite)|
+|dagger|0 gc|
+|sword|10 gc|
+|summary|***25 gc***|
