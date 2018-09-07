@@ -39,12 +39,12 @@ Journeyman: Brace of Warplock Pistols, Dagger (110 GC)
 **Treasure Chest:** 3 GC
 **Allignment:** Neutral/Chaotic
 **Warband rating:**  
-Snit: Base 5 + Experience 20 + Hiring cost 5 = 30
-Zrat: Base 5 + Experience 8 = 13
-Skouk: Base 5
-Khrich: Base 5 + Experience 8 = 13
-Crekch: Base 5 + Experience 8 = 13
-4 Machinist: Base 20
+Snit: Base 5 + Experience 20 + Hiring cost 5 = 30  
+Zrat: Base 5 + Experience 8 = 13  
+Skouk: Base 5  
+Khrich: Base 5 + Experience 8 = 13  
+Crekch: Base 5 + Experience 8 = 13  
+4 Machinist: Base 20  
 => 94
 
 Marius und ich wollen in zwei Wochen eine kleine zwei Mann Testkampagne starten.
