@@ -1,15 +1,12 @@
 # Mordheim
 Mordheim Campaign
 
-## Absprachen
+## Absprachen & Anpassungen am Regelwerk  
 
-* 32mm bzw. 50mm rundbases für Infanterie und Monster
-* ovalen gw Bases für Hunde, centauren, Pferde etc.
-
-## Anpassungen am Regelwerk
-
-TBD
+* siehe Houserules
 
 ## Termine
 
-?
+* Sonntag, 14.10.
+* Samstag, 03.11.
+* Sonntag, 18.11.
