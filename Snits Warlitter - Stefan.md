@@ -5,10 +5,10 @@ We need Warpstone to fuel-move our forges. Warpstone to enhance-strengthen our m
 There is a city-trap of the man-things that got crush-burned by a comet of Warpstone. Go there. Take-steal all the Warpstone you can find. Fight-kill, any man-thing that stands in your way.
 Take-bring a litter of machinists for support.
 And Snit, do not-not disappoint me, yes?
-Or the young litter will feed-gorge on your body."
- - Ikit Claw to Snit Rustfang, Skavenblight, modern
+Or the young litter will feed-gorge on your body."*
+ - *Ikit Claw to Snit Rustfang, Skavenblight, modern
 
-A few days later a warlitter of Skaven left Skavenblight for Mordheim. Snit Rustfang, Chief Engineer and special agent of Clan Skryre was leading the pack into the damned city. He was utmost "loyal" to the orders of the Skryre leaders. Loyal in this case meaning a mixture of ambition and mortal fear made sure he would do anything in his power to return successful. Or find someone to blame for his failures.
+*A few days later a warlitter of Skaven left Skavenblight for Mordheim. Snit Rustfang, Chief Engineer and special agent of Clan Skryre was leading the pack into the damned city. He was utmost "loyal" to the orders of the Skryre leaders. Loyal in this case meaning a mixture of ambition and mortal fear made sure he would do anything in his power to return successful. Or find someone to blame for his failures.
 He was accompanied by his Right-Fang/apprentice/potential future usurper Zrat Redeye, a Warlock Engineer of his own. These two wielded enormously destructive magical powers. Destructive to their foes and whoever was unlucky enough to stand close by.
 Skuok was an engineer in training. Apprentices went through a hard school. On good days they carried the heavy equipment, performed the dangerous experiments, were scouts and tested unknown food. On bad days, they were the food...
 Mundane protection of the litter was provided by the two heavily armed Journeymen Khrich the Vile and Crekch Gutshot seasoned veterans in the underground wars against the dwarfs.
