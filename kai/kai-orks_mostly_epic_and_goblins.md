@@ -123,6 +123,7 @@ A warband to scavange huge amounts of gold crowns, conquer for treasures and cop
 ## Warband detail
 
 **Leader Grumlok and Gazbag**
+
 | | |
 |:---|---:|
 |hiring cost|80 gc|
@@ -137,6 +138,7 @@ A warband to scavange huge amounts of gold crowns, conquer for treasures and cop
 |summary| ***130 gc***|
 
 **Big'Un Grommok**
+
 | | |
 |:---|---:|
 |hiring cost|40 gc|
@@ -149,6 +151,7 @@ A warband to scavange huge amounts of gold crowns, conquer for treasures and cop
 
 
 **Big'Un Karhag**
+
 | | |
 |:---|---:|
 |hiring cost|40 gc|
@@ -161,6 +164,7 @@ A warband to scavange huge amounts of gold crowns, conquer for treasures and cop
 
 
 **Big'Un Ug'lash**
+
 | | |
 |:---|---:|
 |hiring cost|40 gc|
@@ -173,6 +177,7 @@ A warband to scavange huge amounts of gold crowns, conquer for treasures and cop
 
 
 **Shaman Woggah**
+
 | | |
 |:---|---:|
 |hiring cost|40 gc|
@@ -183,6 +188,7 @@ A warband to scavange huge amounts of gold crowns, conquer for treasures and cop
 
 
 **Goblin Warrior Higgz / Snotz / Roddz**
+
 | | |
 |:---|---:|
 |hiring cost|15 gc|
@@ -196,6 +202,7 @@ A warband to scavange huge amounts of gold crowns, conquer for treasures and cop
 
 
 **Goblin Warrior Gurnch**
+
 | | |
 |:---|---:|
 |hiring cost|15 gc|
@@ -211,18 +218,21 @@ A warband to scavange huge amounts of gold crowns, conquer for treasures and cop
 **Nice to have skills**
 
 ***Leader and Big'Uns***
+
 | | |
 |:---|---:|
 |common skill|money maker|
 
 
 ***Shaman***
+
 | | |
 |:---|---:|
 |common skill|Far-Sight|
 
 
 ***Spearmen Goblins***
+
 | | |
 |:---|---:|
 |common skill|dirty fighter (bite)|
@@ -231,6 +241,7 @@ A warband to scavange huge amounts of gold crowns, conquer for treasures and cop
 
 
 ***Sword warriour Goblin***
+
 | | |
 |:---|---:|
 |common skill|dirty fighter (bite)|
