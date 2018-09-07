@@ -21,7 +21,7 @@ Chief Engineer: 2x Dagger (70 GC)
 **Zrat Redeye**  
 Warlock Engineer: 2x Dagger (47 GC)
 
-** Skuok**  
+**Skuok**  
 Apprentice: 2x Dagger (22 GC)
 
 **Khrich the Vile**  
