@@ -130,7 +130,6 @@ A warband to scavange huge amounts of gold crowns, conquer for treasures and cop
 |warband rating addition|5 (>61 gc hiring cost)|
 |special rule|Leader|
 |ork special skill|da cunnin' plan|
-|common skill|money maker|
 |two-handed|15 gc|
 |shield|5 gc|
 |light armor|20 gc|
@@ -143,7 +142,6 @@ A warband to scavange huge amounts of gold crowns, conquer for treasures and cop
 |hiring cost|40 gc|
 |experience|15|
 |ork special skill|'eadbasher|
-|common skill|money maker|
 |two-handded|15 gc|
 |schield|5 gc|
 |light armour|20 gc|
@@ -154,9 +152,8 @@ A warband to scavange huge amounts of gold crowns, conquer for treasures and cop
 | | |
 |:---|---:|
 |hiring cost|40 gc|
-|experience|15xp|
+|experience|15|
 |ork special skill|'eadbasher|
-|common skill|money maker|
 |axe|5 gc|
 |sword|10 gc|
 |light armour|20gc|
@@ -169,10 +166,9 @@ A warband to scavange huge amounts of gold crowns, conquer for treasures and cop
 |hiring cost|40 gc|
 |experience|15|
 |ork special skill|'eadbasher|
-|common skill|money maker|
 |axe|5 gc|
 |sword|10 gc|
-|light armour|20 gc|	
+|light armour|20 gc|
 |summary|***75 gc***|
 
 
@@ -183,7 +179,6 @@ A warband to scavange huge amounts of gold crowns, conquer for treasures and cop
 |experience|10|
 |special rule|Magic user|
 |ork special skill|well 'ard|
-|common skill|Far-Sight|
 |summary|***40 gc***|
 
 
@@ -195,9 +190,6 @@ A warband to scavange huge amounts of gold crowns, conquer for treasures and cop
 |special rule|Animosity|
 | |Not Orcs|
 | |Runts|
-|common skill|dirty fighter (bite)|
-| |dirty fighter (bite)|
-| |musician with (minstrel)|
 |spear|5 gc|
 |shield|5 gc|
 |summary|***3x 25 gc***|
@@ -211,7 +203,35 @@ A warband to scavange huge amounts of gold crowns, conquer for treasures and cop
 |special rule|Animosity|
 | |Not Orcs|
 | |Runts|
-|common skill|dirty fighter (bite)|
 |dagger|0 gc|
 |sword|10 gc|
 |summary|***25 gc***|
+
+
+**Nice to have skills**
+
+***Leader and Big'Uns***
+| | |
+|:---|---:|
+|common skill|money maker|
+
+
+***Shaman***
+| | |
+|:---|---:|
+|common skill|Far-Sight|
+
+
+***Spearmen Goblins***
+| | |
+|:---|---:|
+|common skill|dirty fighter (bite)|
+| |dirty fighter (bite)|
+| |musician with (minstrel)|
+
+
+***Sword warriour Goblin***
+| | |
+|:---|---:|
+|common skill|dirty fighter (bite)|
+
