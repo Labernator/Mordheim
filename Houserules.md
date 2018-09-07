@@ -11,3 +11,5 @@
 5.) Kann man frisch erworbene Skills gleich nutzen? (Z.B. S.177 Money Maker oder Eye of the Gods)
 
 6.) Können Hired Swords ihr besonderen Fähigkeiten gleich einsetzen nachdem man sie angeworben hat? (Z.B. S.232 Arabian Merchant: Marketeer, oder S.252 Thief: Tea-Leaf!)
+
+7.) Können Hired Swords die Out of Action sind nach dem Spiel ihre Skills benutzen wenn sie die Warband nicht verlassen? (Beispiele wie 6)
