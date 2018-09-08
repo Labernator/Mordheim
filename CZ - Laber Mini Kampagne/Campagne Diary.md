@@ -35,9 +35,9 @@
 
 *Während wir die unteren Etagen durchsuchten hörten wir ein Schlurfen. Dann schrie Katja. Ich sah nicht was geschah, aber auf einmal waren überall Schreie. Ich rannte. Wir alle rannten. Das Blut…. Ihr Kopf…nur ihr Kopf… ich…“
 
-*Siegmund bricht in einen markerschütternden Schrei aus und scheucht damit einige Ratten und Fledermäuse aus dem Unterholz.
+*Siegmund brach in einen markerschütternden Schrei aus und scheuchte damit einige Ratten und Fledermäuse aus dem Unterholz.
 
-*Das Mitleid der Retter mit dem verzogenen Jüngling hält sich deutlich in Grenzen. Aber die Geschichte hatte durchaus ihre interessanten Punkte. Nachdem sie den Jüngling an die Diener übergeben (und die überaus großzügige Belohnung entgegengenommen) haben machen sich die Retter schnurstracks auf den Weg zurück in die verdammte Stadt.
+*Das Mitleid der Retter mit dem verzogenen Jüngling hielt sich deutlich in Grenzen. Aber die Geschichte hatte durchaus ihre interessanten Punkte. Nachdem sie den Jüngling an die Diener übergeben (und die überaus großzügige Belohnung entgegengenommen) hatten machten sich die Retter schnurstracks auf den Weg zurück in die verdammte Stadt.
 
 *Aber auch die andere Gruppe hatte von den Reichtümern in der Kaserne Wind bekommen. In Mordheim sind nicht alle Tiere was sie zu sein scheinen.
 
