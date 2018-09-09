@@ -36,8 +36,8 @@ Journeyman: Brace of Warplock Pistols, Dagger (110 GC)
 **The Teeth**  
 2 Machinists: Slings, 2x Dagger (68 GC)
 
-**Treasure Chest:** 3 GC
-**Allignment:** Neutral/Chaotic
+**Treasure Chest:** 3 GC  
+**Allignment:** Neutral/Chaotic  
 **Warband rating:**  
 Snit: Base 5 + Experience 20 + Hiring cost 5 = 30  
 Zrat: Base 5 + Experience 8 = 13  
