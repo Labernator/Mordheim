@@ -53,3 +53,32 @@ Das wird meine Warband. Minis werden alte GW Sachen, die ich in meinem riesen Ha
 
 Progress, Fluff und Überlegungen zur Mini Kampagne kommen hier herein. Bilder und ein hübscheres Outfit kommen sobald ich wieder irgendwo mit zuverlässigerem Internet bin.
 Stay tuned ;)
+
+## 09.09.18  
+So, ich habe tatsächlich alle Ratten rechtzeitig einsatzbereit. Sehr erfreulich! Die Qualität ist entsprechend nicht preisverdächtig, aber schön genug für den Tabletop finde ich sie auf jeden Fall.
+
+Hiermit präsentiere ich (einigermaßen stolz) ein Haufen Steampunk Skaven. Enjoy =)
+
+**Snit Rustfang**  
+[![](http://fs5.directupload.net/images/180909/temp/57szkdsv.jpg)](http://www.directupload.net/file/d/5205/57szkdsv_jpg.htm)
+
+**Zrat Redeye**  
+[![](http://fs1.directupload.net/images/180909/temp/3b4zmoku.jpg)](http://www.directupload.net/file/d/5205/3b4zmoku_jpg.htm)
+
+**Skuok**  
+[![](http://fs5.directupload.net/images/180909/temp/nhmqn3wf.jpg)](http://www.directupload.net/file/d/5205/nhmqn3wf_jpg.htm)
+
+**Khrich the Vile**  
+[![](http://fs1.directupload.net/images/180909/temp/mxp43ymz.jpg)](http://www.directupload.net/file/d/5205/mxp43ymz_jpg.htm)
+
+**Crekch Gutshot**  
+[![](http://fs5.directupload.net/images/180909/temp/nphlyehl.jpg)](http://www.directupload.net/file/d/5205/nphlyehl_jpg.htm)
+
+**The Claws**  
+[![](http://fs5.directupload.net/images/180909/temp/vcve5rdh.jpg)](http://www.directupload.net/file/d/5205/vcve5rdh_jpg.htm)
+
+**The Teeth**  
+[![](http://fs5.directupload.net/images/180909/temp/sktwyyzw.jpg)](http://www.directupload.net/file/d/5205/sktwyyzw_jpg.htm)
+
+**Warband**  
+[![](http://fs5.directupload.net/images/180909/temp/ptv2cbo8.jpg)](http://www.directupload.net/file/d/5205/ptv2cbo8_jpg.htm)
