@@ -53,5 +53,6 @@ Diese Regeln sollen verhindern, dass sich ein Model mit hoher Movement Rate (Wul
 -	Wenn zwei Modelle eine Kiste vom Board tragen, erhält nur eines davon die extra Experience. Der Spieler darf bestimmen welches.
 -	Wenn eine Warband alle Mitglieder mit Kisten vom Board geschafft hat endet das Spiel. In diesem Fall ist der Gewinner diejenige Warband die am meisten Kisten vom Board geschafft hat.
 -	Wenn ein Modell welches eine Kiste trägt out of Action geht, wird die Kiste an der Stelle aufs Feld gestellt.
+- Wenn mehr als eine Warband gleichviel (und am meisten) Kisten vom Board schaffen, erhält jeder ihrer Anführer +1 Experience.
 
 Diese Regeln sollen lediglich Lücken im Szenario möglichst intuitiv füllen.
