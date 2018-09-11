@@ -1,6 +1,8 @@
 
 # Orks mostly epic & goblins
 
+---
+
 ## Lore
 Doomed are the orks of the bloody sunz clan, the black ork boyz are suffering of an diabolic injury.
 
@@ -117,140 +119,134 @@ Grumlok and his little warband stepped into the scurf and all of them instantly 
 heads - goblins are that small.
 
 Grumlok's eyes started to glow slightly green and his face started to show up very grim. Without any notable time lag one of the Orks - Grommok, the strongest one
-with the two-handed war chopping weapon in his hand - fellt down first. Followed by the other two outreaching combatands Karhag and Ug'lash.
+with the two-handed war chopping weapon in his hand - fell down first. Followed by the other two outreaching combatants Karhag and Ug'lash.
 
-Their place in the rule of precedence was clear - as Grumlok would not lose it's strength and stop to demonstate it. The tree will follow for now on.
+Their place in the rule of precedence was clear - as Grumlok would not lose it's strength and stop to demonstrate it. The tree will follow for now on.
 That's the simple rule of a orkish clan Grumlok was born for. He always was a leader and he was able to play his role, even if he gave up his clan, and his live as a warboss.
 
-The three ork heros told Grumlok that their previous target was the road to Mordheim and that they assume that there are lots of treasures to loot, victims to mug,
+The three ork heroes told Grumlok that their previous target was the road to Mordheim and that they assume that there are lots of treasures to loot, victims to mug,
 and more challenges to pass as they can.
 
 In this moment of fight and the clarification of hierarchy the warband of mostly epic orks and goblins were born.
-A warband to scavange huge amounts of gold crowns, conquer for treasures and compete with other warbands for honor or at least not to get killed.
+A warband to scavenge huge amounts of gold crowns, conquer for treasures and compete with other warbands for honor or at least not to get killed.
+
+---
 
 ## Warband detail
 
-**Leader Grumlok and Gazbag**
 
-| | |
+|**Grumlok and Gazbag** | **Leader** |
 |:---|---:|
 |hiring cost|80 gc|
 |experience|20|
 |warband rating addition|5 (>61 gc hiring cost)|
 |special rule|Leader|
-|ork special skill|da cunnin' plan|
+|ork special skill|*da cunnin' plan*|
 |two-handed|15 gc|
 |shield|5 gc|
 |light armor|20 gc|
 |helm|10 gc|
 |summary| ***130 gc***|
 
-**Big'Un Grommok**
+>>>
 
-| | |
+|**Grommok** | **Big'Un**|
 |:---|---:|
 |hiring cost|40 gc|
 |experience|15|
-|ork special skill|'eadbasher|
+|ork special skill|*'eadbasher*|
 |two-handded|15 gc|
 |schield|5 gc|
 |light armour|20 gc|
 |summary|***80 gc***|
 
+>>>
 
-**Big'Un Karhag**
-
-| | |
+|**Karhag** |**Big'Un** |
 |:---|---:|
 |hiring cost|40 gc|
 |experience|15|
-|ork special skill|'eadbasher|
+|ork special skill|*'eadbasher*|
 |axe|5 gc|
 |sword|10 gc|
 |light armour|20gc|
 |summary|***75 gc***|
 
+>>>
 
-**Big'Un Ug'lash**
-
-| | |
+|**Ug'lash** |**Big'Un** |
 |:---|---:|
 |hiring cost|40 gc|
 |experience|15|
-|ork special skill|'eadbasher|
+|ork special skill|*'eadbasher*|
 |axe|5 gc|
 |sword|10 gc|
 |light armour|20 gc|
 |summary|***75 gc***|
 
+>>>
 
-**Shaman Woggah**
-
-| | |
+|**Woggah** |**Shaman** |
 |:---|---:|
 |hiring cost|40 gc|
 |experience|10|
-|special rule|Magic user|
-|ork special skill|well 'ard|
+|special rule|*Magic user*|
+|ork special skill|*well 'ard*|
 |summary|***40 gc***|
 
+>>>
 
-**Goblin Warrior Higgz / Snotz / Roddz**
-
-| | |
+|**Higgz / Snotz / Roddz** |**Goblin Warrior** |
 |:---|---:|
 |hiring cost|15 gc|
 |experience|0|
-|special rule|Animosity|
-| |Not Orcs|
-| |Runts|
+|special rule|*Animosity*|
+| |*Not Orcs*|
+| |*Runts*|
 |spear|5 gc|
 |shield|5 gc|
 |summary|***3x 25 gc***|
 
+>>>
 
-**Goblin Warrior Gurnch**
-
-| | |
+|**Gurnch** |**Goblin Warrior** |
 |:---|---:|
 |hiring cost|15 gc|
 |experience|0|
-|special rule|Animosity|
-| |Not Orcs|
-| |Runts|
+|special rule|*Animosity*|
+| |*Not Orcs*|
+| |*Runts*|
 |dagger|0 gc|
 |sword|10 gc|
 |summary|***25 gc***|
 
 
-**Nice to have skills**
+---
 
-***Leader and Big'Uns***
+## Nice to have skills
 
-| | |
+
+|*Leader and Big'Uns* | |
 |:---|---:|
 |common skill|money maker|
 
+>>>
 
-***Shaman***
-
-| | |
+|*Shaman* | |
 |:---|---:|
 |common skill|Far-Sight|
 
+>>>
 
-***Spearmen Goblins***
-
-| | |
+|*Spearmen Goblins* | |
 |:---|---:|
 |common skill|dirty fighter (bite)|
 | |dirty fighter (bite)|
 | |musician with (minstrel)|
 
+>>>
 
-***Sword warriour Goblin***
-
-| | |
+|*Sword warriour Goblin* | |
 |:---|---:|
 |common skill|dirty fighter (bite)|
 
