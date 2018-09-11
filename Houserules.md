@@ -13,3 +13,5 @@
 6.) Können Hired Swords ihr besonderen Fähigkeiten gleich einsetzen nachdem man sie angeworben hat? (Z.B. S.232 Arabian Merchant: Marketeer, oder S.252 Thief: Tea-Leaf!)
 
 7.) Können Hired Swords die Out of Action sind nach dem Spiel ihre Skills benutzen wenn sie die Warband nicht verlassen? (Beispiele wie 6)
+
+8.) Worauf bezieht sich der Underdog Experience Bonus (S.175)? Nur auf die Experience die man für das Überleben erhält?
