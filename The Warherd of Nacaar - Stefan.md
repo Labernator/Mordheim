@@ -4,7 +4,7 @@ Blinded by the unlimited power the wyrdstone shards promised Naccaar decided to 
 
 
 **Naccaar Scar-Face, Primal Warchief of the Warherd**  
-Beastmen Chieftain: Dagger, Mace (70 GC) 
+Beastmen Chieftain: 2x Dagger (67 GC) 
 
 **Munkoc, Carrier of the broken Moon Disk and Great Bray-Shaman of the Warherd**  
 Beastmen Shaman: 2x Dagger (47 GC)
@@ -19,9 +19,9 @@ Bestigor: 2x Dagger (47 GC)
 Centigor: 2x Dagger (82 GC)
 
 **Vorax**  
-Minotaur: Dagger, Mace (205 GC)
+Minotaur: Dagger, Halberd (210 GC)
 
-**Treasure Chest:** 2 GC  
+**Treasure Chest:** 0 GC  
 **Alignment:** Chaotic  
 **Warband rating:**  
 Naccaar: Base 5 + Experience 20 + Hiring cost 5 = 30  
