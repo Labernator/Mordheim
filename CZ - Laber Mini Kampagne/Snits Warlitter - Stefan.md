@@ -16,10 +16,10 @@ These five characters were supported by two pairs of Machinists, the "Claws" and
 Even though Snit deeply regretted it, it wasn't possible for him to bring any of the famous Skryre heavy war-machinery all the way to Mordheim. No Doomwheel (because of all the narrow streets), no Jezzails (because they were too heavy for such a long trip) not even a Warpfire Thrower (because even he was not mad enough to sleep near such a thing).*
 
 **Snit Rustfang**  
-Chief Engineer: 2x Dagger (70 GC)
+Chief Engineer: 2x Dagger (70 GC), Spell: Warp Lightning
 
 **Zrat Redeye**  
-Warlock Engineer: 2x Dagger (47 GC)
+Warlock Engineer: 2x Dagger (47 GC), Spell: Warp Lightning
 
 **Skuok**  
 Apprentice: 2x Dagger (22 GC)
