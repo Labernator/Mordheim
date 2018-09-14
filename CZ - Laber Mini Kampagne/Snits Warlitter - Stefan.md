@@ -82,3 +82,18 @@ Hiermit präsentiere ich (einigermaßen stolz) ein Haufen Steampunk Skaven. Enjo
 
 **Warband**  
 [![](http://fs5.directupload.net/images/180909/temp/ptv2cbo8.jpg)](http://www.directupload.net/file/d/5205/ptv2cbo8_jpg.htm)
+
+## 14.09.18  
+**Kapitel 1: Der verlorene Sohn (Szenario: The Lost Prince)**  
+
+*Siegmund Stoerrebrand, seines Zeichens dritter Sohn des Handelsmagnaten Riga Stoerrebrand hatte die Buchhaltung satt. Die Arithmetik und das Steuerrecht, all das bedeutete dem jungen Mann nichts. Er strebte danach wonach alle Jünglinge seines Alters streben: Ruhm und Ehre zu erlangen um die Herzen (und Röcke) junger Damen zu gewinnen.*
+
+*Dem öden Leben im Anwesen seines Vaters überdrüssig, schloss Siegmund sich einer Gruppe herumziehender Glücksritter an. Deren Ziel: Morheim, die legendäre gefallene Stadt. Doch statt Ruhm und Reichtum fand die Gruppe wie so viele vor ihr nur ihr so abruptes wie unappetitliches Lebensende.*
+
+*Und bald schon geisterten Gerüchte durch die Gassen von einer gut gekleideten und vor Angst halb wahnsinnigen Gestalt, die völlig orientierungslos durch die Gassen der verdammten Stadt taumelte. Diese Gerüchte trafen auch auf pelzige Ohren.* 
+
+*Snits Schnautze zitterte als er an die Belohnung für den weichlichen Mensch dachte. Das klang nach leicht verdientem Gold! Und so näherten führte er in der folgenden Nacht im Schutz der Dunkelheit seinen Warlitter zum Platz der Sonne im ehemaligen Tempelviertel an dem Siegmund angeblich das letzte Mal gesehen worden war.*
+
+*Und wie das Schicksal es wollte würde es kein leicht verdientes Gold geben, denn zur selben Zeit erreichte eine Gruppe Finsterelfen das Viertel.*
+
+
