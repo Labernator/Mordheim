@@ -97,3 +97,21 @@ Hiermit präsentiere ich (einigermaßen stolz) ein Haufen Steampunk Skaven. Enjo
 *Und wie das Schicksal es wollte würde es kein leicht verdientes Gold geben, denn zur selben Zeit erreichte eine Gruppe Finsterelfen das Viertel.*
 
 
+
+
+
+## Kapitel 2: Die Kaserne der Toten (Szenario: The Raven Barraks)
+*Auf dem Weg zu den Dienern seines Vaters war Siegmund in sich gekehrt. Die Schrecken der vergangenen Tage hatten den Jüngling sehr gezeichnet und die … „gewöhnungsbedürftige“ Natur seiner Retter tat ihr übriges. Doch in der letzten Nacht vor dem Ziel brach es aus dem jungen Mann heraus:*
+
+*"Wir hatten gehört, dass die Kaserne von Mordheim fluchtartig verlassen wurde als die Stadt unterging. In so großer Hast, dass keine Zeit blieb alle lohnenden Gegenstände in Sicherheit zu bringen. Und tatsächlich, wir fanden die Kaserne verlassen vor. Und Truhen voller Schätze: fein geschmiedete Waffen, Münzen, Juwelen, Schmuck.*
+
+*Während wir die unteren Etagen durchsuchten hörten wir ein Schlurfen. Dann schrie Katja. Ich sah nicht was geschah, aber auf einmal waren überall Schreie. Ich rannte. Wir alle rannten. Das Blut…. Ihr Kopf…nur ihr Kopf… ich…"*
+
+*Siegmund brach in einen markerschütternden Schrei aus und scheuchte damit einige Ratten und Fledermäuse aus dem Unterholz.*
+
+*Das Mitleid der Retter mit dem verzogenen Jüngling hielt sich deutlich in Grenzen. Aber die Geschichte hatte durchaus ihre interessanten Punkte. Nachdem sie den Jüngling an die Diener übergeben (und die überaus großzügige Belohnung entgegengenommen) hatten machten sich die Retter schnurstracks auf den Weg zurück in die verdammte Stadt.*
+
+*Aber auch die andere Gruppe hatte von den Reichtümern in der Kaserne Wind bekommen. In Mordheim sind nicht alle Tiere was sie zu sein scheinen.*
+
+*Und so kam es zum Zweiten scheinbar zufälligen Zusammentreffen der beiden Gruppen in der zerfallenden Kaserne von Mordheim.*
+
