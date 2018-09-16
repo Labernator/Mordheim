@@ -14,4 +14,4 @@ Youngling: 2x Dagger (27 GC)
 
 => 456 GC
 
-Rating: 30 + 2*21 + 17 + 5*5 = 114
+Rating: 30 + 2x 21 + 17 + 5x 5 = 114
