@@ -28,3 +28,5 @@ gewählten Rasse zuszunutzen. Irgend eine Art der Verteidigung (Schild,
 Panzerung, Helm, ...) ist auch essenziell. In zwei Wochen versuchen wir ein
 richtiges Spiel mit der kompletten Warband. Bis dahin: Minis bestellen und
 bemalen.
+
+![big confusion](diary-20180916-1.jpg)
