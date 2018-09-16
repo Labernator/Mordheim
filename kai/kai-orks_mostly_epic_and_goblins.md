@@ -145,7 +145,6 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 |two-handed|15 gc|
 |shield|5 gc|
 |light armor|20 gc|
-|helm|10 gc|
 |summary| ***130 gc***|
 
 >>>
@@ -155,10 +154,9 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 |hiring cost|40 gc|
 |experience|15|
 |ork special skill|*'eadbasher*|
-|two-handded|15 gc|
-|schield|5 gc|
+|halberd|10 gc|
 |light armour|20 gc|
-|summary|***80 gc***|
+|summary|***70 gc***|
 
 >>>
 
@@ -192,6 +190,7 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 |experience|10|
 |special rule|*Magic user*|
 |ork special skill|*well 'ard*|
+|dagger|0 gc|
 |summary|***40 gc***|
 
 >>>
@@ -205,7 +204,8 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 | |*Runts*|
 |spear|5 gc|
 |shield|5 gc|
-|summary|***3x 25 gc***|
+|short bow|5 gc|
+|summary|***3x 30 gc***|
 
 >>>
 
@@ -218,7 +218,8 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 | |*Runts*|
 |dagger|0 gc|
 |sword|10 gc|
-|summary|***25 gc***|
+|short bow|5 gc|
+|summary|***30 gc***|
 
 
 ---
