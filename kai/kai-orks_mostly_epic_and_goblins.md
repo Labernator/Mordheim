@@ -143,9 +143,8 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 |special rule|Leader|
 |ork special skill|*da cunnin' plan*|
 |two-handed|15 gc|
-|shield|5 gc|
 |light armor|20 gc|
-|summary| ***130 gc***|
+|summary| ***125 gc***|
 
 >>>
 
@@ -218,7 +217,6 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 | |*Runts*|
 |dagger|0 gc|
 |sword|10 gc|
-|short bow|5 gc|
 |summary|***30 gc***|
 
 
