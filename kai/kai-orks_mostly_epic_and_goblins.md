@@ -134,6 +134,8 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 
 ## Warband detail
 
+**alignment**: chaotic
+**rating:**: 125
 
 |**Grumlok and Gazbag** | **Leader** |
 |:---|---:|
@@ -217,7 +219,7 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 | |*Runts*|
 |dagger|0 gc|
 |sword|10 gc|
-|summary|***30 gc***|
+|summary|***25 gc***|
 
 
 ---
@@ -241,7 +243,7 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 |:---|---:|
 |common skill|dirty fighter (bite)|
 | |dirty fighter (bite)|
-| |musician with (minstrel)|
+| |musician (minstrel)|
 
 >>>
 
