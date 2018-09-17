@@ -32,3 +32,9 @@ richtiges Spiel mit der kompletten Warband. Bis dahin: Minis bestellen und
 bemalen.
 
 ![big confusion](diary-20180916-1.jpg)
+
+## Minis
+
+**2018/09/17**: Die Minis sind bestellt. Jetzt heißt es, warten. In der
+Zwischenzeit werde ich die Warband Details zusammenschreiben und evtl.
+auch einen Fluff schreiben.
