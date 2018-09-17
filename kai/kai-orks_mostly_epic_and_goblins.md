@@ -135,7 +135,8 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 ## Warband detail
 
 **alignment**: chaotic
-**rating:**: 125
+
+**rating**: 125
 
 |**Grumlok and Gazbag** | **Leader** |
 |:---|---:|
