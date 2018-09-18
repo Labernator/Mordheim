@@ -144,10 +144,11 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 |experience|20|
 |warband rating addition|5 (>61 gc hiring cost)|
 |special rule|Leader|
-|ork special skill|*da cunnin' plan*|
+|ork special skill|*well'ard*|
 |two-handed|15 gc|
 |light armor|20 gc|
-|summary| ***125 gc***|
+|shield|5 gc|
+|summary| ***120 gc***|
 
 >>>
 
@@ -167,7 +168,7 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 |hiring cost|40 gc|
 |experience|15|
 |ork special skill|*'eadbasher*|
-|axe|5 gc|
+|axe (off hand)|5 gc|
 |sword|10 gc|
 |light armour|20gc|
 |summary|***75 gc***|
@@ -191,6 +192,7 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 |hiring cost|40 gc|
 |experience|10|
 |special rule|*Magic user*|
+|initial spell|Fire of Gork (diff 8)|
 |ork special skill|*well 'ard*|
 |dagger|0 gc|
 |summary|***40 gc***|
@@ -218,9 +220,10 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 |special rule|*Animosity*|
 | |*Not Orcs*|
 | |*Runts*|
-|dagger|0 gc|
+|dagger (off hand)|0 gc|
 |sword|10 gc|
-|summary|***25 gc***|
+|short bow|5 gc|
+|summary|***30 gc***|
 
 
 ---
