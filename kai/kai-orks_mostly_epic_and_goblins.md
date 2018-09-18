@@ -228,12 +228,15 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 
 ---
 
-## Nice to have skills
+## Nice to have equip/skills
 
 
 |*Leader and Big'Uns* | |
 |:---|---:|
 |common skill|money maker|
+| |Banner|
+| |Horn|
+| |Torch|
 
 >>>
 
