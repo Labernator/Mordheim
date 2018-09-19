@@ -142,9 +142,8 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 |:---|---:|
 |hiring cost|80 gc|
 |experience|20|
-|warband rating addition|5 (>61 gc hiring cost)|
+|warband rating addition|5 (>61 <81 gc hiring cost)|
 |special rule|Leader|
-|ork special skill|*well'ard*|
 |two-handed|15 gc|
 |light armor|20 gc|
 |shield|5 gc|
@@ -156,7 +155,6 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 |:---|---:|
 |hiring cost|40 gc|
 |experience|15|
-|ork special skill|*'eadbasher*|
 |halberd|10 gc|
 |light armour|20 gc|
 |summary|***70 gc***|
@@ -167,7 +165,6 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 |:---|---:|
 |hiring cost|40 gc|
 |experience|15|
-|ork special skill|*'eadbasher*|
 |axe (off hand)|5 gc|
 |sword|10 gc|
 |light armour|20gc|
@@ -179,7 +176,6 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 |:---|---:|
 |hiring cost|40 gc|
 |experience|15|
-|ork special skill|*'eadbasher*|
 |axe|5 gc|
 |sword|10 gc|
 |light armour|20 gc|
@@ -193,7 +189,6 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 |experience|10|
 |special rule|*Magic user*|
 |initial spell|Fire of Gork (diff 8)|
-|ork special skill|*well 'ard*|
 |dagger|0 gc|
 |summary|***40 gc***|
 
@@ -233,23 +228,26 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 
 |*Leader and Big'Uns* | |
 |:---|---:|
+|ork special skill|*well' ard*|
+| |*da‘ cunnin’ plan*|
+| |‘eadbasher|
 |common skill|money maker|
-| |Banner|
-| |Horn|
-| |Torch|
+|equip|Banner|
+| |War Horn|
 
 >>>
 
 |*Shaman* | |
 |:---|---:|
+|ork special skill|*well' ard*|
 |common skill|Far-Sight|
 
 >>>
 
 |*Spearmen Goblins* | |
 |:---|---:|
+|Equip|Torch|
 |common skill|dirty fighter (bite)|
-| |dirty fighter (bite)|
 | |musician (minstrel)|
 
 >>>
