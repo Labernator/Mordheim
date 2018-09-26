@@ -16,7 +16,7 @@ People speculated that Sigmar had passed his judgement on the people living in t
 
 # Kampagne
 
-## Szenario 1: The Raven Barraks
+## Szenario 1: The Raven Barracks (S. 213)
 
 **Scenario Houselrules**  
 -	Wenn zwei Modelle eine Kiste vom Board tragen, erhält nur eines davon die extra Experience. Der Spieler darf bestimmen welches.
@@ -27,7 +27,7 @@ People speculated that Sigmar had passed his judgement on the people living in t
 Diese Regeln sollen lediglich Lücken im Szenario möglichst intuitiv füllen.
 
 
-## Szenario 2: The Lost Prince
+## Szenario 2: The Lost Prince (S. 207)
 
 **Scenario Houselrules**  
 -	Wenn ein Model in Kontakt mit dem Prinz kommt muss es bis zur nächsten Runde warten um sich mit ihm zu bewegen (der Prinz muss erst überzeugt werden, dass die Retter ihm nichts böses wollen)
