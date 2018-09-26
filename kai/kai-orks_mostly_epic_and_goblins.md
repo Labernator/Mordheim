@@ -85,16 +85,17 @@ Weeks and months they were lurch through the world, no reason to stay, no reason
 All happen during this obscure period of their ramble was that Woggah figured out that Gazbag self-evidently appear as a catalyst for the Waaagh!
 - he can use to re-enforce his powers.
 
-Later on they met the brothers of yawn - a covey of war zesty nights goblins - four of them to be strictly correct.
+Later on they met the brothers of yawn - a covey of war zesty night goblins - four of them to be strictly correct.
 Their names are Higgz, Snotz and Roddz the three spear-men and Gurnch the vicious sword fighter. Swords...
 Grumlock looked at the two enormous small human bread knive sized chaser in their hand and on the top of their spears and started to grin.
 He didn't know that toothpicks are used in combat.
 
 Lorn - cause they lost their warband - and with a crank mood they mooched around a tavern, they were not allowed to enter.
 All they wanted was to get drunk because of their lost pack and to sing about their past glorious fight.
-They are a very musically group, aren't they? Rodz also own a battle flute.
+Rodz also own a battle flute.
+They are a very musically group, aren't they?
 
-They firsthand got a sympathy to Grumlok and Gazbag - presumably because of the Goblin - and asked him in a goblish way if they can join
+They firsthand got a sympathy to Grumlok and Gazbag - presumably because of the Goblin - and asked him in a direct goblish way if they can join
 his warband. This would even be better than mooching around a tavern and waiting for the stranger who confirmed to buy and bring them
 some beer. At least no one of the group were sure why it feel wrong to accompany a black ork leader with a braindead goblin shaman on his shoulder,
 standing there like monkey like pet.
@@ -194,7 +195,7 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 
 >>>
 
-|**Higgz / Snotz / Roddz** |**Goblin Warrior** |
+|**Brothers of yawn (Higgz / Snotz / Roddz)** |**Goblin Warrior** |
 |:---|---:|
 |hiring cost|15 gc|
 |experience|0|
@@ -208,7 +209,7 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 
 >>>
 
-|**Gurnch** |**Goblin Warrior** |
+|**Toothpic chasers (Gurnch)** |**Goblin Warrior** |
 |:---|---:|
 |hiring cost|15 gc|
 |experience|0|
@@ -234,6 +235,8 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 |common skill|money maker|
 |equip|Banner|
 | |War Horn|
+| |Garlic|
+| |Blessed water|
 
 >>>
 
