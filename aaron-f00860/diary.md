@@ -38,3 +38,21 @@ bemalen.
 **2018/09/17**: Die Minis sind bestellt. Jetzt heißt es, warten. In der
 Zwischenzeit werde ich die Warband Details zusammenschreiben und evtl.
 auch einen Fluff schreiben.
+
+**2018/09/26**: Weiter warten auf die Minis. Es wurde berichtet, dass nach 11 Tagen
+mit einer Lieferung zu rechnen ist. In der Bestätigungs-Mail stand was von
+zwei Wochen. Also müsste es bald soweit sein. Bis dahin habe ich noch genug
+mit dem Regelwerk und meiner Warband zu tun.
+
+## The Smashing Skull
+
+**2018/09/27**: Die Warband ist fürs Erste mal fertig geplant. Ich habe keinerlei
+Ahnung, ob das so sinnvoll ist oder total nach hinten los geht. Das Warband
+Rating ist im Vergleich zu den anderen relativ niedrig. Entweder ich hab falsch
+gerechnet, "das gehört eben so", oder ich habe einen grundlegenden Fehler
+in meiner Warband-Planung. Das wird sich aber denke ich dann beim Spielen zeigen.
+Am Samstag versuchen Kai und ich noch einmal ein Probespiel. Die Zwerge haben
+einige Special Skills und Rules, die ich mir noch im Detail einverleiben
+muss. Ebenso die Spielmechanik und die Wunsch-Skills/Equips.
+
+![paperwork](diary-20180927-1.jpg)
