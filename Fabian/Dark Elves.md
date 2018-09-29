@@ -1,14 +1,52 @@
-High Born               70      120     Gaurkin Warseeker
+Gaurkin Warseeker
+
+High Born               70      120     
+
  -Repeater Crossbow     35
+ 
  -Dark Venom            15
-Fellblades              40       80     Livil Cinderheart
+
+___________________________________________________
+
+Livil Cinderheart
+
+Fellblades              40       80     
+
  -Sword                 20
+ 
  -Sword                 20
-Sorceress               55       90     Nesha Dreadgrip
+
+___________________________________________________
+
+Nesha Dreadgrip
+
+Sorceress               55       90     
+
  -Repeater Crossbow     35
-Shades                  35      210     Sissibi Deadstride
+
+
+__________________________________________________
+
+Sissibi Deadstride
+
+Shades                  35      210     
+
  -Repeater Crossbow     35
-Corsairs                35              Mivouc Warfall
+
+_________________________________________________
+
+Mivouc Warfall
+
+Corsairs                35              
+
  -Repeater Crossbow     35
-Corsairs                35              Natrir Skullrider
+
+
+_________________________________________________
+
+Natrir Skullrider
+
+Corsairs                35              
+
  -Repeater Crossbow     35
+ 
