@@ -10,32 +10,31 @@ ___________________________________________________
 
 Livil Cinderheart
 
-Fellblades              40       80     
+Fellblades              40       115     
 
- -Sword                 20
+ -Sword                 10
  
- -Sword                 20
+ -Axe                    5
+
+___________________________________________________
+
+Sissibi Deadstride
+
+Fellblades              40            
+
+ -Sword                 10
+ 
+ -Sword                 10
 
 ___________________________________________________
 
 Nesha Dreadgrip
 
-Sorceress               55       90     
-
- -Repeater Crossbow     35
-
-
-__________________________________________________
-
-Sissibi Deadstride
-
-Shades                  35      210     
-
- -Repeater Crossbow     35
+Sorceress               55       55     
 
 _________________________________________________
 
-Mivouc Warfall
+Mivouc Warfall                  210
 
 Corsairs                35              
 
@@ -50,3 +49,13 @@ Corsairs                35
 
  -Repeater Crossbow     35
  
+_________________________________________________
+
+Matrol Darkbane
+
+Corsairs                35              
+
+ -Repeater Crossbow     35
+
+
+Total 500
