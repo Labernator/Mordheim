@@ -4,11 +4,11 @@
 
 *Er herrschte auf dem Wurzelthron in den heiligen Hallen von Fyr Darric. Zu seiner Rechten saß seine nicht minder weise Frau Edronoel. Zu seiner Linken stand, wie es die Tradition wollte, sein jüngerer Bruder Brandaer, oberster Waldläufer der Leibgarde des Königs des Waldes.*
 
-*Arthanar hatte fünf Kinder:
-Fêrdor, sein ältester Sohn, der seinem Vater eines Tages auf den Wurzelthron nachfolgen würde
-Armen zeigte früh ihr magisches Talent und schlug den Pfad einer Zaubersängerin ein
-Cairien: die Drittgeborene patroullierte die Randgebiete des großen Waldes als Dornenreiterin
-Misteth lebte als Mystikerin zurückgezogen im Herzen des großen Waldes bei den Baumweisen und Dryaden
+*Arthanar hatte fünf Kinder:  
+Fêrdor, sein ältester Sohn, der seinem Vater eines Tages auf den Wurzelthron nachfolgen würde  
+Armen zeigte früh ihr magisches Talent und schlug den Pfad einer Zaubersängerin ein  
+Cairien: die Drittgeborene patroullierte die Randgebiete des großen Waldes als Dornenreiterin  
+Misteth lebte als Mystikerin zurückgezogen im Herzen des großen Waldes bei den Baumweisen und Dryaden  
 Innor: der jüngste Sohn würde traditionsgemäß die Leibgarde seines älteren Bruders anführen*
 
 *Das Leben der Asrai im großen Wald unter der Herrschaft von Arthanar war, von einigen Scharmützeln abgesehen, geprägt von Überfluss und Sicherheit. Dies ist jedoch keine Geschichte des großen Waldes. Diese Geschichte spielt an einem sehr viel düsteren Ort. Jede Geschichte hat ihren Anfang und diese beginnt mit einem unerwarteten Besuch:*
