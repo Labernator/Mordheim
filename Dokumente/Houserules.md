@@ -27,3 +27,6 @@
  
 10.) Erhalten Warband Leader die out of Action sind trotzdem die Bonus Experience aus Szenarios falls ihre Warband gewinnt? (S.175 Earning Experience) 
  - Ja. Sie erhalten schon keine Experience für's Überleben, da müssen sie nicht doppel bestraft werden.
+
+11.) Können Henchmen die bei einem Experience Advance zu Helden werden Wyrdstone suchen? (S.172 Post Battle Sequence)
+ - Ja, da der Advance in Schritt 2 geschieht und erst in Schritt 3 gesucht wird können neue Helden die nicht out of Action sind suchen.
