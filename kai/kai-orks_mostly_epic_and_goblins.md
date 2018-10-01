@@ -1,4 +1,3 @@
-
 # Orks mostly epic & goblins
 
 ---
@@ -312,7 +311,7 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 |:---|:---|
 |cutting edge|enemy armor save -1|
 |parry|on hit roll d6 if >= parried|
-|unwieldy|can not war any item in the off-hand, s shield can used to get an armor save against shooting|
+|unwieldy|can not wear any item in the off-hand, s shield can used to get an armor save against shooting|
 |strike first|even if the carrier got charged, the carrier strikes first in cc|
 |strike last|even after a successful charge the carrier strikes last in cc|
 
