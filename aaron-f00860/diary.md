@@ -56,3 +56,27 @@ einige Special Skills und Rules, die ich mir noch im Detail einverleiben
 muss. Ebenso die Spielmechanik und die Wunsch-Skills/Equips.
 
 ![paperwork](diary-20180927-1.jpg)
+
+**2018/09/29**: Kai und ich hatten nochmal eine Runde zusammen gespielt. Diese
+Mal lief es etwas besser und wir konnten sogar das Barracks Scenario komplett
+zuende spielen. Die After-Match-Sequence haben wir aber nicht komplett vollzogen.
+Beim nächsten Mal dann. Mussten wieder viel nachschlagen.
+
+## Terrain
+
+**2018/09/30**: So lange ich auf die Minis warte, haben ich begonnen etwas
+Gelände mit dem 3D-Drucker auszudrucken. Zuerst [ein paar Säulen](https://www.thingiverse.com/thing:3001036),
+die waren recht schnell fertig. Dann eine [art Kathedrale](https://www.thingiverse.com/thing:1875150),
+die aber aus relativ vielen Einzelteilen besteht. Da werde ich ein paar Tage
+drucken. Dann noch [ein paar Fässer](https://www.thingiverse.com/thing:32016) und
+für das Barracks Scenario habe ich [eine Schatzkiste](https://www.thingiverse.com/thing:3131013) so
+umgebaut, dass wir sie verwenden können. Die drucken ich dann auch noch 20 mal
+aus. Was ich auch schon mal drucken kann sind 32mm Bases für meine Zwerge. Ach
+ja, und eine FantasyWelt.de Bestellung musste auch noch raus, mein Primer ist
+leer.
+
+![a lot of plastic](diary-20180930-1.jpg)
+
+**2018/10/01**: Endlich sind die Minis da :) Nun kann es losgehen. Habe eben
+noch ein paar kleine Änderungen an der Warband gemacht, da hab ich mich wohl
+verrechnet.
