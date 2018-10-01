@@ -10,3 +10,17 @@ Treasure Chest: **5 GC**
 Alignment: **Neutral**
 
 Warband Rating: **73**
+
+## Special rules
+
+* Hard to kill
+* Hard Head
+* Armour
+* Hate Orcs & Goblins
+* Grudgebearers
+* Incomparable Miners
+* Distrustful of Sorcery
+
+## Skill Wishlist
+
+TBD
