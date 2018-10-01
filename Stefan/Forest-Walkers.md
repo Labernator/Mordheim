@@ -24,8 +24,7 @@ Innor: der jüngste Sohn würde traditionsgemäß die Leibgarde seines älteren 
 *Und so verließ am nächsten Tag in aller Frühe die neunköpfige Gruppe dem großen Wald gen Süden. Das Ziel: Die gefallene Stadt Mordheim!*
 
 
-**Forest-Walkers Warband - The Great Forest**  
-
+### Forest-Walkers Warband - The Great Forest  
 **Brandaer** (War-leader, 20 XP): Saerath, Dagger, Sling (97 GC)  
 
 **Estedir** (Waywatcher, 15 XP): Dagger, Bow (65 GC)  
@@ -62,6 +61,7 @@ Innor: der jüngste Sohn würde traditionsgemäß die Leibgarde seines älteren 
 
 *Auch wenn sich dies für Brandaer nach einem typisch raffgierigen Märchen der Rosenohren anhörte war es immerhin ein Hinweis. Und vielleicht hatte auch Cedhrion diese Geschichten gehört und befand sich im Händlerviertel. So oder so, sie mussten mit der Suche beginnen und dieses Viertel war so gut wie jedes andere. Mit einem ungutem Gefühl im Bauch und der toten Stadt vor Augen befahl Brandaer den Aufbruch.* 
 
+### Schlachtbericht  
 **Ergebnis Szenario:**  (Sieg/Niederlage)
 **Gefallene Krieger:**  
 **Belohnungen:**  
@@ -69,6 +69,7 @@ Innor: der jüngste Sohn würde traditionsgemäß die Leibgarde seines älteren 
 **Wyrdstone:**  
 **Neues Equipment/Rekruten:**  
 
+### Nachspiel
 
  # Akt 2: Cedhrion (Szenario: The Lost Prince)  
 *Die erste Begegnung mit Mordheim war ungefähr so verlaufen wie Brandaer sich das vorgestellt hatte. Furchtbar bis zur Grenze des wahnsinnigen. Wandelnde Leichname, Finsterelfen und Grünhäute. Die verfluchte Stadt wurde ihrem Namen gerecht und ihre Realität stellte alle Geschichten die in den großen Wald gelangten in den Schatten.*
@@ -79,10 +80,13 @@ Innor: der jüngste Sohn würde traditionsgemäß die Leibgarde seines älteren 
 
 *Ariel sei gepriesen, wie viele verirrte Elfen konnte es in der götterverlassenen Stadt wohl geben? Sollten sie tatsächlich die Spur des verlorenen Sohn gefunden haben? Die Hoffnung auf eine schnelle Heimkehr hellte die Stimmung der Gruppe merklich auf und mit neuem Mut zogen die Gefährten ein weiteres Mal durch das gähnende Maul des verfallenen Nordtors.* 
 
+### Schlachtbericht  
 **Ergebnis Szenario:**  (Sieg/Niederlage)
 **Gefallene Krieger:**  
 **Belohnungen:**  
 **Experience:**  
 **Wyrdstone:**  
 **Neues Equipment/Rekruten:**  
+
+### Nachspiel
 
