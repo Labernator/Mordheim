@@ -44,7 +44,7 @@ Innor: der jüngste Sohn würde traditionsgemäß die Leibgarde seines älteren 
 
 **Treasure Chest:** 1 GC  
 **Alignment:** Lawful / Neutral  
-**Warband Rating:**  
+**Warband Rating:** 
 30 + 2x 21 + 17 + 5x 5 = 114
 
 
