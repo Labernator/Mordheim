@@ -130,6 +130,8 @@ and more challenges to pass as they can.
 In this moment of fight and the clarification of hierarchy the warband of mostly epic orks and goblins were born.
 A warband to scavenge huge amounts of gold crowns, conquer for treasures and compete with other warbands for honor or at least not to get killed.
 
+![The warband's Ork heroes](kai_ork_heroes.jpg)
+
 ---
 
 ## Warband detail
