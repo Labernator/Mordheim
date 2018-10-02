@@ -30,3 +30,6 @@
 
 11.) Können Henchmen die bei einem Experience Advance zu Helden werden Wyrdstone suchen? (S.172 Post Battle Sequence)
  - Ja, da der Advance in Schritt 2 geschieht und erst in Schritt 3 gesucht wird können neue Helden die nicht out of Action sind suchen.
+
+12.) Wie werden Allianzen/Underdogs bei ausgeschiedenen Spielern behandelt? (S.193 Allies and Underdogs)
+ - Wenn schon Spieler ausgeschieden sind und zwei oder mehr Spieler eine Allianz bilden wird der Underdog Bonus komplett neu berechnet. Beispiel: Spieler A (Warband Rating 70), Spieler B (Warband Rating 90), Spieler C (Warband Rating 110), Spieler D (Warband Rating 130), Spieler E (Warband Rating 210). Zu beginn des Spiels erhält niemand den Underdog Bonus (Vergleich zwischen Spieler A und B). Jetzt scheidet Spieler A aus. Danach formen B und C eine Allianz. Neue Berechnung des Underdog Bonus: Spieler C (Warband Rating 110), Allianz B & C (Warband Rating 200), Spieler E (Warband Rating 210). Jetzt erhält Spieler C am Ende des Spiels den Underdog Bonus. Sollte er sich später auch der Allianz anschließen, erhält kein Spieler einen Bonus.
