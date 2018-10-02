@@ -82,7 +82,7 @@ doesn't stop long enough to finish even a short idea to the end.
 
 Weeks and months they were lurch through the world, no reason to stay, no reason to step on, no fight to blastoff no reason to retreat.
 All happen during this obscure period of their ramble was that Woggah figured out that Gazbag self-evidently appear as a catalyst for the Waaagh!
-- he can use to re-enforce his powers.
+\- he can use to re-enforce his powers.
 
 Later on they met the brothers of yawn - a covey of war zesty night goblins - four of them to be strictly correct.
 Their names are Higgz, Snotz and Roddz the three spear-men and Gurnch the vicious sword fighter. Swords...
