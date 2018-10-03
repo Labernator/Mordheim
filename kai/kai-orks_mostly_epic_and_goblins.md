@@ -151,10 +151,10 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 | | combat|
 | | shooting|
 | | ork special|
-|two-handed|15 gc|
+|two-handed|10 gc|
 |light armor|20 gc|
 |shield|5 gc|
-|summary| ***120 gc***|
+|summary| ***115 gc***|
 
 >>>
 
@@ -168,7 +168,8 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 | | ork special|
 |halberd|10 gc|
 |light armour|20 gc|
-|summary|***70 gc***|
+|shield|5 gc|
+|summary|***75 gc***|
 
 >>>
 
@@ -300,8 +301,8 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 |dagger|enemy armor save +1|
 |axe|cutting edge|
 |sword|parry|
-|halberd|unwieldy, two-handed, S=user+1|
-|two-handed|unwieldy, two-handed, strike last, S=user+2|
+|halberd|two-handed, S=user+1|
+|double-handed|two-handed, strike last, S=user+2|
 |spear|strike first, unwieldy|
 |short bow|16" S3|
 |shield|+1 armor save|
@@ -312,8 +313,9 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 |item attribute|characteristic|
 |:---|:---|
 |cutting edge|enemy armor save -1|
-|parry|on hit roll d6 if >= parried|
-|unwieldy|can not wear any item in the off-hand, s shield can used to get an armor save against shooting|
+|parry|on hit roll d6 if >= enemy hit score => parried|
+|unwieldy|can use a buckler or shield in off-hand during cc but no second weapon|
+|two-handed|no buckler or shield allowed in cc; a shield can used to get an +1 armor save against shooting |
 |strike first|even if the carrier got charged, the carrier strikes first in cc|
 |strike last|even after a successful charge the carrier strikes last in cc|
 
