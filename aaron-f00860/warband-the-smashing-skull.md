@@ -1,19 +1,78 @@
 # Fluff
 
-DRAFT:
+## Teil 1
+
 Der Dreck kratzte im Hals und knirschte zwischen den Zähnen. Der Staub hing so
 dicht in der Luft, dass man nichts sehen konnte. Die Augen brannten Ragnar und
 das linke Bein fühlte sich nicht gut an. Als die Decke im engen Stollen
-herunterbrach, löste sich ein Findling und klemmte sein Bein ein. Ragnar
-versuchte sich aufzurickten so gut es ging, 
+herunterbrach, löste sich ein Findling und klemmte sein Bein ein. Er versuchte
+aufzustehen, aber es war nicht möglich.
+
+Der Staub legte sich langsam. Der Schein der Petroleum-Lampe offenbarte Ragnar
+das Ausmaß. Einige Stützbalken waren vom Druck der Decke zerbarsten. Schutt und
+Geröll versperrten ihm den Weg nach oben. Mit einer langen Metallschaufel, die er
+als Hebel verwendete, wuchtete er stöhnend den großen Stein etwas zur Seite, um
+sein Bein herauszusiehen. Es war nicht gebrochen, aber blutete stark. Er band
+sich das Bein mit einem Lederriemen ab, das verlangsamte die Blutung etwas.
+
+Er saß in der Falle, konnte nicht zurück und auch nicht weiter nach vorn. Er
+rief, aber keiner konnte ihn hören, er war zu tief unter der Erde. Es vergingen
+Stunden. Ragnar hatte sich schon aufgegeben, als er eine leichte Vibration im Boden
+spürte. Zudem war ein Schaben und rumpeln zu hören, das immer lauter wurde. Er
+richtete sich auf und versuchte herauszufinden was es war. Das Schaben wurde
+lauter und lauter, fast schon unerträglich. Von der Decke rieselte es Erde und
+kleine Steinchen. Der Stollenabschnitt, ihn dem er gefangen war, drohte nun
+ebenfalls einzustürtzen. Die Balken ächtzten. Doch aus dem ganzen Lärm hörte er
+plötzlich eine sehr vertraute Stimme; Es war Floki. "Weg da, ich komme jetzt
+rein." rief er. Ragnar verstand nicht, aber ging vorsichtshalber so weit in den
+Stollen hinein wie es ihm möglich war. Mit einem lauten Kreischen dran ein
+überdimensionaler Bohrer durch die Decke und landete Ragnar vor den Füßen.
+Frische Luft und Tageslicht dran in den Stollen. Ragnar blinzelte durch das eben
+gebohrte Loch nach oben und erkannte Floki mit einem breiten Grinsen. "Den wollte
+ich schon immer mal ausprobieren." Kicherte er in seinen Bart. 
+
+Die Freundschaft zwischen Ragnar und Floki wuchs seit diesem Tag weiter und sie
+halfen sich gegenseitig immer wieder in schwierigen Situationen. 
+
+## Teil 2
+
+Brørn war hungrig und nass vom Regen. Er lief seit Tagen umher, aber fand keine
+Rast. Er war zum Einzelkämpfer geworden, da er sich manchmal seltsam verhielt.
+Er war nicht schüchtern und hatte nie Angst vor seinen Gegnern. Doch das machte
+vielen unbehangen wenn sie ihn seiner Nähe waren. Er sprach nicht viel und war
+die meiste Zeit in sich gekehrt. Im Kampf wiederum war er unbarmherzig und
+brutal. Er schnitt seinem Gegner ohne zu zögern und ohne einen Anschein von
+Emmotion die Hauptschlagader durch. Er hatte einen sehr ausgeprägten Sinn für
+Gerechtigkeit und ließ diesem auch Taten folgen, wenn er der Meinung war, dass
+eine Ungerechtigkeit im Gange war.
+
+Sein Weg endete an einem kleinen Dorf namens Hedeby. Er hielt vor dem ersten
+Haus inne. Er war sich nicht sicher, ob er bleiben oder umkehren sollte. Als er
+sich gerade umgedreht hatte und weiter laufen wollte, rief ihm jemand zu. "Hey
+fremder, komm rein, es regnet.". Es war Ragnar. Brørn blickte zu ihm uns sagte:
+"Ich bin kein guter Zwerg. Ich liege meistens falsch.". "Das macht nichts, dafür
+liege ich meistens richtig." erwiederte Ragnar.
+
+Am warmen Feuer trocknete er wortlos seine Kleidung und aß Suppe mit Brot.
+Ragnars Frau blickte Ragnar ängstlich in die Augen, doch er nickte ihr nur zu.
+Ragnar spürte, dass er Bjørn vertrauen konnte.
+
+## Teil 3
+
+Ragnar hatte schon lange kein Wrystone mehr in der Erde gefunden. Er kannte sich
+hervorragend im Lesen von Gesteinsschichten aus und erkannte die Anzeichen für
+Edelmetalle in der Erde an kleinen Details. Die Ausbeute in seinem Bergstollen
+waren erschöpft, das musste auch er einsehen. Doch die Gier nach Wrystone war
+groß, er war ein Treasure Hunter, daran war kein Zweifel.
+
+Bjørn erzählte beiläufig, dass es in Mordheim viele zurückgelassene Schätze
+gäbe. Zu viele um sie zu tragen. In Mordheim war er einst als kleiner Junge. Es
+war eine prächtige Stadt. Das ganze Land bebte, als der Kommet einschlug.
+Seitdem war er nicht mehr dort, er hörte nur ab und zu schreckliche Geschichten,
+die zu brutal und bizarr waren um echt zu sein.
 
 
-Ragnar ist im STollen eingeschlossen
-Floki hilft ihm raus (mit einer erfindung?)
-jahre vergehen, floki wird ragnars gefolge
-ragnar begegnet björn beim ...
-björn ist verschlossen und man merkt dass er in der Vergangenheit schlimmes
-erlebt hat. Er ist schweigsam, aber im Kampf brutal.
+
 
 halfdan und harald sind Brüder, sie schließen sich der warband an, um die
 Familie über wasser zu halten. Sie streite nsich immer darum, wer der bessere
