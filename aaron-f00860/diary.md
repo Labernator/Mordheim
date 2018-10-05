@@ -81,6 +81,8 @@ leer.
 noch ein paar kleine Änderungen an der Warband gemacht, da hab ich mich wohl
 verrechnet.
 
+## Painting galore
+
 **2018/10/02**: Heute hab ich die Minis zusammengeklebt und von überstehenden
 Resin-Resten befreit. Sie sehen wirklich gut aus, freue mich schon sie
 anzumalen. Leider ist die Fantasywelt.de-Bestellung noch nicht da, so dass ich
@@ -94,7 +96,7 @@ macht das Füllen von Flächen erheblich einfacher, vor allem bei den 20
 Schatzkisten und der Kathedrale. Leider hatte ich nur die Grundfarben als
 "air"-Variante, so musste ich mir braun und grau selbst mischen.
 
-![you have to go big](diary-20181004-1.jpg)
+![you have to go big](diary-20181004-2.jpg)
 
 Die Bases für die Minis habe ich mir auch ausgedruckt. Das spart mir etwas
 Arbeit beim Gestalten der selbigen. Diese hab ich dann auch gleich mal mit einem
