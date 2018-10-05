@@ -80,3 +80,27 @@ leer.
 **2018/10/01**: Endlich sind die Minis da :) Nun kann es losgehen. Habe eben
 noch ein paar kleine Änderungen an der Warband gemacht, da hab ich mich wohl
 verrechnet.
+
+**2018/10/02**: Heute hab ich die Minis zusammengeklebt und von überstehenden
+Resin-Resten befreit. Sie sehen wirklich gut aus, freue mich schon sie
+anzumalen. Leider ist die Fantasywelt.de-Bestellung noch nicht da, so dass ich
+hier noch warten muss. Aufgespießt habe ich sie allerdings schon mal.
+
+![the gang](diary-20181002-1.jpg)
+
+**2018/10/04**: Da mir etwas die Zeit fehlt und ich noch einiges an Gelände
+anmalen muss, habe ich mich entschlossen das Airbrush-Equipment rauszuholen. Das
+macht das Füllen von Flächen erheblich einfacher, vor allem bei den 20
+Schatzkisten und der Kathedrale. Leider hatte ich nur die Grundfarben als
+"air"-Variante, so musste ich mir braun und grau selbst mischen.
+
+![you have to go big](diary-20181004-1.jpg)
+
+Die Bases für die Minis habe ich mir auch ausgedruckt. Das spart mir etwas
+Arbeit beim Gestalten der selbigen. Diese hab ich dann auch gleich mal mit einem
+braun/grauen Grundton angemalt. Mit einem Wash und etwas drybrushing sieht das
+denke ich schon einigermaßen aus. Den Rest mache ich dann, wenn die Minis
+aufgeklebt sind. Als nächstes geht es dann an die Feinarbeiten und die Minis.
+
+![painting bases](diary-20181004-1.jpg)
+
