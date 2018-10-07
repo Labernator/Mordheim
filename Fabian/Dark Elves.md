@@ -1,8 +1,10 @@
 Gaurkin Warseeker
 
-High Born               70      120     
+High Born               70          95     
 
- -Repeater Crossbow     35
+ -Axe                    5
+
+ -Axe                    5
  
  -Dark Venom            15
 
@@ -10,9 +12,9 @@ ___________________________________________________
 
 Livil Cinderheart
 
-Fellblades              40       115     
+Fellblades              40          95    
 
- -Sword                 10
+ -Axe                    5
  
  -Axe                    5
 
@@ -22,19 +24,17 @@ Sissibi Deadstride
 
 Fellblades              40            
 
- -Sword                 10
- 
- -Sword                 10
+ -Axe                    5
 
 ___________________________________________________
 
 Nesha Dreadgrip
 
-Sorceress               55       55     
+Sorceress               55           55     
 
 _________________________________________________
 
-Mivouc Warfall                  210
+Mivouc Warfall                      140
 
 Corsairs                35              
 
@@ -53,9 +53,17 @@ _________________________________________________
 
 Matrol Darkbane
 
-Corsairs                35              
+Shades                  30           115  
 
- -Repeater Crossbow     35
+_________________________________________________
+
+Shades                  30         
+
+_________________________________________________
+
+Beastmaster             45 
+
+- Beastlash             10
 
 
 Total 500
