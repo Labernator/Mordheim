@@ -1,4 +1,3 @@
-
 # Orks mostly epic & goblins
 
 ---
@@ -9,7 +8,7 @@ Doomed are the orks of the bloody sunz clan, the black ork boyz are suffering of
 The bloodlust was growing bigger and bigger over centuries and no one could satisfy their morbid hankering.
 Even after a great Waaagh! thee most of the member of the clan cant stop to fight and to scrap each other of their
 brotherhood. They are lost and doomed to eradicate themselves. Every of the few chosen shaman in the clan tried
-to get the bloddy sunz to calm down and to scavange their brains from the burning desire of the bloodlust.
+to get the bloddy sunz to calm down and to scavenge their brains from the burning desire of the bloodlust.
 All of them dies in a tremendous death of being eaten alive or got ripped in many parts.
 
 Only one shaman survived the attack of the enraged orks - the nightgoblin shaman Gazbag. A gifted little and war proofen
@@ -20,7 +19,7 @@ catched them before his friend and side kick Grumlok even could react. Gazbag wa
 boyz tried to ead his head. The only chance Grumlok had to protect his friend was to fight the smaller boyz and
 to kill them all. Grumlok wrenched the bleeding and knocked down goblin behind his enormous back, holding his battle axe
 in his left big and mighty hand.
-The slightly green glow in his eyes - a sign of the purity of his mind and the conneciton to the Waaagh! -
+The slightly green glow in his eyes - a sign of the purity of his mind and the connection to the Waaagh! -
 has shown up and he knew that will be the only way to get out of this situation.
 
 He blows his Axe in brutal and fast verves into the warband of the doomed orcs of his clan.
@@ -36,7 +35,7 @@ A few seconds ago in the edge of his eye Grumlok noticed a shrug of Gazbag's lif
 He turned around and wrecked the squig with the blade of his Axe into two pieces.
 Gazbag his long friend, his side kick, his pal was dead.
 
-With an aweful roar, Grumlok repealed the body, notwithstanding that there are still doomed boyz around him,
+With an awful roar, Grumlok repealed the body, notwithstanding that there are still doomed boyz around him,
 he took him out of the camp. The doomed boys confused and irritated about the boss who stopped to fight them,
 leaped directly to the next fighting brother on their sided. None of them survived the massacre of this battle.
 The last doomed boy who survived the battle died because he tried to fight against himself - he won in a heroic way of
@@ -67,14 +66,14 @@ Grumlok still tells the story that Gazbag bend up his upper part of the body and
 but the truth is that Woggah tried to focus a healing spell onto the dying body of Gazbag on the rite shrine in his hut. Two days he tried
 to save him. Te regenerate his lost brain, to heal his broken head and to fulfill him with live. But at the end Woggah had to gave up, all his powers
 fail. Gazbag'sbrain was dead. Only the body and the ability to hold himself on the shoulder Armour of Grumlok was regenerated.
-For now on Gazbag the brain dead Goblin shaman was standing still on the shoulder of his friend and leader Grumlok. holding it's battle staff untill his Waaagh!
+For now on Gazbag the brain dead Goblin shaman was standing still on the shoulder of his friend and leader Grumlok. holding it's battle staff until his Waaagh!
 fulfilled body will die.
 
 Grumlok tear up about the fact that his friend would be never the same pal as before and after days of suffering he decided not to
 go back and rescue his old clan - he didn't know that they are already dead.
 
 He decided to leave. To leaf the world he knows. To leaf his doomed clan. And his home. A achy truth has reached his mind, the War never will be
-the same as before. With his two-handed battleaxe in his left hand and Gazbag on the shoulder of his Armour, he decamp the hut of Woggah,
+the same as before. With his two-handed battle axe in his left hand and Gazbag on the shoulder of his Armour, he decamp the hut of Woggah,
 turned around and spontaneously asked him to come along.
 
 In his loony mind the giggling stopped for a long second and Woggah assented, he was tired to wait for the next visitor all the day in his hut.
@@ -83,11 +82,11 @@ doesn't stop long enough to finish even a short idea to the end.
 
 Weeks and months they were lurch through the world, no reason to stay, no reason to step on, no fight to blastoff no reason to retreat.
 All happen during this obscure period of their ramble was that Woggah figured out that Gazbag self-evidently appear as a catalyst for the Waaagh!
-- he can use to re-enforce his powers.
+\- he can use to re-enforce his powers.
 
 Later on they met the brothers of yawn - a covey of war zesty night goblins - four of them to be strictly correct.
 Their names are Higgz, Snotz and Roddz the three spear-men and Gurnch the vicious sword fighter. Swords...
-Grumlock looked at the two enormous small human bread knive sized chaser in their hand and on the top of their spears and started to grin.
+Grumlock looked at the two enormous small human bread knives sized chaser in their hand and on the top of their spears and started to grin.
 He didn't know that toothpicks are used in combat.
 
 Lorn - cause they lost their warband - and with a crank mood they mooched around a tavern, they were not allowed to enter.
@@ -101,7 +100,7 @@ some beer. At least no one of the group were sure why it feel wrong to accompany
 standing there like monkey like pet.
 
 The goblins also didn't bother about the goals of their new warband and they are also not interested about the kind of job they have to do.
-Their primary need was satisfied now, to be part of a warband and follow a big leader - in their case a really aweful black ork with a
+Their primary need was satisfied now, to be part of a warband and follow a big leader - in their case a really awful black ork with a
 brutal Battleaxe - what could be wrong with this happenstance.
 
 Few weeks later - and a lot of incvoluntarily started fights - because the goblins provoke every one in a range of sight. Crazily, every time they
@@ -131,6 +130,8 @@ and more challenges to pass as they can.
 In this moment of fight and the clarification of hierarchy the warband of mostly epic orks and goblins were born.
 A warband to scavenge huge amounts of gold crowns, conquer for treasures and compete with other warbands for honor or at least not to get killed.
 
+![The warband's Ork heroes](kai_orks-mostlyepic-n-goblins_warband.jpg)
+
 ---
 
 ## Warband detail
@@ -150,10 +151,10 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 | | combat|
 | | shooting|
 | | ork special|
-|two-handed|15 gc|
+|two-handed|10 gc|
 |light armor|20 gc|
 |shield|5 gc|
-|summary| ***120 gc***|
+|summary| ***115 gc***|
 
 >>>
 
@@ -167,7 +168,8 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 | | ork special|
 |halberd|10 gc|
 |light armour|20 gc|
-|summary|***70 gc***|
+|shield|5 gc|
+|summary|***75 gc***|
 
 >>>
 
@@ -299,8 +301,8 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 |dagger|enemy armor save +1|
 |axe|cutting edge|
 |sword|parry|
-|halberd|unwieldy, two-handed, S=user+1|
-|two-handed|unwieldy, two-handed, strike last, S=user+2|
+|halberd|two-handed, S=user+1|
+|double-handed|two-handed, strike last, S=user+2|
 |spear|strike first, unwieldy|
 |short bow|16" S3|
 |shield|+1 armor save|
@@ -311,8 +313,9 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 |item attribute|characteristic|
 |:---|:---|
 |cutting edge|enemy armor save -1|
-|parry|on hit roll d6 if >= parried|
-|unwieldy|can not war any item in the off-hand, s shield can used to get an armor save against shooting|
+|parry|on hit roll d6 if >= enemy hit score => parried|
+|unwieldy|can use a buckler or shield in off-hand during cc but no second weapon|
+|two-handed|no buckler or shield allowed in cc; a shield can used to get an +1 armor save against shooting |
 |strike first|even if the carrier got charged, the carrier strikes first in cc|
 |strike last|even after a successful charge the carrier strikes last in cc|
 

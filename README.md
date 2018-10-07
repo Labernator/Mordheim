@@ -7,7 +7,7 @@ Mordheim Campaign
 * Marius (Laber) [Dragon Knights](/Marius/Dragon%20Knights)
 * Kai (klaute) [Orks](/kai/kai-orks_mostly_epic_and_goblins.md)
 * Aaron (f00860) [Dwarf Treasure Hunters](/aaron-f00860/warband-the-smashing-skull.md) ([diary](/aaron-f00860/diary.md))
-* Fabain (Gary) [Dary Elves](/Fabian/Dark%20Elves.md)
+* Fabian (Gary) [Dary Elves](/Fabian/Dark%20Elves.md)
 
 # Absprachen & Anpassungen am Regelwerk
 
