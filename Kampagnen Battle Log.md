@@ -32,7 +32,9 @@ Aufstellung: Der aktive Spieler sucht sich ein Segment aus (siehe Bild) und plat
 
 ![Deployment](Deployment.png)  
 
-Nachdem alle Warbands platziert sind wird nochmal mit 3D6 gewürfelt. Das legt die Spielreihenfolge fest.
+Nachdem alle Warbands platziert sind wird nochmal mit 3D6 gewürfelt. Das legt die Spielreihenfolge fest: Höchster Wert zuerst, danach im Uhrzeigersinn.  
+
+Underdog: Aaron hat das niedrigste Warband Rating (73). Als zweitniedrigstes kommt Marius (106). Marius hat (ganz knapp) nicht mehr als 50% von Aarons Rating also gibt es keinen Underdog Bonus.
 
 **Battle Report**  
 
@@ -52,6 +54,8 @@ Aufstellung: Der aktive Spieler sucht sich ein Segment aus (siehe Bild) und plat
 
 ![Deployment](Deployment.png)  
 
-Nachdem alle Warbands platziert sind wird nochmal mit 3D6 gewürfelt. Das legt die Spielreihenfolge fest.
+Nachdem alle Warbands platziert sind wird nochmal mit 3D6 gewürfelt. Das legt die Spielreihenfolge fest: Höchster Wert zuerst, danach im Uhrzeigersinn.  
+
+Underdog: 
 
 **Battle Report**  
