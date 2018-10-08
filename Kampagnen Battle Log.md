@@ -27,7 +27,7 @@ People speculated that Sigmar had passed his judgement on the people living in t
 Diese Regeln sollen lediglich Lücken im Szenario möglichst intuitiv füllen.
 
 **Setup**  
-Jeder würfelt mit 3D6. Das legt die Reihenfolge für die Aufstellung fest.
+Jeder würfelt mit 3D6. Das legt die Reihenfolge für die Aufstellung fest.  
 Aufstellung: Der aktive Spieler sucht sich ein Segment aus (siehe Bild) und platziert seine Warband maximal 6" vom Rand und 6" von einem Mitglied einer anderen Warband entfernt.  
 
 ![Deployment](Deployment.png)  
@@ -47,7 +47,7 @@ Diese Regeln sollen verhindern, dass sich ein Model mit hoher Movement Rate (Wul
 
 
 **Setup**  
-Jeder würfelt mit 3D6. Das legt die Reihenfolge für die Aufstellung fest.
+Jeder würfelt mit 3D6. Das legt die Reihenfolge für die Aufstellung fest.  
 Aufstellung: Der aktive Spieler sucht sich ein Segment aus (siehe Bild) und platziert seine Warband maximal 6" vom Rand und 6" von einem Mitglied einer anderen Warband entfernt.  
 
 ![Deployment](Deployment.png)  
