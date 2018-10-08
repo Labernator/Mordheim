@@ -28,8 +28,10 @@ Diese Regeln sollen lediglich Lücken im Szenario möglichst intuitiv füllen.
 
 **Setup**  
 Jeder würfelt mit 3D6. Das legt die Reihenfolge für die Aufstellung fest.
-Aufstellung: Der aktive Spieler sucht sich ein Segment aus (siehe Bild) und platziert seine Warband maximal 6" vom Rand und 6" von einem Mitglied einer anderen Warband entfernt.
-![Deployment](Deployment.png)
+Aufstellung: Der aktive Spieler sucht sich ein Segment aus (siehe Bild) und platziert seine Warband maximal 6" vom Rand und 6" von einem Mitglied einer anderen Warband entfernt.  
+
+![Deployment](Deployment.png)  
+
 Nachdem alle Warbands platziert sind wird nochmal mit 3D6 gewürfelt. Das legt die Spielreihenfolge fest.
 
 **Battle Report**  
@@ -46,8 +48,10 @@ Diese Regeln sollen verhindern, dass sich ein Model mit hoher Movement Rate (Wul
 
 **Setup**  
 Jeder würfelt mit 3D6. Das legt die Reihenfolge für die Aufstellung fest.
-Aufstellung: Der aktive Spieler sucht sich ein Segment aus (siehe Bild) und platziert seine Warband maximal 6" vom Rand und 6" von einem Mitglied einer anderen Warband entfernt.
-![Deployment](Deployment.png)
+Aufstellung: Der aktive Spieler sucht sich ein Segment aus (siehe Bild) und platziert seine Warband maximal 6" vom Rand und 6" von einem Mitglied einer anderen Warband entfernt.  
+
+![Deployment](Deployment.png)  
+
 Nachdem alle Warbands platziert sind wird nochmal mit 3D6 gewürfelt. Das legt die Spielreihenfolge fest.
 
 **Battle Report**  
