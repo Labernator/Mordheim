@@ -244,15 +244,29 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 
 ---
 
+## Nice to have Henchmen
+
+4x Ork 25gc
+  Bow 10gc
+
+3x Ork 25gc
+  battle axe 5gc
+  shield 5gc
+
+Ork drummer (2x clubs)
+Ork standard bearer (must be an hero)
+
 ## Nice to have equipment
 
-|*Equipment*| ||
-|---:|:---|---:|
-|50 gc|Banner|rare 5|
-|30+2d6 gc|War Horn|rare 8|
-|1 gc|Garlic|common|
-|10+3d6 gc|Blessed water|rare 6|
-|2 gc|torch|common|
+|*Equipment*| |||
+|---:|:---|---:||
+|10 gc|helmet|common|4x Leader + Big'Uns|
+|1 gc|Garlic|common|~10x|
+|10+3d6 gc|Blessed water|rare 6|5x|
+|50 gc|Banner|rare 5|1x|
+|30+2d6 gc|War Horn|rare 8|1x|
+|2 gc|torch|common|2x|
+|5 gc|club|common|2x|
 
 ## Nice to have skills
 
@@ -262,6 +276,7 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 1. well' ard
 2. da' cunnin' plan (leader only)
 3. 'eadbasher
+4. 'ere we go!
 
 ***common skill***
 1. money maker
@@ -285,6 +300,7 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 2. axe master
 3. combat master
 3. strike to injure
+4. weapons training
 
 ### Goblins
 
@@ -345,6 +361,7 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 ||axe master|as parry using a sword|
 ||combat master|if in cc with more than one enemy he can use 1 extra attack, immune to all allone test (need two other)|
 ||strike to injure|+1 to all injury rolls in CC (need two other)|
+||weapons training|use any weapon|
 |*ork special*|'eadbasher|every knock down counts as stunned|
 ||well'ard|+1 armor save|
 ||da' cunnin' plan|reroll a failed rout test|
