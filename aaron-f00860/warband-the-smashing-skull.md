@@ -109,4 +109,11 @@ Warband Rating: **73**
 
 ## Skill Wishlist
 
-TBD
+* Dirty Fighter (Prereq. for Bjørn)
+* Far-sight (Floki)
+* Sweeping Blow (Ragnar)
+* Pistolier, Nimble, Hunter, Vitals Shot (Halfdan & Harald)
+
+* Extra Tough
+* True Grit
+* Thik Skull
