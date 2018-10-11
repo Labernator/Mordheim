@@ -36,3 +36,7 @@
 
 13.) Wie funktioniert Ariel's Blessing? (S.54)
  - Alles wird auf den Zeitpunkt vor dem out of Action zurück gedreht: Wiederbelebter Char hat 0 Wunden und Gegner erhält keine Experience für den Kill.
+
+14.) Neuer Skill  
+ - Strength Skill: Tin Can  
+ Der Hero kann jede beliebige Rüstung tragen.
