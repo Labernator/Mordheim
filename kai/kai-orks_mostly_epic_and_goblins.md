@@ -282,12 +282,12 @@ Ork standard bearer (must be an hero)
 1. money maker
 2. Far-Sight (shaman)
 
-
 ***strength skills***
-1. fearsome
-2. resilient
-3. strongman
-4. mighty blow
+1. tin can
+2. fearsome
+3. resilient
+4. strongman
+5. mighty blow
 
 ***speed skills*** (leader only)
 1. sprint
@@ -350,6 +350,7 @@ Ork standard bearer (must be an hero)
 |skills list|skill|description|
 |:---|:---|:---|
 |*strength*|fearsome|charging enemies have to do a fear test|
+||tin can|Can wear all kind of armor|
 ||resilient|S-1 for all hits to him in CC|
 ||strongman|Use Two-handed without strike last (need two other)|
 ||mighty blow|S+1 in CC (not shooting, need two other)
