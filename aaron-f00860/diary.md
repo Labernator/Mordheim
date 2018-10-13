@@ -106,3 +106,14 @@ aufgeklebt sind. Als nächstes geht es dann an die Feinarbeiten und die Minis.
 
 ![painting bases](diary-20181004-1.jpg)
 
+**2018/10/13**: So langsam wird es eng mit dem Bemalen. Leider hatte ich die
+letzten Tage nicth all zu viel Zeit dafür, deshalb muss es jetzt etwas zügiger
+gehen. Nebenbei noch den German Bowl schauen :)
+
+![panic mode](diary-20181013-1.jpg)
+
+Noch schnell auf die Bases geklebt und "fertig" ist die Warband. Sie sind nicht
+perfekt, aber für die erste Runde kann man damit spielen. Morgen ist Game Day!
+
+![the smashing skull](diary-20181013-1.jpg)
+
