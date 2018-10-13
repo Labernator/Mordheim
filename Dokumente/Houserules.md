@@ -33,3 +33,10 @@
 
 12.) Wie werden Allianzen/Underdogs bei ausgeschiedenen Spielern behandelt? (S.193 Allies and Underdogs)
  - Wenn schon Spieler ausgeschieden sind und zwei oder mehr Spieler eine Allianz bilden wird der Underdog Bonus komplett neu berechnet. Beispiel: Spieler A (Warband Rating 70), Spieler B (Warband Rating 90), Spieler C (Warband Rating 110), Spieler D (Warband Rating 130), Spieler E (Warband Rating 210). Zu beginn des Spiels erhält niemand den Underdog Bonus (Vergleich zwischen Spieler A und B). Jetzt scheidet Spieler A aus. Danach formen B und C eine Allianz. Neue Berechnung des Underdog Bonus: Spieler C (Warband Rating 110), Allianz B & C (Warband Rating 200), Spieler E (Warband Rating 210). Jetzt erhält Spieler C am Ende des Spiels den Underdog Bonus. Sollte er sich später auch der Allianz anschließen, erhält kein Spieler einen Bonus.
+
+13.) Wie funktioniert Ariel's Blessing? (S.54)
+ - Alles wird auf den Zeitpunkt vor dem out of Action zurück gedreht: Wiederbelebter Char hat 0 Wunden und Gegner erhält keine Experience für den Kill.
+
+14.) Neuer Skill  
+ - Strength Skill: Tin Can  
+ Der Hero kann jede beliebige Rüstung tragen.

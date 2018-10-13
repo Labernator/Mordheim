@@ -26,6 +26,17 @@ People speculated that Sigmar had passed his judgement on the people living in t
 
 Diese Regeln sollen lediglich Lücken im Szenario möglichst intuitiv füllen.
 
+**Setup**  
+Jeder würfelt mit 3D6. Das legt die Reihenfolge für die Aufstellung fest.  
+Aufstellung: Der aktive Spieler sucht sich ein Segment aus (siehe Bild) und platziert seine Warband maximal 6" vom Rand und 6" von einem Mitglied einer anderen Warband entfernt.  
+
+![Deployment](Deployment.png)  
+
+Nachdem alle Warbands platziert sind wird nochmal mit 3D6 gewürfelt. Das legt die Spielreihenfolge fest: Höchster Wert zuerst, danach im Uhrzeigersinn.  
+
+Underdog: Aaron hat das niedrigste Warband Rating (73). Als zweitniedrigstes kommt Marius (106). Marius hat (ganz knapp) nicht mehr als 50% von Aarons Rating also gibt es keinen Underdog Bonus.
+
+**Battle Report**  
 
 ## Szenario 2: The Lost Prince (S. 207)
 
@@ -36,3 +47,15 @@ Diese Regeln sollen lediglich Lücken im Szenario möglichst intuitiv füllen.
 
 Diese Regeln sollen verhindern, dass sich ein Model mit hoher Movement Rate (Wulfen mit Sprint, Centigor, etc.) den Prinz schnappt und einfach vom Board rennt.
 
+
+**Setup**  
+Jeder würfelt mit 3D6. Das legt die Reihenfolge für die Aufstellung fest.  
+Aufstellung: Der aktive Spieler sucht sich ein Segment aus (siehe Bild) und platziert seine Warband maximal 6" vom Rand und 6" von einem Mitglied einer anderen Warband entfernt.  
+
+![Deployment](Deployment.png)  
+
+Nachdem alle Warbands platziert sind wird nochmal mit 3D6 gewürfelt. Das legt die Spielreihenfolge fest: Höchster Wert zuerst, danach im Uhrzeigersinn.  
+
+Underdog: 
+
+**Battle Report**  
