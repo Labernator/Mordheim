@@ -115,5 +115,5 @@ gehen. Nebenbei noch den German Bowl schauen :)
 Noch schnell auf die Bases geklebt und "fertig" ist die Warband. Sie sind nicht
 perfekt, aber für die erste Runde kann man damit spielen. Morgen ist Game Day!
 
-![the smashing skull](diary-20181013-1.jpg)
+![the smashing skull](diary-20181013-2.jpg)
 
