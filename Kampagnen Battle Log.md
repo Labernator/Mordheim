@@ -48,7 +48,7 @@ Underdog: Aaron hat das niedrigste Warband Rating (73). Als zweitniedrigstes kom
 * Thunderer killt Gaerdor (recovery)
 * Innor Kiste
 * Igor kiste
-* Anulep suizid (recovery)
+* Anulep Suizid (Wahrscheinlichkeit 2-3%!!!!) (recovery)
 * Glade Guard killt Grunch (dead)
 * Shade Kiste
 * **Laber routet**
