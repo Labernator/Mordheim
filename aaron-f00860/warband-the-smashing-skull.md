@@ -86,6 +86,8 @@ machten sie sich auf den Weg, um die Schätze von Mordheim zu bergen.
 
 # Characters
 
+![the gang](diary-20181013-2.jpg)
+
 * **Ragnar** (Dwarf Noble): Helmet, Shield, Gromril Armour, Double-handed Weapon (190GC)
 * **Floki** (Dwarf Engineer): Helmet, Shield, Hammer (70GC)
 * **Bjørn** (Dwarf Troll Slayer): Dwarf Axe (65GC)
