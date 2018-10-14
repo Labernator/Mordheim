@@ -116,6 +116,34 @@ Kai: 3 Shards, 3 verkauft 70 GC
 Laber: 3 Shards, 3 verkauft 65 GC
 CZ: 4 Shards, 3 verkaufen 65 GC
 
+CZ: 160 GC (+1 ubrig vom bauen)
+ +1 Searath (fur 12 GC)
+ +2 Eternal Guard (90)
+ +1 Sword (10 GC)
+ + Arabian Merchant (20)
+ + 4 Dagger (8)
+ -> 21 GC uebrig
+
+Laber: 68 GC (+4 vom bauen)
++2 Hellhounds (50 GC)
++1 Bondsman mit Dagger (22)
+-> 0 ubrig
+
+Aaron: 55 GC
+
+
+Fabian: 77 GC
+verkauf brewmens ale (+25 GC)
++ Sea Dragon Cloak (59)
++ 2 Light Armour (40)
+-> 3 ubrig
+
+Kai: 70 GC
++ Magier (40)
++ Goblin, Speer, 2 XP, Kurzbogen (29)
+-> 1 GC uebrig
+
+
 
 ## Szenario 2: The Lost Prince (S. 207)
 
