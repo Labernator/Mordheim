@@ -123,8 +123,8 @@ Underdog: Aaron hat das niedrigste Warband Rating (73). Als zweitniedrigstes kom
 - +1 Searath (fur 12 GC)
 - +2 Eternal Guard (90)
 - +1 Sword (10 GC)
-- + Arabian Merchant (20)
-- + 4 Dagger (8)
+- +1 Arabian Merchant (20)
+- +4 Dagger (8)
 - -> 21 GC übrig
 
 #### Laber: 78 GC (+4 vom bauen)
@@ -134,18 +134,18 @@ Underdog: Aaron hat das niedrigste Warband Rating (73). Als zweitniedrigstes kom
 
 #### Aaron: 55 GC (+5 vom Bauen)
 - +2 Dwarf Axe (30)
-- Light Armour (20)
+- +1 Light Armour (20)
 - -> 10 GC übrig
 
 #### Fabian: 77 GC
 - verkauf brewmens ale (+25 GC)
-- + Sea Dragon Cloak (59)
-- + 2 Light Armour (40)
+- +1 Sea Dragon Cloak (59)
+- +2 Light Armour (40)
 - -> 3 GC übrig
 
 #### Kai: 70 GC
-- + Magier (40)
-- + Goblin, Speer, 2 XP, Kurzbogen (29)
+- +1 Magier (40)
+- +1 Goblin, Speer, 2 XP, Kurzbogen (29)
 - -> 1 GC übrig
 
 
