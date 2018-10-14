@@ -54,6 +54,14 @@ Laber routet
 Uglash killt Brandaer revive
 Bjorn killt Gaukin
 Sissibi Kiste
+Glade Guard killt Uglash
+Glade Guard killt Roddz
+Thunderer killt Estedir
+Glade Guard Kiste
+Kai routet
+Glade Guard Kiste
+Eternal Guard Kiste
+Nesha killt Bjorn
 
 ## Szenario 2: The Lost Prince (S. 207)
 
