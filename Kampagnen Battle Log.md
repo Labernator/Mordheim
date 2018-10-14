@@ -99,8 +99,22 @@ Lifir: uberlebt +1
 
 Laber:
 Markus: uberlebt +1
-Igor: uberlebt, Kiste +2 (Advance Skill: 
+Igor: uberlebt, Kiste +2 (Advance Skill: Bellringer)
 Vladimir: uberlebt +1
+
+CZ:
+Leader: uberlebt, Kiste, 2x Szenario +4 (Advance: Skill Haggle)
+Armen: uberlebt, Kiste +2 Advance +1 WS
+Eternal Guard: uberlebt, Kiste, Kill +3 (Advance: +1 Ini)
+Glade Guard: 3 Kills, 3 Kisten, uberlebt +7 (Advance +1 WS, +1 BS)
+Innor: uberlebt, Kiste +2 (Advance +1 Wound)
+
+Exploration:
+Aaron: 2 Shards, verkauft 1: 40 GC
+Fabian: 3 Shards, 2 verkauft: 50 GC
+Kai: 3 Shards, 3 verkauft 70 GC
+Laber: 3 Shards, 3 verkauft 65 GC
+CZ: 4 Shards, 3 verkaufen 65 GC
 
 
 ## Szenario 2: The Lost Prince (S. 207)
