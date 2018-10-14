@@ -127,10 +127,10 @@ CZ: 160 GC (+1 ubrig vom bauen)
  + Shield (5)  
  -> 0 GC uebrig
 
-Laber: 68 GC (+4 vom bauen)  
+Laber: 78 GC (+4 vom bauen)  
 +2 Hellhounds (50 GC)  
 +1 Bondsman mit Dagger (22)  
--> 0 ubrig  
+-> 10 ubrig  
 
 Aaron: 55 GC (+5 vom Bauen)  
 +2 Dwarf Axe (30)  
