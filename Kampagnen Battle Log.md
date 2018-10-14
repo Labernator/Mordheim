@@ -40,29 +40,30 @@ Underdog: Aaron hat das niedrigste Warband Rating (73). Als zweitniedrigstes kom
 
 15 Crates
 Reihenfolge: Kai, Stefan, Aaron, Fabian, Marius
-Snotz killt Waldemar
-Grummlog killt Ivan
-EG killt Wogga
-Bjorn killt whitebane
-Thunderer killt Gaerdor
+Snotz killt Waldemar (dead)
+Grummlog killt Ivan (recovery)
+EG killt Wogga (dead)
+Bjorn killt whitebane  (32: old battle wound)
+Thunderer killt Gaerdor (recovery)
 Innor Kiste
 Igor kiste
-Anulep suizid
-Glade Guard killt Grunch
+Anulep suizid (recovery)
+Glade Guard killt Grunch (dead)
 Shade Kiste
 Laber routet
 Uglash killt Brandaer revive
-Bjorn killt Gaukin
+Bjorn killt Gaukin (recovery)
 Sissibi Kiste
-Glade Guard killt Uglash
-Glade Guard killt Roddz
-Thunderer killt Estedir
+Corsair killt Floki (26, minus 1 T)
+Glade Guard killt Uglash (recovery)
+Glade Guard killt Roddz (dead)
+Thunderer killt Estedir (recovery)
 Glade Guard Kiste
 Kai routet
 Glade Guard Kiste
 Eternal Guard Kiste
-Nesha killt Bjorn
-Corsair killt Thunderer
+Nesha killt Bjorn (recovery)
+Corsair killt Thunderer (recovery)
 Glade Guard Kiste
 Thunderer Kiste
 Brandaer Kiste
