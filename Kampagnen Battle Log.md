@@ -129,7 +129,10 @@ Laber: 68 GC (+4 vom bauen)
 +1 Bondsman mit Dagger (22)
 -> 0 ubrig
 
-Aaron: 55 GC
+Aaron: 55 GC (+5 vom Bauen)
++2 Dwarf Axe (30)
+Light Armour (20)
+-> 10 ubrig
 
 
 Fabian: 77 GC
