@@ -38,6 +38,23 @@ Underdog: Aaron hat das niedrigste Warband Rating (73). Als zweitniedrigstes kom
 
 **Battle Report**  
 
+15 Crates
+Reihenfolge: Kai, Stefan, Aaron, Fabian, Marius
+Snotz killt Waldemar
+Grummlog killt Ivan
+EG killt Wogga
+Bjorn killt whitebane
+Thunderer killt Gaerdor
+Innor Kiste
+Igor kiste
+Anulep suizid
+Glade Guard killt Grunch
+Shade Kiste
+Laber routet
+Uglash killt Brandaer revive
+Bjorn killt Gaukin
+Sissibi Kiste
+
 ## Szenario 2: The Lost Prince (S. 207)
 
 **Scenario Houselrules**  
