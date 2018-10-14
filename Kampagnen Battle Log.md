@@ -66,6 +66,15 @@ Corsair killt Thunderer
 Glade Guard Kiste
 Thunderer Kiste
 Brandaer Kiste
+Aaron routet
+Armen Kiste
+
+Reward:
+
+Aaron: 15 GC
+Fabian: 3 Schilde, Schwerte, 3 Thoughened Leathers, Bugman"s Ale, 27 GC
+Laber: 13 GC
+CZ: 95 GC, Superior Blackpowder, 1 Toughened Leathers
 
 ## Szenario 2: The Lost Prince (S. 207)
 
