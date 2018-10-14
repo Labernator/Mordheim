@@ -18,7 +18,7 @@ People speculated that Sigmar had passed his judgement on the people living in t
 
 ## Szenario 1: The Raven Barracks (S. 213)
 
-**Scenario Houselrules**  
+### Scenario Houselrules 
 -	Wenn zwei Modelle eine Kiste vom Board tragen, erhält nur eines davon die extra Experience. Der Spieler darf bestimmen welches.
 -	Wenn eine Warband alle Mitglieder mit Kisten vom Board geschafft hat endet das Spiel. In diesem Fall ist der Gewinner diejenige Warband die am meisten Kisten vom Board geschafft hat.
 -	Wenn ein Modell welches eine Kiste trägt out of Action geht, wird die Kiste an der Stelle aufs Feld gestellt.
@@ -26,7 +26,7 @@ People speculated that Sigmar had passed his judgement on the people living in t
 
 Diese Regeln sollen lediglich Lücken im Szenario möglichst intuitiv füllen.
 
-**Setup**  
+### Setup 
 Jeder würfelt mit 3D6. Das legt die Reihenfolge für die Aufstellung fest.  
 Aufstellung: Der aktive Spieler sucht sich ein Segment aus (siehe Bild) und platziert seine Warband maximal 6" vom Rand und 6" von einem Mitglied einer anderen Warband entfernt.  
 
@@ -36,119 +36,117 @@ Nachdem alle Warbands platziert sind wird nochmal mit 3D6 gewürfelt. Das legt d
 
 Underdog: Aaron hat das niedrigste Warband Rating (73). Als zweitniedrigstes kommt Marius (106). Marius hat (ganz knapp) nicht mehr als 50% von Aarons Rating also gibt es keinen Underdog Bonus.
 
-**Battle Report**  
+### Battle Report
 
-15 Crates  
-Reihenfolge: Kai, Stefan, Aaron, Fabian, Marius  
-Snotz killt Waldemar (dead)  
-Grummlog killt Ivan (recovery)  
-EG killt Wogga (dead)  
-Bjorn killt whitebane  (32: old battle wound)  
-Thunderer killt Gaerdor (recovery)  
-Innor Kiste  
-Igor kiste  
-Anulep suizid (recovery)  
-Glade Guard killt Grunch (dead)  
-Shade Kiste  
-Laber routet  
-Uglash killt Brandaer revive  
-Bjorn killt Gaukin (recovery)  
-Sissibi Kiste  
-Corsair killt Floki (26, minus 1 T)  
-Glade Guard killt Uglash (recovery)  
-Glade Guard killt Roddz (dead)  
-Thunderer killt Estedir (recovery)  
-Glade Guard Kiste  
-Kai routet  
-Glade Guard Kiste  
-Eternal Guard Kiste  
-Nesha killt Bjorn (recovery)  
-Corsair killt Thunderer (recovery)  
-Glade Guard Kiste  
-Thunderer Kiste  
-Brandaer Kiste  
-Aaron routet  
-Armen Kiste  
+* 15 Crates
+* Reihenfolge: Kai, Stefan, Aaron, Fabian, Marius
 
-Reward:
+* Snotz killt Waldemar (dead)
+* Grummlog killt Ivan (recovery)
+* EG killt Wogga (dead)
+* Bjørn killt Whitebane  (32: old battle wound)
+* Thunderer killt Gaerdor (recovery)
+* Innor Kiste
+* Igor kiste
+* Anulep suizid (recovery)
+* Glade Guard killt Grunch (dead)
+* Shade Kiste
+* **Laber routet**
+* Uglash killt Brandaer revive
+* Bjorn killt Gaukin (recovery)
+* Sissibi Kiste
+* Corsair killt Floki (26, minus 1 T)
+* Glade Guard killt Uglash (recovery)
+* Glade Guard killt Roddz (dead)
+* Thunderer killt Estedir (recovery)
+* Glade Guard Kiste
+* **Kai routet**
+* Glade Guard Kiste
+* Eternal Guard Kiste
+* Nesha killt Bjorn (recovery)
+* Corsair killt Thunderer (recovery)
+* Glade Guard Kiste
+* Thunderer Kiste
+* Brandaer Kiste
+* **Aaron routet**
+* Armen Kiste
 
-Aaron: 15 GC  
-Fabian: 3 Schilde, Schwerte, 3 Thoughened Leathers, Bugman"s Ale, 27 GC  
-Laber: 13 GC  
-CZ: 95 GC, Superior Blackpowder, 1 Toughened Leathers  
+### Reward:
 
-Exp:  
+* Aaron: **15 GC**
+* Fabian: **3 Schilde, Schwerter, 3 Thoughened Leathers, Bugman's Ale, 27 GC**
+* Laber: **13 GC**
+* CZ: **95 GC, Superior Blackpowder, 1 Toughened Leathers**
 
-Kai:    
-Grumlog +1 (+1 kill)  
-Karhak +1  
-Grommok +1  
-Spear Henchmen +1 (+1 kill): Advance: +1 Ini  
+### Experience:
 
+#### Kai:
+- Grumlog +1 (+1 kill)
+- Karhak +1
+- Grommok +1
+- Spear Henchmen +1 (+1 kill): Advance: +1 Ini
 
-Aaron:   
-Thunderer: uberlebt, Kiste, kill Estedir: +3 (Advance +1S)  
-Boss: uberlebt, kill: +2  
-björn: 2 kills +2
+#### Aaron: 
+- Thunderer: überlebt, Kiste, kill Estedir: +3 (Advance +1S)
+- Boss: überlebt, kill: +2
+- Bjørn: 2 kills +2
 
-Fabian:
-Shade: uberlebt, 2 Kisten +3 (Advance +1 BS)  
-Corsairs, uberlebt, kill +2 (Advance: Lad Got's Talent, +1 W)  
-Sorc: ueberlebt,  kill +2 (Advance +1 Ld)  
-Sissibibbi: uberlebt, Kiste +2 (Advance: Skill Poison Master)  
-Lifir: uberlebt +1  
+#### Fabian:
+- Shade: überlebt, 2 Kisten +3 (Advance +1 BS)
+- Corsairs, überlebt, kill +2 (Advance: Lad Got's Talent, +1 W)
+- Sorc: üeberlebt,  kill +2 (Advance +1 Ld)
+- Sissibibbi: überlebt, Kiste +2 (Advance: Skill Poison Master)
+- Lifir: überlebt +1
 
-Laber:
-Markus: uberlebt +1  
-Igor: uberlebt, Kiste +2 (Advance Skill: Bellringer)  
-Vladimir: uberlebt +1  
+#### Laber:
+- Markus: überlebt +1
+- Igor: überlebt, Kiste +2 (Advance Skill: Bellringer)
+- Vladimir: überlebt +1
 
-CZ:
-Leader: uberlebt, Kiste, 2x Szenario +4 (Advance: Skill Haggle)  
-Armen: uberlebt, Kiste +2 Advance +1 WS  
-Eternal Guard: uberlebt, Kiste, Kill +3 (Advance: +1 Ini)  
-Glade Guard: 3 Kills, 3 Kisten, uberlebt +7 (Advance +1 WS, +1 BS)  
-Innor: uberlebt, Kiste +2 (Advance +1 Wound)  
+#### CZ:
+- Leader: überlebt, Kiste, 2x Szenario +4 (Advance: Skill Haggle)
+- Armen: überlebt, Kiste +2 Advance +1 WS
+- Eternal Guard: überlebt, Kiste, Kill +3 (Advance: +1 Ini)
+- Glade Guard: 3 Kills, 3 Kisten, überlebt +7 (Advance +1 WS, +1 BS)
+- Innor: überlebt, Kiste +2 (Advance +1 Wound)
 
-Exploration:  
-Aaron: 2 Shards, verkauft 1: 40 GC  
-Fabian: 3 Shards, 2 verkauft: 50 GC  
-Kai: 3 Shards, 3 verkauft 70 GC  
-Laber: 3 Shards, 3 verkauft 65 GC  
-CZ: 4 Shards, 3 verkaufen 65 GC  
+### Exploration:
+- Aaron: 2 Shards, verkauft 1: 40 GC
+- Fabian: 3 Shards, 2 verkauft: 50 GC
+- Kai: 3 Shards, 3 verkauft 70 GC
+- Laber: 3 Shards, 3 verkauft 65 GC
+- CZ: 4 Shards, 3 verkaufen 65 GC
 
-CZ: 160 GC (+1 ubrig vom bauen)  
- +1 Searath (fur 12 GC)  
- +2 Eternal Guard (90)  
- +1 Sword (10 GC)  
- + Arabian Merchant (20)
- + 2 Dagger (4)  
- + Light Armour (20)  
- + Shield (5)  
- -> 0 GC uebrig
+### Income, Umbau
 
-Laber: 78 GC (+4 vom bauen)  
-+2 Hellhounds (50 GC)  
-+1 Bondsman mit Dagger (22)  
--> 10 ubrig  
+#### CZ: 160 GC (+1 ubrig vom bauen)
+- +1 Searath (fur 12 GC)
+- +2 Eternal Guard (90)
+- +1 Sword (10 GC)
+- + Arabian Merchant (20)
+- + 4 Dagger (8)
+- -> 21 GC übrig
 
-Aaron: 55 GC (+5 vom Bauen)  
-+2 Dwarf Axe (30)  
-Light Armour (20)  
--> 10 ubrig
+#### Laber: 78 GC (+4 vom bauen)
+- +2 Hellhounds (50 GC)
+- +1 Bondsman mit Dagger (22)
+- -> 10 GC übrig
 
+#### Aaron: 55 GC (+5 vom Bauen)
+- +2 Dwarf Axe (30)
+- Light Armour (20)
+- -> 10 GC übrig
 
-Fabian: 77 GC  
-verkauf brewmens ale (+25 GC)  
-+ Sea Dragon Cloak (59)  
-+ 2 Light Armour (40)  
--> 3 ubrig  
+#### Fabian: 77 GC
+- verkauf brewmens ale (+25 GC)
+- + Sea Dragon Cloak (59)
+- + 2 Light Armour (40)
+- -> 3 GC übrig
 
-Kai: 70 GC  
-+ Magier (40)  
-+ Goblin, Speer, 2 XP, Kurzbogen (29)  
--> 1 GC uebrig
-
+#### Kai: 70 GC
+- + Magier (40)
+- + Goblin, Speer, 2 XP, Kurzbogen (29)
+- -> 1 GC übrig
 
 
 ## Szenario 2: The Lost Prince (S. 207)
