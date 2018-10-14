@@ -77,6 +77,32 @@ Fabian: 3 Schilde, Schwerte, 3 Thoughened Leathers, Bugman"s Ale, 27 GC
 Laber: 13 GC
 CZ: 95 GC, Superior Blackpowder, 1 Toughened Leathers
 
+Exp:
+
+Kai:  
+Grumlog +1 (+1 kill)
+Karhak +1
+Grommok +1
+Spear Henchmen +1 (+1 kill): Advance: +1 Ini
+
+
+Aaron: 
+Thunderer: uberlebt, Kiste, kill Estedir: +3 (Advance +1S)
+Boss: uberlebt, kill: +2
+
+Fabian:
+Shade: uberlebt, 2 Kisten +3 (Advance +1 BS)
+Corsairs, uberlebt, kill +2 (Advance: Lad Got's Talent, +1 W)
+Sorc: ueberlebt,  kill +2 (Advance +1 Ld)
+Sissibibbi: uberlebt, Kiste +2 (Advance: Skill Poison Master)
+Lifir: uberlebt +1
+
+Laber:
+Markus: uberlebt +1
+Igor: uberlebt, Kiste +2 (Advance Skill: 
+Vladimir: uberlebt +1
+
+
 ## Szenario 2: The Lost Prince (S. 207)
 
 **Scenario Houselrules**  
