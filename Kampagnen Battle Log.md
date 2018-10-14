@@ -62,6 +62,10 @@ Kai routet
 Glade Guard Kiste
 Eternal Guard Kiste
 Nesha killt Bjorn
+Corsair killt Thunderer
+Glade Guard Kiste
+Thunderer Kiste
+Brandaer Kiste
 
 ## Szenario 2: The Lost Prince (S. 207)
 
