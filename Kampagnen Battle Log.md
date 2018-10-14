@@ -38,44 +38,44 @@ Underdog: Aaron hat das niedrigste Warband Rating (73). Als zweitniedrigstes kom
 
 **Battle Report**  
 
-15 Crates
-Reihenfolge: Kai, Stefan, Aaron, Fabian, Marius
-Snotz killt Waldemar (dead)
-Grummlog killt Ivan (recovery)
-EG killt Wogga (dead)
-Bjorn killt whitebane  (32: old battle wound)
-Thunderer killt Gaerdor (recovery)
-Innor Kiste
-Igor kiste
-Anulep suizid (recovery)
-Glade Guard killt Grunch (dead)
-Shade Kiste
-Laber routet
-Uglash killt Brandaer revive
-Bjorn killt Gaukin (recovery)
-Sissibi Kiste
-Corsair killt Floki (26, minus 1 T)
-Glade Guard killt Uglash (recovery)
-Glade Guard killt Roddz (dead)
-Thunderer killt Estedir (recovery)
-Glade Guard Kiste
-Kai routet
-Glade Guard Kiste
-Eternal Guard Kiste
-Nesha killt Bjorn (recovery)
-Corsair killt Thunderer (recovery)
-Glade Guard Kiste
-Thunderer Kiste
-Brandaer Kiste
-Aaron routet
-Armen Kiste
+15 Crates  
+Reihenfolge: Kai, Stefan, Aaron, Fabian, Marius  
+Snotz killt Waldemar (dead)  
+Grummlog killt Ivan (recovery)  
+EG killt Wogga (dead)  
+Bjorn killt whitebane  (32: old battle wound)  
+Thunderer killt Gaerdor (recovery)  
+Innor Kiste  
+Igor kiste  
+Anulep suizid (recovery)  
+Glade Guard killt Grunch (dead)  
+Shade Kiste  
+Laber routet  
+Uglash killt Brandaer revive  
+Bjorn killt Gaukin (recovery)  
+Sissibi Kiste  
+Corsair killt Floki (26, minus 1 T)  
+Glade Guard killt Uglash (recovery)  
+Glade Guard killt Roddz (dead)  
+Thunderer killt Estedir (recovery)  
+Glade Guard Kiste  
+Kai routet  
+Glade Guard Kiste  
+Eternal Guard Kiste  
+Nesha killt Bjorn (recovery)  
+Corsair killt Thunderer (recovery)  
+Glade Guard Kiste  
+Thunderer Kiste  
+Brandaer Kiste  
+Aaron routet  
+Armen Kiste  
 
 Reward:
 
-Aaron: 15 GC
-Fabian: 3 Schilde, Schwerte, 3 Thoughened Leathers, Bugman"s Ale, 27 GC
-Laber: 13 GC
-CZ: 95 GC, Superior Blackpowder, 1 Toughened Leathers
+Aaron: 15 GC  
+Fabian: 3 Schilde, Schwerte, 3 Thoughened Leathers, Bugman"s Ale, 27 GC  
+Laber: 13 GC  
+CZ: 95 GC, Superior Blackpowder, 1 Toughened Leathers  
 
 Exp:  
 
