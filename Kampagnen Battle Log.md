@@ -77,73 +77,76 @@ Fabian: 3 Schilde, Schwerte, 3 Thoughened Leathers, Bugman"s Ale, 27 GC
 Laber: 13 GC
 CZ: 95 GC, Superior Blackpowder, 1 Toughened Leathers
 
-Exp:
+Exp:  
 
-Kai:  
-Grumlog +1 (+1 kill)
-Karhak +1
-Grommok +1
-Spear Henchmen +1 (+1 kill): Advance: +1 Ini
+Kai:    
+Grumlog +1 (+1 kill)  
+Karhak +1  
+Grommok +1  
+Spear Henchmen +1 (+1 kill): Advance: +1 Ini  
 
 
-Aaron: 
-Thunderer: uberlebt, Kiste, kill Estedir: +3 (Advance +1S)
-Boss: uberlebt, kill: +2
+Aaron:   
+Thunderer: uberlebt, Kiste, kill Estedir: +3 (Advance +1S)  
+Boss: uberlebt, kill: +2  
+björn: 2 kills +2
 
 Fabian:
-Shade: uberlebt, 2 Kisten +3 (Advance +1 BS)
-Corsairs, uberlebt, kill +2 (Advance: Lad Got's Talent, +1 W)
-Sorc: ueberlebt,  kill +2 (Advance +1 Ld)
-Sissibibbi: uberlebt, Kiste +2 (Advance: Skill Poison Master)
-Lifir: uberlebt +1
+Shade: uberlebt, 2 Kisten +3 (Advance +1 BS)  
+Corsairs, uberlebt, kill +2 (Advance: Lad Got's Talent, +1 W)  
+Sorc: ueberlebt,  kill +2 (Advance +1 Ld)  
+Sissibibbi: uberlebt, Kiste +2 (Advance: Skill Poison Master)  
+Lifir: uberlebt +1  
 
 Laber:
-Markus: uberlebt +1
-Igor: uberlebt, Kiste +2 (Advance Skill: Bellringer)
-Vladimir: uberlebt +1
+Markus: uberlebt +1  
+Igor: uberlebt, Kiste +2 (Advance Skill: Bellringer)  
+Vladimir: uberlebt +1  
 
 CZ:
-Leader: uberlebt, Kiste, 2x Szenario +4 (Advance: Skill Haggle)
-Armen: uberlebt, Kiste +2 Advance +1 WS
-Eternal Guard: uberlebt, Kiste, Kill +3 (Advance: +1 Ini)
-Glade Guard: 3 Kills, 3 Kisten, uberlebt +7 (Advance +1 WS, +1 BS)
-Innor: uberlebt, Kiste +2 (Advance +1 Wound)
+Leader: uberlebt, Kiste, 2x Szenario +4 (Advance: Skill Haggle)  
+Armen: uberlebt, Kiste +2 Advance +1 WS  
+Eternal Guard: uberlebt, Kiste, Kill +3 (Advance: +1 Ini)  
+Glade Guard: 3 Kills, 3 Kisten, uberlebt +7 (Advance +1 WS, +1 BS)  
+Innor: uberlebt, Kiste +2 (Advance +1 Wound)  
 
-Exploration:
-Aaron: 2 Shards, verkauft 1: 40 GC
-Fabian: 3 Shards, 2 verkauft: 50 GC
-Kai: 3 Shards, 3 verkauft 70 GC
-Laber: 3 Shards, 3 verkauft 65 GC
-CZ: 4 Shards, 3 verkaufen 65 GC
+Exploration:  
+Aaron: 2 Shards, verkauft 1: 40 GC  
+Fabian: 3 Shards, 2 verkauft: 50 GC  
+Kai: 3 Shards, 3 verkauft 70 GC  
+Laber: 3 Shards, 3 verkauft 65 GC  
+CZ: 4 Shards, 3 verkaufen 65 GC  
 
-CZ: 160 GC (+1 ubrig vom bauen)
- +1 Searath (fur 12 GC)
- +2 Eternal Guard (90)
- +1 Sword (10 GC)
+CZ: 160 GC (+1 ubrig vom bauen)  
+ +1 Searath (fur 12 GC)  
+ +2 Eternal Guard (90)  
+ +1 Sword (10 GC)  
  + Arabian Merchant (20)
- + 4 Dagger (8)
- -> 21 GC uebrig
+ + 2 Dagger (4)  
+ + Light Armour (20)  
+ + Shield (5)  
+ -> 0 GC uebrig
 
-Laber: 68 GC (+4 vom bauen)
-+2 Hellhounds (50 GC)
-+1 Bondsman mit Dagger (22)
--> 0 ubrig
+Laber: 68 GC (+4 vom bauen)  
++2 Hellhounds (50 GC)  
++1 Bondsman mit Dagger (22)  
+-> 0 ubrig  
 
-Aaron: 55 GC (+5 vom Bauen)
-+2 Dwarf Axe (30)
-Light Armour (20)
+Aaron: 55 GC (+5 vom Bauen)  
++2 Dwarf Axe (30)  
+Light Armour (20)  
 -> 10 ubrig
 
 
-Fabian: 77 GC
-verkauf brewmens ale (+25 GC)
-+ Sea Dragon Cloak (59)
-+ 2 Light Armour (40)
--> 3 ubrig
+Fabian: 77 GC  
+verkauf brewmens ale (+25 GC)  
++ Sea Dragon Cloak (59)  
++ 2 Light Armour (40)  
+-> 3 ubrig  
 
-Kai: 70 GC
-+ Magier (40)
-+ Goblin, Speer, 2 XP, Kurzbogen (29)
+Kai: 70 GC  
++ Magier (40)  
++ Goblin, Speer, 2 XP, Kurzbogen (29)  
 -> 1 GC uebrig
 
 
