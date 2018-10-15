@@ -141,7 +141,14 @@
 
 ## Warband detail (after 1st szenario 14.10.2018)
 
-**rating**: 127
+**rating**: 128
+
+|treasure chest||
+|:---|:---|
+|gold crown|0|
+|wyrdstone|0|
+|*items*||
+|shield|2|
 
 |**Grumlok and Gazbag** | **Leader** |
 |:---|---:|
