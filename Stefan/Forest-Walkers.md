@@ -27,9 +27,9 @@ Innor: der jüngste Sohn würde traditionsgemäß die Leibgarde seines älteren 
 ### Forest-Walkers Warband - The Great Forest  
 **Brandaer** (War-leader, 20 XP): Saerath, Dagger, Sling (97 GC)  
 
-**Estedir** (Waywatcher, 15 XP): Dagger, Bow (65 GC)  
+**Estedir** (Waywatcher, 16 XP): Dagger, Bow (65 GC)  
 
-**Gaeardor** (Waywatcher, 15 XP): Dagger, Bow (65 GC)  
+**Gaeardor** (Waywatcher, 16 XP): Dagger, Bow (65 GC)  
 
 **Armen** (Spellsinger, 12 XP): Dagger, Sling (62 GC) Spell: Ariel's Blessing
 
@@ -62,14 +62,64 @@ Innor: der jüngste Sohn würde traditionsgemäß die Leibgarde seines älteren 
 *Auch wenn sich dies für Brandaer nach einem typisch raffgierigen Märchen der Rosenohren anhörte war es immerhin ein Hinweis. Und vielleicht hatte auch Cedhrion diese Geschichten gehört und befand sich im Händlerviertel. So oder so, sie mussten mit der Suche beginnen und dieses Viertel war so gut wie jedes andere. Mit einem ungutem Gefühl im Bauch und der toten Stadt vor Augen befahl Brandaer den Aufbruch.* 
 
 ### Schlachtbericht  
-**Ergebnis Szenario:**  (Sieg/Niederlage)
+**Ergebnis Szenario:**  Sieg  
+
 **Gefallene Krieger:**  
+ - Estedir (Recovery)  
+-  Gaeardor (Recovery)  
+
 **Belohnungen:**  
+7 Kisten: 95 GC, 1 Superior Blackpowder, 1 Toughened Leathers  
+
 **Experience:**  
-**Wyrdstone:**  
+ - Brandaer: Überlebt, Kiste, 2x Szenario: +4 (Advance: Skill Haggle)  
+ - Armen: Überlebt, Kiste: +2 (Advance: +1 WS)  
+ - Innor: Überlebt, Kiste: +2 (Advance: +1 Wound)  
+ - Eternal Guard: Überlebt, Kiste, 1x Kill: +3 (Advance: +1 Ini)  
+ - Glade Guard: Überlebt, 3x Kisten, 3x Kills: +7 (Advance: +1 WS, +1 BS)  
+
+**Wyrdstone:**  4 Shards (3 direkt verkauft für 65 GC)
+
 **Neues Equipment/Rekruten:**  
+160 GC (+1 aus der Treasure Chest)
+ - +1 Searath (12 GC, wegen Haggle)
+ - +2 Eternal Guard (90 GC)
+ - +1 Sword (10 GC)
+ - +1 Arabian Merchant (20 GC)
+ - +2 Dagger (4 GC)
+ - +1 Light Armour (20 GC)
+ - +1 Shield (5 GC)
+    -> 0 GC übrig
+
+**Aktuelles Roaster**  
+**Brandaer** (War-leader, 24 XP): Light Armour, Shield, Sword, Sling (34 Rating)  
+
+**Estedir** (Waywatcher, 16 XP): Dagger, Bow (21 Rating)  
+
+**Gaeardor** (Waywatcher, 16 XP): Dagger, Bow (21 Rating)  
+
+**Armen** (Spellsinger, 14 XP): Sling, Spell: Ariel's Blessing (19 Rating)
+
+**Innor** (Youngling, 2 XP): Toughened Leathers, 2x Dagger (7 Rating)  
+
+**The Glade Guard** (3x Glade Guard, 7 XP): 2x Dagger, Bow (36 Rating)  
+
+**The Mithril Root** (1x Eternal Guard, 3 XP): Dagger, Saerath (8 Rating) 
+
+**The Ithilmar Branch** (1x Eternal Guard, 0 XP): Dagger, Saerath (5 Rating)
+
+**The Endurium Leaf** (1x Eternal Guard, 0 XP): Dagger, Saerath (5 Rating)
+
+**Gadrion the Trader** (1x Arabian Merchant, 5 XP): Sword (10 Rating)
+
+**Treasure Chest:** Superior Blackpowder, 0 GC  
+**Alignment:** Lawful / Neutral  
+**Warband Rating:** 166 :open_mouth:
 
 ### Nachspiel
+*Nachdenklich starrte Brandaer auf die Kisten die seine Warband in den Wald geschleift hatte. Die angeblichen Reichtümer die noch in Mordheim lagerten waren wohl doch kein reiner Mythos der Rosenohren. Das Zwischenziel an Gold zu kommen hatte er auf jeden Fall erreicht. Und mit dem funkelnden Metall ausgerüstet klappte für Brandaer auch das Verhandeln mit den lokalen Händlern gleich viel besser. Auf der Suche nach Ausrüstung traf Brandaer im kleinen Weiler Brigandsburg den badok Elf Gadrion. Gadrion hatte vor langer Zeit die Entscheidung getroffen, dass das Leben außerhalb der Wälder viel reizvoller und vor allem lukrativer für ihn wäre. Und bisher hatte er mit dieser Entscheidung recht behalten.*
+
+*So vermenschlicht Gadrion inzwischen war, so konnte er sich dem Ansinnen Brandaer nicht komplett verschließen. Deshalb beschloss er sich mit seinen beiden Leibwachen der Suche nach Cedhrion anzuschließen. Und Abseits jeder Sentimentalität erkannte der Händler natürlich die Gelegenheit ein paar Geheimnisse der verlorenen Stadt mit sicherem Geleit zu erkunden. Und bei Gelegenheit in klingende Münze zu verwandeln.*
 
  # Akt 2: Cedhrion (Szenario: The Lost Prince)  
 *Die erste Begegnung mit Mordheim war ungefähr so verlaufen wie Brandaer sich das vorgestellt hatte. Furchtbar bis zur Grenze des wahnsinnigen. Wandelnde Leichname, Finsterelfen und Grünhäute. Die verfluchte Stadt wurde ihrem Namen gerecht und ihre Realität stellte alle Geschichten die in den großen Wald gelangten in den Schatten.*
@@ -87,6 +137,8 @@ Innor: der jüngste Sohn würde traditionsgemäß die Leibgarde seines älteren 
 **Experience:**  
 **Wyrdstone:**  
 **Neues Equipment/Rekruten:**  
+
+**Aktuelles Roaster**  
 
 ### Nachspiel
 
