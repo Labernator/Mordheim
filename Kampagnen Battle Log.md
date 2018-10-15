@@ -42,21 +42,21 @@ Underdog: Aaron hat das niedrigste Warband Rating (73). Als zweitniedrigstes kom
 * Reihenfolge: Kai, Stefan, Aaron, Fabian, Marius
 
 * Snotz killt Waldemar (dead)
-* Grummlog killt Ivan (recovery)
+* Grumlok killt Ivan (recovery)
 * EG killt Wogga (dead)
 * Bjørn killt Whitebane  (32: old battle wound)
 * Thunderer killt Gaerdor (recovery)
 * Innor Kiste
 * Igor kiste
 * Anulep Suizid (Wahrscheinlichkeit 2-3%!!!!) (recovery)
-* Glade Guard killt Grunch (dead)
+* Glade Guard killt Gurnch (dead)
 * Shade Kiste
 * **Laber routet**
-* Uglash killt Brandaer revive
+* Ug''lash killt Brandaer revive
 * Bjorn killt Gaukin (recovery)
 * Sissibi Kiste
 * Corsair killt Floki (26, minus 1 T)
-* Glade Guard killt Uglash (recovery)
+* Glade Guard killt Ug'lash (recovery)
 * Glade Guard killt Roddz (dead)
 * Thunderer killt Estedir (recovery)
 * Glade Guard Kiste
@@ -81,10 +81,10 @@ Underdog: Aaron hat das niedrigste Warband Rating (73). Als zweitniedrigstes kom
 ### Experience:
 
 #### Kai:
-- Grumlog +1 (+1 kill)
-- Karhak +1
+- Grumlok +1 (+1 kill)
+- Karhag +1
 - Grommok +1
-- Spear Henchmen +1 (+1 kill): Advance: +1 Ini
+- Brothers of Yawn (spear henchmen) +1 (+1 kill): Advance: +1 Ini
 
 #### Aaron: 
 - Thunderer: überlebt, Kiste, kill Estedir: +3 (Advance +1S)
@@ -146,7 +146,7 @@ Underdog: Aaron hat das niedrigste Warband Rating (73). Als zweitniedrigstes kom
 - -> 3 GC übrig
 
 #### Kai: 70 GC
-- +1 Magier (40)
+- +1 Schamane (40)
 - +1 Goblin, Speer, 2 XP, Kurzbogen (29)
 - -> 1 GC übrig
 
