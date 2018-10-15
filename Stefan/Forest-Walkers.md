@@ -112,7 +112,7 @@ Innor: der jüngste Sohn würde traditionsgemäß die Leibgarde seines älteren 
 
 **Gadrion the Trader** (1x Arabian Merchant, 5 XP): Sword (10 Rating)
 
-**Treasure Chest:** Superior Blackpowder, 0 GC  
+**Treasure Chest:** Superior Blackpowder, 1 Wyrdstone Shard, 0 GC  
 **Alignment:** Lawful / Neutral  
 **Warband Rating:** 166 :open_mouth:
 
@@ -131,7 +131,7 @@ Innor: der jüngste Sohn würde traditionsgemäß die Leibgarde seines älteren 
 *Ariel sei gepriesen, wie viele verirrte Elfen konnte es in der götterverlassenen Stadt wohl geben? Sollten sie tatsächlich die Spur des verlorenen Sohn gefunden haben? Die Hoffnung auf eine schnelle Heimkehr hellte die Stimmung der Gruppe merklich auf und mit neuem Mut zogen die Gefährten ein weiteres Mal durch das gähnende Maul des verfallenen Nordtors.* 
 
 ### Schlachtbericht  
-**Ergebnis Szenario:**  (Sieg/Niederlage)
+**Ergebnis Szenario:**  (Sieg/Niederlage)  
 **Gefallene Krieger:**  
 **Belohnungen:**  
 **Experience:**  
