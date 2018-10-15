@@ -101,29 +101,32 @@ Warband Rating: **73**
 
 # The Raven Barracks
 
-Es war ein langer Marsch für die fünf Zwerge bis nach Mordheim. Aber sie waren
-bereit für ihre Beute zu kämpfen. Bjørn sah in einem abgebrannten Haus etwas
-funkeln. Aber es war unerreichbar, besonders für einen Zwerg. In weiter Ferne
-ertönten konnte man das Scheien und Lachen einiger Orks hören. Sie waren aber zu
-weit weg als dass sie den Zwergen zu einer Gefahr werden konnten.
+Es war ein langer Marsch für die fünf Zwerge bis nach Mordheim. Sie liefen fast
+drei Tage, doch sie waren bereit für ihre Beute zu kämpfen. Bjørn sah schon aus
+der Ferne in einem Haus etwas funkeln. Aber es war unerreichbar, besonders für
+einen Zwerg. In weiter Ferne konnte man das Schreien und fiese Lachen einiger
+Orks hören. Sie waren aber zu weit weg und waren keinerlei Gefahr für die
+Zwerge.
 
 Sie machten sich weiter auf die Suche und Halfdan entdeckte in einer weiteren Ruine
 etwas aufblitzen. Doch er war offensichtlich nicht der einzige: Ein paar
-Waldläufer waren ebenfalls fest entschlossen, die Ruino zu infiltrieren und den
-Schatz für sich zu beanspruchen. Halfdan entschied versteckte sich hinter einer
-alten Mauer und setzte seine Handgun an. Sollte sich einer der Waldläufer
-wagemutig trauen, sich dem Schatz zu nähren, würde er keine Sekunde verlieren
+Waldläufer waren ebenfalls fest entschlossen, die Ruine zu infiltrieren und den
+Schatz für sich zu beanspruchen. Halfdan versteckte sich hinter einer
+alten Mauer und legte die Handgun auf. Sollte einer der Waldläufer
+so wagemutig sein, sich dem Schatz zu nähren, würde er keine Sekunde verlieren
 und schießen. Bjørn wiederum zog mit Floki los, Ragnar blieb bei Halfdan und
 Harald. Er hatte sich geschworen, sie nicht im Stich zu lassen und auf die
-aufzupassen. 
+aufzupassen.
+
+![lurking halfdan](diary-20181015-1.jpg)
 
 Floki entdeckte noch weitere Schätze, doch ein paar feige Dunkelelfen hatten
-sich bereits gierig darauf gestürtzt. Sie verbarrikadierten sich in einem alten
+sich bereits gierig darauf gestürzt. Sie verbarrikadierten sich in einem alten
 Gebäude und schossen mir ihren zierlichen Bolzen auf Floki und Bjørn. Einer der
-Bolzen traf Bjørn am Arm. Er brach ihn ab und warf ihn auf den Boden. Ab diesem
-Zeitpunkt war er nicht mehr zu erkennen. Er schrie laut auf und rannte auf den
-Mob zu. Der erste Beastmaster der ihm in die Quere kam enthauptete er
-kurzerhand mit seiner Axt. Floki rannte ihm hinterher.
+Bolzen traf Bjørn am Arm. Er brach ihn ab und warf ihn auf den Boden. Ab da an
+war er nicht mehr wieder zu erkennen. Er schrie laut auf und rannte mit
+funkelnden Augen auf den Mob zu. Der erste Beastmaster der ihm in die Quere kam
+enthauptete er kurzerhand mit seiner Axt. Floki rannte ihm hinterher.
 
 Währenddessen trauten sich zwei Waldläufer aus ihren Verstecken und machten sich
 in der Ruine zu schaffen. Eigentlich hatten die Zwerge nichts gegen die
@@ -133,50 +136,49 @@ der zu Boden ging. Ragnar schrie einen Kampfschrei aus und stürmte auf den
 anderen. Harald schloss sich ihm an und sie brachten auch den zweiten Waywatcher
 zur Strecke. Die Leichen stapelten sich in der kleinen Ruine. Harald zog die
 blutverschmierte Kiste heraus und schleppte sie mühsam zum Ausgang. Das sollte
-die einzige Beute werden, denn Bjørn steckte mit Floki in Schwierigkeiten.
-Ragnar eilte ihnen zu hilfe, wurde aber am Bein verwundet und schleppte sich so
-über das Schlachtfeld. Er musste zusehen wie die Dunkelelfen aus ihren
-Verstecken krochen und Bjørn umzingelten. Floki wurde ebenfalls
-nidedergestreckt. Er konnte sich noch einmal aufrichten, doch es waren zu viele.
-Ein Corsair traf ihn mit einem Bolzen und er lag regungslos am Boden.
+die einzige Beute an diesem Tag werden, denn Bjørn steckte mit Floki in
+Schwierigkeiten. Ragnar eilte ihnen zu Hilfe, wurde aber am Bein verwundet und
+schleppte sich so über das Schlachtfeld. Er musste zusehen wie die Dunkelelfen
+aus ihren Verstecken krochen und Bjørn umzingelten. Floki wurde ebenfalls
+nidedergestreckt. Er konnte sich noch einmal aufrichten, doch es waren zu
+viele. Ein Corsair traf ihn mit einem Bolzen und er lag regungslos am Boden.
 
 Bjørn wiederum war mittlerweile von vier Dunkelelfen umringt. Unbarmherzig
 schwang er seine Axt und tötete den Anführer der Gruppe. Blut lief ihm ins
-Gesicht und es doch nach Eisen. Ragnar, der nur noch zusehen konnte, sah Bjørn
+Gesicht und es roch nach Eisen. Ragnar, der nur noch zusehen konnte, sah Bjørn
 zum ersten mal so kämpfen. Er wusste, dass in ihm ein harter Kämpfer steckte,
 doch das hätte er nicht erwartet. Immer wieder stachen die Dunkelelfen auf ihn
-ein, doch Bjørn trotzte ihnen. Doch dann ging es ganz schnell: Nesha -- so
-nannten die anderen sie -- traf ihn ungünstig und er stürtzte zu boden. Das
+ein, doch Bjørn blieb stehen. Doch dann ging es ganz schnell: Nesha -- so
+nannten die anderen sie -- traf ihn ungünstig und er stürzte zu Boden. Das
 nutzten die anderen um ihm den Rest zu geben. Ragnar konnte es nicht glauben was
 er da sah. Er war der einzige seiner Gruppe, die noch auf dem Schlachtfeld
 stand.
-
 
 Er schleppte mit letzter Kraft seine Freunde vom Schlachtfeld bis zum
 Rand eines kleinen Wäldchens. Hier wartete Harald mit der Kiste. Ragnar schlug
 das Schloss der Kiste mit einem Hieb seiner Axt auf: Sie war gefüllt mit Gold!
 Doch Harald hatte noch etwas anderes in seiner Tasche. Auf dem Weg fand er noch
-zwei Wyrdstones. Sie beschlossen, einen Teil der Wyrdstones zu verkaufen und mit
-dem Geld für Floki und Bjørn Zwergenäxte zu kaufen. Und Bjørn bekam noch eine
+zwei Wyrdstones. Es war bereits dunkel geworden und die Wyrdstones leuchteten
+in seiner Hand. Sie beschlossen, einen Teil der Wyrdstones zu verkaufen und mit
+dem Geld für Floki und Bjørn Zwergenäxte zu kaufen. Und Floki bekam noch eine
 Rüstung -- darauf bestand Ragnar.
 
 Sie schauten sich an und waren erleichtert, dass sie noch so glimpflich aus dem
 Schlachtfeld entkommen konnten. Doch etwas Frust war auch dabei, dass sie nicht
-noch mehr Schätze erbeutet hatten.
+noch mehr Schätze erbeutet hatten. Sie erkannten alle, dass das erst der Anfang
+von etwas ganz großem war.
 
 ## Characters
 
 * **Ragnar** (Dwarf Noble): Helmet, Shield, Gromril Armour, Double-handed Weapon
-* **Floki** (Dwarf Engineer): Helmet, Shield, Hammer, Dwarf Axe
-* **Bjørn** (Dwarf Troll Slayer): Dwarf Axe, Dwarf Axe, Light Armor
+* **Floki** (Dwarf Engineer): Helmet, Shield, Hammer, Dwarf Axe, Light Armour
+* **Bjørn** (Dwarf Troll Slayer): Dwarf Axe, Dwarf Axe
 * **Halfdan & Harald** (Dwarf Thunderers, Henchmen): Shield, Axe, Handgun
 
-## Treasure Chest:
+Treasure Chest:  10GC, 1 Wyrdstone Shards
 
-* **10GC**
-* 1 Wyrdstone Chart
+Warband Rating: 80 (83 wenn Henchmen einzeln zählen)
 
-Warband Rating: TBD
 
 # Cheatsheet
 
