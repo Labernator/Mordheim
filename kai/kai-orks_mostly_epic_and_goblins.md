@@ -64,7 +64,7 @@
 
 ---
 
-## characteristics & skills
+## item characteristics, skills & special rules
 
 |item|attributes|
 |:---|:---|
