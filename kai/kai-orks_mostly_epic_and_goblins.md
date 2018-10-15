@@ -173,7 +173,7 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 
 >>>
 
-|**Karhag** |**Big'Un** |
+|**Kar'hag** |**Big'Un** |
 |:---|---:|
 |hiring cost|40 gc|
 |experience|15|
@@ -246,20 +246,15 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 
 ## Nice to have Henchmen
 
-4x Ork 25gc
-  Bow 10gc
-
-3x Ork 25gc
-  battle axe 5gc
-  shield 5gc
-
-Ork drummer (2x clubs)
-Ork standard bearer (must be an hero)
+|amount|class|equip|
+|:---|:---|:---|
+|4x|Ork henchmen 25gc|Bow 10gc|
+|3x|Ork henchmen 25gc|battle axe 5gc, shield 5gc|
 
 ## Nice to have equipment
 
-|*Equipment*| |||
-|---:|:---|---:||
+|cost/unit|name|type|amount|
+|---:|:---|---:|:---|
 |10 gc|helmet|common|4x Leader + Big'Uns|
 |1 gc|Garlic|common|~10x|
 |10+3d6 gc|Blessed water|rare 6|5x|
@@ -373,3 +368,8 @@ Ork standard bearer (must be an hero)
 
 >>>
 
+## animosity behaviour list
+
+|1|Erd'Dat!|If a friendly warband member (non hero) is in charge range, choose the nearest of them and charg him and fight if the charge was successful one round of cc, after that move them 1" apart - they are no more marked as in combat. - OR - If the afflicted henchman has a range weapon and there is no model in charge range shot onece to the neares friendly non hero model of your warband if in range. - OR - If non of the previous ruses applies count the animosity table roll as 2-5. The afflicted henchmen can not do anything else in thes round except of defend himself if attacked.|
+|2-5|Wud Yoo Say?|The afflicted henchmen does not do anything during this round, he is able to defend himself.|
+|6|I'll Show Yer!|Charge the enemy model nearest to the afflicted henchmen of if a charge is not possible move in the direction. If there is no enemy model in reach do a normal move. He is alowed to do another moce in the movement phase but if he moved and got into charge range of an enemy he have to charge him.|
