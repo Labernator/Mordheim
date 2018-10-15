@@ -35,7 +35,7 @@ To greedy was the warband master and now they got nothing except of died pals an
 |amount|class|equip|
 |:---|:---|:---|
 |4x|Ork henchmen 25gc|Bow 10gc|
-|3x|Ork henchmen 25gc|battle axe 5gc, shield 5gc|
+|3x|Ork henchmen 25gc|2x battle axe 5gc|
 
 ## Nice to have equipment
 
