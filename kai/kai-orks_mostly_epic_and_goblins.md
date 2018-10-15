@@ -2,6 +2,168 @@
 
 ---
 
+### Szenario 1
+
+The first szenario happend recently.
+Wogga died in a heroical fight agains two of the wood elfs with the dull ears.
+Non of the magic he tried to cast work - the spell was to dificult to cast.
+They sliced wogga into small peaces - incomprehensible why they didn't eat him.
+A lot of money was spend to get him back into the warband. Some rumour happen in the foe warbands that
+the new Wogga isn't the same as before - he is just look alike.
+
+The hardiness all of the goblins were outstanding. One of them killed a undead and Gurnch keept up to four
+foolish wood elfes for many round into the combad without dying. Snotz also did a very good job in his position and he also
+tried to save a tresure chest antil he got charged by some other wood elf's which tried to kill him a lot of rounds
+til they got him out of action.
+
+Ug'Lash tried to help his goblin buddy gurnch carrying a treasure chest on his back. He killed the Wood Elf Leader and keept all the enemies in battle around him out of breath . But in the end the wodden elf was revived and Ug'Lash got killed by the overhelming enemies.
+Gurnch died during this battle and after that Ug'Lash tried to escape but the elves hit him sneaky and deadly from behind.
+
+In another place, in mordheim, Grumlok and the two Big'Uns Grommok and Karhag tried to get some tresure chests out of the battle but a Vampire tried to kill some of the goblins. The vampire always failed - in any case, don't bother with a goblin.
+Snotz tried his luck but was unable to kill the vampire. 
+Grumlok did it later, the vampire hadn't any chance and the undead withdrawn. Away from the ork warband.
+
+A few later the undeads were gone because they used a rotten dice while they have to do a rout test.
+
+The first scenario war outstanding and the performance to the Orks also. They fought to their enemies and are very hardy but they lost the focus after a few rounds. A few of them earned some experience and to many of them got killed.
+To greedy was the warband master and now they got nothing except of died pals and a lot loss of gold crown.
+
+---
+
+## Nice to have Henchmen
+
+|amount|class|equip|
+|:---|:---|:---|
+|4x|Ork henchmen 25gc|Bow 10gc|
+|3x|Ork henchmen 25gc|battle axe 5gc, shield 5gc|
+
+## Nice to have equipment
+
+|cost/unit|name|type|amount|
+|---:|:---|---:|:---|
+|10 gc|helmet|common|4x Leader + Big'Uns|
+|1 gc|Garlic|common|~10x|
+|10+3d6 gc|Blessed water|rare 6|5x|
+|50 gc|Banner|rare 5|1x|
+|30+2d6 gc|War Horn|rare 8|1x|
+|2 gc|torch|common|2x|
+|5 gc|club|common|2x|
+
+## Nice to have skills
+
+### Leader and Big'Uns
+
+***ork special skill***
+1. well' ard
+2. da' cunnin' plan (leader only)
+3. 'eadbasher
+4. 'ere we go!
+
+***common skill***
+1. money maker
+2. Far-Sight (shaman)
+
+***strength skills***
+1. tin can
+2. fearsome
+3. resilient
+4. strongman
+5. mighty blow
+
+***speed skills*** (leader only)
+1. sprint
+2. lightning reflexes
+3. dodge
+4. scale sheer surfaces
+
+***combat skills***
+1. expert swordsmen
+2. axe master
+3. combat master
+3. strike to injure
+4. weapons training
+
+### Goblins
+
+***common skills***
+1. dirty fighter (bite)
+2. musician (minstrel)
+
+---
+
+## characteristics & skills
+
+|item|attributes|
+|:---|:---|
+|dagger|enemy armor save +1|
+|axe|cutting edge|
+|sword|parry|
+|halberd|two-handed, S=user+1|
+|double-handed|two-handed, strike last, S=user+2|
+|spear|strike first, unwieldy|
+|short bow|16" S3|
+|shield|+1 armor save|
+|light armor|5+ armor save|
+
+>>>
+
+|item attribute|characteristic|
+|:---|:---|
+|cutting edge|enemy armor save -1|
+|parry|on hit roll d6 if >= enemy hit score => parried|
+|unwieldy|can use a buckler or shield in off-hand during cc but no second weapon|
+|two-handed|no buckler or shield allowed in cc; a shield can used to get an +1 armor save against shooting |
+|strike first|even if the carrier got charged, the carrier strikes first in cc|
+|strike last|even after a successful charge the carrier strikes last in cc|
+
+>>>
+
+|special rule|description|
+|:---|:---|
+|animosity|roll d6 for every non fighting henchmen, on 1 roll d6 for animosity behaviour list|
+|leader|every member of the WB use leaders Ld value within 6" for leadership test|
+|magic user|use spells from waaagh! magic list, instead of learn a new skill the shaman can learn a new spell (roll for it)|
+|not orcs|to indicate if a rout test shall be done every goblin counts only 1/2|
+|runts|goblins can earn experience but if "That Lad's got talent' is rolled, the goblin are immedialely get killed and removed from the Roster|
+
+>>>
+
+|skills list|skill|description|
+|:---|:---|:---|
+|*strength*|fearsome|charging enemies have to do a fear test|
+||tin can|Can wear all kind of armor|
+||resilient|S-1 for all hits to him in CC|
+||strongman|Use Two-handed without strike last (need two other)|
+||mighty blow|S+1 in CC (not shooting, need two other)
+|*speed*|sprint|tripple movement when running, +D6" charge reach|
+||lightning reflexes|strike first if charged or compare initiative values if everyone strikes first|
+||dodge|if under shooting roll D6 for every hit from a missile weapon: 5+ save|
+||scale sheer surfaces|climb up/down on every height without take a iniative test|
+|*combat*|expert swordsmen|reroll missed attacks when charged using normal swords|
+||axe master|as parry using a sword|
+||combat master|if in cc with more than one enemy he can use 1 extra attack, immune to all allone test (need two other)|
+||strike to injure|+1 to all injury rolls in CC (need two other)|
+||weapons training|use any weapon|
+|*ork special*|'eadbasher|every knock down counts as stunned|
+||well'ard|+1 armor save|
+||da' cunnin' plan|reroll a failed rout test|
+|*common*|money maker|after adventure roll and add D6+ gc to WB treasury if not taken out of action (heros only)|
+||dirty fighter - bite|bite instead of a use of an normal attack - S3 attack with no armor save, next round automatically S2, next round automatically S1|
+||musician - minstrel|gain extra income add 2D6+2 gc each rounde after exploration (must wear a musical instrument)|
+|*magic*|fire of gork|D2 attacks with S3 12" to closed or two closed enemy (split)|
+
+>>>
+
+## animosity behaviour list
+
+|dice|name|rule|
+|:---|:---|:---|
+|1|Erd'Dat!|If a friendly warband member (non hero) is in charge range, choose the nearest of them and charg him and fight if the charge was successful one round of cc, after that move them 1" apart - they are no more marked as in combat. - OR - If the afflicted henchman has a range weapon and there is no model in charge range shot onece to the neares friendly non hero model of your warband if in range. - OR - If non of the previous ruses applies count the animosity table roll as 2-5. The afflicted henchmen can not do anything else in thes round except of defend himself if attacked.|
+|2-5|Wud Yoo Say?|The afflicted henchmen does not do anything during this round, he is able to defend himself.|
+|6|I'll Show Yer!|Charge the enemy model nearest to the afflicted henchmen of if a charge is not possible move in the direction. If there is no enemy model in reach do a normal move. He is alowed to do another moce in the movement phase but if he moved and got into charge range of an enemy he have to charge him.|
+
+---
+
 ## Lore
 Doomed are the orks of the bloody sunz clan, the black ork boyz are suffering of an diabolic injury.
 
@@ -134,9 +296,90 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 
 ---
 
-## Warband detail
-
 **alignment**: chaotic
+
+## Warband detail (after 1st szenario 14.10.2018)
+
+**rating**: 127
+
+|**Grumlok and Gazbag** | **Leader** |
+|:---|---:|
+|experience|22|
+|warband rating addition|5 (>61 <81 gc hiring cost)|
+|special rule|Leader|
+|gain from skills|strength|
+| | speed|
+| | combat|
+| | shooting|
+| | ork special|
+|equipment|two-handed|
+| |light armor|
+| |shield|
+
+>>>
+
+|**Grommok** | **Big'Un**|
+|:---|---:|
+|experience|16|
+|gain from skills|strength|
+| | combat|
+| | shooting|
+| | ork special|
+|equipment|halberd|
+| |light armour|
+| |shield|
+
+>>>
+
+|**Karhag** |**Big'Un** |
+|:---|---:|
+|experience|16|
+|gain from skills|strength|
+| | combat|
+| | shooting|
+| | ork special|
+|equipment|axe (off hand)|
+| |sword|
+| |light armour|
+
+>>>
+
+|**Ug'lash** |**Big'Un** |
+|:---|---:|
+|experience|15|
+|gain from skills|strength|
+| | combat|
+| | shooting|
+| | ork special|
+|equipment|axe (off hand)|
+| |sword|
+| |light armour|
+
+>>>
+
+|**Woggah** |**Shaman** |
+|:---|---:|
+|hiring cost|40 gc|
+|experience|10|
+|special rule|*Magic user*|
+|gain from skills|strength|
+| | ork special|
+|initial spell|Fire of Gork (diff 8)|
+|equipment|dagger|
+
+>>>
+
+|**Brothers of yawn (Higgz / Snotz / Roddz)** |**Goblin Warrior** |
+|:---|---:|
+|experience|2|
+|characteristics|I+1|
+|special rule|*Animosity*|
+| |*Not Orcs*|
+| |*Runts*|
+|equipment|spear|
+| |short bow|
+
+## Warband detail (initial/pre first szenario)
 
 **rating**: 125
 
@@ -173,7 +416,7 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 
 >>>
 
-|**Kar'hag** |**Big'Un** |
+|**Karhag** |**Big'Un** |
 |:---|---:|
 |hiring cost|40 gc|
 |experience|15|
@@ -242,134 +485,4 @@ A warband to scavenge huge amounts of gold crowns, conquer for treasures and com
 |short bow|5 gc|
 |summary|***30 gc***|
 
----
 
-## Nice to have Henchmen
-
-|amount|class|equip|
-|:---|:---|:---|
-|4x|Ork henchmen 25gc|Bow 10gc|
-|3x|Ork henchmen 25gc|battle axe 5gc, shield 5gc|
-
-## Nice to have equipment
-
-|cost/unit|name|type|amount|
-|---:|:---|---:|:---|
-|10 gc|helmet|common|4x Leader + Big'Uns|
-|1 gc|Garlic|common|~10x|
-|10+3d6 gc|Blessed water|rare 6|5x|
-|50 gc|Banner|rare 5|1x|
-|30+2d6 gc|War Horn|rare 8|1x|
-|2 gc|torch|common|2x|
-|5 gc|club|common|2x|
-
-## Nice to have skills
-
-### Leader and Big'Uns
-
-***ork special skill***
-1. well' ard
-2. da' cunnin' plan (leader only)
-3. 'eadbasher
-4. 'ere we go!
-
-***common skill***
-1. money maker
-2. Far-Sight (shaman)
-
-***strength skills***
-1. tin can
-2. fearsome
-3. resilient
-4. strongman
-5. mighty blow
-
-***speed skills*** (leader only)
-1. sprint
-2. lightning reflexes
-3. dodge
-4. scale sheer surfaces
-
-***combat skills***
-1. expert swordsmen
-2. axe master
-3. combat master
-3. strike to injure
-4. weapons training
-
-### Goblins
-
-***common skills***
-1. dirty fighter (bite)
-2. musician (minstrel)
-
----
-
-## characteristics & skills
-
-|item|attributes|
-|:---|:---|
-|dagger|enemy armor save +1|
-|axe|cutting edge|
-|sword|parry|
-|halberd|two-handed, S=user+1|
-|double-handed|two-handed, strike last, S=user+2|
-|spear|strike first, unwieldy|
-|short bow|16" S3|
-|shield|+1 armor save|
-|light armor|5+ armor save|
-
->>>
-
-|item attribute|characteristic|
-|:---|:---|
-|cutting edge|enemy armor save -1|
-|parry|on hit roll d6 if >= enemy hit score => parried|
-|unwieldy|can use a buckler or shield in off-hand during cc but no second weapon|
-|two-handed|no buckler or shield allowed in cc; a shield can used to get an +1 armor save against shooting |
-|strike first|even if the carrier got charged, the carrier strikes first in cc|
-|strike last|even after a successful charge the carrier strikes last in cc|
-
->>>
-
-|special rule|description|
-|:---|:---|
-|animosity|roll d6 for every non fighting henchmen, on 1 roll d6 for animosity behaviour list|
-|leader|every member of the WB use leaders Ld value within 6" for leadership test|
-|magic user|use spells from waaagh! magic list, instead of learn a new skill the shaman can learn a new spell (roll for it)|
-|not orcs|to indicate if a rout test shall be done every goblin counts only 1/2|
-|runts|goblins can earn experience but if "That Lad's got talent' is rolled, the goblin are immedialely get killed and removed from the Roster|
-
->>>
-
-|skills list|skill|description|
-|:---|:---|:---|
-|*strength*|fearsome|charging enemies have to do a fear test|
-||tin can|Can wear all kind of armor|
-||resilient|S-1 for all hits to him in CC|
-||strongman|Use Two-handed without strike last (need two other)|
-||mighty blow|S+1 in CC (not shooting, need two other)
-|*speed*|sprint|tripple movement when running, +D6" charge reach|
-||lightning reflexes|strike first if charged or compare initiative values if everyone strikes first|
-||dodge|if under shooting roll D6 for every hit from a missile weapon: 5+ save|
-||scale sheer surfaces|climb up/down on every height without take a iniative test|
-|*combat*|expert swordsmen|reroll missed attacks when charged using normal swords|
-||axe master|as parry using a sword|
-||combat master|if in cc with more than one enemy he can use 1 extra attack, immune to all allone test (need two other)|
-||strike to injure|+1 to all injury rolls in CC (need two other)|
-||weapons training|use any weapon|
-|*ork special*|'eadbasher|every knock down counts as stunned|
-||well'ard|+1 armor save|
-||da' cunnin' plan|reroll a failed rout test|
-|*common*|money maker|after adventure roll and add D6+ gc to WB treasury if not taken out of action (heros only)|
-||dirty fighter - bite|bite instead of a use of an normal attack - S3 attack with no armor save, next round automatically S2, next round automatically S1|
-||musician - minstrel|gain extra income add 2D6+2 gc each rounde after exploration (must wear a musical instrument)|
-|*magic*|fire of gork|D2 attacks with S3 12" to closed or two closed enemy (split)|
-
->>>
-
-## animosity behaviour list
-
-|1|Erd'Dat!|If a friendly warband member (non hero) is in charge range, choose the nearest of them and charg him and fight if the charge was successful one round of cc, after that move them 1" apart - they are no more marked as in combat. - OR - If the afflicted henchman has a range weapon and there is no model in charge range shot onece to the neares friendly non hero model of your warband if in range. - OR - If non of the previous ruses applies count the animosity table roll as 2-5. The afflicted henchmen can not do anything else in thes round except of defend himself if attacked.|
-|2-5|Wud Yoo Say?|The afflicted henchmen does not do anything during this round, he is able to defend himself.|
-|6|I'll Show Yer!|Charge the enemy model nearest to the afflicted henchmen of if a charge is not possible move in the direction. If there is no enemy model in reach do a normal move. He is alowed to do another moce in the movement phase but if he moved and got into charge range of an enemy he have to charge him.|
