@@ -18,3 +18,16 @@ Anstatt ein 5er Tisch spielen wir dasselbe Szenario an zwei Tischen (ein 2er und
 **Nachteile**  
  - Wir benötigen eine zweite Platte. Das bedeutet a) die Platte an sich, b) mehr Gelände und c) auch den Platz um sie aufzustellen.
  - Die größere Erfahrung von Marius und mir wird sich bei kleineren Tischen stärker bemerkbar machen. Speziell am 2er Tisch besteht die Gefahr, dass das Spiel sehr einseitig werden kann.
+
+## Backup Warband  
+**Idee**  
+Angelehnt an "The Wanderers" (S.193) erstellt jeder Spieler für 150 GC eine zweite Warband. Wenn die erste geroutet ist, bringt er die zweite ins Spiel. Die Warband kann Objectives erobern, bekommt XP und Gold ganz normal. Dadurch ist es für den Spieler auch interessanter, als wenn er, wie in "The Wanderers" vorgeschlagen nur irgendewlche Minis übers Feld schiebt und dem Gegner XP für Kills füttert. Für das Ende des Szenarios (alle bis auf eine Warband geroutet) werden nur die primären Warbands gezählt.
+
+**Vorteile**  
+ - Ein Spieler kann weiter voll im Spiel involviert sein nachdem er geroutet ist.
+ 
+ **Nachteile**  
+  - Man braucht Minis für eine zweite Warband und muss sie konzipieren (was für mich ein Vorteil wäre ;)
+  - Die zweite Warband fühlt sich vermutlich extrem schwach im Spiel an
+  - Wenn die zweite (sehr schwache) Warband auch direkt routet hat man nix gewonnen, im Gegenteil, es ist unwahrscheinlicher, dass andere Spieler ausscheiden
+  - Die Post Game Sequence wird nochmal deutlich länger (für alle zweiten Warbands nämlich)
