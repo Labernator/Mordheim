@@ -37,10 +37,10 @@
 2. Far-Sight (shaman)
 
 ***strength skills***
-1. tin can
+1. tin can (leader first)
 2. fearsome
 3. resilient
-4. strongman
+4. strongman (leader)
 5. mighty blow
 
 ***speed skills*** (leader only)
@@ -123,7 +123,8 @@
 |*common*|money maker|after adventure roll and add D6+ gc to WB treasury if not taken out of action (heros only)|
 ||dirty fighter - bite|bite instead of a use of an normal attack - S3 attack with no armor save, next round automatically S2, next round automatically S1|
 ||musician - minstrel|gain extra income add 2D6+2 gc each rounde after exploration (must wear a musical instrument)|
-|*magic*|fire of gork|D2 attacks with S3 12" to closed or two closed enemy (split)|
+|*magic*|fire of gork|D2 attacks with S3 12" to closed or two closed enemy (split) diff:8|
+||Fooled Ya!|diff:6|
 
 >>>
 
