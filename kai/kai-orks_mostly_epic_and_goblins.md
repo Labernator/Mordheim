@@ -8,7 +8,7 @@
 |amount|class|equip|
 |:---|:---|---:|
 |4x|Ork henchmen 25gc|Bow 10gc|
-|3x|Ork henchmen 25gc|2x battle axe 5gc|
+|5x|Ork henchmen 25gc|2x battle axe 5gc|
 
 ## Nice to have equipment
 
