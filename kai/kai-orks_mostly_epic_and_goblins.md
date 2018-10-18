@@ -151,7 +151,7 @@
 
 |treasure chest||
 |:---|:---|
-|gold crown|0|
+|gold crown|1|
 |wyrdstone|0|
 |*items*||
 |shield|2|
