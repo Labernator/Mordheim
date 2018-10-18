@@ -5,7 +5,7 @@ Mordheim Campaign
 
 * Stefan (CZ) [Forest Walkers](/Stefan/Forest-Walkers.md)
 * Marius (Laber) [Dragon Knights](/Marius/Dragon%20Knights)
-* Kai (klaute) [Orks diary](/kai/kai-orks_mostly_epic_and_goblins_diary.md), [Orks mostly epic & goblins](/kai/kai-orks_mostly_epic_and_goblins.md)
+* Kai (klaute) [Orks mostly epic & goblins](/kai/kai-orks_mostly_epic_and_goblins.md) ([diary](/kai/kai-orks_mostly_epic_and_goblins_diary.md))
 * Aaron (f00860) [Dwarf Treasure Hunters](/aaron-f00860/warband-the-smashing-skull.md) ([diary](/aaron-f00860/diary.md))
 * Fabian (Gary) [Dary Elves](/Fabian/Dark%20Elves.md)
 
