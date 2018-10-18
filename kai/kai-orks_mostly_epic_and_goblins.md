@@ -212,7 +212,7 @@
 |special rule|*Magic user*|
 |gain from skills|strength|
 | | ork special|
-|initial spell|Fire of Gork (diff 8)|
+|initial spell|Fooled Ya! (diff 6)|
 |equipment|dagger|
 
 >>>
