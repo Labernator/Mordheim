@@ -132,7 +132,8 @@ Underdog: Aaron hat das niedrigste Warband Rating (73). Als zweitniedrigstes kom
 #### Laber: 78 GC (+4 vom bauen)
 - +2 Hellhounds (50 GC)
 - +1 Bondsman mit Dagger (22)
-- -> 10 GC übrig
+- +1 Beggar (10)
+- -> 0 GC übrig
 
 #### Aaron: 55 GC (+5 vom Bauen)
 - +2 Dwarf Axe (30)
