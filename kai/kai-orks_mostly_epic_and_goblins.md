@@ -41,17 +41,10 @@
 2. Far-Sight (shaman)
 
 ***strength skills***
-<<<<<<< HEAD
 1. fearsome
 2. resilient
 3. tin can (leader first)
 4. strongman
-=======
-1. tin can (leader first)
-2. fearsome
-3. resilient
-4. strongman (leader)
->>>>>>> 527869c... Update kai-orks_mostly_epic_and_goblins.md
 5. mighty blow
 
 ***speed skills*** (leader only)
