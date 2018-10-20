@@ -147,7 +147,7 @@
 
 ## Warband detail (after 1st szenario 14.10.2018)
 
-**rating**: 128
+**rating**: 130
 
 |treasure chest||
 |:---|:---|
