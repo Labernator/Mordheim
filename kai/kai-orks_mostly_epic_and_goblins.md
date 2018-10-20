@@ -18,7 +18,7 @@
 ## Nice to have equipment
 
 |cost/unit|name|type|amount|effect|
-|:---|:---|---:|---:|
+|:---|:---|---:|---:|:---|
 |10 gc|Helmet|common|4x (Leader + Big'Uns), Leader first||
 |1 gc|Garlic|common|~10x||
 |10+3d6 gc|Blessed water|rare 6|5x||
