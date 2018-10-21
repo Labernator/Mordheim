@@ -6,23 +6,21 @@
 ### Szenario 1 (14.10.2018)
 
 The first szenario happend recently.
-Wogga died in a heroical fight agains two of the wood elfs with the dull ears.
+Wogga died in a heroical fight agains two of the wood elf’s - thode with the dull ear.
 Non of the magic he tried to cast work - the spell was to dificult to cast.
 They sliced wogga into small peaces - incomprehensible why they didn't eat him.
-A lot of money was spend to get him back into the warband. Some rumour happen in the foe warbands that
-the new Wogga isn't the same as before - he is just look alike.
+A lot of money was spend to get him back into the warband. Some rumour happen in the foe warbands that the new Wogga isn't the same as before - he is just look alike.
 
-The hardiness all of the goblins were outstanding. One of them killed a undead and Gurnch keept up to four
-foolish wood elfes for many round into the combad without dying. Snotz also did a very good job in his position and he also
-tried to save a tresure chest antil he got charged by some other wood elf's which tried to kill him a lot of rounds
-til they got him out of action.
+The hardiness all of the goblins were outstanding. One of them killed a undead and Gurnch keept up to four foolish wood elfes for many rounds into the combat without dying. Snotz also did a very good job in his position and he also tried to save a tresure chest until he got charged by some other wood elf, which tried to kill him a lot of rounds
+till they got him out of action.
 
-Ug'Lash tried to help his goblin buddy gurnch carrying a treasure chest on his back. He killed the Wood Elf Leader and keept all the enemies in battle around him out of breath . But in the end the wodden elf was revived and Ug'Lash got killed by the overhelming enemies.
+Ug'Lash tried to help his goblin buddy gurnch while he carrie a treasure chest on his back.
+He killed the Wood Elf Leader and keept all the enemies in battle around him out of breath. But in the end the wooden elf leader was revived and Ug'Lash got killed by the overhelming enemies.
 Gurnch died during this battle and after that Ug'Lash tried to escape but the elves hit him sneaky and deadly from behind.
 
-In another place, in mordheim, Grumlok and the two Big'Uns Grommok and Karhag tried to get some tresure chests out of the battle but a Vampire tried to kill some of the goblins. The vampire always failed - in any case, don't bother with a goblin.
+In another place in mordheim, Grumlok and the two Big'Uns Grommok and Karhag tried to get some tresure chests out of the battle but a Vampire tried to kill some of the goblins. The vampire always failed - in any case, don't bother with a goblin which does not wear armor.
 Snotz tried his luck but was unable to kill the vampire. 
-Grumlok did it later, the vampire hadn't any chance and the undead withdrawn. Away from the ork warband.
+Grumlok did it later, the vampire hadn't any chance and the undead withdrawn. Far away from the ork warband.
 
 A few later the undeads were gone because they used a rotten dice while they have to do a rout test.
 

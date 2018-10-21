@@ -5,30 +5,34 @@
 
 ## Nice to have Henchmen
 
-|amount|class|equip|
+|amount/group|class|equip|
 |:---|:---|---:|
-|4x|Ork henchmen 25gc|Bow 10gc|
+|1x|Goblin|1x spear, 1x short bow|
+|2x|Ork henchmen 25gc|Bow 10gc|
+|2x|Ork henchmen 25gc|Bow 10gc|
 |3x|Ork henchmen 25gc|2x battle axe 5gc|
+|2x|Ork henchmen 25gc|2x battle axe 5gc|
+|2x|Ork henchmen 25gc|2x battle axe 5gc|
+|2x|Ork henchmen 25gc|2x hand weapon|
 
 ## Nice to have equipment
 
-|cost/unit|name|type|amount|
-|:---|:---|---:|---:|
-|10 gc|Helmet|common|4x (Leader + Big'Uns)|
-|1 gc|Garlic|common|~10x|
-|10+3d6 gc|Blessed water|rare 6|5x|
-|50 gc|Banner|rare 5|1x|
-|30+2d6 gc|War Horn|rare 8|1x|
-|2 gc|torch|common|2x|
-|5 gc|club|common|2x|
+|cost/unit|name|type|amount|effect|
+|:---|:---|---:|---:|:---|
+|10 gc|Helmet|common|4x (Leader + Big'Uns), Leader first||
+|1 gc|Garlic|common|~10x||
+|10+3d6 gc|Blessed water|rare 6|5x||
+|50 gc|Banner|rare 5|1x|re-roll a failed rout test (Hero bearer only)|
+|30+2d6 gc|War Horn|rare 8|1x|Before battle/Before rout test: Ld+1|
+|2 gc|torch|common|2x|+4" to spot hidden foes, cause fear to animals and can used as club in CC, ...|
 
 ## Nice to have skills
 
 ### Leader and Big'Uns
 
 ***ork special skill***
-1. well' ard
-2. da' cunnin' plan (leader only)
+1. da' cunnin' plan (leader only)
+2. well' ard
 3. 'eadbasher
 4. 'ere we go!
 
@@ -37,9 +41,9 @@
 2. Far-Sight (shaman)
 
 ***strength skills***
-1. tin can
-2. fearsome
-3. resilient
+1. fearsome
+2. resilient
+3. tin can (leader first)
 4. strongman
 5. mighty blow
 
@@ -50,8 +54,8 @@
 4. scale sheer surfaces
 
 ***combat skills***
-1. expert swordsmen
-2. axe master
+1. axe master
+2. expert swordsmen
 3. combat master
 3. strike to injure
 4. weapons training
@@ -64,7 +68,7 @@
 
 ---
 
-## characteristics & skills
+## item characteristics, skills & special rules
 
 |item|attributes|
 |:---|:---|
@@ -120,10 +124,12 @@
 |*ork special*|'eadbasher|every knock down counts as stunned|
 ||well'ard|+1 armor save|
 ||da' cunnin' plan|reroll a failed rout test|
+||'ere we go!|ignore fear and terror test on charge|
 |*common*|money maker|after adventure roll and add D6+ gc to WB treasury if not taken out of action (heros only)|
 ||dirty fighter - bite|bite instead of a use of an normal attack - S3 attack with no armor save, next round automatically S2, next round automatically S1|
 ||musician - minstrel|gain extra income add 2D6+2 gc each rounde after exploration (must wear a musical instrument)|
-|*magic*|fire of gork|D2 attacks with S3 12" to closed or two closed enemy (split)|
+|*magic*|fire of gork|D2 attacks with S3 12" to closed or two closed enemy (split possible) diff:8|
+||Fooled Ya!|Not chargable during the next round. If in CC step 4" away. diff:6|
 
 >>>
 
@@ -141,7 +147,14 @@
 
 ## Warband detail (after 1st szenario 14.10.2018)
 
-**rating**: 127
+**rating**: 130
+
+|treasure chest||
+|:---|:---|
+|gold crown|1|
+|wyrdstone|0|
+|*items*||
+|shield|2|
 
 |**Grumlok and Gazbag** | **Leader** |
 |:---|---:|
@@ -205,7 +218,7 @@
 |special rule|*Magic user*|
 |gain from skills|strength|
 | | ork special|
-|initial spell|Fire of Gork (diff 8)|
+|initial spell|Fooled Ya! (diff 6)|
 |equipment|dagger|
 
 >>>
