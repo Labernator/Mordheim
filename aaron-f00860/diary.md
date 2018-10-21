@@ -119,7 +119,7 @@ perfekt, aber für die erste Runde kann man damit spielen. Morgen ist Game Day!
 
 ## Erstes Kampagnenspiel
 
-**2018/10/15** Vergangenen Sonntag hatten wir unser erstes Kampagnenspiel (Raven
+**2018/10/15**: Vergangenen Sonntag hatten wir unser erstes Kampagnenspiel (Raven
 Barracks) gespielt. Es lief eigentlich ganz okay für das erste Spiel, auch wenn
 oftmals noch etwas überforderung mit den Regeln dabei war. Die Zwerge sind recht
 hart im Nehmen, so dass ich recht lange im Spiel geblieben bin. Etwas
@@ -128,3 +128,11 @@ etwas besser vorbereitet -- speziell was die Startbedingungen, Positionierung
 und Strategie angeht. Die Spielmechanik muss ich noch etwas üben :) Die Zeit bis
 zum nächsten Treffen werde ich damit verbringen die Warband noch fertig
 anzumalen und das Regelwerk nochmal durchzulesen.
+
+## Mehr Gelände
+
+**2018/10/21**: Kai und ich verbrachten zusammen mit den Kindern den Nachmittag
+damit, etwas Gelände aus Styrodur und ganz viel Farbe zu bauen. 
+
+![fun with the kids](diary-20181021-1.jpg)
+
