@@ -16,5 +16,5 @@ Mordheim Campaign
 # Termine
 
 * Sonntag, 14.10.2018 11:00 Uhr bei Aaron (Adresse auf Anfrage)
-* Samstag, 03.11.2018 (Ort steht noch nicht fest)
+* Samstag, 03.11.2018 10;00 Uhr bei Stefan
 * Sonntag, 18.11.2018 (Ort steht noch nicht fest)
