@@ -14,6 +14,7 @@
 |2x|Ork henchmen 25gc|2x battle axe 5gc|
 |2x|Ork henchmen 25gc|2x battle axe 5gc|
 |2x|Ork henchmen 25gc|2x hand weapon|
+||Beggar|15gc for chaotic WB 5 gc upkeep|
 
 ## Nice to have equipment
 
