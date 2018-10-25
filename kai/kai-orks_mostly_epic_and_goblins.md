@@ -7,7 +7,7 @@
 
 |amount/group|class|equip|
 |:---|:---|---:|
-|1x|Goblin|1x spear, 1x short bow|
+|1x|Goblin|1x spear, 1x short bow, 1x shield|
 |2x|Ork henchmen 25gc|Bow 10gc|
 |2x|Ork henchmen 25gc|Bow 10gc|
 |3x|Ork henchmen 25gc|2x battle axe 5gc|
@@ -21,6 +21,7 @@
 |cost/unit|name|type|amount|effect|
 |:---|:---|---:|---:|:---|
 |10 gc|Helmet|common|4x (Leader + Big'Uns), Leader first||
+|5 gc|Shield|common|||
 |1 gc|Garlic|common|~10x||
 |10+3d6 gc|Blessed water|rare 6|5x||
 |50 gc|Banner|rare 5|1x|re-roll a failed rout test (Hero bearer only)|
