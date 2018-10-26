@@ -105,7 +105,7 @@ Underdog: Aaron hat das niedrigste Warband Rating (73). Als zweitniedrigstes kom
 
 #### CZ:
 - Leader: überlebt, Kiste, 2x Szenario +4 (Advance: Skill Haggle)
-- Armen: überlebt, Kiste +2 Advance +1 WS
+- Armen: überlebt, Kiste +2 Advance +1 BS
 - Eternal Guard: überlebt, Kiste, Kill +3 (Advance: +1 Ini)
 - Glade Guard: 3 Kills, 3 Kisten, überlebt +7 (Advance +1 WS, +1 BS)
 - Innor: überlebt, Kiste +2 (Advance +1 Wound)
