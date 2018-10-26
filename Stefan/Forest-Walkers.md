@@ -73,7 +73,7 @@ Innor: der jüngste Sohn würde traditionsgemäß die Leibgarde seines älteren 
 
 **Experience:**  
  - Brandaer: Überlebt, Kiste, 2x Szenario: +4 (Advance: Skill Haggle)  
- - Armen: Überlebt, Kiste: +2 (Advance: +1 WS)  
+ - Armen: Überlebt, Kiste: +2 (Advance: +1 BS)  
  - Innor: Überlebt, Kiste: +2 (Advance: +1 Wound)  
  - Eternal Guard: Überlebt, Kiste, 1x Kill: +3 (Advance: +1 Ini)  
  - Glade Guard: Überlebt, 3x Kisten, 3x Kills: +7 (Advance: +1 WS, +1 BS)  
