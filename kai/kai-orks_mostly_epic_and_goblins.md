@@ -194,8 +194,8 @@
 | | combat|
 | | shooting|
 | | ork special|
-|equipment|axe (off hand)|
-| |sword|
+|equipment|axe|
+| |sword (off hand)|
 | |light armour|
 
 >>>
@@ -207,8 +207,8 @@
 | | combat|
 | | shooting|
 | | ork special|
-|equipment|axe (off hand)|
-| |sword|
+|equipment|axe|
+| |sword (off hand)|
 | |light armour|
 
 >>>
