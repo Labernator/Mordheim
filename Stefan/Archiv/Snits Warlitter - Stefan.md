@@ -115,3 +115,60 @@ Hiermit präsentiere ich (einigermaßen stolz) ein Haufen Steampunk Skaven. Enjo
 
 *Und so kam es zum Zweiten scheinbar zufälligen Zusammentreffen der beiden Gruppen in der zerfallenden Kaserne von Mordheim.*
 
+
+## Battle Report
+zrat killt sorada  
+zrat killt kekzaut
+
+Laber routet beginning of turn 2 mit doppel 6...
+
+Fellblade 2, Chef & Beastmaster bekommen xp. bei mir alle  
+mein leader bekommt 2  
+zrat bekommt 3 (erwürfelt sich einen Skill und nimmt Mind Focus für noch mehr Lightning)
+
+Reward: 30GC + 1 Sword (kriegt Zrat)
+
+sorada injury 31: blind left -1BS  
+kekzaut injury 35, setzt ein spiel aus
+
+Zrat erhält skill: mind focus
+
+Laber 2 Shards mit 3 Dice verkauft 1 für 40 und kauft Corsair für 35 => 5 übrig  
+CZ: 4 SHards mit 6 Dice verkauft 3 für 65 und kauft 3 Warpstone Amulette für 30 => 65 übrig
+
+==================================
+==================================
+
+Crekch killt chef nach knock down durch bolt
+
+Zrat killt Corsair  
+Snit killt Beastmaster
+
+Witch killt Teeth  
+zrat killt witch
+
+Reward:  
+Laber 1 Crate: Elven Cloak
+
+CZ 7 Crates:  
+4D6  
+4D6 + Cathian Silks  
+2D6 + 2 Toughened LEATHERS  
+4D6  
+4D6  
+4D6  
+4D6  
+
+=> 91 Gold
+
+**Nach diesen zwei sehr Einseitigen Spielen und einer riesen Gold Differenz beschließen wir es dann diese Kampagne an der Stelle abzubrechen**  
+
+ - Jeder kill durch Warp Lightning (insgesamt 6)
+ - Gelände ist echt toll
+ - Die Szenarien auch
+ - Warp Lighning ist dermaßen absurd broken, dass es nicht mehr witzig ist
+ - 0 Wunden auf einem Warrior haben ist echt schlecht (halbes Movement)
+ - Viele Warrior haben scheint gut
+ - Fernkampf ist auch gut
+
+**Mit diesen Erkenntnissen evaluieren Marius und ich nochmal unsere Warbands für die große Kampagne nächsten Monat.**
