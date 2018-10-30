@@ -84,15 +84,12 @@ Innor: der jüngste Sohn würde traditionsgemäß die Leibgarde seines älteren 
 160 GC (+1 aus der Treasure Chest)
  - +1 Searath (12 GC, wegen Haggle)
  - +2 Eternal Guard (90 GC)
- - +1 Sword (10 GC)
  - +1 Arabian Merchant (20 GC)
- - +2 Dagger (4 GC)
- - +1 Light Armour (20 GC)
- - +1 Shield (5 GC)
-    -> 0 GC übrig
+ - +4 Dagger (8 GC)
+    -> 31 GC übrig
 
 **Aktuelles Roaster**  
-**Brandaer** (War-leader, 24 XP): Light Armour, Shield, Sword, Sling (34 Rating)  
+**Brandaer** (War-leader, 24 XP): 2x Dagger, Sling (34 Rating)  
 
 **Estedir** (Waywatcher, 16 XP): Dagger, Bow (21 Rating)  
 
@@ -110,9 +107,9 @@ Innor: der jüngste Sohn würde traditionsgemäß die Leibgarde seines älteren 
 
 **The Endurium Leaf** (1x Eternal Guard, 0 XP): Dagger, Saerath (5 Rating)
 
-**Gadrion the Trader** (1x Arabian Merchant, 5 XP): Sword (10 Rating)
+**Gadrion the Trader** (Arabian Merchant, 5 XP): Sword (10 Rating)
 
-**Treasure Chest:** Superior Blackpowder, 1 Wyrdstone Shard, 0 GC  
+**Treasure Chest:** Superior Blackpowder, 1 Wyrdstone Shard, 31 GC  
 **Alignment:** Lawful / Neutral  
 **Warband Rating:** 166 :open_mouth:
 
