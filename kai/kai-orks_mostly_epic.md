@@ -15,12 +15,12 @@
 |cost/unit|name|type|amount|effect|
 |:---|:---|---:|---:|:---|
 |10 gc|Helmet|common|4x|Leader first|
-|5 gc|Shield|common|||
-|1 gc|Garlic|common|~10x||
-|10+3d6 gc|Blessed water|rare 6|5x||
-|50 gc|Banner|rare 5|1x|re-roll a failed rout test (Hero bearer only)|
+|10 gc|Bow|common|9x|all member (not goblin)|
+|1 gc|Garlic|common|~10x|anti vampire|
+|10+3d6 gc|Blessed water|rare 6|5x|anti vampire|
 |30+2d6 gc|War Horn|rare 8|1x|Before battle/Before rout test: Ld+1|
 |2 gc|torch|common|2x|+4" to spot hidden foes, cause fear to animals and can used as club in CC, ...|
+|50 gc|Banner|rare 5|1x|re-roll a failed rout test (Hero bearer only)|
 
 ## Nice to have skills
 
@@ -56,8 +56,15 @@
 3. strike to injure
 4. weapons training
 
+***shooting ***
+1. Quick shot
+2. Trick shooter
+3. Fletcher
+4. Eagle eyes
+
 ***magic***
 1. Fire of Gork
+2. Zzap!
 
 ### Goblins
 
