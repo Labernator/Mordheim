@@ -122,12 +122,9 @@ Underdog: Aaron hat das niedrigste Warband Rating (73). Als zweitniedrigstes kom
 #### CZ: 160 GC (+1 ubrig vom bauen)
 - +1 Searath (fur 12 GC)
 - +2 Eternal Guard (90)
-- +1 Sword (10 GC)
 - +1 Arabian Merchant (20)
-- +2 Dagger (4)
-- +1 Light Armour (20)
-- +1 Shield (5)
-- -> 0 GC übrig
+- +3 Dagger (6)
+- -> 33 GC übrig
 
 #### Laber: 78 GC (+4 vom bauen)
 - +2 Hellhounds (50 GC)
