@@ -63,8 +63,8 @@
 4. Eagle eyes
 
 ***magic***
-1. Fire of Gork
-2. Zzap!
+1. Fooled Ya!
+2. Fire of Gork
 
 ### Goblins
 
@@ -134,8 +134,9 @@
 |*common*|money maker|after adventure roll and add D6+ gc to WB treasury if not taken out of action (heros only)|
 ||dirty fighter - bite|bite instead of a use of an normal attack - S3 attack with no armor save, next round automatically S2, next round automatically S1|
 ||musician - minstrel|gain extra income add 2D6+2 gc each rounde after exploration (must wear a musical instrument)|
-|*magic*|fire of gork|D2 attacks with S3 12" to closed or two closed enemy (split possible) diff:8|
+|*magic*|Fire of Gork|D2 attacks with S3 12" to closed or two closed enemy (split possible) diff:8|
 ||Fooled Ya!|Not chargable during the next round. If in CC step 4" away. diff:6|
+||Zzap!|12" range, D3 S4 hits, no armor saves allowed diff:9|
 
 >>>
 
