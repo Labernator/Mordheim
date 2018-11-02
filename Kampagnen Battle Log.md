@@ -169,11 +169,11 @@ Nachdem alle Warbands platziert sind wird nochmal mit 3D6 gewürfelt. Das legt d
 
 Würfeln für Whitebanes Battlewound.
 
-Underdog: 
-Aaron: 83 Rating
-Marius: 120 Rating
-Fabian: 129 Rating
-Kai: 145 Rating
-Stefan: 166 Rating
+Underdog:  
+Aaron: 83 Rating  
+Marius: 120 Rating  
+Fabian: 129 Rating  
+Kai: 145 Rating  
+Stefan: 166 Rating  
 
 **Battle Report**  
