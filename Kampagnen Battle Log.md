@@ -165,8 +165,15 @@ Aufstellung: Der aktive Spieler sucht sich ein Segment aus (siehe Bild) und plat
 
 ![Deployment](Deployment.png)  
 
-Nachdem alle Warbands platziert sind wird nochmal mit 3D6 gewürfelt. Das legt die Spielreihenfolge fest: Höchster Wert zuerst, danach im Uhrzeigersinn.  
+Nachdem alle Warbands platziert sind wird nochmal mit 3D6 gewürfelt. Das legt die Spielreihenfolge fest: Höchster Wert zuerst, danach im Uhrzeigersinn.
+
+Würfeln für Whitebanes Battlewound.
 
 Underdog: 
+Aaron: 83 Rating
+Marius: 120 Rating
+Fabian: 129 Rating
+Kai: 145 Rating
+Stefan: 166 Rating
 
 **Battle Report**  
