@@ -221,3 +221,31 @@ Endurium Leaf: überlebt, 2 kills +3 (advance +1 WS)
 Gadrion: überlebt +1 (advance +1 Ld)  
 
 Wyrdstone
+fabian: 2 shards (+1 vom letzten mal): alle verkauft für 65 GC  
+
+cz: 3 shards (+1 vom letzten mal): 3 verkaufen für 60 GC
+
+Veteranen XP: 4  
+
+Kaufen:  
+fabian:  
+65 GC (+3 vom letzten mal)
+-40 Fellblade  
+-20 2 Swords  
+ => 8 übrig
+ 
+ CZ:  
+ 60 GC +31 vom letzten mal  
+ Ivan verkaufen: (20 GC und 2 Äxe)  
+ verkaufe 2 Äxte: 10 GC (dank pawnbroker)  
+ verkaufe Blackpowder: 22 (dank pawnbroker)  
+  => 143 GC  
+  
+  Rare items: 2x saerath (15 & 9 GC dank haggle), 2 composite bow (40 GC)
+  
+  79 GC übrig  
+  -10 Merchant  
+  69 übrig  
+  
+  Merchant: 6 (kaufe ich nicht)
+  
