@@ -179,10 +179,25 @@ Stefan: 166 Rating
 **Battle Report**  
 
 
-Glade Guard killt Warfall
-Doggie killt Sissi
+Glade Guard killt Warfall (22, -1 M)
+Doggie killt Sissi (dead)
 Warseeker killt Glade Guard (revive)
-Branch killt Wildbane
-Ivan killt Root
-Gaedor killt Ivan
-Innor killt Lilith
+Branch killt Wildbane (66, +1 XP)
+Ivan killt Root (recovery)
+Gaedor killt Ivan (captured)
+Innor killt Lilith (33, -1 I)
+Branch killt Dog (recover)
+Fabian routet
+Lichanulep killt Estedir (revive)
+Leaf killt Dog (dead)
+Leaf killt Waldemar (recovery)
+Branch killt Vladimir (62 no fear)
+Laber routet
+
+Reward:
+cz
+29GC
+2 Schwerter
+1 Helm
+
+Wyrdstone
