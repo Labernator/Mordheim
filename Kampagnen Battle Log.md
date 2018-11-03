@@ -177,3 +177,12 @@ Kai: 145 Rating
 Stefan: 166 Rating  
 
 **Battle Report**  
+
+
+Glade Guard killt Warfall
+Doggie killt Sissi
+Warseeker killt Glade Guard (revive)
+Branch killt Wildbane
+Ivan killt Root
+Gaedor killt Ivan
+Innor killt Lilith
