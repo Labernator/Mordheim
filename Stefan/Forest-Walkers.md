@@ -128,14 +128,61 @@ Innor: der jüngste Sohn würde traditionsgemäß die Leibgarde seines älteren 
 *Ariel sei gepriesen, wie viele verirrte Elfen konnte es in der götterverlassenen Stadt wohl geben? Sollten sie tatsächlich die Spur des verlorenen Sohn gefunden haben? Die Hoffnung auf eine schnelle Heimkehr hellte die Stimmung der Gruppe merklich auf und mit neuem Mut zogen die Gefährten ein weiteres Mal durch das gähnende Maul des verfallenen Nordtors.* 
 
 ### Schlachtbericht  
-**Ergebnis Szenario:**  (Sieg/Niederlage)  
+**Ergebnis Szenario:**  Sieg  
+
 **Gefallene Krieger:**  
+ - The Mithril Root (Recovery)  
+ 
 **Belohnungen:**  
+29 GC, 2 Schwerter, 1 Helm  
+
 **Experience:**  
-**Wyrdstone:**  
+ - Brandaer: Sczenario, überlebt +2  
+ - Estedir: überlebt +1  (advance: +1S)  
+ - Gaeardor: überlebt, kill +2 (advance +1 BS)  
+ - Armen: überlebt +1  
+ - Innor: überlebt, kill +2  (advance: weapon training)  
+ - Glade Guard: überlebt, kill +2 (advance: +1 S)  
+ - Mithril Root: überlebt +1  
+ - Ithilmar Branch: überlebt, 3 kills +4 (advance +1 Ld)  
+ - Endurium Leaf: überlebt, 2 kills +3 (advance +1 WS)  
+ - Gadrion: überlebt +1 (advance +1 Ld)   
+
+**Wyrdstone:**  3 shards (+1 vom letzten mal): 3 verkaufen für 60 GC  
+
 **Neues Equipment/Rekruten:**  
+ 60 GC von Wyrdstone +31 GC vom letzten Mal, +29 GC Reward  
+ Ivan verkaufen: (20 GC und 2 Äxe)  
+ verkaufe 2 Äxte: 10 GC (dank pawnbroker)  
+ verkaufe Blackpowder: 22 (dank pawnbroker)  
+  => 172 GC  
+  
+ - +1 Saerath (15 GC dank Haggle)    
+ - +1 Saerath (9 GC dank Haggle)  
+ - Composite Bow (20 GC)  
+ - Composite Bow (20 GC)  
+ - Upkeep Merchant (10 GC)  
+ -> 98 GC übrig
 
 **Aktuelles Roaster**  
+**Brandaer** (War-leader, 26 XP): 2x Dagger, Sling (36 Rating)  
 
+**Estedir** (Waywatcher, 17 XP): Dagger, Bow (22 Rating)  
+
+**Gaeardor** (Waywatcher, 18 XP): Dagger, Bow (23 Rating)  
+
+**Armen** (Spellsinger, 15 XP): Sling, Spell: Ariel's Blessing (20 Rating)
+
+**Innor** (Youngling, 4 XP): Toughened Leathers, 2x Dagger (9 Rating)  
+
+**The Glade Guard** (3x Glade Guard, 9 XP): 2x Dagger, Bow (42 Rating)  
+
+**The Mithril Root** (1x Eternal Guard, 3 XP): Dagger, Saerath (8 Rating) 
+
+**The Ithilmar Branch** (1x Eternal Guard, 4 XP): Dagger, Saerath (9 Rating)
+
+**The Endurium Leaf** (1x Eternal Guard, 3 XP): Dagger, Saerath (8 Rating)
+
+**Gadrion the Trader** (Arabian Merchant, 6 XP): Sword (11 Rating)
 ### Nachspiel
 
