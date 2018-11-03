@@ -143,7 +143,6 @@ Innor: der jüngste Sohn würde traditionsgemäß die Leibgarde seines älteren 
  - Armen: überlebt +1  
  - Innor: überlebt, kill +2  (advance: weapon training)  
  - Glade Guard: überlebt, kill +2 (advance: +1 S)  
- - Mithril Root: überlebt +1  
  - Ithilmar Branch: überlebt, 3 kills +4 (advance +1 Ld)  
  - Endurium Leaf: überlebt, 2 kills +3 (advance +1 WS)  
  - Gadrion: überlebt +1 (advance +1 Ld)   
@@ -191,5 +190,11 @@ Innor: der jüngste Sohn würde traditionsgemäß die Leibgarde seines älteren 
 **Treasure Chest:** 2 Bows, 1 Wyrdstone Shard, 98 GC  
 **Alignment:** Lawful / Neutral  
 **Warband Rating:** 196
+
 ### Nachspiel
 
+An der Stelle brechen wir die Kampagne ab. Die klare Erkenntis: Wood Elves sind busted ohne Ende.
+Die Kombination aus sehr akuratem Shooting, den Saerath, der Special Ability der Eternal Guard, dem Revive durch den Mage und dem Baum (den ich vermutlich nach dem nächsten Spiel gekauft hätte) ist einfach viel zu viel des Guten.  
+Im wahrsten Sinne des Wortes!
+
+ => Archived - it was a good run :)
