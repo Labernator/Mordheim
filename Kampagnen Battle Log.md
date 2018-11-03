@@ -194,10 +194,30 @@ Leaf killt Waldemar (recovery)
 Branch killt Vladimir (62 no fear)
 Laber routet
 
-Reward:
-cz
-29GC
-2 Schwerter
-1 Helm
+Reward:  
+cz  
+29GC  
+2 Schwerter  
+1 Helm  
+
+**XP**
+fabian  
+Wildbane: injury +1  
+Hexe: überlebt +1  
+Shades: überlebt +1  
+Corsair: überlebt +1  
+Warseeker: überlebt +1  
+
+cz  
+Leader: Sczenario, überlebt +2  
+Estedir: überlebt +1  
+Gaeardor: überlebt, kill +2
+Armen: überlebt +1  
+Innor: überlebt, kill +2  
+Glade Guard: überlebt, kill +2
+Mithril Root: überlebt +1
+Ithilmar Branch: überlebt, 3 kills +4
+Endurium Leaf: überlebt, 2 kills +3
+Gadrion: überlebt +1
 
 Wyrdstone
