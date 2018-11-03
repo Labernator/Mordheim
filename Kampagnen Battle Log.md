@@ -236,16 +236,17 @@ fabian:
  
  CZ:  
  60 GC +31 vom letzten mal  
+ 29 Reward  
  Ivan verkaufen: (20 GC und 2 Äxe)  
  verkaufe 2 Äxte: 10 GC (dank pawnbroker)  
  verkaufe Blackpowder: 22 (dank pawnbroker)  
-  => 143 GC  
+  => 172 GC  
   
   Rare items: 2x saerath (15 & 9 GC dank haggle), 2 composite bow (40 GC)
   
-  79 GC übrig  
+  108 GC übrig  
   -10 Merchant  
-  69 übrig  
+  98 übrig  
   
   Merchant: 6 (kaufe ich nicht)
   
