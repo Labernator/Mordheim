@@ -162,7 +162,8 @@ Innor: der jüngste Sohn würde traditionsgemäß die Leibgarde seines älteren 
  - Composite Bow (20 GC)  
  - Composite Bow (20 GC)  
  - Upkeep Merchant (10 GC)  
- -> 98 GC übrig
+ - Beggar (10 GC)
+ -> 88 GC übrig
 
 **Aktuelles Roaster**  
 **Brandaer** (War-leader, 26 XP): Saerath, Dagger, Helm, Sling (36 Rating)  
@@ -185,8 +186,10 @@ Innor: der jüngste Sohn würde traditionsgemäß die Leibgarde seines älteren 
 
 **Gadrion the Trader** (Arabian Merchant, 6 XP): Sword (11 Rating)
 
+**Beggar** (Beggar, 3 XP): Dagger (8 Rating)  
+
 **Treasure Chest:** 2 Bows, 1 Wyrdstone Shard, 98 GC  
 **Alignment:** Lawful / Neutral  
-**Warband Rating:** 188
+**Warband Rating:** 196
 ### Nachspiel
 
