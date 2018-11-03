@@ -210,14 +210,14 @@ Warseeker: überlebt +1
 
 cz  
 Leader: Sczenario, überlebt +2  
-Estedir: überlebt +1  
-Gaeardor: überlebt, kill +2
+Estedir: überlebt +1  (advance: +1S)
+Gaeardor: überlebt, kill +2 (advance +1 BS)  
 Armen: überlebt +1  
-Innor: überlebt, kill +2  
-Glade Guard: überlebt, kill +2
-Mithril Root: überlebt +1
-Ithilmar Branch: überlebt, 3 kills +4
-Endurium Leaf: überlebt, 2 kills +3
-Gadrion: überlebt +1
+Innor: überlebt, kill +2  (advance: weapon training)  
+Glade Guard: überlebt, kill +2 (advance: +1 S)
+Mithril Root: überlebt +1  
+Ithilmar Branch: überlebt, 3 kills +4 (advance +1 Ld)  
+Endurium Leaf: überlebt, 2 kills +3 (advance +1 WS)  
+Gadrion: überlebt +1 (advance +1 Ld)  
 
 Wyrdstone
