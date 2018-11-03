@@ -165,15 +165,15 @@ Innor: der jüngste Sohn würde traditionsgemäß die Leibgarde seines älteren 
  -> 98 GC übrig
 
 **Aktuelles Roaster**  
-**Brandaer** (War-leader, 26 XP): 2x Dagger, Sling (36 Rating)  
+**Brandaer** (War-leader, 26 XP): Saerath, Dagger, Helm, Sling (36 Rating)  
 
-**Estedir** (Waywatcher, 17 XP): Dagger, Bow (22 Rating)  
+**Estedir** (Waywatcher, 17 XP): Dagger, Sword, Bow (22 Rating)  
 
-**Gaeardor** (Waywatcher, 18 XP): Dagger, Bow (23 Rating)  
+**Gaeardor** (Waywatcher, 18 XP): Dagger, Sword, Bow (23 Rating)  
 
-**Armen** (Spellsinger, 15 XP): Sling, Spell: Ariel's Blessing (20 Rating)
+**Armen** (Spellsinger, 15 XP): 2x Dagger, Sling, Spell: Ariel's Blessing (20 Rating)
 
-**Innor** (Youngling, 4 XP): Toughened Leathers, 2x Dagger (9 Rating)  
+**Innor** (Youngling, 4 XP): Toughened Leathers, Saerath, Dagger (9 Rating)  
 
 **The Glade Guard** (3x Glade Guard, 9 XP): 2x Dagger, Bow (42 Rating)  
 
@@ -184,5 +184,9 @@ Innor: der jüngste Sohn würde traditionsgemäß die Leibgarde seines älteren 
 **The Endurium Leaf** (1x Eternal Guard, 3 XP): Dagger, Saerath (8 Rating)
 
 **Gadrion the Trader** (Arabian Merchant, 6 XP): Sword (11 Rating)
+
+**Treasure Chest:** 2 Bows, 1 Wyrdstone Shard, 98 GC  
+**Alignment:** Lawful / Neutral  
+**Warband Rating:** 188
 ### Nachspiel
 
