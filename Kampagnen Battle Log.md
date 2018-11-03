@@ -245,8 +245,9 @@ fabian:
   Rare items: 2x saerath (15 & 9 GC dank haggle), 2 composite bow (40 GC)
   
   108 GC übrig  
-  -10 Merchant  
-  98 übrig  
+  -10 Merchant upkeep  
+ -10 Beggar  
+ 88 übrig  
   
   Merchant: 6 (kaufe ich nicht)
   
