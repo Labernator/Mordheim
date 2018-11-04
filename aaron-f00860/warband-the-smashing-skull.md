@@ -168,60 +168,86 @@ Schlachtfeld entkommen konnten. Doch etwas Frust war auch dabei, dass sie nicht
 noch mehr Schätze erbeutet hatten. Sie erkannten alle, dass das erst der Anfang
 von etwas ganz großem war.
 
-## Characters
+## Roaster
 
 * **Ragnar** (Dwarf Noble): Helmet, Shield, Gromril Armour, Double-handed Weapon
 * **Floki** (Dwarf Engineer): Helmet, Shield, Hammer, Dwarf Axe, Light Armour
 * **Bjørn** (Dwarf Troll Slayer): Dwarf Axe, Dwarf Axe
 * **Halfdan & Harald** (Dwarf Thunderers, Henchmen): Shield, Axe, Handgun
 
-Treasure Chest:  10GC, 1 Wyrdstone Shards
+Treasure Chest:  **10GC, 1 Wyrdstone Shards**
 
-Warband Rating: 80 (83 wenn Henchmen einzeln zählen)
+Warband Rating: **83**
 
+# The lost Prince
 
-# Cheatsheet
+Ragnar und seine Truppe erholten sich einige Tage in den Wäldern und versorgten
+ihre Wunden. Es war ein heftiger Kampf gewesen, der an niemanden spurlos vorüber
+ging. An diesem Morgen lag noch der Tau auf den Wiesen vor ihnen und ein
+Nebelschleier lag wie ein großer weißer Teppich über allem.
 
-## Armour
+Ein Botschafter des Königs von Whey ritt an ihnen vorbei, machte Halt und kehrte
+zurück. Er überbrachte die Nachricht, dass der Prinz des Königs vermisst wird.
+Es wurden demjenigen große Reichtümer versprochen, der den Prinzen wohlbehalten
+findet und zum Königreich zurückbringt.
 
-* Helmet: Avoid Stun
-* Shield: Save <=6
-* Gromril Armour: Save 3+, counts as Heavy Armour
-* Heavy Armour: Save 4+, Movement
+Das wollte sich Ragnar und die anderen nicht entgehen lassen. Es gab nur einen
+Ort, an dem junge Prinzen nach einem Abenteuer suchten und sich dabei maßlos
+überschätzten: Mordheim. Sie packten Ihre Sachen und zogen los den Prinzen zu
+finden.
 
-## Weapons
+In Mordheim angekommen war es anfangs beängstigend still. Man hörte den Wind der
+durch die zerfallenen Häuser pfeifte. Der Boden knirrschte unter den Stiefeln.
+Es war zu still für diesen Ort. Weit in der Ferne hörten sie plötzlich ein
+wimmern. Es musste der Prinz sein. Aus der gleichen Richtung kamen fast
+zeitglich grässliche Schreie und gekicher. Es hörte sich an wie eine gigantische
+Armee von Orks. Wenn sie den Prinzen retten wollten, mussten sie es jetzt tun
+oder lassen. Die Orks würden den Prinzen bei lebendigem Leim zerfetzen.
 
-* Hammer: Concussion
-* Double-handed Weapon: Two-handed, Strike last (+2 Strength)
-* Axe: Cutting Edge
-* Dwarf Axe: Cutting Edge, Parry
-* Handgun: Prepare Shoot, Save Modifier (Range: 24", Strength: 4)
+![Orks!](diary-20181103-1.jpg)
 
-## Special Rules
+Halfdan und Harald blieben noch zurück und gaben Ragnar, Floki und Bjørn
+Deckung. Kaum hatten sie den Prinzen entdeckt, waren sie vollständig von
+blutrünstigen Orks eingekesselt. Sie versteckten sich hinter einem Brunnen, doch
+das gab ihnen nur bedingt Schutz. Einer der Orks verstand sich in der Magie und
+machte sich mit seinem Zauber an Ragnar zu schaffen. Die dicke Rüstung brachte
+ihm nichts, denn der Zauber durchdrang alles. Ragnar lag am Boden und die Orks
+rückten immer näher. Auch die Deckung von Halfdan und Harald flog auf und zwei
+gierige Orks stürmten auf ihn zu. Es sah nicht gut aus.
 
-* Hard to Kill: 1-2 knicked down, 3-5 stunned, 6 out of action
-* Hard Head: ignore special rules for maces, clubs etc.
-* Armour: no movement penalties for wearing armour
-* Incomarable Miners: When checking for wyrdstone, add +1 to the number of pieces found
+Umzingelt und in der Unterzahl richtete sich Ragnar wieder auf und entschloss
+sich für einen Frontalangriff. Ein paar Orks griffen sich schon selbst an, das
+mussten sie zu ihrem Vorteil ausnutzen. Mit dem verletzten und jammernden Prinzen im
+Schlepptau sogen sie los. Floki schwang seinen Hammer und tötete drei Orks.
+Bjørn war nicht zu bremsen und hackte dem Anführer der Orks mit einem mächtigen
+Schlag den Kopf ab. Das schwächte die Moral der Orks so sehr, dass sie die
+Flucht ergriffen.
 
-* Cutting Edge: -1 Save modifier
-* Parry: Can parry blows
-* Prepare Shoot: Reload takes 1 turn, walk OR shoot, not both
-* Save Modifier: When wounded, armor save -1 modifier
-* Concussion: dice roll 2-4 -> stunned
-* Two-handed: No other weapon can be used, shield gets +1 armour save
-* Strike last: Always strikes last, even when charging
-* Save: basic save
-* Movement: -1 Movement penalty with shield
-* Avoid Stun: 4+ save on a D6 against being stunned
+Nachdem alles vorbei war, brachte Ragnar den Prinzen zurück ins Königreich. Der
+König war überglücklich über die Rückkehr, doch die versprochene Bezahlung blieb
+aus. Der König hatte sie reingelegt.
 
-## Skill Wishlist
+Was blieb war die Erfahrung, die sie im Kampf machten. Keiner in Mordheim wollte
+sich mehr mit Ragnar und seiner Truppe anlagen. The Smashing Skull wurden zu
+einer Legende, die sich seit diesem Tage in den Ländern verbreitete.
 
-* Dirty Fighter (Prereq. for Bjørn)
-* Far-sight (Floki)
-* Sweeping Blow (Ragnar)
-* Pistolier, Nimble, Hunter, Vitals Shot (Halfdan & Harald)
+## Roaster
 
-* Extra Tough
-* True Grit
-* Thik Skull
+* **Ragnar** (Dwarf Noble): Helmet, Shield, Gromril Armour, Double-handed Weapon
+  (+3 +1 XP, +1 Skill)
+* **Floki** (Dwarf Engineer): Helmet, Shield, Hammer, Dwarf Axe, Light Armour
+  (+3 +3 XP, +1 Skill, +1 WS)
+* **Bjørn** (Dwarf Troll Slayer): Dwarf Axe, Dwarf Axe (+3 +1 XP, +1 T, +1 Skill)
+* **Harald**: (Dwarf Thunderer): Shield, Axe, Handgun (+3 XP, wurde zum Held, +1
+  SKill)
+* **Halfdan** (Dwarf Thunderers, Henchmen): Shield, Axe, Handgun (+3 XP)
+* **Merchant**
+* **Beggar**
+
+## Treasure Chest
+
+* 70GC
+* 1 Wyrdstone Shards
+* Mordheim Map (WAKE)
+
+Warband Rating: **114**
