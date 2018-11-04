@@ -136,3 +136,21 @@ damit, etwas Gelände aus Styrodur und ganz viel Farbe zu bauen.
 
 ![fun with the kids](diary-20181021-1.jpg)
 
+## Game Day #2
+
+**2018/11/03**: Heute haben wir bei Stefan mit einer geteilten Platte gespielt.
+Stefan, Marius und Fabian auf der linken Hälfte, Kai und ich auf der rechten.
+Für mich lief es erstaunlich gut, trotz dessen dass ich mit 5 Zwergen gegen
+13 Orks antreten musste; Hätte ich nicht gedacht. Für Stefan lief es auch recht
+gut, da er von der letzten Runde schon gut abgeräumt hatte und mit seinen
+Einheiten stark überlegen war. Das drückte etwas die Stimmung beim Rest. Da die
+Warbands nun extrem unausgeglichen sind, macht es wenig Sinn, sie so weiter
+zu führen. Wir haben beschlossen, nochmal alles auf 0 zu setzen. So hat jeder
+die Change, mit den gewonnenen Erfahrungen eine neue Warband zusammenzustellen.
+Ich denke ich werde mir mal die Dwarf Rangers ansehen, da mir das Nachladen
+der Handguns ziemlich auf den Zeiger geht und ich die erweiterte Reichweite
+durch den Engineer noch nie gebraucht hatte (das Terrain ist meist so verbaut,
+dass es keine 32" lange Schussweite gibt). Das heißt also: Neue Warband
+zusammenstellen. Zudem haben Kai und ich schon Pläne für neues Terrain.
+
+![ORKS!!!](diary-20181103-1.jpg)
