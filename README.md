@@ -6,15 +6,17 @@ Mordheim Campaign
 * Stefan (CZ) [Forest Walkers](/Stefan/Forest-Walkers.md)
 * Marius (Laber) [Dragon Knights](/Marius/Dragon%20Knights)
 * Kai (klaute) [Orks mostly epic](/kai/kai-orks_mostly_epic.md) ([diary](/kai/kai-orks_mostly_epic_diary.md))
-* Aaron (f00860) [Dwarf Treasure Hunters](/aaron-f00860/warband-the-smashing-skull.md) ([diary](/aaron-f00860/diary.md))
+* [Aaron (f00860)](/aaron-f00860/diary.md) [Dwarf Rangers](/aaron-f00860/warband-twilight-of-the-dead.md) (Legends: [Dwarf Treasure Hunters](/aaron-f00860/warband-the-smashing-skull.md)
 * Fabian (Gary) [Dary Elves](/Fabian/Dark%20Elves.md)
 
 # Absprachen & Anpassungen am Regelwerk
 
-* siehe [Houserules](/Dokumente/Houserules.md)
+* [Houserules](/Dokumente/Houserules.md)
+* [Multiplayer Ideen](/Ideensammlung Multiplayer.md)
+* [Battlelog](/Kampagnen Battle Log.md)
 
 # Termine
 
 * Sonntag, 14.10.2018 11:00 Uhr bei Aaron (Adresse auf Anfrage)
-* Samstag, 03.11.2018 10;00 Uhr bei Stefan
+* Samstag, 03.11.2018 10:00 Uhr bei Stefan
 * Sonntag, 18.11.2018 (Ort steht noch nicht fest)
