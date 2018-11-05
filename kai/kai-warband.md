@@ -7,20 +7,23 @@
 
 |amount/group|class|description|
 |:---|:---|:---|
-|2|Ork boyz|hand weapon + dagger (off hand)|
-|1|Beggar|15gc for chaotic WB, 5 gc upkeep|
+|4|Ork boyz|battle axe + dagger (off hand)|
+|1|Troll|200gc 15gc up keep|
 
 ## Nice to have equipment
 
-|cost/unit|name|type|amount|effect|
+|cost/unit|name|type|amount|description|
 |:---|:---|---:|---:|:---|
-|10 gc|Helmet|common|4x|Leader first|
+|50 gc|Banner|rare 5|1x|re-roll a failed rout test (hero bearer only)|
+|10 gc|Helmet|common|4x|Heroes|
+|50 gc|Heavy armor|common|5x|Leader+Heros|
+|10 gc|Yount'Un upgrade|common|2x|Young'Uns|
+|5 gc|Battle Axe|common|8x|4all|
 |10 gc|Bow|common|9x|all member (not goblin)|
 |1 gc|Garlic|common|~10x|anti vampire|
 |10+3d6 gc|Blessed water|rare 6|5x|anti vampire|
-|30+2d6 gc|War Horn|rare 8|1x|Before battle/Before rout test: Ld+1|
 |2 gc|torch|common|2x|+4" to spot hidden foes, cause fear to animals and can used as club in CC, ...|
-|50 gc|Banner|rare 5|1x|re-roll a failed rout test (Hero bearer only)|
+|30+2d6 gc|War Horn|rare 8|1x|Before battle/Before rout test: Ld+1|
 
 ## Nice to have skills
 
@@ -39,9 +42,9 @@
 ***strength skills***
 1. fearsome
 2. resilient
-3. tin can (leader first)
-4. strongman
-5. mighty blow
+3. strongman (leader first)
+4. mighty blow
+5. tin can (leader first)
 
 ***speed skills*** (leader only)
 1. sprint
@@ -50,11 +53,12 @@
 4. scale sheer surfaces
 
 ***combat skills***
-1. axe master
-2. expert swordsmen
-3. combat master
-3. strike to injure
-4. weapons training
+1. sweeping blow (leader/black ork)
+2. axe master
+3. expert swordsmen/expert axeman
+4. combat master
+5. strike to injure
+6. weapons training
 
 ***shooting ***
 1. Quick shot
