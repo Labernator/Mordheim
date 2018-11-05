@@ -40,3 +40,6 @@
 14.) Neuer Skill  
  - Strength Skill: Tin Can  
  Der Hero kann jede beliebige Rüstung tragen.
+
+15.) Equipment: Unique
+ - Jeder Hero darf jedes Miscellaneous equipment (S.36) nur maximal einmal Besitzen. Dies soll das stacken von Items verhindern wie: Rabbit's Foot (S. 38), Cloak of Mists (S. 41), Holy Tome (S. 41), etc. Folgendes Equipment wirkt nur einmal pro Warband: Halfling Cookbook (S. 41)
