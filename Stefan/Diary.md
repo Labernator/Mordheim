@@ -20,7 +20,7 @@ Die n채chste Erkenntnis war, dass Magic sehr unterschiedlich n체tzlich ist. Gute
 
 Und die finale Erkenntnis: Shooting ist gut weil risikofrei, ABER gewonnen werden Spiele im Nahkampf. Und nur da. 
 
-Das Ergebnis war, dass meine n채chste Warband zumindest einige S4 attacken von Anfnag an haben sollte. Und T4 w채re auch super.
+Das Ergebnis war, dass meine n채chste Warband zumindest einige S4 Attacken von Anfang an haben sollte. Und T4 w채re auch super.
 
 An T4 Rassen gibt es Zwerge, Orks und Beastmen. Die letzten beiden haben jeweils eine Form von Animosuty und das ist so gar nicht was ich in meinem Spiel haben will. Und Zwerge hat Aaron schon. => T4 wird es erstmal nicht werden.
 
@@ -37,6 +37,6 @@ Die letzten drei halte ich alle f체r ziemlich potente Optionen. Also habe ich f�
 Die Listen sahen auch alle ziemlich gut aus.
 
 Der Tiebraker war dann der Fluff. Ich mag Nurgle Modelle (Pest D채monen, Tentakel und sowas) 체berhaupt nicht. Der Carnival ist also raus.
-Was ich dagegen **sehr** mag sind Schwarm Armeen (Zerg in Starcraft, Sakkras in Master of Orion 2, Skaven in Warhammer,etc.)
+Was ich dagegen **sehr** mag sind Schwarm Armeen (Zerg in Starcraft, Sakkras in Master of Orion 2, Skaven in Warhammer, etc.)
 
 Damit fiel dann die Entscheidung auf Clan Eshin. Die Liste wird noch erarbeitet, kommt aber im Laufe der Woche.
