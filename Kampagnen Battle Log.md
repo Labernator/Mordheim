@@ -307,3 +307,20 @@ fabian:
 * Kauft Beggar 10 gc
 * vom vater des prinzen: + 10gc
 * Treasuce chest: 10[von vorher]+60 gc
+
+## Szenario 1: The Great Library (S. 217)
+
+**Scenario Houselrules**  
+-	Sobald das erste Modell ein Buch berührt muss jede Warband zu Begin ihres Zuges auf Random Happenings (S. 307) würfeln.
+- Wenn mehr als eine Warband gleichviel (und am meisten) Tomes besitzt, erhält jeder ihrer Anführer +1 Experience.
+- Wenn das Szenario endet sind alle Tomes die noch nicht aufgesammelt wurden verloren. Der Gewinner erhält sie nicht.
+- Wenn man in Base Kontakt mit einem Tome kommt endet die Bewegung für den Helden. Um ein Tome aufzupicken muss ein Ld test gelingen (sie verursachen Fear). Misslingt der Test, so hat man in der nächsten Bewegungsphase wieder eine Chance. Man kann sich jetzt wieder normal bewegen, unabhängig davon wie der Test ausging. Man kann es so beliebig viele Runden versuchen, wenn man stehen bleibt.
+- Die Tomes können zum Schluss beliebig auf Helden verteilt werden um gelesen zu werden (sie könnten ja auch von einem Henchmen aufgepickt worden sein). Jeder Spieler muss für jedes Tome seperat ansagen welcher Held es lesen soll.
+
+**Setup**  
+Jeder würfelt mit 3D6. Das legt die Reihenfolge für die Aufstellung fest.  
+Aufstellung: Der aktive Spieler sucht sich ein Segment aus (siehe Bild) und platziert seine Warband maximal 6" vom Rand und 6" von einem Mitglied einer anderen Warband entfernt.  
+
+![Deployment](Deployment.png)  
+
+Nachdem alle Warbands platziert sind wird nochmal mit 3D6 gewürfelt. Das legt die Spielreihenfolge fest: Höchster Wert zuerst, danach im Uhrzeigersinn.
