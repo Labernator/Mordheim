@@ -12,8 +12,8 @@ Mordheim Campaign
 # Absprachen & Anpassungen am Regelwerk
 
 * [Houserules](/Dokumente/Houserules.md)
-* [Multiplayer Ideen](/Ideensammlung Multiplayer.md)
-* [Battlelog](/Kampagnen Battle Log.md)
+* [Multiplayer Ideen](/Ideensammlung%20Multiplayer.md)
+* [Battlelog](/Kampagnen%20Battle%20Log.md)
 
 # Termine
 
