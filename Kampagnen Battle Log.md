@@ -311,7 +311,7 @@ fabian:
 ## Szenario 1: The Great Library (S. 217)
 
 **Scenario Houselrules**  
--	Sobald das erste Modell ein Buch berührt muss jede Warband zu Begin ihres Zuges auf Random Happenings (S. 307) würfeln.
+-	Nur Warbands im Besitz mindestens eines Tomes müssen auf Random Happenings (S. 307) würfeln. Wie beschrieben tritt ein Encounter nur bei einer 1 auf einem D6 ein. Dies soll verhindern, dass bei uns jede Runde 5 Events spawnen die alle Berücksichtigt werden müssen (und teilweise wirklich verheerend sind. 53 anyone?!?)
 - Wenn mehr als eine Warband gleichviel (und am meisten) Tomes besitzt, erhält jeder ihrer Anführer +1 Experience.
 - Wenn das Szenario endet sind alle Tomes die noch nicht aufgesammelt wurden verloren. Der Gewinner erhält sie nicht.
 - Wenn man in Base Kontakt mit einem Tome kommt endet die Bewegung für den Helden. Um ein Tome aufzupicken muss ein Ld test gelingen (sie verursachen Fear). Misslingt der Test, so hat man in der nächsten Bewegungsphase wieder eine Chance. Man kann sich jetzt wieder normal bewegen, unabhängig davon wie der Test ausging. Man kann es so beliebig viele Runden versuchen, wenn man stehen bleibt.
