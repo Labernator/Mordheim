@@ -31,8 +31,8 @@
 
 ***ork special skill***
 1. da' cunnin' plan (leader only)
-2. well' ard
-3. 'eadbasher
+2. 'eadbasher
+3. well' ard
 4. 'ere we go!
 
 ***common skill***
@@ -127,6 +127,8 @@
 ||dodge|if under shooting roll D6 for every hit from a missile weapon: 5+ save|
 ||scale sheer surfaces|climb up/down on every height without take a iniative test|
 |*combat*|expert swordsmen|reroll missed attacks when charged using normal swords|
+||sweeping blow||
+||expert axemen||
 ||axe master|as parry using a sword|
 ||combat master|if in cc with more than one enemy he can use 1 extra attack, immune to all allone test (need two other)|
 ||strike to injure|+1 to all injury rolls in CC (need two other)|
