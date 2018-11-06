@@ -60,7 +60,7 @@
 5. strike to injure
 6. weapons training
 
-***shooting ***
+***shooting***
 1. Quick shot
 2. Trick shooter
 3. Fletcher
@@ -100,7 +100,7 @@
 |parry|on hit roll d6 if >= enemy hit score => parried|
 |unwieldy|can use a buckler or shield in off-hand during cc but no second weapon|
 |two-handed|no buckler or shield allowed in cc; a shield can used to get an +1 armor save against shooting |
-|strike first|even if the carrier got charged, the carrier strikes first in cc|
+|strike first|if the carrier got charged, the carrier strikes first in first cc|
 |strike last|even after a successful charge the carrier strikes last in cc|
 
 >>>
