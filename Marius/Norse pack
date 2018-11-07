@@ -2,19 +2,27 @@ Jarl	70
 Sword	10
 Shield	5
 Light Armor 	20
+Helmet 10
+Dagger free
 
 Wulfen	90
 
 Berserker	50
-Axe	5
+2x Hammer 6
 
 Berserker	50
 Axe	5
+Dagger free
 
 Bondsman 	15
+Shield	5
+Light Armor 	20
+Hammer 3
+Dagger free
 
 1 Hunter 25
 Bow 10	
+Dagger free
 
 5 Wolves 75	
 
@@ -22,4 +30,4 @@ Beggar	10
 
 Arabian Merchant	20
 
-40gv
+1 gc
