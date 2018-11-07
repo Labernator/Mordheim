@@ -1,16 +1,98 @@
 
-# Orks mostly epic - diary
+# Orks diary
 
-The last warband was dropped because of that the rout test may now be done after two out of action members.
+---
 
+The last warband wasn‘t that bad and it was fun to test their behavior and skills. 
+But our tabletop group decided to start over and everyone is allowed to rebuild a new warband.
 
-# Orks mostly epic & goblins - diary
+I got a tip that the Black Ork Warband may be better than the normal orks. So I started to create a Black Ork warband.
+
+Lore:
+
+Grumlok stand still in front of his warband.
+He looked ar Wogga, the three Black orks, the Boyz and the Goblins.
+The treasure chest is empty and all their effort was unsuccessful.
+His eyes narrowed and focused the goblins.
+The boys saw this and söowly they stepped aside, away from the goblins. All of them were engaged in a scrap with each other. 
+He tightnes his hand on the handle of his great axe. And with incredible speed of movement he charged the green ball of scrapping group.
+With infernal fury he blow his axe theough them.
+Limbs and esrs and broken weapon felt to the geound. The scrap was stopped instantly.
+Dor now on Grumlok will never again will let animosity go on unpunished within his proximity.
+He looked at the Boyz and they know for now on that they got big problem. They öooked at him and tried to stand stil.
+„You ar black orks“ he yelled grunty to the black orks. Startled the rqised their eyes up to the boss and away from the scattered body parts and stopped laughting.
+
+„I don se ya kill‘n da ard‘eads. Stop fooln aroun.“
+He raised his left arm to point on them holding his great axe in his large claw.
+Gazbag on his shoulderplate had problems to hold himself save while grumlok stepped i front of his three heros.
+
+With his green glowing eyes he looked in the faces of them. At least one of them is not an full Black Ork, he thought. With a swift move of his right arm he grabbed Grommok, the stronger one of them.
+„Tell me, wich one of ya is not a true blood?“
+he shouted in his face.
+Grommok dosn‘t betray his mates, and Geumlok would not forgive a betrayer.
+
+So Grumlok let him go and stepped in front of them
+back and forth.
+„Scrap“ he said söowly and quiet.
+„I will see who is ya subject.“
+„I said fight!!!“ he shouted.
+
+Ant the three Orks started to scrap each other.
+It was a terrible fight and it took a while til
+the first was knocked down. Grumlok followed the fight sceptic and he also habe had a lot of tun to watch dem. He celebrated them and laughted loud out.
+The boyz also celebrated them but they were still awear of the look of the boss so they would not become a thread in his eye.
+
+„Enough!“ he yelled and the orks stopped to scrap.
+„That is not enough! We need more of ya.“ he said with a serious sound in his thunderous voice.
+
+Lateron Grumlok managed to hite two other black orks, one for a small amount of gold crown but the second did not follow for free, he urges a fee after each raid and after some negotation he agree to join the warband under the lead of Grumlok.
 
 ---
 
 ### Szenario 2 (14.10.2018)
 
 Scenario: The lost prince
+
+Orks in neuer formation gegen Dwarf treasure hunters, die warband von Aaron.
+
+Der Zwergen Noble hat sich den Prinz gegriffen und wollte langsam vom Spielfeld spazieren.
+Die orks haben ihn jedoch eingekreist, es gab kein entkommen. Leider haben wir die reihenfolge im Kampf falsch interpretiert und auch einige andere regeln vergessen.
+
+Die Zwerge haben die Orks nach und nach out of action gehauen bis sie routen mussten.
+insgesamt hat aarons Warband 2 goblins, einen Ork Boy, den Boss und einen Helden erledigt gehabt.
+
+Bis auf den einen Ork Boy haben sich alle vollständig erholt, der Ork ist seinen Verletzungen erlegen.
+
+Die Zwerge mit ihren WS4 zu treffen ist schon schwierig aber sie durch ihre T4 zu verwunden noch achqieriger. Stunned setzen und Knocked Down ist häufig passiert aber aufgrund der falschen Reihenfolge im Kampf (I-wert vergessen zu vergelichen) haben die Zwerge den vorteil des ersten schlages gehabt.
+
+Die Goblins waren dieses mal, nur mit bögen bewaffnet nicht sonderlich hervorzuheben. Ihr Ziel haben sie getroffen aber niemanden ernsthaft verwundet.
+
+Die andere Kämpfe verliefen ebenfalls ineffizient, knocked down unf stunned schlagen war kein problem. Aber das ersehnte out of action blieb aus. Keiner der Zwerge ist gefallen.
+
+Wogga hatte zweimal seinen Zzap! gesprochen und jeweils mit zwei Energieblitzen getroffen aber nur einmal ein Stunned damit ausgelöst.
+
+Die Ork Boys haben sich aufgrund von Animosity am ende noch gegenseitig umgehauen und ein Zwergen Schürze ohne Nahkampfwaffe einen Hero umgehauen (knocked down).
+
+Die animosity hat nach und nach die Gormation der Warband so außeinamder gerissen das sie nicht mehr verhindert werden konnte. So haben zwei Boys nicht am Kampf teil genommen und der Boss war ungeschützt.
+
+Aaron einzukreisen und seine Bewegungen zu behindern war gut aber auch so wäre er aufgeund seines Movements fast nicht vom Tisch gekommen.
+
+Fie advances seiner Truppen nachdem er ddch mein Routwn gesiegt hatte waren enorm, abenso wie der Aufsteig eines Henchmen zum Hero. Fie schätze hielten sich im Grenzen.
+
+Gür die Orks gab es nur wenige XP doch Woggah bekam die Zauber Fooled Ya!. Die Warband hat einen Banner erwürfelt und 37gc bezahlt. Und einen Goblin gekauft.
+
+Fazit:
+- Gruppen zusammen halten und Animosity nachziehen
+- FokusDamage, keiner kömpft alleine 
+- Formation beibehalten
+- Schiessen ist mist wenn nur einer schiesst
+- Goblins und Ork Boys vor
+- Magie zündet nicht und sonst muss man den Schamanen nur beschützen
+- Figuren namen geben und den Roster besser beschriften damit es keine Missverständnisse gibt wer was wann wo getan hat
+
+---
+
+The last warband was dropped because of that the rout test may now be done after two out of action members.
 
 ---
 

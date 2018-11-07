@@ -16,9 +16,9 @@
 |:---|:---|---:|---:|:---|
 |50 gc|Banner|rare 5|1x|re-roll a failed rout test (hero bearer only)|
 |10 gc|Helmet|common|4x|Heroes|
-|50 gc|Heavy armor|common|5x|Leader+Heros|
-|10 gc|Yount'Un upgrade|common|2x|Young'Uns|
 |5 gc|Battle Axe|common|8x|4all|
+|50 gc|Heavy armor|common|5x|Leader+Heros|
+|10 gc|Young'Un upgrade|common|2x|Young'Uns|
 |10 gc|Bow|common|9x|all member (not goblin)|
 |1 gc|Garlic|common|~10x|anti vampire|
 |10+3d6 gc|Blessed water|rare 6|5x|anti vampire|
