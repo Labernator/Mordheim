@@ -32,7 +32,7 @@
 ***ork special skill***
 1. da' cunnin' plan (leader only)
 2. 'eadbasher
-3. well' ard
+3. well' ard (non black ork)
 4. 'ere we go!
 
 ***common skill***
@@ -112,6 +112,13 @@
 |magic user|use spells from waaagh! magic list, instead of learn a new skill the shaman can learn a new spell (roll for it)|
 |not orcs|to indicate if a rout test shall be done every goblin counts only 1/2|
 |runts|goblins can earn experience but if "That Lad's got talent' is rolled, the goblin are immedialely get killed and removed from the Roster|
+|Oi Behave!| Funktioniert folgendermaßen: du sagst einen S2 hit an (das macht wohl oft Sinn). Dann kommt wie im Combat/shooting/zaubern der Verwundungswurf: S2 vs T4 verwundet nur auf die 6.
+ FALLS er verwundet würfelst du wie gehabt auf injuries. Falls nicht, dann nicht. Danach addierst du 2 auf den animosity roll. Damit kannst du quasi das schlimmste Ergebnis (die 1) ausschließen.
+Und in der Regel ohne kosten. Nur manchmal verwundest du eben unglücklich den henchman auf die 6.|
+|I said ‚shut it!‘|No animosity within 6“ of the black ork hired sword|
+|independent|no all alone test required|
+|Who‘s da boss?|withon 6“ use leaders Ld-1 when alive. otherwise use BO‘s Ld. If BO‘s Ld >Leader Ld dann BO‘s Ld-1|
+
 
 >>>
 
@@ -134,7 +141,7 @@
 ||strike to injure|+1 to all injury rolls in CC (need two other)|
 ||weapons training|use any weapon|
 |*ork special*|'eadbasher|every knock down counts as stunned|
-||well'ard|+1 armor save|
+||well'ard|+1 armor save (nur non black ork)|
 ||da' cunnin' plan|reroll a failed rout test|
 ||'ere we go!|ignore fear and terror test on charge|
 |*common*|money maker|after adventure roll and add D6+ gc to WB treasury if not taken out of action (heros only)|

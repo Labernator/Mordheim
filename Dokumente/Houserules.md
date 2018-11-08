@@ -43,3 +43,9 @@
 
 15.) Equipment: Unique
  - Jeder Hero darf jedes Miscellaneous equipment (S.36) nur maximal einmal Besitzen. Dies soll das stacken von Items verhindern wie: Rabbit's Foot (S. 38), Cloak of Mists (S. 41), Holy Tome (S. 41), etc. Folgendes Equipment wirkt nur einmal pro Warband: Halfling Cookbook (S. 41)
+
+16.) Items wie ein Banner werden von einem Hero getragen. Dieser kann im Kampf mit angesagten waffen kämpfen. Banner wird automatisch wieder angelegt. Das Banner wirkt nur im Umkreis con 6“ um den Leader.
+  - Offene Frage: Wo wirkt es wenn der Leader OOA ist?
+
+17.) Der Black Ork Hired Sword (s.236 im PDF) trägt eine heavy armor (4+AS) und ist ein Black Ork (+1AS) daher hat er einen 3+AS
+
