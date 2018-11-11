@@ -30,35 +30,44 @@
 ### Leader and Big'Uns
 
 ***ork special skill***
-1. da' cunnin' plan (leader only)
-2. 'eadbasher
-3. well' ard (non black ork)
-4. 'ere we go!
+1. ‚ard ead
+2. Waaagh!
+3. ‚ere we go!
+4. da' cunnin' plan (leader only)
+5. well' ard (non black ork blood young‘un)
 
 ***common skill***
 1. money maker
 2. Far-Sight (shaman)
 
 ***strength skills***
-1. fearsome
-2. resilient
-3. strongman (leader first)
-4. mighty blow
+1. mighty blow
+2. pit fighter
+3. resilient
+4. fearsome
+5. strongman (leader first)
+6. unstoppable charge
+
 5. tin can (leader first)
 
 ***speed skills*** (leader only)
-1. sprint
-2. lightning reflexes
-3. dodge
-4. scale sheer surfaces
+1. leap
+2. sprint
+3. acrobat
+4. lightning reflexes
+5. jump up
+6. dodge
+7. scale sheer surfaces
 
 ***combat skills***
 1. sweeping blow (leader/black ork)
 2. axe master
-3. expert swordsmen/expert axeman
+3. strike to injure
 4. combat master
-5. strike to injure
-6. weapons training
+5. weapons training
+6. web of steel
+7. expert swordsmen/expert axeman
+8. step aside
 
 ***shooting***
 1. Quick shot
