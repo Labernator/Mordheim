@@ -30,9 +30,9 @@
 ### Leader and Big'Uns
 
 ***ork special skill***
-1. ‚ard ead
+1. ‘ard ead
 2. Waaagh!
-3. ‚ere we go!
+3. ‘ere we go!
 4. da' cunnin' plan (leader only)
 5. well' ard (non black ork blood young‘un)
 
@@ -62,8 +62,8 @@
 ***combat skills***
 1. sweeping blow (leader/black ork)
 2. axe master
-3. strike to injure
-4. combat master
+3. strike to injure (*)
+4. combat master (*)
 5. weapons training
 6. web of steel
 7. expert swordsmen/expert axeman
