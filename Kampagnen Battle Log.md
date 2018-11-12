@@ -314,6 +314,7 @@ fabian:
 -	Nur Warbands im Besitz mindestens eines Tomes müssen auf Random Happenings (S. 307) würfeln. Wie beschrieben tritt ein Encounter nur bei einer 1 auf einem D6 ein. Dies soll verhindern, dass bei uns jede Runde 5 Events spawnen die alle Berücksichtigt werden müssen (und teilweise wirklich verheerend sind. 53 anyone?!?)
 - Wenn mehr als eine Warband gleichviel (und am meisten) Tomes besitzt, erhält jeder ihrer Anführer +1 Experience.
 - Wenn das Szenario endet sind alle Tomes die noch nicht aufgesammelt wurden verloren. Der Gewinner erhält sie nicht.
+- Tiere können keine Tomes aufpicken.
 - Wenn man in Base Kontakt mit einem Tome kommt endet die Bewegung für den Helden. Um ein Tome aufzupicken muss ein Ld test gelingen (sie verursachen Fear). Misslingt der Test, so hat man in der nächsten Bewegungsphase wieder eine Chance. Man kann sich jetzt wieder normal bewegen, unabhängig davon wie der Test ausging. Man kann es so beliebig viele Runden versuchen, wenn man stehen bleibt.
 - Die Tomes können zum Schluss beliebig auf Helden verteilt werden um gelesen zu werden (sie könnten ja auch von einem Henchmen aufgepickt worden sein). Jeder Spieler muss für jedes Tome seperat ansagen welcher Held es lesen soll.
 
@@ -324,3 +325,44 @@ Aufstellung: Der aktive Spieler sucht sich ein Segment aus (siehe Bild) und plat
 ![Deployment](Deployment.png)  
 
 Nachdem alle Warbands platziert sind wird nochmal mit 3D6 gewürfelt. Das legt die Spielreihenfolge fest: Höchster Wert zuerst, danach im Uhrzeigersinn.
+
+**Underdog** 
+Warband Rating (schon mal SEHR viel höher als beimletzten Mal!)
+Aaron:  
+Fabian:  
+Stefan: 132  
+Kai: 137  
+Marius: 141  
+
+### Battle Report
+**Kills/Tomes**  
+
+**Reward**  
+Aaron:  
+Fabian:  
+Stefan:  
+Kai:  
+Marius:  
+
+**Experience**  
+Aaron:  
+Fabian:  
+Stefan:  
+Kai:  
+Marius:  
+
+**Wyrdstones**  
+Aaron:  
+Fabian:  
+Stefan:  
+Kai:  
+Marius:  
+
+**Available Veteran XP**  
+
+**Trading**  
+Aaron:  
+Fabian:  
+Stefan:  
+Kai:  
+Marius:  
