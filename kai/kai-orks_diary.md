@@ -45,7 +45,11 @@ The boyz also celebrated them but they were still awear of the look of the boss 
 „Enough!“ he yelled and the orks stopped to scrap.
 „That is not enough! We need more of ya.“ he said with a serious sound in his thunderous voice.
 
-Lateron Grumlok managed to hite two other black orks, one for a small amount of gold crown but the second did not follow for free, he urges a fee after each raid and after some negotation he agree to join the warband under the lead of Grumlok.
+Later on Grumlok managed to hite two other black orks, one for a small amount of gold crown but the second did not follow for free, he urges a fee after each raid and after some negotation he agree to join the warband under the lead of Grumlok.
+
+---
+
+The last warband was dropped and rebuild before the third scenario of the campain.
 
 ---
 
@@ -79,7 +83,7 @@ Aaron einzukreisen und seine Bewegungen zu behindern war gut aber auch so wäre 
 
 Fie advances seiner Truppen nachdem er ddch mein Routwn gesiegt hatte waren enorm, abenso wie der Aufsteig eines Henchmen zum Hero. Fie schätze hielten sich im Grenzen.
 
-Gür die Orks gab es nur wenige XP doch Woggah bekam die Zauber Fooled Ya!. Die Warband hat einen Banner erwürfelt und 37gc bezahlt. Und einen Goblin gekauft.
+Für die Orks gab es nur wenige XP doch Woggah bekam die Zauber Fooled Ya!. Die Warband hat einen Banner erwürfelt und 37gc bezahlt. Und einen Goblin gekauft.
 
 Fazit:
 - Gruppen zusammen halten und Animosity nachziehen
