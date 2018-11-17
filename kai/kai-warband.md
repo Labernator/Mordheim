@@ -7,6 +7,8 @@
 
 |amount/group|class|description|
 |:---|:---|:---|
+|1|Black Ork Hired Sword|60gc|
+|1|Beggar|15gc because of Greenskins|
 |4|Ork boyz|battle axe + dagger (off hand)|
 |1|Troll|200gc 15gc up keep|
 
