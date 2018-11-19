@@ -7,15 +7,13 @@
 
 |amount/group|class|description|
 |:---|:---|:---|
-|1|Black Ork Hired Sword|60gc|
-|1|Beggar|15gc because of Greenskins|
-|4|Ork boyz|battle axe + dagger (off hand)|
-|1|Troll|200gc 15gc up keep|
+|1|Savage Ork|40gc battle axe + dagger (off hand)|
 
 ## Nice to have equipment
 
 |cost/unit|name|type|amount|description|
 |:---|:---|---:|---:|:---|
+|30+2d6 gc|War Horn|rare 8|1x|Before battle/Before rout test: Ld+1|
 |50 gc|Banner|rare 5|1x|re-roll a failed rout test (hero bearer only)|
 |10 gc|Helmet|common|4x|Heroes|
 |5 gc|Battle Axe|common|8x|4all|
@@ -25,7 +23,6 @@
 |1 gc|Garlic|common|~10x|anti vampire|
 |10+3d6 gc|Blessed water|rare 6|5x|anti vampire|
 |2 gc|torch|common|2x|+4" to spot hidden foes, cause fear to animals and can used as club in CC, ...|
-|30+2d6 gc|War Horn|rare 8|1x|Before battle/Before rout test: Ld+1|
 
 ## Nice to have skills
 
@@ -43,11 +40,11 @@
 2. Far-Sight (shaman)
 
 ***strength skills***
-1. mighty blow
+1. mighty blow (*1)
 2. pit fighter
-3. resilient
+3. resilient (*1)
 4. fearsome
-5. strongman (leader first)
+5. strongman
 6. unstoppable charge
 
 5. tin can (leader first)
@@ -62,10 +59,10 @@
 7. scale sheer surfaces
 
 ***combat skills***
-1. sweeping blow (leader/black ork)
+1. two-handed
 2. axe master
-3. strike to injure (*)
-4. combat master (*)
+3. strike to injure (*2)
+4. combat master (*2)
 5. weapons training
 6. web of steel
 7. expert swordsmen/expert axeman

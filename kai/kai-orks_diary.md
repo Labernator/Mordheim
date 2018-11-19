@@ -14,7 +14,7 @@ Grumlok stand still in front of his warband.
 He looked ar Wogga, the three Black orks, the Boyz and the Goblins.
 The treasure chest is empty and all their effort was unsuccessful.
 His eyes narrowed and focused the goblins.
-The boys saw this and söowly they stepped aside, away from the goblins. All of them were engaged in a scrap with each other. 
+The boys saw this and slowly they stepped aside, away from the goblins. All of them were engaged in a scrap with each other. 
 He tightnes his hand on the handle of his great axe. And with incredible speed of movement he charged the green ball of scrapping group.
 With infernal fury he blow his axe theough them.
 Limbs and esrs and broken weapon felt to the geound. The scrap was stopped instantly.
@@ -45,7 +45,15 @@ The boyz also celebrated them but they were still awear of the look of the boss 
 „Enough!“ he yelled and the orks stopped to scrap.
 „That is not enough! We need more of ya.“ he said with a serious sound in his thunderous voice.
 
-Later on Grumlok managed to hite two other black orks, one for a small amount of gold crown but the second did not follow for free, he urges a fee after each raid and after some negotation he agree to join the warband under the lead of Grumlok.
+Now he knows who of them wasn‘t a true black ork.
+and for now on Grommok got the rank of a Young‘Un.
+Grumlok was angry and he decided to have a look for new warband member.
+
+A few days later Wogga talked to Grumlok. For him the adventure was over and he wanted to leaf. To go home.
+
+Later on Grumlok managed to hire two other black orks, one for a small amount of gold crown but the second did not follow for free, he urges a fee after each raid and after some negotation he agree to join the warband under the lead of Grumlok.
+
+
 
 ---
 
