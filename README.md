@@ -14,6 +14,7 @@
 * [Houserules](/Dokumente/Houserules.md)
 * [Multiplayer Ideen](/Ideensammlung%20Multiplayer.md)
 * [Battlelog](/Kampagnen%20Battle%20Log.md)
+* [Battlelog 18.11.2018](/Battlereport1811.md)
 
 # Termine
 
