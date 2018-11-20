@@ -23,7 +23,7 @@ Olaf kills nesha
 sissi kills Dorsteinn
 4 kills wolf
 Assassin kills nathrir
-Aaron intentional rout -> Ranger carries book
+Aaron intentional rout -> Ranger carries tome
 Fog->9"
 Book Kai -> Flagellants
 Wolf kills repeater corsair
@@ -33,10 +33,10 @@ Fog 10"
 Flagelants kill Wolf
 Fog 5"
 Norse routed
-Beggar Gunnar (Norse) carries Tomb
-Arabian Merchant Muhammed carries Tomb
+Beggar Gunnar (Norse) carries Tome
+Arabian Merchant Muhammed carries Tome
 
-## Tombs
+## Tomes
 Numerous eats
 
 Ug'Lash 
@@ -108,15 +108,17 @@ Beggar +1xp -> skill
 Goblin +1xp
 
 ### Norse
-Bondsman academic skill
+Grungir reads tome => academic Skill => Wyrdstone Hunter 
 +31GC + 3 Shards => 91 GC no shards + Vague mordheim map
 Frithjofr +2
-Beggar +2
-Mechant +2
 Olaf +2
 Gungrir +2 => +1 Wound
 Wulfen +1
 Beggar +2 => +1 Wound
-Merchant +2 => Skill
+Merchant +2 => Skill => Stonecutter 
 Hunter +1
+=> upkeep Merchant & Beggar => 15gc
+=> buy 1 Wolf => 15gc
+=> buy 2x Sword + Helmet => 30gc
+===== 31gc left
 
