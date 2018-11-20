@@ -58,3 +58,29 @@ Schritt 5: Henchmen. Je nach Menge der Helden und Hired Swords muss man die List
 Schritt 6: Equipment. Jetzt schaue ich, was ich an Geld noch übrig habe und investiere das in Ausrüstung. Da ich Equipment relativ niedrig priorisiere (Warrior kommen vorher), bleibt hier meistens nicht mehr viel übrig. Ganz wichtig ist die zweite Nahkampfwaffe für jeden Warrior (außer Hired Swords). Dann Fernkampf. Dann Rüstung. Das sieht man meinen Listen an, da es in der Regel viele nackte Dudes mit zwei Dolchen sind ;) 
 
 Ich behaupte keinesfalls, dass dies das ideale Vorgehen ist. Und je nach Warband kriegt man damit wahrscheinlich auch sehr unoptimale Ergebnisse. Aber für die Ratten hat es ganz gut funktioniert finde ich.
+
+## Debriefing: Scenario 1  
+**20.11.2018**  
+Das erste Szenario nach dem Reset wurde am Sonntag gespielt.  
+
+**Big Picture:** Die Zwerge sind immer noch tough as nails, allerdings nicht so toll wenn man sie aufteilt. Dass sie quasi immer den Underdog Bonus kriegen macht sie nicht weniger gefährlich. 
+
+Die Orks (oder genauer gesagt der Troll!) sind furchterregend! Das ist der Effekt den ich gegen Laber auch schon mit dem Oger beobachtet habe. Der kann einfach vor rennen und alles vernichten. Und der Troll ist nochmal sehr viel krasser als der Oger es war. Regeneration ist krass. Da muss ich mir mittelfristig einen guten Plan machen um den effektiv anzugehen (kurzfristig ist der Plan: aus dem Weg gehen).
+
+Die Norse haben mich persönlich ziemlich überzeugt: M9 Wölfe zum Initiaten und weil sie so schön billig sind, ist es auch völlig egal ob sie sterben. Die sind ECHT gut! Die Zerker mit 3 S4 Attacken sind auch so stark wie ich vermutet hätte. Hat gut ausgesehen, ist für meine Warband aber nicht so schlimm wie der Troll (yeah, der ist echt ein Problem…)
+
+Aaron und Fabian müssen leider ihre Warbands resetten, da bin ich auf die nächsten Listen gespannt.
+
+**Zum Spielverlauf:** Ich habe mich neben Fabian an der Kopfseite platziert, weil ich maximal weit weg vom Troll sein wollte (dieser Troll…). Aaron hat sich dann an meine rechte Flanke platziert, allerdings nur mit zwei seiner Zwerge. Die Taktik war dann auch klassisch Skaven: Viel Pew, Pew und bei den Zwerge auf Crits hoffen, viele Kisten im Leadership Radius meiner Assassin aufpicken und angeschlagene Einheiten im Nahkampf mit multi Charges abräumen.
+
+Die Taktik ist auch dank hohem Movement und der Immobilität der Zwerge auch hervorragend aufgegangen. Hilfreich war natürlich auch, dass Laber sehr massiv in Fabians rechte Flanke gefallen ist. Das hat seine schlagkräftigen Helden von mir abgelenkt.
+
+**Ergebnis:** Ich bin sehr zufrieden, auch wenn es aus strategischer Sicht für mich ein Setup Spiel war. Aber da konnte ich viele Boxen checken:
+* Den sechsten Held erhalten
+* Mind Focus, Pawnbroken und Alchemist (mit vernünftigem Skill) auf den Mage bekommen
+* Master of Poison Skill in der Army
+* Mindestens eine Henchmen Group mit S4 um sie später auszubauen
+* Warpstone Amulets für alle Helden (fast erreicht)
+* Keine schlimmen Verluste erleiden
+
+Kurzfristiges Ziel ist es das letzte Warpstone Amulet zu kaufen und die Warband um 4 weitere (S4) Verminkin aufzustocken um den nächsten Rout Breakpoint zu erreichen.
