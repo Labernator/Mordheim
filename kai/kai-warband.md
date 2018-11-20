@@ -50,13 +50,13 @@
 5. tin can (leader first)
 
 ***speed skills*** (leader only)
-1. leap
+1. Scale Sheer Surfaces (beggar)
 2. sprint
 3. acrobat
 4. lightning reflexes
 5. jump up
 6. dodge
-7. scale sheer surfaces
+7. leap
 
 ***combat skills***
 1. two-handed
