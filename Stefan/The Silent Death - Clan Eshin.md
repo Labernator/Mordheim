@@ -87,17 +87,17 @@ Sell Tholks Sling +2 GC (dank Pawnbroker)
 
 **Aktuelles Roaster**  
 *Heroes*  
-**Skot Ashenstalker** (Assassin Adept, 24 XP): 2x Dagger (29 Rating)  
+**Skot Ashenstalker** (Assassin Adept, 24 XP): 2x Dagger, Warpstone Amulet (29 Rating)  
 
-**Crek Crowripper** (Black Skaven, 10 XP): 2x Dagger (15 Rating)  
+**Crek Crowripper** (Black Skaven, 10 XP): 2x Dagger, Warpstone Amulet (15 Rating)  
 
-**Vetch Heartchewer** (Black Skaven, 9 XP): 2x Dagger (14 Rating)  
+**Vetch Heartchewer** (Black Skaven, 9 XP): 2x Dagger, Warpstone Amulet (14 Rating)  
 
 **Qrunq Kragsnout** (Eshin Sorcerer, 11 XP): Flail (16 Rating) Spell: Black Fury
 
-**Tholk Roughbreaker** (Night Runner, 1 XP): 2x Dagger (6 Rating)  
+**Tholk Roughbreaker** (Night Runner, 1 XP): 2x Dagger, Warpstone Amulet (6 Rating)  
 
-**Krol Clawcleaver** (Verminkin, 2 XP): 2x Dagger, Sling (7 Rating)
+**Krol Clawcleaver** (Verminkin, 2 XP): 2x Dagger, Sling, Warpstone Amulet (7 Rating)
 
 *Hired Swords*  
 **Besan one-leg** (Beggar, 4 XP): Club (9 Rating)  
