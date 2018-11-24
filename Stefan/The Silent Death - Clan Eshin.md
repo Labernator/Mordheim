@@ -35,7 +35,7 @@
 **Lucky Gnog** (Goblin Lantern Bearer, 0 XP): Dagger (15 GC, 5 Rating)  
 
 **Treasure Chest:** 0 GC  
-**Alignment:** Lawful / Chaotic  
+**Alignment:** Neutral / Chaotic  
 **Warband Rating:** 132  
 
 # Akt 1: Verdammte Stadt (Szenario: The Great Library)  
@@ -46,23 +46,78 @@
 *Für einen kurzen Moment war Skot froh Tholk nicht direkt den Kopf abgebissen zu haben. Der nichtsnutzige Frischling hatte ihn auf eine Idee gebracht. Sie könnten in der Bibliothek der Menschdinge in einem Stadtplan Hinweise auf einen Weg nach Morsulm finden. So befahl Skot den Aufbruch in Richtung der zerstörten Bibliothek.*  
 
 ### Schlachtbericht  
-**Ergebnis Szenario:**  
+**Ergebnis Szenario:**  Sieg  
 
 **Gefallene Krieger:**  
-
+ - Henchmen #8 (Recovery)  
+ 
 **Belohnungen:**  
+Qrunq erhält Mind Focus, Pawnbroker, Alchemist (Fire Arrows), +1 I und muss das nächste Spiel aussetzen.  
 
 **Experience:**  
+ - #1 +2xp (advance: lads got talent (Skill Lists: Assassin & Speed) -> gains skill: Master of Poison)  
+ - #2 +2xp (advance: +1 Ld)  
+ - #3 +2xp (advance: +1 BS)  
+ - #9 +2xp (advance: +1 S)  
+ - #5 +2xp (advance: +1 S)  
+ - #4 +2xp (advance: +1 A)  
+ - #6 +1xp  
+ - #7 +1xp  
+ - #0 +1xp  
+ - Crek +2xp  
+ - Vetch +1xp  
+ - Tholk +1xp  
+ - Skot +4xp (advance: +1WS)  
+ - Qrunq +3xp (advance: Skill -> Alchemist (Sleep Powder))  
+ - Besan +1xp (advance: Skill -> Sprint)  
+ - Gnog +1xp  
 
-**Wyrdstone:**  
+**Wyrdstone:**  4 Shards: 3 verkaufen für 55 GC  
 
 **Neues Equipment/Rekruten:**  
+55 GC von Wyrdstone +2 GC von drippel 1  
+Sell Qrunqs Dagger +2 GC (dank Pawnbroker)  
+Sell Tholks Sling +2 GC (dank Pawnbroker)  
+  => 61 GC  
+  
+ - 5 Warpstone Amulets (50 GC)  
+ - Upkeep Besan (5 GC)  
+ - Upkeep Gnog (5 GC)  
+ -> 1 GC übrig
 
 **Aktuelles Roaster**  
+*Heroes*  
+**Skot Ashenstalker** (Assassin Adept, 24 XP): 2x Dagger (29 Rating)  
 
+**Crek Crowripper** (Black Skaven, 10 XP): 2x Dagger (15 Rating)  
 
-**Treasure Chest:** 
-**Alignment:** Lawful / Chaotic  
-**Warband Rating:** 
+**Vetch Heartchewer** (Black Skaven, 9 XP): 2x Dagger (14 Rating)  
+
+**Qrunq Kragsnout** (Eshin Sorcerer, 11 XP): Flail (16 Rating) Spell: Black Fury
+
+**Tholk Roughbreaker** (Night Runner, 1 XP): 2x Dagger (6 Rating)  
+
+**Krol Clawcleaver** (Verminkin, 2 XP): 2x Dagger, Sling (7 Rating)
+
+*Hired Swords*  
+**Besan one-leg** (Beggar, 4 XP): Club (9 Rating)  
+
+**Lucky Gnog** (Goblin Lantern Bearer, 1 XP): Dagger (6 Rating)  
+
+*Henchmen*  
+**Group #0** (1x Verminkin, 2 XP): 2x Dagger, Sling (7 Rating), **+1 S**  
+**Group #1** (1x Verminkin, 2 XP): 2x Dagger, Sling (7 Rating), **+1 S**  
+**Group #2** (1x Verminkin, 2 XP): 2x Dagger, Sling (7 Rating), **+1 A**  
+**Group #3** (1x Verminkin, 2 XP): 2x Dagger, Sling (7 Rating), **+1 BS**  
+**Group #4** (1x Verminkin, 2 XP): 2x Dagger, Sling (7 Rating), **+1 Ld**  
+**Group #5** (1x Verminkin, 1 XP): 2x Dagger, Sling (6 Rating)  
+**Group #6** (1x Verminkin, 1 XP): 2x Dagger, Sling (6 Rating)  
+**Group #7** (1x Verminkin, 1 XP): 2x Dagger, Sling (6 Rating)  
+**Group #8** (1x Verminkin, 0 XP): 2x Dagger, Sling (5 Rating)  
+
+**Treasure Chest:** 1 GC  
+**Alignment:** Neutral / Chaotic  
+**Warband Rating:** 160  
+
 
 ### Nachspiel
