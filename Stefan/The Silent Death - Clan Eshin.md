@@ -115,7 +115,7 @@ Sell Tholks Sling +2 GC (dank Pawnbroker)
 **Group #7** (1x Verminkin, 1 XP): 2x Dagger, Sling (6 Rating)  
 **Group #8** (1x Verminkin, 0 XP): 2x Dagger, Sling (5 Rating)  
 
-**Treasure Chest:** 1 GC  
+**Treasure Chest:** 1 GC, 1 Wyrdstone Shard  
 **Alignment:** Neutral / Chaotic  
 **Warband Rating:** 160  
 
