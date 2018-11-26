@@ -14,11 +14,12 @@
 * [Houserules](/Dokumente/Houserules.md)
 * [Multiplayer Ideen](/Ideensammlung%20Multiplayer.md)
 * [Battlelog](/Kampagnen%20Battle%20Log.md)
-* [Battlelog 18.11.2018](/Battlereport1811.md)
 
 # Termine
 
-* Sonntag, 14.10.2018 11:00 Uhr bei Aaron (Adresse auf Anfrage)
+* Sonntag, 14.10.2018 11:00 Uhr bei Aaron
 * Samstag, 03.11.2018 10:00 Uhr bei Stefan
 * Sonntag, 18.11.2018 10:00 Uhr bei Stefan
-* Samstag, 15.12.2018
+* Samstag, 15.12.2018 10:00 Uhr bei Stefan
+* Sonntag, 20.01.2019
+* Samstag, 09.02.2019
