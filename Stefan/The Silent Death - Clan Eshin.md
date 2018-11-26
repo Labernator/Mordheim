@@ -41,7 +41,7 @@
 # Akt 1: Verdammte Stadt (Szenario: The Great Library)  
 *Skot sah sich nervös um. Er war von Feinden umgeben in einer mörderischen Umgebung wo hinter jeder Ecke verhängnisvolle Gefahren lauerten. Für einen Skaven war das eine durchaus normale Stimmung. Er brauchte eine bessere Operationsbasis als die Straßen dieser verdammten Stadt. So hatte er Tholk als entbehrlichstes Mitglied seines Wurfes ausgeschickt um einen Eingang nach Morsulm zu finden.*  
 
-*In dem Moment kam Tholk in geduckter Haltung um die Ecke einer Ruine gehuscht. "Skot-Herr, es gibt keinen Eingang-Weg nach Morsulm, nein-nein. Das Zuflucht-Nest ist kaputt-zerstört." Normalerweise hätte Skot den Kundschafter direkt gefressen, aber seine Ressourcen hier vor Ort waren sehr beschränkt und wer wusste wann er den Tod des Frischlings profitabler einsetzen konnte. "Skot-Herr, ich habe ein groß-wichtiges Haus der Menschdinge entdeckt-gefunden. Mit Bücher-Schriften und Karten-Plänen, ja-ja. Vielleicht können wir da einen Karten-Plan zum Zuflucht-Nest finden-stehlen.*  
+*In dem Moment kam Tholk in geduckter Haltung um die Ecke einer Ruine gehuscht. "Skot-Herr, es gibt keinen Eingang-Weg nach Morsulm, nein-nein. Das Zuflucht-Nest ist kaputt-zerstört." Normalerweise hätte Skot den Kundschafter direkt gefressen, aber seine Ressourcen hier vor Ort waren sehr beschränkt und wer wusste wann er den Tod des Frischlings profitabler einsetzen konnte. "Skot-Herr, ich habe ein groß-wichtiges Haus der Menschdinge entdeckt-gefunden. Mit Bücher-Schriften und Karten-Plänen, ja-ja. Vielleicht können wir da einen Karten-Plan zum Zuflucht-Nest finden-stehlen."*  
 
 *Für einen kurzen Moment war Skot froh Tholk nicht direkt den Kopf abgebissen zu haben. Der nichtsnutzige Frischling hatte ihn auf eine Idee gebracht. Sie könnten in der Bibliothek der Menschdinge in einem Stadtplan Hinweise auf einen Weg nach Morsulm finden. So befahl Skot den Aufbruch in Richtung der zerstörten Bibliothek.*  
 
@@ -85,7 +85,7 @@ Sell Tholks Sling +2 GC (dank Pawnbroker)
  - Upkeep Gnog (5 GC)  
  -> 1 GC übrig
 
-**Aktuelles Roaster**  
+### Aktuelles Roaster  
 *Heroes*  
 **Skot Ashenstalker** (Assassin Adept, 24 XP): 2x Dagger, Warpstone Amulet (29 Rating)  
 
@@ -119,5 +119,13 @@ Sell Tholks Sling +2 GC (dank Pawnbroker)
 **Alignment:** Neutral / Chaotic  
 **Warband Rating:** 160  
 
-
 ### Nachspiel
+*"Verfluchte Stadt-Falle, verfluchte Mensch-Dinge mit ihren sieben Mal verfluchten Bücher-Schrecken". Skot schäumte vor Wut. Sein Plan war fehlerfrei gewesen. Brillant könnte man direkt sagen. Aber in der Bibliothek hatten sich keine Aufzeichnungen über Morsulm gefunden, sondern mysteriöse magische Schriften. Und diese verzerrten die Realität mit Chaos Engerie. Das war natürlich allein Tholks Schuld, der miserable Kundschafter.*  
+
+*Selbstverständlich hatte Skot trotzdem so viele Bücher und Schriftrollen wie möglich aus der zerfallenden Bibliothek holen lassen. Wer wusste schon, wie sich dieses Wissen nutzen lies. Und er war ja nicht derjenige, der sich mit ihnen beschäftigen musste. Damit hatte er Qrunq beauftragt, den Hexer seines Wurfs.*  
+
+*Normalerwiese ist es natürlich sehr unklug einem Untergebenen zu mehr Macht zu verhelfen, aber er wusste, dass Qrunq keine weltlichen Ambitionen hegte. Seine Ziele lagen anderswo. Und falls die verfluchten Bücher ihn verschlingen sollten, so war das für Skot ein akzeptabler Verlust.  Leider war Qrunq jetzt vorerst mit den Büchern beschäftigt und konnte nicht weiter bei der Suche nach Morsulm helfen. Aber wer weiß, vielleicht hatten die Mensch-Dinge ja doch einen Hinweis auf den Bau in den Büchern versteckt.*   
+
+*Skot schauderte leicht. In der Bibliothek waren noch andere gewesen. Feinde. Er selbst hatte einem Finsterelfen die das Herz durchbohrt und Qrunq hatte in schwarzer Wut einem Zwergenschmied in strahlender Rüstung die Kehle durchgebissen. Er musste den Eingang nach Morsulm finden. Von dort aus könnte er seine Untergebenen befehlen. Aber noch dringender brauchte er mehr Untergebene. Jeder Skaven zwischen ihm und dem Feind war eine zusätzliche Lebensversicherung. Zeit sich nach weiteren Rattenmenschen umzuschauen!*  
+
+# Akt 2
