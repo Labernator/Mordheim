@@ -1,5 +1,5 @@
 
-# Orks mostly epic - Skills and Characteristics summary
+# Black Orks - Skills and Characteristics summary
 
 ---
 
@@ -7,16 +7,17 @@
 
 |amount/group|class|description|
 |:---|:---|:---|
-|1|Savage Ork|40gc battle axe + dagger (off hand)|
+|4|Savage Ork|40gc base + battle axe 5gc + free dagger (off hand)|
 
 ## Nice to have equipment
 
 |cost/unit|name|type|amount|description|
 |:---|:---|---:|---:|:---|
+|10gc|Warpstone amulet|rare 5|6x||
 |30+2d6 gc|War Horn|rare 8|1x|Before battle/Before rout test: Ld+1|
 |50 gc|Banner|rare 5|1x|re-roll a failed rout test (hero bearer only)|
 |10 gc|Helmet|common|4x|Heroes|
-|5 gc|Battle Axe|common|8x|4all|
+|5 gc|Battle Axe|common|6x|4all|
 |50 gc|Heavy armor|common|5x|Leader+Heros|
 |10 gc|Young'Un upgrade|common|2x|Young'Uns|
 |10 gc|Bow|common|9x|all member (not goblin)|
@@ -46,8 +47,7 @@
 4. fearsome
 5. strongman
 6. unstoppable charge
-
-5. tin can (leader first)
+7. tin can
 
 ***speed skills*** (leader only)
 1. Scale Sheer Surfaces (beggar)
