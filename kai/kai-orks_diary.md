@@ -53,11 +53,21 @@ A few days later Wogga talked to Grumlok. For him the adventure was over and he 
 
 Later on Grumlok managed to hire two other black orks, one for a small amount of gold crown but the second did not follow for free, he urges a fee after each raid and after some negotation he agree to join the warband under the lead of Grumlok.
 
+Grumlok the Leader\
+![Grumlok the Leader](warband/grumlok.jpg)
 
+The heros\
+![The heros](warband/heros.jpg)
+
+Gor the troll\
+![Gor the troll](warband/gor.jpg)
+
+The ork boyz henchmen and Rog‘Rogg the hired sword black ork\
+![The ork boyz henchmen and Rog‘Rogg the hired sword black ork](warband/boyz_and_blackork.jpg)
 
 ---
 
-The last warband was dropped and rebuild before the third scenario of the campain.
+Die letzte Warband wurde nochmals gedropt - alle fangen eine neue WB an.
 
 ---
 
@@ -75,21 +85,21 @@ insgesamt hat aarons Warband 2 goblins, einen Ork Boy, den Boss und einen Helden
 
 Bis auf den einen Ork Boy haben sich alle vollständig erholt, der Ork ist seinen Verletzungen erlegen.
 
-Die Zwerge mit ihren WS4 zu treffen ist schon schwierig aber sie durch ihre T4 zu verwunden noch achqieriger. Stunned setzen und Knocked Down ist häufig passiert aber aufgrund der falschen Reihenfolge im Kampf (I-wert vergessen zu vergelichen) haben die Zwerge den vorteil des ersten schlages gehabt.
+Die Zwerge mit ihren WS4 zu treffen ist schon schwierig, aber sie durch ihre T4 zu verwunden noch schwieriger. Stunned setzen und Knocked Down ist häufig passiert aber aufgrund der falschen Reihenfolge im Kampf (I-wert vergessen zu vergelichen) hatten die Zwerge meist den vorteil des ersten schlages gehabt.
 
-Die Goblins waren dieses mal, nur mit bögen bewaffnet nicht sonderlich hervorzuheben. Ihr Ziel haben sie getroffen aber niemanden ernsthaft verwundet.
+Die Goblins waren dieses mal nur mit bögen bewaffnet und so nicht sonderlich hervorzuheben. Ihr Ziel haben sie getroffen aber niemanden ernsthaft verwundet.
 
-Die andere Kämpfe verliefen ebenfalls ineffizient, knocked down unf stunned schlagen war kein problem. Aber das ersehnte out of action blieb aus. Keiner der Zwerge ist gefallen.
+Die andere Kämpfe verliefen ebenfalls ineffizient, knocked down und stunned schlagen war kein problem. Aber das ersehnte out of action blieb aus. Keiner der Zwerge ist gefallen.
 
-Wogga hatte zweimal seinen Zzap! gesprochen und jeweils mit zwei Energieblitzen getroffen aber nur einmal ein Stunned damit ausgelöst.
+Wogga hatte zweimal seinen Zzap! gesprochen und jeweils mit zwei Energieblitzen getroffen, aber nur einmal ein Stunned damit ausgelöst.
 
-Die Ork Boys haben sich aufgrund von Animosity am ende noch gegenseitig umgehauen und ein Zwergen Schürze ohne Nahkampfwaffe einen Hero umgehauen (knocked down).
+Die Ork Boys haben sich aufgrund von Animosity am ende noch gegenseitig umgehauen und ein Zwergen Schütze - ohne Nahkampfwaffe - einen Ork Hero umgehauen (knocked down).
 
 Die animosity hat nach und nach die Gormation der Warband so außeinamder gerissen das sie nicht mehr verhindert werden konnte. So haben zwei Boys nicht am Kampf teil genommen und der Boss war ungeschützt.
 
-Aaron einzukreisen und seine Bewegungen zu behindern war gut aber auch so wäre er aufgeund seines Movements fast nicht vom Tisch gekommen.
+Aaron einzukreisen und seine Bewegungen zu behindern war gut aber aufgeund seines Movements wäre er auch so fast nicht vom Tisch gekommen.
 
-Fie advances seiner Truppen nachdem er ddch mein Routwn gesiegt hatte waren enorm, abenso wie der Aufsteig eines Henchmen zum Hero. Fie schätze hielten sich im Grenzen.
+Die advances seiner Truppen nachdem er durch mein Routen gesiegt hatte waren enorm, ebenso wie der Aufsteig eines Henchmen zum Hero. Die schätze hielten sich im Grenzen.
 
 Für die Orks gab es nur wenige XP doch Woggah bekam die Zauber Fooled Ya!. Die Warband hat einen Banner erwürfelt und 37gc bezahlt. Und einen Goblin gekauft.
 
@@ -264,5 +274,5 @@ and more challenges to pass as they can.
 In this moment of fight and the clarification of hierarchy the warband of mostly epic orks and goblins were born.
 A warband to scavenge huge amounts of gold crowns, conquer for treasures and compete with other warbands for honor or at least not to get killed.
 
-![The warband's Ork heroes](kai_orks-warband.jpg)
+![The warband's Ork heroes](old/orks_1/kai_orks-warband.jpg)
 
