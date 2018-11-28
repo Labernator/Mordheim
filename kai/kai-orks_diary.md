@@ -54,16 +54,16 @@ A few days later Wogga talked to Grumlok. For him the adventure was over and he 
 Later on Grumlok managed to hire two other black orks, one for a small amount of gold crown but the second did not follow for free, he urges a fee after each raid and after some negotation he agree to join the warband under the lead of Grumlok.
 
 Grumlok the Leader\
-![wbphoto](warband/grumlok.jpg)
+<img src="warband/grumlok.jpg" alt="Grumlok" style="width: 200px;"/>
 
 The heros\
-![wbphoto](warband/heros.jpg)
+<img src="warband/heros.jpg" alt="The heros" style="width: 200px;"/>
 
 Gor the troll\
-![wbphoto](warband/gor.jpg)
+<img src="warband/gor.jpg" alt="Gor the troll" style="width: 200px;"/>
 
 The ork boyz henchmen and Rog‘Rogg the hired sword black ork\
-![wbphoto](warband/boyz_and_blackork.jpg)
+<img src="warband/boyz_and_blackork.jpg" alt="The ork boyz henchmen and Rog‘Rogg the hired sword black ork" style="width: 200px;"/>
 
 ---
 
@@ -274,7 +274,7 @@ and more challenges to pass as they can.
 In this moment of fight and the clarification of hierarchy the warband of mostly epic orks and goblins were born.
 A warband to scavenge huge amounts of gold crowns, conquer for treasures and compete with other warbands for honor or at least not to get killed.
 
-![wbphoto](old/orks_1/kai_orks-warband.jpg)
+<img src="old/orks_1/kai_orks-warband.jpg" alt="The first warband" style="width: 200px;"/>
 
 
 
