@@ -88,6 +88,9 @@ Wogga the shaman\
 The goblins - brothers of yawn\
 <img src="warband/goblins.jpg" alt="The goblins - brothers of yawn" style="width: 200px;"/>
 
+The drummer and the banner bearer\
+<img src="warband/odd_boyz.jpg" alt="The drummer and the banner bearer" style="width: 200px;"/>
+
 ---
 
 Die letzte Warband wurde nochmals gedropt - alle fangen eine neue WB an.
