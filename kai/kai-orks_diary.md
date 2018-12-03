@@ -59,11 +59,8 @@ Grumlok the Leader\
 The heros\
 <img src="warband/heros.jpg" alt="The heros" style="width: 200px;"/>
 
-The ork boyz henchmen (<del>Rog‘Rogg the hired sword black ork</del>)\
-<img src="warband/boyz_and_blackork.jpg" alt="The ork boy henchmen" style="width: 200px;"/>
-
-The other two ork boyz henchmen (<del>Rog‘Rogg the hired sword black ork</del>)\
-<img src="warband/spearmen_ork_boyz.jpg" alt="The other two ork boy henchmen" style="width: 200px;"/>
+The ork boy henchmen\
+<img src="warband/ork_boyz.jpg" alt="The ork boy henchmen" style="width: 200px;"/>
 
 The savage ork it\
 <img src="warband/it.jpg" alt="Savage ork it" style="width: 200px;"/>
