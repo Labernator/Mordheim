@@ -27,13 +27,13 @@ He raised his left arm to point on them holding his great axe in his large claw.
 Gazbag on his shoulderplate had problems to hold himself save while grumlok stepped i front of his three heros.
 
 With his green glowing eyes he looked in the faces of them. At least one of them is not an full Black Ork, he thought. With a swift move of his right arm he grabbed Grommok, the stronger one of them.
-„Tell me, wich one of ya is not a true blood?“
+„Tell me, which one of ya is not a true blood?“
 he shouted in his face.
-Grommok dosn‘t betray his mates, and Geumlok would not forgive a betrayer.
+Grommok dosn‘t betray his mates, and Grumlok would not forgive a betrayer.
 
 So Grumlok let him go and stepped in front of them
 back and forth.
-„Scrap“ he said söowly and quiet.
+„Scrap“ he said slowly and quiet.
 „I will see who is ya subject.“
 „I said fight!!!“ he shouted.
 
@@ -59,11 +59,37 @@ Grumlok the Leader\
 The heros\
 <img src="warband/heros.jpg" alt="The heros" style="width: 200px;"/>
 
+The ork boyz henchmen (<del>Rog‘Rogg the hired sword black ork</del>)\
+<img src="warband/boyz_and_blackork.jpg" alt="The ork boy henchmen" style="width: 200px;"/>
+
+The other two ork boyz henchmen (<del>Rog‘Rogg the hired sword black ork</del>)\
+<img src="warband/spearmen_ork_boyz.jpg" alt="The other two ork boy henchmen" style="width: 200px;"/>
+
+The savage ork it\
+<img src="warband/it.jpg" alt="Savage ork it" style="width: 200px;"/>
+
 Gor the troll\
 <img src="warband/gor.jpg" alt="Gor the troll" style="width: 200px;"/>
 
-The ork boyz henchmen and Rog‘Rogg the hired sword black ork\
-<img src="warband/boyz_and_blackork.jpg" alt="The ork boyz henchmen and Rog‘Rogg the hired sword black ork" style="width: 200px;"/>
+Stinkor the beggar\
+<img src="warband/stinkor.jpg" alt="Stinkor the beggar" style="width: 200px;"/>
+
+#### Orks that are not part of the wartband:
+
+Rog'Rogg the black ork hired sword\
+<img src="warband/rog_rogg.jpg" alt="Rog'Rogg the black ork hired sword" style="width: 200px;"/>
+
+The other savage ork other\
+<img src="warband/other.jpg" alt="Savage ork other" style="width: 200px;"/>
+
+Shoota henchmen\
+<img src="warband/shoota_boyz.jpg" alt="Shoota henchmen" style="width: 200px;"/>
+
+Wogga the shaman\
+<img src="warband/wogga.jpg" alt="Wogga the shaman" style="width: 200px;"/>
+
+The goblins - brothers of yawn\
+<img src="warband/goblins.jpg" alt="The goblins - brothers of yawn" style="width: 200px;"/>
 
 ---
 
