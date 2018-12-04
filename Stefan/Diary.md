@@ -124,8 +124,8 @@ Offensichtlich ist diese Liste objektiv korrekt und jeder der anderer Meinung is
 
 *Tier 3* (normal)  
 
-|Warband|
-|:---|Gründe|
+|Warband|Gründe|
+|:---|:---|
 |Restliche Mercenaries|S3, T3|
 |Averlander|S3, T3|
 |Nuln Engineers|S3, T3|
