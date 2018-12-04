@@ -92,13 +92,13 @@ Ich beschäfftige mich ejtzt schon eine ganze Weile mit den Regeln für Mordheim
 Und da jeder gerne Rnglisten liest, will ich hier meine aktuelle Einschätzung der einzelen Warbands auflisten.
 Offensichtlich ist diese Liste objektiv korrekt und jeder der anderer Meinung ist hat Unrecht. :smirk:
 
-*Tier 0* (komplett unbalanced/broken)
+*Tier 0* (komplett unbalanced/broken)  
 |Warband|Gründe|
 |:---|:---|
 |Forest-Walker|**Searath**, Tree-Kin, BS, Eternal Guard Ability, Ariel's Blessing, Ithilmar Armour, M5, XP|
 |Clan Skryre|**Doppel Warp Lightning**, Late Game Machinist Equipment, M5, Sling Spam|
 
-*Tier 1* (extrem stark und vermutlich overpowered)
+*Tier 1* (extrem stark und vermutlich overpowered)  
 |Warband|Gründe|
 |:---|:---|
 |Clan Moulder|**Skitterleap**, Punisher Whip, S4, M6, Sling Spam, Late Game Rat Ogre|
@@ -107,7 +107,7 @@ Offensichtlich ist diese Liste objektiv korrekt und jeder der anderer Meinung is
 |Dark Elves|**Beastlash**, Dark Venom, Sea Dragon Cloak, M5, WS, Ld|
 |Shadow Warrior|M5,Ld, WS, BS, Ithilmar Armour (bin mir nicht sicher, ggf nur Tier 2)|
 
-*Tier 2* (überdurchschnittlich)
+*Tier 2* (überdurchschnittlich)  
 |Warband|Gründe|
 |:---|:---|
 |Clan Eshin|M6, S4, Sling Spam, Black Fury|
@@ -119,7 +119,7 @@ Offensichtlich ist diese Liste objektiv korrekt und jeder der anderer Meinung is
 |Beastmen|S4, T4,Mino, M5|
 |Blood Dragon Knights|6 Heroes, S4, T4|
 
-*Tier 3* (normal)
+*Tier 3* (normal)  
 |Warband|
 |:---|Gründe|
 |Restliche Mercenaries|S3, T3|
@@ -138,7 +138,7 @@ Offensichtlich ist diese Liste objektiv korrekt und jeder der anderer Meinung is
 |Orc Mob|Mittelmäßige Henchmen|
 |Hobgoblins Wolf Riders|S3, T3|
 
-*Tier 4* (Müll)
+*Tier 4* (Müll)  
 |Warband|Gründe|
 |:---|:---|
 |Forest Goblin|WS, Ld, Animosity|
