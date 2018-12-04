@@ -84,3 +84,66 @@ Die Taktik ist auch dank hohem Movement und der Immobilität der Zwerge auch her
 * Keine schlimmen Verluste erleiden
 
 Kurzfristiges Ziel ist es das letzte Warpstone Amulet zu kaufen und die Warband um 4 weitere (S4) Verminkin aufzustocken um den nächsten Rout Breakpoint zu erreichen.
+
+## Rate me  
+**04.12.2018**  
+Ich beschäfftige mich ejtzt schon eine ganze Weile mit den Regeln für Mordheim. Meistens unter dem Gesichtspunkt die mächtigste Warband zu finden. Inzwischen habe ich auch einige Szenarios gespielt, so dass ich glaube eine ganz gute Idee zu haben was in diesem Spiel gut funktioniert und was nicht.
+
+Und da jeder gerne Rnglisten liest, will ich hier meine aktuelle Einschätzung der einzelen Warbands auflisten.
+Offensichtlich ist diese Liste objektiv korrekt und jeder der anderer Meinung ist hat Unrecht. :smirk:
+
+*Tier 0* (komplett unbalanced/broken)
+|Warband|Gründe|
+|:---|:---|
+|Forest-Walker|**Searath**, Tree-Kin, BS, Eternal Guard Ability, Ariel's Blessing, Ithilmar Armour, M5, XP|
+|Clan Skryre|**Doppel Warp Lightning**, Late Game Machinist Equipment, M5, Sling Spam|
+
+*Tier 1* (extrem stark und vermutlich overpowered)
+|Warband|Gründe|
+|:---|:---|
+|Clan Moulder|**Skitterleap**, Punisher Whip, S4, M6, Sling Spam, Late Game Rat Ogre|
+|Dwarf Ranger|**Special Rules**, Ld, T4, Gromril Armour, Crossbow|
+|Dwarf Treaure Hunter|s.o.(schlechter ala Ranger)|
+|Dark Elves|**Beastlash**, Dark Venom, Sea Dragon Cloak, M5, WS, Ld|
+|Shadow Warrior|M5,Ld, WS, BS, Ithilmar Armour (bin mir nicht sicher, ggf nur Tier 2)|
+
+*Tier 2* (überdurchschnittlich)
+|Warband|Gründe|
+|:---|:---|
+|Clan Eshin|M6, S4, Sling Spam, Black Fury|
+|Pit Fighter|Ogre, Pit King|
+|Carnival of Chaos|Brutes, Plague Bearers, Bows|
+|Middenheim|S4, Crossbows|
+|Lahmia|S4, Slings|
+|Black Orcs|S4, T4, Troll, Savage Orcs|
+|Beastmen|S4, T4,Mino, M5|
+|Blood Dragon Knights|6 Heroes, S4, T4|
+
+*Tier 3* (normal)
+|Warband|
+|:---|Gründe|
+|Restliche Mercenaries|S3, T3|
+|Averlander|S3, T3|
+|Nuln Engineers|S3, T3|
+|Cult of the Possessed|Extrem teure Helden|
+|Witch Hunters|S3, T3|
+|Sisters of Sigmar|S3, T3|
+|Kislevite|S3, T3|
+|Von Carstein|Mittelmäßige Henchmen|
+|Tilean|S3, T3|
+|Outlaw|S3, T3|
+|Norse|Kein echtes Shooting|
+|Cult of Khaine|Überteuert und Frenzy|
+|Clan Pestilense|S3, T3|
+|Orc Mob|Mittelmäßige Henchmen|
+|Hobgoblins Wolf Riders|S3, T3|
+
+*Tier 4* (Müll)
+|Warband|Gründe|
+|:---|:---|
+|Forest Goblin|WS, Ld, Animosity|
+|Bretonia Knights|Massiv Überteuert|
+|Ostlander|Special Rules|
+
+Die Tiers sind reines Bauchgefühl. Innerhalb eines Tiers gibt es natürlich auch bessere oder schlechtere Warbands. Allerdings sollte jede Warband eines Tiers jeder aus einem höheren stark unterlegen sein.
+Wie schätzt ihr die Liste ein?
