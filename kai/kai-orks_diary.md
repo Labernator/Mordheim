@@ -63,7 +63,7 @@ The ork boy henchmen\
 <img src="warband/ork_boyz.jpg" alt="The ork boy henchmen" style="width: 200px;"/>
 
 The savage ork it\
-<img src="warband/it.jpg" alt="Savage ork it" style="width: 200px;"/>
+<img src="warband/urzror.jpg" alt="Savage ork urzror" style="width: 200px;"/>
 
 Gor the troll\
 <img src="warband/gor.jpg" alt="Gor the troll" style="width: 200px;"/>
@@ -76,8 +76,8 @@ Stinkor the beggar\
 Rog'Rogg the black ork hired sword\
 <img src="warband/rog_rogg.jpg" alt="Rog'Rogg the black ork hired sword" style="width: 200px;"/>
 
-The other savage ork other\
-<img src="warband/other.jpg" alt="Savage ork other" style="width: 200px;"/>
+The other savage ork Ukruc\
+<img src="warband/ukruc.jpg" alt="Savage ork ukruc" style="width: 200px;"/>
 
 Shoota henchmen\
 <img src="warband/shoota_boyz.jpg" alt="Shoota henchmen" style="width: 200px;"/>
