@@ -454,3 +454,29 @@ Hunter +1
 => buy 1 Wolf => 15gc  
 => buy 2x Sword + Helmet => 30gc  
 ===== 31gc left  
+
+
+## Szenario 1: The Merchant Square (S. 220)
+
+### Scenario Houselrules 
+-	Tiere können keine Kisten aufheben.  
+- Das Transportieren, XP bekommen und Aufheben von Kisten funktioniert wie im Szenario: The Raven Barracks  
+- Wenn ein Warrior sein Movement in einem Haus beendet, dass noch niemand durchsucht hat wird das notiert. Am Ende des Spiels wird dann gewürfelt wer was gefunden hat. So soll der Spielfluss möglichst wenig unterbrochen werden.  
+- Der schwarze Pegasus (S. 288) bewegt sich auf dem kürzesten Weg in Richtung Square. Dort charged er das nächste Modell sobald er in Reichweite ist. Wenn er kein Modell sieht, dann bewegt er sich mit maximaler Geschwindigkeit in Richtung des nächsten Modells das eine Kiste trägt.  
+- Wenn alle Kisten vom Tisch getragen wurden gewinnt die Warband, die am meisten erobert hat. Bei Gleichstand gewinnen alle mit den meisten Kisten.  
+
+**Setup**  
+Jeder würfelt mit 3D6. Das legt die Reihenfolge für die Aufstellung fest.  
+Aufstellung: Der aktive Spieler sucht sich ein Segment aus (siehe Bild) und platziert seine Warband maximal 6" vom Rand und 6" von einem Mitglied einer anderen Warband entfernt.  
+
+![Deployment](Deployment.png)  
+
+Nachdem alle Warbands platziert sind wird nochmal mit 3D6 gewürfelt. Das legt die Spielreihenfolge fest: Höchster Wert zuerst, danach im Uhrzeigersinn.
+
+**Underdog** 
+Warband Rating (schon mal SEHR viel höher als beimletzten Mal!)  
+Aaron:  
+Fabian:  
+Stefan:   
+Kai:   
+Marius:  
