@@ -465,6 +465,10 @@ Hunter +1
 - Der schwarze Pegasus (S. 288) bewegt sich auf dem kürzesten Weg in Richtung Square. Dort charged er das nächste Modell sobald er in Reichweite ist. Wenn er kein Modell sieht, dann bewegt er sich mit maximaler Geschwindigkeit in Richtung des nächsten Modells das eine Kiste trägt.  
 - Wenn alle Kisten vom Tisch getragen wurden gewinnt die Warband, die am meisten erobert hat. Bei Gleichstand gewinnen alle mit den meisten Kisten.  
 
+**Rolls Nachholen**  
+- Stefan: Blood Pact für Goblin & Beggar (S. 233), Master of Poison (S. 183)  
+- Marius: Blood Pact für Beggar (S. 233)  
+
 **Setup**  
 Jeder würfelt mit 3D6. Das legt die Reihenfolge für die Aufstellung fest.  
 Aufstellung: Der aktive Spieler sucht sich ein Segment aus (siehe Bild) und platziert seine Warband maximal 6" vom Rand und 6" von einem Mitglied einer anderen Warband entfernt.  
@@ -474,9 +478,9 @@ Aufstellung: Der aktive Spieler sucht sich ein Segment aus (siehe Bild) und plat
 Nachdem alle Warbands platziert sind wird nochmal mit 3D6 gewürfelt. Das legt die Spielreihenfolge fest: Höchster Wert zuerst, danach im Uhrzeigersinn.
 
 **Underdog** 
-Warband Rating (schon mal SEHR viel höher als beimletzten Mal!)  
+Warband Rating  
 Aaron:  
-Fabian:  
-Stefan:   
-Kai:   
-Marius:  
+Fabian: 138  
+Kai: 144  
+Marius: 153  
+Stefan: 160  
