@@ -59,24 +59,24 @@ Grumlok the Leader\
 The heros\
 <img src="warband/heros.jpg" alt="The heros" style="width: 200px;"/>
 
-The ork boy henchmen\
-<img src="warband/ork_boyz.jpg" alt="The ork boy henchmen" style="width: 200px;"/>
-
-The savage ork it\
-<img src="warband/urzror.jpg" alt="Savage ork urzror" style="width: 200px;"/>
+Some of the ork boy henchmen (not including the front left one)\
+<img src="warband/ork_boyz.jpg" alt="Some of the ork boy henchmen (not including the front left one)" style="width: 200px;"/>
 
 Gor the troll\
 <img src="warband/gor.jpg" alt="Gor the troll" style="width: 200px;"/>
+
+Rog'Rogg the black ork hired sword\
+<img src="warband/rog_rogg.jpg" alt="Rog'Rogg the black ork hired sword" style="width: 200px;"/>
 
 Stinkor the beggar\
 <img src="warband/stinkor.jpg" alt="Stinkor the beggar" style="width: 200px;"/>
 
 #### Orks that are not part of the wartband:
 
-Rog'Rogg the black ork hired sword\
-<img src="warband/rog_rogg.jpg" alt="Rog'Rogg the black ork hired sword" style="width: 200px;"/>
+The savage ork urzror\
+<img src="warband/urzror.jpg" alt="Savage ork urzror" style="width: 200px;"/>
 
-The other savage ork Ukruc\
+The other savage ork ukruc\
 <img src="warband/ukruc.jpg" alt="Savage ork ukruc" style="width: 200px;"/>
 
 Shoota henchmen\
