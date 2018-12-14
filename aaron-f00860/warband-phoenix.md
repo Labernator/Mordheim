@@ -1,5 +1,7 @@
 # Phoenix (Dwarf Rangers)
 
+![phoenix warband](diary-20181214-1.jpg)
+
 ## Roaster
 
 * **Runesmith**: Dagger, Axe, Helmet (85GC + 0GC + 5GC + 10GC = 100GC)
