@@ -478,9 +478,10 @@ Aufstellung: Der aktive Spieler sucht sich ein Segment aus (siehe Bild) und plat
 Nachdem alle Warbands platziert sind wird nochmal mit 3D6 gewürfelt. Das legt die Spielreihenfolge fest: Höchster Wert zuerst, danach im Uhrzeigersinn.
 
 **Underdog** 
-Warband Rating  
-Aaron:  
+Warband Rating   
+Aaron:  119
 Fabian: 138  
-Kai: 144  
+Kai: 149  
 Marius: 153  
 Stefan: 160  
+ => kein Underdog
