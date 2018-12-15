@@ -499,3 +499,7 @@ CZ lootet
 Lorok killt Zwerg aus Henchmen Group 2  
 Friedjofer killt Oggrot  
 Rogrogg killt Wolf  
+Trollslayer 2 killt Norog  
+Grommog killt Wolf  
+Freki killed Granak  
+Fridjofr killt Gmorker  
