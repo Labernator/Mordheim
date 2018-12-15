@@ -477,7 +477,7 @@ Aufstellung: Der aktive Spieler sucht sich ein Segment aus (siehe Bild) und plat
 
 Nachdem alle Warbands platziert sind wird nochmal mit 3D6 gewürfelt. Das legt die Spielreihenfolge fest: Höchster Wert zuerst, danach im Uhrzeigersinn.
 
-**Underdog** 
+**Underdog**  
 Warband Rating   
 Aaron:  119
 Fabian: 138  
@@ -485,3 +485,14 @@ Kai: 149
 Marius: 153  
 Stefan: 160  
  => kein Underdog
+
+12 Crates  
+Fabian lootet  
+Kai loot  
+Fabian lootet  
+CZ lootet  
+Aaron  lootet  
+Laber lootet  
+Fabian lootet  
+CZ lootet  
+1 killt Chaos Hound  
