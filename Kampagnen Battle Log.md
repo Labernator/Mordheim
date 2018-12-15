@@ -533,6 +533,11 @@ Kai: Boss +1 (+1 I), Uglash +1 (+1 T), Grommok (Skill), Norok (Lad's got Talent,
 Aaron: Trollslayer +2
 Fabian: Chief +2, Centigor +2, Gor +2 (+1 I), Beggar (Skill)  
 CZ: Ratte 1 +2, Crek +3 (+1I), Tholk +1 (Skill), Chef +2, Krol +2 (+1 W), #7 +3 (+1 S), #5 +1 (BS), #8 +1(BS), Goblin +1 (BS)  
+HenchmenXP = 6
 
 *Exploration*  
 CZ: 5 Shards +1, +30 GC (4x 5), Amulet gekauft, 1 Dark Venom, Blood Pact Beggar  
+Fabian: 3 Shards + Double Handed Weapon
+Aaron: 3 Shards
+Kai: 5 Shards + 4 GC
+Marius: 5 Shards + 10 GC
