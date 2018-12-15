@@ -505,3 +505,26 @@ Freki killed Granak
 Fridjofr killt Gmorker  
 Rog Rogg killt Wolf  
 Crek killt Chaoshund  
+Kai routet  
+Centigor killt Wolf  
+Dorstein killt Zwerg Henchmen 1  
+Laber routet  
+Hund tötet Beggar Aaron  
+Crek killt Merchant Aaron  
+
+
+**Post Game**  
+*Reward*  
+Aaron: 3 Morning Stars  
+Laber: 2 Bows  
+Kai: 1 Morning Star  
+Stefan: 2 Nets, 2 Crossbows, Bugman, Elven Cloak
+Fabian: Heavy Armour, 3 Bows, 3 Spears, 1Repeter Crossbow  
+
+*Injuries*  
+Laber: 2 tote Wölfe  
+Kai: 2 tote Ork Henchmen  
+Aaron: Merchant tot, 1 Henchmen tot  
+Fabian: 1 Wolf tot  
+
+*XP*  
