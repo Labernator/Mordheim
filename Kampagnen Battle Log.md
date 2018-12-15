@@ -503,3 +503,5 @@ Trollslayer 2 killt Norog
 Grommog killt Wolf  
 Freki killed Granak  
 Fridjofr killt Gmorker  
+Rog Rogg killt Wolf  
+Crek killt Chaoshund  
