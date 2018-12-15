@@ -537,7 +537,7 @@ HenchmenXP = 6
 
 *Exploration*  
 CZ: 5 Shards +1, +30 GC (4x 5), Amulet gekauft, 1 Dark Venom, Blood Pact Beggar  
-Fabian: 3 Shards + Double Handed Weapon
-Aaron: 3 Shards
-Kai: 5 Shards + 4 GC
-Marius: 5 Shards + 10 GC
+Fabian: 3 Shards + Double Handed Weapon  
+Aaron: 3 Shards  
+Kai: 5 Shards + 4 GC  
+Marius: 5 Shards + 10 GC  
