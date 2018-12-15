@@ -530,7 +530,7 @@ Fabian: 1 Wolf tot
 *XP*  
 Laber: alles +1, Dorstein +1, Friedjofer +2 (advance: Skill), Freki +1 (+1 T), Merchant (Skill), Hunter (+1 I), Beggar (+1 A)    
 Kai: Boss +1 (+1 I), Uglash +1 (+1 T), Karhag +1, Grommok +2 (Skill), Norog +2 (Lad's got Talent, +1 WS, Combat & Strength), Rog'rogg +3 (+1 I), Beggar 1+ (+1 S)  
-Aaron: Trollslayer +2
+Aaron: Alle ausser Merchant +1 (da überlebt), Trollslayer +2 (da überlebt und 1 kill)
 Fabian: Chief +2, Centigor +2, Gor +2 (+1 I), Beggar (Skill)  
 CZ: Ratte 1 +2, Crek +3 (+1I), Tholk +1 (Skill), Chef +2, Krol +2 (+1 W), #7 +3 (+1 S), #5 +1 (BS), #8 +1(BS), Goblin +1 (BS)  
 HenchmenXP = 6
