@@ -497,3 +497,5 @@ Fabian lootet
 CZ lootet  
 1 killt Chaos Hound  
 Lorok killt Zwerg aus Henchmen Group 2  
+Friedjofer killt Oggrot  
+Rogrogg killt Wolf  
