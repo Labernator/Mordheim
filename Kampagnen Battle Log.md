@@ -496,14 +496,14 @@ Laber lootet
 Fabian lootet  
 CZ lootet  
 Ratte 1 killt Chaos Hound  
-Lorok killt Zwerg aus Henchmen Group 2  
+Norog killt Zwerg aus Henchmen Group 2  
 Friedjofer killt Oggrot  
-Rogrogg killt Wolf  
+Rog'Rogg killt Wolf  
 Trollslayer 2 killt Norog  
-Grommog killt Wolf  
+Grommok killt Wolf  
 Freki killed Granak  
 Fridjofr killt Gmorker  
-Rog Rogg killt Wolf  
+Rog'Rogg killt Wolf  
 Crek killt Chaoshund  
 Kai routet  
 Centigor killt Wolf  
@@ -529,7 +529,7 @@ Fabian: 1 Wolf tot
 
 *XP*  
 Laber: alles +1, Dorstein +1, Friedjofer +2 (advance: Skill), Freki +1 (+1 T), Merchant (Skill), Hunter (+1 I), Beggar (+1 A)    
-Kai: Boss +1 (+1 I), Uglash +1 (+1 T), Grommok (Skill), Norok (Lad's got Talent, +1 BS/WS, Combat & Strength), Rogrogg +3 (+1 I), Beggar (+1 S)  
+Kai: Boss +1 (+1 I), Uglash +1 (+1 T), Karhag +1, Grommok +2 (Skill), Norog +2 (Lad's got Talent, +1 BS, Combat & Shooting), Rog'rogg +3 (+1 I), Beggar 1+ (+1 S)  
 Aaron: Trollslayer +2
 Fabian: Chief +2, Centigor +2, Gor +2 (+1 I), Beggar (Skill)  
 CZ: Ratte 1 +2, Crek +3 (+1I), Tholk +1 (Skill), Chef +2, Krol +2 (+1 W), #7 +3 (+1 S), #5 +1 (BS), #8 +1(BS), Goblin +1 (BS)  
