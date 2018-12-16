@@ -497,17 +497,17 @@ Fabian lootet
 CZ lootet  
 Ratte 1 killt Chaos Hound  
 Norog killt Zwerg aus Henchmen Group 2  
-Friedjofer killt Oggrot  
+Fridthjofr killt Oggrot  
 Rog'Rogg killt Wolf  
 Trollslayer 2 killt Norog  
 Grommok killt Wolf  
 Freki killed Granak  
-Fridjofr killt Gmorker  
+Fridthjofr killt Gmorker  
 Rog'Rogg killt Wolf  
 Crek killt Chaoshund  
 Kai routet  
 Centigor killt Wolf  
-Dorstein killt Zwerg Henchmen 1  
+Dorsteinn killt Zwerg Henchmen 1  
 Laber routet  
 Chaos Hund tötet Beggar Aaron  
 Crek killt Merchant Aaron  
@@ -543,14 +543,18 @@ Kai: 5 Shards + 4 GC
 Marius: 5 Shards + 10 GC  
 
 Post post game:
-Marius: sells All wyrdstone for 70 -> +10 +24 (leftovers) => 104gc
-Rebuy 2 Wolves for 30 => 74gc
-Buy 2 Hunters (seperate groups) => 50gc => 24gc left
-=> upkeep hired Swords 15 => 9gc left
+old treasure chest: 24gc
+Gold from scenario: 10gc
+Marius: sells 5 shards for 70gc -> 
+=> 104gc 
+Rebuy 2 Wolves for 30gc
+Buy 2 Hunters (seperate groups) for 50gc
+Upkeep hired Swords for 15gc
+=> 9gc left
 Arabian Merchant gains Skill 'Guardian' 
 Fridthjofr gains Skill 'Two Weapon Master' 
 
-post game kai:
+Kai:
 old treasure chest: 7gc
 5 shards sold +80 gc
 1 morningstar sold +8gc
