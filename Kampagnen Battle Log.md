@@ -568,10 +568,10 @@ new treasure chest: 0gc
 
 **CZ**  
 Einnahmen:  
-- 5 Shards + 1 vom letzten Mal => 5 verkaufen für 70 GC  
+- 5 Shards + 1 vom letzten Mal => 6 verkaufen für 80 GC  
 - 1 GC vom letzten mal  
  - 30 GC von der Exploration  
- => 101 GC  
+ => 111 GC  
 
 Ausgaben:  
 - 9 GC für Upkeep Hired Swords (dank Beggar Blood Pact)  
@@ -580,4 +580,4 @@ Ausgaben:
 - 8 GC für 4 Slings  
  => -92 GC
  
-9 GC übrig
+19 GC übrig
