@@ -533,7 +533,7 @@ Kai: Boss +1 (+1 I), Uglash +1 (+1 T), Karhag +1, Grommok +2 (Skill), Norog +2 (
 Aaron: Alle ausser Merchant +1 (da überlebt), Trollslayer +2 (da überlebt und 1 kill)
 Fabian: Chief +2, Centigor +2, Gor +2 (+1 I), Beggar (Skill)  
 CZ: Ratte 1 +2, Crek +3 (+1I), Tholk +1 (Skill), Chef +2, Krol +2 (+1 W), #7 +3 (+1 S), #5 +1 (BS), #8 +1(BS), Goblin +1 (BS)  
-HenchmenXP = 6
+Henchmen XP for buying = 6
 
 *Exploration*  
 CZ: 5 Shards +1, +30 GC (4x 5), Amulet gekauft, 1 Dark Venom, Blood Pact Beggar  
@@ -545,7 +545,10 @@ Marius: 5 Shards + 10 GC
 Post post game:
 Marius: sells All wyrdstone for 70 -> +10 +24 (leftovers) => 104gc
 Rebuy 2 Wolves for 30 => 74gc
-Ärabian
+Buy 2 Hunters (seperate groups) => 50gc => 24gc left
+=> upkeep hired Swords 15 => 9gc left
+Arabian Merchant gains Skill 'Guardian' 
+Fridthjofr gains Skill 'Two Weapon Master' 
 
 post game kai:
 old treasure chest: 7gc
@@ -555,4 +558,4 @@ upkeep beggar -5gc
 upkeep troll -15gc
 upkeep black ork -25gc
 rebuy 2 henchmen ork boys (2 dagger per boy) -54g
-kai treasure chest: 0gc
+new treasure chest: 0gc
