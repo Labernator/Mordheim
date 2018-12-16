@@ -50,3 +50,8 @@
 
 17.) Der Black Ork Hired Sword (s.236 im PDF) trägt eine heavy armor (4+AS) und ist ein Black Ork (+1AS) daher hat er einen 3+AS
 
+18.) Equipment Listen für Hired Swords:  
+ - Beggar: Ugor Liste (Beastmen)  
+ - Merchant: Kislevite Hero Liste  
+ - Black Orc: Black Orc Hero Liste  
+ - Goblin Lantern Bearer: Forest Goblin Liste  
