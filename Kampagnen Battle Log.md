@@ -546,5 +546,6 @@ Post post game:
 Marius: sells All wyrdstone for 70 -> +10 +24 (leftovers) => 104gc
 Rebuy 2 Wolves for 30 => 74gc
 Buy 2 Hunters (seperate groups) => 50gc => 24gc left
+=> upkeep hired Swords 15 => 9gc left
 Arabian Merchant gains Skill 'Guardian' 
 Fridthjofr gains Skill 'Two Weapon Master' 
