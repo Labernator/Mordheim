@@ -542,10 +542,12 @@ Aaron: 3 Shards
 Kai: 5 Shards + 4 GC  
 Marius: 5 Shards + 10 GC  
 
-Post post game:
+***Post post game:***
+
+**Marius:**
 old treasure chest: 24gc
 Gold from scenario: 10gc
-Marius: sells 5 shards for 70gc -> 
+sells 5 shards for 70gc -> 
 => 104gc 
 Rebuy 2 Wolves for 30gc
 Buy 2 Hunters (seperate groups) for 50gc
@@ -554,7 +556,7 @@ Upkeep hired Swords for 15gc
 Arabian Merchant gains Skill 'Guardian' 
 Fridthjofr gains Skill 'Two Weapon Master' 
 
-Kai:
+**Kai:**
 old treasure chest: 7gc
 5 shards sold +80 gc
 1 morningstar sold +8gc
