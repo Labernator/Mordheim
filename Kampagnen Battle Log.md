@@ -545,4 +545,6 @@ Marius: 5 Shards + 10 GC
 Post post game:
 Marius: sells All wyrdstone for 70 -> +10 +24 (leftovers) => 104gc
 Rebuy 2 Wolves for 30 => 74gc
-Ärabian
+Buy 2 Hunters (seperate groups) => 50gc => 24gc left
+Arabian Merchant gains Skill 'Guardian' 
+Fridthjofr gains Skill 'Two Weapon Master' 
