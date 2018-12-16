@@ -565,3 +565,19 @@ upkeep troll -15gc
 upkeep black ork -25gc
 rebuy 2 henchmen ork boys (2 dagger per boy) -54g
 new treasure chest: 0gc
+
+**CZ**  
+Einnahmen:  
+- 5 Shards + 1 vom letzten Mal => 5 verkaufen für 70 GC  
+- 1 GC vom letzten mal  
+ - 30 GC von der Exploration  
+ => 101 GC  
+
+Ausgaben:  
+-9 GC für Upkeep Hired Swords (dank Beggar Blood Pact)  
+-60 GC für 2 Verminkin mit zusätzlichem dagger, sling, 3 XP  
+-15 GC für ein Wapstone Amulett  
+-8 GC für 4 Slings  
+ => -84 GC
+ 
+17 GC übrig
