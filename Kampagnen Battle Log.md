@@ -546,3 +546,13 @@ Post post game:
 Marius: sells All wyrdstone for 70 -> +10 +24 (leftovers) => 104gc
 Rebuy 2 Wolves for 30 => 74gc
 Ärabian
+
+post game kai:
+old treasure chest: 7gc
+5 shards sold +80 gc
+1 morningstar sold +8gc
+upkeep beggar -5gc
+upkeep troll -15gc
+upkeep black ork -25gc
+rebuy 2 henchmen ork boys (2 dagger per boy) -54g
+kai treasure chest: 0gc
