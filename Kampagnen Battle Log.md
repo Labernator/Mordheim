@@ -541,3 +541,8 @@ Fabian: 3 Shards + Double Handed Weapon
 Aaron: 3 Shards  
 Kai: 5 Shards + 4 GC  
 Marius: 5 Shards + 10 GC  
+
+Post post game:
+Marius: sells All wyrdstone for 70 -> +10 +24 (leftovers) => 104gc
+Rebuy 2 Wolves for 30 => 74gc
+Ärabian
