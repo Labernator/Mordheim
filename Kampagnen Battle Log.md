@@ -574,10 +574,10 @@ Einnahmen:
  => 101 GC  
 
 Ausgaben:  
--9 GC für Upkeep Hired Swords (dank Beggar Blood Pact)  
--60 GC für 2 Verminkin mit zusätzlichem dagger, sling, 3 XP  
--15 GC für ein Wapstone Amulett  
--8 GC für 4 Slings  
- => -84 GC
+- 9 GC für Upkeep Hired Swords (dank Beggar Blood Pact)  
+- 60 GC für 2 Verminkin mit zusätzlichem dagger, sling, 3 XP  
+- 15 GC für ein Wapstone Amulett  
+- 8 GC für 4 Slings  
+ => -92 GC
  
-17 GC übrig
+9 GC übrig
