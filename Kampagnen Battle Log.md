@@ -518,7 +518,7 @@ Crek killt Merchant Aaron
 Aaron: 3 Morning Stars  
 Laber: 2 Bows  
 Kai: 1 Morning Star  
-Stefan: 2 Nets, 2 Crossbows, Bugman, Elven Cloak
+Stefan: 2 Nets, 2 Crossbows, Bugman, Elven Cloak  
 Fabian: Heavy Armour, 3 Bows, 3 Spears, 1Repeter Crossbow  
 
 *Injuries*  
@@ -544,27 +544,27 @@ Marius: 5 Shards + 10 GC
 
 ***Post post game:***
 
-**Marius:**
-old treasure chest: 24gc
-Gold from scenario: 10gc
-sells 5 shards for 70gc -> 
-=> 104gc 
-Rebuy 2 Wolves for 30gc
-Buy 2 Hunters (seperate groups) for 50gc
-Upkeep hired Swords for 15gc
-=> 9gc left
-Arabian Merchant gains Skill 'Guardian' 
-Fridthjofr gains Skill 'Two Weapon Master' 
+**Marius:**  
+old treasure chest: 24gc  
+Gold from scenario: 10gc  
+sells 5 shards for 70gc ->  
+=> 104gc  
+Rebuy 2 Wolves for 30gc  
+Buy 2 Hunters (seperate groups) for 50gc  
+Upkeep hired Swords for 15gc  
+=> 9gc left  
+Arabian Merchant gains Skill 'Guardian'  
+Fridthjofr gains Skill 'Two Weapon Master'  
 
-**Kai:**
-old treasure chest: 7gc
-5 shards sold +80 gc
-1 morningstar sold +8gc
-upkeep beggar -5gc
-upkeep troll -15gc
-upkeep black ork -25gc
-rebuy 2 henchmen ork boys (2 dagger per boy) -54g
-new treasure chest: 0gc
+**Kai:**  
+old treasure chest: 7gc  
+5 shards sold +80 gc  
+1 morningstar sold +8gc  
+upkeep beggar -5gc  
+upkeep troll -15gc  
+upkeep black ork -25gc  
+rebuy 2 henchmen ork boys (2 dagger per boy) -54g  
+new treasure chest: 0gc  
 
 **CZ**  
 Einnahmen:  
