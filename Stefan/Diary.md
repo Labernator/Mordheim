@@ -152,3 +152,40 @@ Offensichtlich ist diese Liste objektiv korrekt und jeder der anderer Meinung is
 
 Die Tiers sind reines Bauchgefühl. Innerhalb eines Tiers gibt es natürlich auch bessere oder schlechtere Warbands. Allerdings sollte jede Warband eines Tiers jeder aus einem höheren stark unterlegen sein.
 Wie schätzt ihr die Liste ein?
+
+## Debriefing: Scenario 2  
+**17.12.2018**  
+Am Wochenende wurde das zweite Szenario gespielt. Alles in allem kamen mir alle Warbands mächtiger vor und auch ausgeglichener.  
+**Big Picture:**  
+ - Beastmen: Extrem schnell, ziemlich tough und gut Power. Der Nachteil der Gors (Infighting) ist bei fünf Warbands am Tisch quasi nicht existent, da sie immer irgendeinen Gegner sehen dürften. Magie ist ok und der Centigor ist ziemlich busted (vielleicht weniger, wenn man öfter auf Drunkeness würfelt =). Wie Fabian am Ende in die Zwerge gerannt ist war einigermaßen furchterregend!  
+ - Norse: Sehr schnelle Wölfe und sehr viele S4 Attacken. Die Tatsache, dass Laber seine Wölfe auch so positionieren kann, dass nur sie sterben macht sie noch besser. Die Wölfe sind für mich klar der MVP der Army.  
+ - Orks: Der Troll hat diesmal komplett auf Arbeitsverweigerung geschaltet und das macht die Army schon massiv viel schlechter. Dann wurde Fabian auch noch von Aaron und Laber gesandwicht, so dass dieses Spiel nicht sehr gut für ihn ausging. Allerdings hat auch Kai seine Minis so geschickt positioniert, dass nur Henchmen gestorben sind.  
+ - Zwerge: Aaron hat diesmal alle Zwerge solide zusammen gehalten. Und so als Bunker sind die Zwerge schon sehr schwer zu knacken. Allerdings sind sie komplett ohne Rüstung auch nicht ganz so schlimm finde ich.  
+ 
+**Zum Spielverlauf:**  
+Ich durfte als letzter Aufstellen und habe mich (mal wieder) links neben Fabian gesetzt. Die Beastmen halte ich im Moment für ein sehr gutes Matchup für mich. Außerdem wollte ich (mal wieder) maximal weit weg vom Troll. Meine rechte Flanke war dadurch leer, was mich schon von vornherein in eine sehr gute Position brachte.   
+
+Fabian rannte in der ersten Runde auch erwartungsgemäß auf mich zu. Ich zog mich also zurück und schoss direkt zwei Hunden eine Wunde raus. Da ich Fabian massiv outrange ist der Plan das die nächsten drei Runden so zu machen und dann die überlebenden Units mit meinen Ratten zu Combo-Chargen. Nachdem ich dies Fabian erkläre sieht er ein, dass dies keine erfolgversprechende Schlacht für ihn ist.   
+
+Fabian dreht bei und ich brauche vielleicht noch vier Züge um endlich die beiden angeschlagenen Hunde zu erlegen, weil ab jetzt meine Slings komplett ihren Dienst verweigern. Im Nachhinein wäre Fabian wahrscheinlich gut mit der Taktik gefahren einfach weiter in mich rein zu rennen. Aber nachher ist man ja immer schlauer.  
+
+Ich traue mich dann auch nicht Richtung Objectives und/oder Gegner solange der Troll steht. Den kann ich leider nie besiegen. Da Aaron und Laber aber Kai in die Mangel nehmen und Laber freiwillig routet sieht es jedoch bald extrem gut für mich aus.  
+
+Ich wäge das Riskio ab und entscheide mich mir zwei Kisten zu krallen. Leider (für mich) taucht bei der zweiten Kiste der Pegasus auf und den kann ich auch nie besiegen.   
+
+Also heißt es Beine in die Hand nehmen, die zwei Kisten vom Board schaffen und mich mit Fabian auf einen geteilten Sieg einigen.  
+
+**Ergebnis:**  
+Ich bin wieder sehr zufrieden, vor allem da ja mein Zauberer das Spiel aussetzen musste:
+ - Das letzte Warpstone Amult gekauft  
+ - Zwei weitere Henchmen gekauft (auf dem Weg zum nächsten Rout Breakpoint)  
+ - Einiges an Loot abgegriffen  
+ - Musician in der Army  
+ - Keine schlimmen Verluste erleiden  
+Nächste Ziele sind zwei weitere S4 Verminkin und danach sparen auf den Rat Ogre als Money Sink.  
+Im Moment fühlt sich die Warband sehr stark an, da ich alle anderen Warbands in unserem Spiel outrange. Dadurch kann ich gegnerische Modelle aus der Ferne ungehindert schwächen/ausschalten und das schreckt natürlich ab.  
+
+**Ausblick:**  
+Perspektivisch wird das Spiel vermutlich härter für mich werden. Sobald die Beastmen oder Zwerge vernünftig gepanzerte Warrior haben die die Sling Shots tanken können fällt mein Range-Vorteil und damit meine größte Stärke flach. Der Troll wird immer ein Problem bleiben. Fear ist einfach extrem potent gegen Skaven. Und ein Monster mit (quasi) 6 Wunden und 3 S5 Attacken, dass ich nicht zuverlässig chargen kann ist relativ nahe dran an unbesiegbar für mich.  
+
+Ohne den Range-Vorteil muss ich mich mehr auf den Nahkampf fokussieren. Da die Defensive der Skaven ziemlich schlecht ist (T3 und keine Heavy Armour) werde ich mich mehr in Richtung Offensive entwickeln müssen: Der Rattenoger ist ein Schritt in die Richtung. Weiter werde ich versuchen den Sprint Skill auf alle meine Combat Helden zu bekommen um mir so die Charges sichern zu können. Und dann stehen wahrscheinlich auch irgendwann bessere Waffen auf dem Programm.  
