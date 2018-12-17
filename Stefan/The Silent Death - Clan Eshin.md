@@ -225,7 +225,7 @@ Zwei Kisten gelootet: Bugman's Ale & Elven Cloak
 
 *Aus den Fenstern eines zerfallenen Hauses beobachtete Skot wie einer der neuen Skaven nach dem anderen von dem Schwarzen Pegasus zerstampft wurde. Die Kisten lagen zerschmettert auf dem Platz, Gold und Geschmeide vom Blut der Rattenmenschen besudelt. Nur zwei der neuen Skaven bewiesen ihren Wert und schafften es sich und ihre Kisten vor dem tobenden Untier in Sicherheit zu bringen. Skot wertete das als einen Sieg für sich.*  
 
-# Akt 3: Monster (Szenario: The Pool)  
+# Akt 3: Lurklox (Szenario: The Pool)  
 *Qrunq starrte Skot mit glasigen Augen an. Der Geisteszustand des Hexers war schon zu den besten Zeiten weit weg von stabil oder rational gewesen. Selbst für einen Skaven. Und das war vor diesen verfluchten Büchern gewesen. Fahrig zitterten seine Barthaare und seine Schwanzspitze peitschte wild durch die Luft. "Ich habe es gesehen, jaja. Visionen-Träume. Morsulm!" Skot Gesicht war eine ausdruckslose Maske. Jeder erfolgreiche Skaven lernte früh keinerlei Schwäche zu zeigen. "Wir müssen einen See-Teich finden. Der große Fels-Stein vom Himmel hat ihn geschaffen, ja ja. Mächtig-magisch. In der Unterstadt der Mensch-Dinge. Laude Lurklox!"*  
 
 *Skot war skeptisch. Wie sollte ein Teich der Eingang zu Morsulm darstellen? Was hatte Qrunq wirklich gesehen? Wer war Lurklox? War es an der Zeit sich des irrsinnigen Hexers zu entledigen? Aber letztendlich war die Aussicht Morsulm endlich zu finden zu verlockend. Er musste nur dafür sorgen sich bei der Mission im Hintergrund zu halten. Weiche Pelzkörper zwischen sich und dem Hexer sollten für ausreichend Sicherheit sorgen.*  
