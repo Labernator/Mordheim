@@ -26,4 +26,4 @@ Sling	2
  
  Warband Rating: 112
  
- 13 Dudes, 4 Davon mit S4 und 3 Attacken, ein Teleport über das ganze Feld, 12 Slings. Fair.
+ 13 Dudes, 4 Davon mit S4 und 3 Attacken, M5-6, ein Teleport über das ganze Feld, 12 Slings. Fair. Als Late Game hat man den Rat Ogre mit 4 Mutationen.
