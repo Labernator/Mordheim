@@ -3,6 +3,56 @@
 
 ---
 
+### Szenario 4 (15.12.2018)
+
+Der Plan war es mit der Warband von Haus zu Haus zu ziehen, dann in der Mitte des Spielfelds
+mehrere Crates aufzunehmen und dann auf einer anderen Kante vom Spielfeld zu verschwinden.
+Es war mir klar das es nicht einfach werden würde, und die Verluste würden sicher nicht unerheblich sein.
+Doch ich war ganz zufrieden mit der idee die Ork Boyz vor zu schicken und ggfls. zurück zu lassen.
+Der Troll sollte die Kisten in der Mitte verteidigen und die Kistenträger decken.
+
+Ichbstellte meine WB wieder als erstes auf - das führt zu Kontrollverlust neben wem man spielt.
+
+Leider ging mein Plan nicht ganz auf. Der Troll war fast durchgehend stupid und ist entweder herum gestanden oder hat sich mit halben Movement nach vorne bewegt.
+
+Die Norsemen haben von Anfang an die verfolgung aufgenommen so das die orks letztendlich ihren weg durch die mitte abbrechen und zum Gegenschlag umdrehen mussten. Die alternative war es in einen Block Zwerge hinein zu rennen. Also keine Alternative.
+
+Aufgrund guter positionierung konnte ich zumindest verhindern das Helden oder der Beggar schaden genommen haben.
+Die Norsemen haben starken widerstand geleistet aber trotzdem konnte ich drei der Wölfe ooa bringen und der gegner hatte es nicht sonderlich leicht die Ork Boyz umzuhauen. Die fallen mit ihrem T4 einfach nicht so leicht.
+Einer der Boyz wurde von den Zwergen ooa gebracht, nachdem er selbst einen Zwerg OOA gehauen hatte.
+Fieser ist jetzt auch zum Helden befördert worden.
+
+Leider sind zwei der Boyz per serious injury roll endgültig gestorben. Norog wurde wie geschrieben zum Helden.
+Der black ork hired sword haut sie alle um, ihm fehlt aber noch der skill two handed master ung Fearful - falls er jemals einen neuen Skill erwürfelt bekommt. 
+Das movement ist mit ihm deutlich angenehmer als mit animosity. Allerdings ist der upkeep sehr sehr hoch.
+
+Auf sicherheit spielen hat sich bewährt, routen solange alle helden noch da sind und sich die möglichkeit ergibt macht sinn. 
+
+Durch den engpass zwischen den häusern laufen war nicht die beste idee,
+die hinteren figuren hätten den vorderen nicht zur hilfe eilen können. Zum glück ging es gut aus.
+Nur der Troll hätte im Kampf noch gefehlt.
+
+Der pegasus war enttäuschend. Da hätte ich mir mehr Action erwartet.
+
+Die kämpfe waren sehr aufschlussreich, das mit der iniative und den attacken pro runde ist nun auch endlich klar. Eigentlich dachte ich das ich das mit der ToHit und ToWound Tabelle verstanden habe aber im Spiel kam es mir vor als müsste ich ständig andere Werte gegen die gleichen Figuren erwürfeln. Vermutlich kam es mir so vor weil alles so schnell geht umd man nicht jedesmal nachliest. Da fehlt mir Übung.
+
+Fazit: Ich bin zugrieden, habe nun sechs Helden und für diese einige tolle Advances erhalten. Es kam genug Gold rein um die Warband wieder aufzustocken. Leider war aber kein Gold übrig um ein Paar neue Henchmen oder Ausrüstung zu kaufen.
+Aus den Häusern kam fst kein Loot. Da hätte ich mehr erwartet, vir sllem da ich für drei Häuser gewüefelt habe.
+Mit dem Troll werde ich noch ein paar Waaagh! Zauber veranstalten müssen damit ich seine Stupidity besser in den Griff bekomme, aber da sehe ich wenig Chancen. Es bleibt Zufall.
+
+---
+
+### Szenario 3 (18.11.2018)
+
+Keiner wollte gegen meinen Troll kämpfen, daher habe ich gemütlich ein paar Bücher einsammeln können
+und am Ende des Spiels mit Stefan eine Übereinkunft zum Abschluss des Spiels geschlossen.
+
+Ergebnis: je ein XP für alle und 200gc mehr in der Schatzkiste.
+
+Für die 200gc gab es einen Beggar, einen Black Ork hired sword und vier Ork boys mit je zwei Dolchen.
+
+---
+
 The last warband wasn‘t that bad and it was fun to test their behavior and skills. 
 But our tabletop group decided to start over and everyone is allowed to rebuild a new warband.
 
@@ -97,7 +147,7 @@ Die letzte Warband wurde nochmals gedropt - alle fangen eine neue WB an.
 
 ---
 
-### Szenario 2 (14.10.2018)
+### Szenario 2 (3.11.2018)
 
 Scenario: The lost prince
 
