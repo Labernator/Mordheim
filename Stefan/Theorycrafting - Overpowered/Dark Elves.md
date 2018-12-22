@@ -21,10 +21,12 @@ Spell: Witch Flight
 	
 **2 Cold One Beasthounds**	60  
 	
-**Beggar**	15  
-**Goblin Lantern Bearer**	15  
+**1 Corsair**	35  
+Beast Lash 10  
 
- => 465 GC  
+**Beggar**	15  
+
+ => 495 GC  
  
 Warband Rating: 117  
 
