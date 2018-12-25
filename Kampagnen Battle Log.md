@@ -551,9 +551,9 @@ sells 5 shards for 70gc ->
 => 104gc  
 Rebuy 2 Wolves for 30gc  
 Buy 2 Hunters (seperate groups) for 50gc  
-Buy 3 Hammers for 7gc (thank you Merchant) 
+Buy 2 Hammers for 4gc (thank you Merchant) 
 Upkeep hired Swords for 15gc  
-=> 2gc left  
+=> 5gc left  
 Arabian Merchant gains Skill 'Guardian'  
 Fridthjofr gains Skill 'Two Weapon Master'  
 
