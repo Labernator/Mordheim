@@ -189,3 +189,21 @@ Im Moment fühlt sich die Warband sehr stark an, da ich alle anderen Warbands in
 Perspektivisch wird das Spiel vermutlich härter für mich werden. Sobald die Beastmen oder Zwerge vernünftig gepanzerte Warrior haben die die Sling Shots tanken können fällt mein Range-Vorteil und damit meine größte Stärke flach. Der Troll wird immer ein Problem bleiben. Fear ist einfach extrem potent gegen Skaven. Und ein Monster mit (quasi) 6 Wunden und 3 S5 Attacken, dass ich nicht zuverlässig chargen kann ist relativ nahe dran an unbesiegbar für mich.  
 
 Ohne den Range-Vorteil muss ich mich mehr auf den Nahkampf fokussieren. Da die Defensive der Skaven ziemlich schlecht ist (T3 und keine Heavy Armour) werde ich mich mehr in Richtung Offensive entwickeln müssen: Der Rattenoger ist ein Schritt in die Richtung. Weiter werde ich versuchen den Sprint Skill auf alle meine Combat Helden zu bekommen um mir so die Charges sichern zu können. Und dann stehen wahrscheinlich auch irgendwann bessere Waffen auf dem Programm.  
+
+## Eines Tages wird es passieren...  
+**27.12.2018**  
+Eine kurze Betrachtung der Skaven in Mordheim.  
+Selbst wenn man von den völlig overpowerten Spells absieht (*hust* Warp Lightning *hust*) erscheinen mir inzwischen die Rattenmenschen als sehr stark in unserem Regelwerk.  
+
+Vergleicht man den normalo 0815 menschlichen Henchmen mit seinem skavischen Pendant so tauscht die Ratte zwei Punkte Ld gegen jeweils einen Punkt in Initiative und Movement **und** eine Kostenreduktion von 20%!  
+Ini und Ld sind ungefähr gleich (un)nützlich, aber Movement ist wahrscheinlich der mächtigste Stat im Spiel. Das wäre also schon ein guter Deal, aber die Tatsache, dass die Ratte auch noch billiger ist macht die Ungleichheit noch deutlicher.  
+
+Darüber hinaus haben Skaven ein Warband Maximum von 20 Warrior, statt dem 15 für Menschen was in einem höheren Rout Breakpoint resultiert.  
+
+Ratten Helden haben teilweise M6 was (wie schon oben erwähnt) richtig stark ist, speziell mit Zugriff auf den Sprint Skill. S4 findet sich auch auf einigen.  
+
+Skaven verfügen darüber hinaus alle über Magie, einen monströsen Henchmen (den Rattenoger) und Slings (die effizienteste weil billigste Fernkampfwaffe).  
+
+Die Kehrseite der Medallie ist, dass Ratten sehr leicht durch Fear gecountert werden können und sehr eingeschränkten Zugriff auf Hired Swords haben. Diese beiden Nachteile wiegen ihre Vorteile jedoch lange nicht auf.  
+
+Insgesamt würde ich inzwischen Skaven allgemein (ohne auf spezielle Warbands einzugehen) als eines der beiden stärksten Völker sehen (zusammen mit Elfen). (Sehr) hohes Movement, solider ranged Damage, Magie, Monster und solide Nahkämpfer sind alles in allem schon sehr viele Pluspunkte.
