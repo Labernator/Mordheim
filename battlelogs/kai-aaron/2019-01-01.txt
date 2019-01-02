@@ -7,10 +7,10 @@ Angry Mob (Dwarf Rangers) vs Black Orks
 
 Log:
 Beardling 6 Treasure Pickup
-Gmorkor kills apprentice
-Beardling 7 Killed Rog Rogg
-RemBuld Killed Beardling 3
-Oggrot Killed Beardling 7
+Gmorkor killed apprentice
+Beardling 7 killed Rog Rogg
+RemBuld killed Beardling 3
+Oggrot killed Beardling 7
 Troll killed Beardling 1
 Aaron rout test nicht bestanden
 
@@ -27,17 +27,17 @@ RemBuld +1 (kill)
 Oggrot +1 (kill)
 All Orks +1 except of rog rogg
 
-Beardling Gruppe 2 (bearding 6) +2 (found treasure)+1 (kill)
+Beardling Gruppe 2 (bearding 6) +2 (found treasure) +1 (kill)
 All non died Dwarfes +1
 
 Advances:
-Beardling group 2 +1 ws 
-Dwarf Beggar + 1 wound
+Beardling group 2 WS+
+Dwarf Beggar W+1
 Stinkender alter ron T+1
 Karhag W+1
 Grommok +skill
 RemBuld +skill
-Oggrot +held A+1 combat+strength
+Oggrot +hero A+1 gains from combat+strength
 
 Income:
 Aaron +2gc +3 shards +1 shard (dwarf rangers)
@@ -45,5 +45,12 @@ Kai +sword +3 shards
 Aaron 3 shards to 60gc 1 shard left
 Kai 3 shards to 60gc
 
-Einheiten Zukauf roll 12xp
+Unit XP "buy roll": 12xp
+
+Kai:
+rem'buld skill fearsome
+grommok skill fearsome
+ork boy -25 gc
+stored equip: none
+treasure chest: 2gc
 
