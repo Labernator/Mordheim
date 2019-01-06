@@ -48,8 +48,8 @@ Kai 3 shards to 60gc
 Unit XP "buy roll": 12xp
 
 Kai:
-rem'buld skill fearsome
-grommok skill fearsome
+rem'buld skill 'eadbasher
+grommok skill 'eadbasher
 ork boy -25 gc
 stored equip: none
 treasure chest: 2gc
