@@ -64,26 +64,13 @@ If the scenario requires to choose a defender/attacker, the Player Who chose the
 13. NPC Movement 
 
 - How Do NPCs move
-a. Always random
-b. Random unless they have an objective (e.g. Pegasus) 
-C. Always toward Nearest enemy
-d. Always toward Nearest enemy unless none is in sight (Random in that case) 
+Random unless they have an objective (e.g. Pegasus) 
 
-- When Do they charge
-  a. Only when the charge is automatically completed (Movement + 2)
-  b. Only when the charge is statistically lukely to be completed (e.g. Movement + 4)
-  c. Whenever the charge is possible (Movement + 9)
-  d. They get their own charge rules (e.g. Charge distance = 2 ° Movement)  
+- They get their own charge rules (Charge distance = 2 ° Movement)  
   
 - Who Do they charge IF they have a choice 
-a. Nearest enemy model
-b. Models based on Aggro (IF a Model shot on the NPC it will be a higher value target) 
-b1. Softest model (henchmen > heros, less XP > more XP) 
-B2. Most prestigeous model (hero > henchmen, more XP > less XP) 
-c. Radom Model: Roll dice
+ Models based on Aggro (IF a Model shot on the NPC it will be a higher value target). If tied or noone had aggro, they randomize 
 
 14. Chests/Treasures/etc. 
 
-Should it be possible to drop them? 
-Pro: more tactical possibilities
-Contra: can lead to strange/unwanted Situation (e.g. Pegasus, carry with good char out of Fänger and handing to the beggar) 
+Should it be possible to drop them? - > NO
