@@ -67,6 +67,7 @@ All Npcs move/charge according to the rules:
 1 IF possible, the npc Charges (charge distance = March distance) 
 2 IF no enemy is in charge distance, the NPC either makes a march move towards its objective or moves at random (2D6? Or march?)
 3 IF any enemy model has attacked the npc, or Contests an objective which the npc is guarding, this Model has the highest priority for the npc
+4 IF two or more enemy models are tied for priority, the npc randomizes between them. 
 
 14. Chests/Treasures/etc. 
 
