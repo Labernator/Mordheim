@@ -30,7 +30,7 @@ C. All warbands from both books + warbands from broheim (Marius - 1 : the Power 
 
 3. Play with or without Dramatis Personae 
 
-Yes (Kai+1) / no
+With (Kai+1) / without
 
 4. List of needed Terrain features
 
@@ -63,26 +63,13 @@ If the scenario requires to choose a defender/attacker, the Player Who chose the
 
 13. NPC Movement 
 
-- How Do NPCs move
-a. Always random
-b. Random unless they have an objective (e.g. Pegasus) 
-C. Always toward Nearest enemy
-d. Always toward Nearest enemy unless none is in sight (Random in that case) 
-
-- When Do they charge
-  a. Only when the charge is automatically completed (Movement + 2)
-  b. Only when the charge is statistically lukely to be completed (e.g. Movement + 4)
-  c. Whenever the charge is possible (Movement + 9)
-  d. They get their own charge rules (e.g. Charge distance = 2 ° Movement) 
-  
-- Who Do they charge IF they have a choice 
-a. Nearest enemy model
-b. Models based on Aggro (IF a Model shot on the NPC it will be a higher value target) 
-b1. Softest model (henchmen > heros, less XP > more XP) 
-B2. Most prestigeous model (hero > henchmen, more XP > less XP) 
+All Npcs move/charge according to the rules:
+1 IF possible, the npc Charges (charge distance = March distance) 
+2 IF no enemy is in charge distance, the NPC either makes a march move towards its objective or moves at random (2D6? Or march?)
+3 IF any enemy model has attacked the npc, or Contests an objective which the npc is guarding, this Model has the highest priority for the npc
+4 IF two or more enemy models are tied for priority, the npc randomizes between them. 
 
 14. Chests/Treasures/etc. 
 
 Should it be possible to drop them? 
-Pro: more tactical possibilities
-Contra: can lead to strange/unwanted Situation (e.g. Pegasus, carry with good char out of Fänger and handing to the beggar) 
+- > NO. Once a chest, treasure, wyrdstone shard, or any other objective Was picked up, it cannot be dropped voluntarily. 
