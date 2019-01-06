@@ -63,6 +63,10 @@ If the scenario requires to choose a defender/attacker, the Player Who chose the
 
 13. NPC Movement 
 
+All Npcs move/charge according to the rules:
+1 IF possible, the npc Charges
+2 IF any enemy model has attacked the npc, or Contests an objective which the npc is guarding, this Model has the highest priority for the npc
+
 - How Do NPCs move
 Random unless they have an objective (e.g. Pegasus) 
 
@@ -73,4 +77,5 @@ Random unless they have an objective (e.g. Pegasus)
 
 14. Chests/Treasures/etc. 
 
-Should it be possible to drop them? - > NO
+Should it be possible to drop them? 
+- > NO. Once a chest, treasure, wyrdstone shard, or any other objective Was picked up, it cannot be dropped voluntarily. 
