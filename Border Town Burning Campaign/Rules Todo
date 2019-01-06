@@ -73,13 +73,14 @@ d. Always toward Nearest enemy unless none is in sight (Random in that case)
   a. Only when the charge is automatically completed (Movement + 2)
   b. Only when the charge is statistically lukely to be completed (e.g. Movement + 4)
   c. Whenever the charge is possible (Movement + 9)
-  d. They get their own charge rules (e.g. Charge distance = 2 ° Movement) 
+  d. They get their own charge rules (e.g. Charge distance = 2 ° Movement)  
   
 - Who Do they charge IF they have a choice 
 a. Nearest enemy model
 b. Models based on Aggro (IF a Model shot on the NPC it will be a higher value target) 
 b1. Softest model (henchmen > heros, less XP > more XP) 
 B2. Most prestigeous model (hero > henchmen, more XP > less XP) 
+c. Radom Model: Roll dice
 
 14. Chests/Treasures/etc. 
 
