@@ -30,7 +30,7 @@ C. All warbands from both books + warbands from broheim (Marius - 1 : the Power 
 
 3. Play with or without Dramatis Personae 
 
-Yes (Kai+1) / no
+With (Kai+1) / without
 
 4. List of needed Terrain features
 
@@ -64,16 +64,9 @@ If the scenario requires to choose a defender/attacker, the Player Who chose the
 13. NPC Movement 
 
 All Npcs move/charge according to the rules:
-1 IF possible, the npc Charges
-2 IF any enemy model has attacked the npc, or Contests an objective which the npc is guarding, this Model has the highest priority for the npc
-
-- How Do NPCs move
-Random unless they have an objective (e.g. Pegasus) 
-
-- They get their own charge rules (Charge distance = 2 ° Movement)  
-  
-- Who Do they charge IF they have a choice 
- Models based on Aggro (IF a Model shot on the NPC it will be a higher value target). If tied or noone had aggro, they randomize 
+1 IF possible, the npc Charges (charge distance = March distance) 
+2 IF no enemy is in charge distance, the NPC either makes a march move towards its objective or moves at random (2D6? Or march?)
+3 IF any enemy model has attacked the npc, or Contests an objective which the npc is guarding, this Model has the highest priority for the npc
 
 14. Chests/Treasures/etc. 
 
