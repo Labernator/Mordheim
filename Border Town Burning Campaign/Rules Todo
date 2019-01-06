@@ -60,3 +60,13 @@ If a multiplayer scenario is chosen, the Player selecting the scenario also sele
 If the scenario requires to choose a defender/attacker, the Player Who chose the scenario assigns roles. 
 
 12. Exploration (Wyrdstone/Treasures/...)
+
+13. NPC Movement 
+
+- How Do NPCs move
+- When Do they charge
+  a. Only when the charge is automatically completed (Movement + 2)
+  b. Only when the charge is statistically lukely to be completed (e.g. Movement + 4)
+  c. Whenever the charge is possible (Movement + 9)
+  d. They get their own charge rules (e.g. Charge distance = 2 ° Movement) 
+- Who Do they charge IF they have a choice 
