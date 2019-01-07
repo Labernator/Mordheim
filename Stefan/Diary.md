@@ -207,3 +207,87 @@ Skaven verfügen darüber hinaus alle über Magie, einen monströsen Henchmen (d
 Die Kehrseite der Medallie ist, dass Ratten sehr leicht durch Fear gecountert werden können und sehr eingeschränkten Zugriff auf Hired Swords haben. Diese beiden Nachteile wiegen ihre Vorteile jedoch lange nicht auf.  
 
 Insgesamt würde ich inzwischen Skaven allgemein (ohne auf spezielle Warbands einzugehen) als eines der beiden stärksten Völker sehen (zusammen mit Elfen). (Sehr) hohes Movement, solider ranged Damage, Magie, Monster und solide Nahkämpfer sind alles in allem schon sehr viele Pluspunkte.
+
+## Neues Jahr, neues Rating  
+**07.01.2019**  
+Über die Feiertage hatte ich viel Zeit auf die Kids aufzupassen und weil „Tempo kleine Schnecke“ doch nur einen kleinen Teil meiner mentalen Kapazität erfordert konnte ich viel Mordheim theorycraften.
+
+Und weil jeder Listen liebt und bei uns die BTB Kampagne ins Haus steht UND vor allem weil ich großen Spaß am Optimieren habe, habe ich mich viel mit dem Powerlevel der Warbands auseinander gesetzt. Mal wieder. Aber wie gesagt, overpowerte Listen in mäßig gut balancierten Systemen zu finden erfüllt mich mit großer Befriedigung =)
+
+Der langen Rede kurzer Sinn, erstmal das neue Rating dann die Erklärungen:
+
+*Tier 0* (komplett unbalanced/broken)  
+
+|Warband|Gründe|
+|:---|:---|
+|Forest-Walker|**Searath**, Tree-Kin, BS, Eternal Guard Ability, Ariel's Blessing, Ithilmar Armour, M5, XP|
+|Clan Skryre|**Doppel Warp Lightning**, Late Game Machinist Equipment, M5, Sling Spam|
+|Clan Moulder|**Skitterleap**, Punisher Whip, S4, M6, Sling Spam, Late Game Rat Ogre|
+
+*Tier 1* (extrem stark und vermutlich overpowered)  
+
+|Warband|Gründe|
+|:---|:---|
+|Dark Elves|**Beastlash**, Dark Venom, Sea Dragon Cloak, M5, WS, Ld| 
+|Clan Eshin|**M6**, S4, Sling Spam, Black Fury|
+|Black Orcs|S4, T4, **Troll**, Savage Orcs|
+|Beastmen|S4, T4, Mino, **M5+**|
+
+*Tier 2* (überdurchschnittlich)  
+
+|Warband|Gründe|
+|:---|:---|
+|Dwarf Ranger|Special Rules, Ld, T4, Gromril Armour, Crossbow|
+|Dwarf Treaure Hunter|s.o.(schlechter als Ranger)|
+|Pit Fighter|Ogre, Pit King|
+|Lahmia|S4, Slings|
+|Shadow Warrior|M5, Ld, WS, BS, Ithilmar Armour (bin mir nicht sicher, ggf auch Tier 1)| 
+|Clan Pestilense|M5, 20 Mann, Ogre, Slings, Censer, Plague Sword|
+|Orc Mob|T4, Troll|
+
+*Tier 3* (normal)  
+
+|Warband|Gründe|
+|:---|:---|
+|Blood Dragon Knights|6 Heroes, S4, T4|
+|Carnival of Chaos|Brutes, Plague Bearers, Bows|
+|Middenheim|S4, Crossbows|
+|Cult of the Possessed|Toughe (aber teure) Chars|
+|Sisters of Sigmar|Warhammer, Whip, Sling, Augur|
+|Norse|S4, einige Attacken, Wölfe|
+|Von Carstein|Mittelmäßige Henchmen|
+
+*Tier 4* (unterdurchschnittlich)  
+
+|Warband|Gründe|
+|:---|:---|
+|Restliche Mercenaries|S3, T3|
+|Averlander|S3, T3|
+|Nuln Engineers|S3, T3|
+|Witch Hunters|S3, T3|
+|Kislevite|S3, T3|
+|Tilean|S3, T3|
+|Outlaw|S3, T3|
+|Cult of Khaine|Überteuert und Frenzy|
+|Hobgoblins Wolf Riders|S3, T3|
+
+*Tier 4* (Müll)  
+
+|Warband|Gründe|
+|:---|:---|
+|Forest Goblin|WS, Ld, Animosity|
+|Bretonia Knights|Massiv Überteuert|
+|Ostlander|Special Rules, nur 4 Heroes|
+
+Ich habe ein weiteres Tier eingeführt, weil zwischen unterem Tier 2 und oberem Tier 3 beim letzten Rating doch ein großer Raum lag.
+
+Erste Änderung war das massive Upgrade der Orc Warbands. Das liegt *tadaa* am Troll. Natürlich. Der ist wirklich sooo gut. Und Feuer als Gegenmittel so gut wie nicht vorhanden.
+
+Zweite Änderung war, dass ich Movement deutlich höher bewertet habe diesmal. Irgendwie muss ich mich periodisch selber wieder daran erinnern, dass das tatsächlich der mächtigste Stat ist, weil ich es sonst nicht hoch genug einschätze. Das hat dazu geführt, dass Skaven und Beastmen hoch gewandert sind, während Zwerge abgestuft wurden.
+
+Ein kurzer Nebensatz zu Clan Moulder:  
+Ich bin inzwischen überzeugt, dass diese Warband **mindestens** so stark ist wie die Forest-Walker. Die sieht tatsächlich auch völlig broken aus.
+
+Ich habe bei diesem Rating Shooting nicht sehr hoch bewertet. Deswegen sind die meisten Fernkampf Warbands auch in Tier 4 gelandet. Es ist gut möglich, dass dies daran liegt, dass wir in der aktuellen Runde kaum Shooting haben und mir deswegen sein Powerlevel nicht mehr so klar ist. Aber ich habe das Gefühl, dass ein einzelner Warrior in Heavy Armour an der Front schon viel dagegen macht. 
+
+Die Einschätzung ist mit Sicherheit nicht fehlerfrei. Speziell die Stärke von Shooting Warbands ist mir nicht komplett klar. Aber ich denke, dass sie einen ganz guten Ansatz zur Einschätzung der Warbands bietet. Natürlich gibt es immer matchupbedingte Abweichungen: So sind zum Beispiel Zwerge vermutlich sehr viel besser gegen Pit Fighter (M4, Nahkampf, eher wenige) als gegen Clan Pestilense (M5, Fernkampf, ziemlich viele), obwohl alle im selben Tier stehen.
