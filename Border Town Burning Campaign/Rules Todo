@@ -33,7 +33,8 @@
 4. List of needed Terrain features
 
 Forests (for Taimted Copse) 
-Dungeon pieces (for Horrors of the underground) 
+Dungeon pieces (for Horrors of the underground)  
+Terrain for Wilderness  
 
 5. List of needed NPCs
 
@@ -48,9 +49,7 @@ Should it be possible to drop Chests/Treasures/etc?
 48x48 inch table
 Zweit Tische der größe 48x48? => nein einen 48x72 Tisch für die multiplayer spiele (3+ Spieler). Den haben wir ja schon. Nun brauchen wir noch einen für die 2 Spieler Szenarios 
 
-10. Terrain for Wilderness
-
-11. Matchmaking
+10. Matchmaking
 
 Viertens Wird ersetzt durch:
 The Player with the lowest Campaign Points (CP) chooses an opponent. Then he rolls a D6:
@@ -58,7 +57,7 @@ The Player with the lowest Campaign Points (CP) chooses an opponent. Then he rol
 If a multiplayer scenario is chosen, the Player selecting the scenario also selects the additional Player 
 If the scenario requires to choose a defender/attacker, the Player Who chose the scenario assigns roles. 
 
-12. NPC Movement 
+11. NPC Movement 
 
 All Npcs move/charge according to the rules:
 1 IF possible, the npc Charges (charge distance = March distance) 
