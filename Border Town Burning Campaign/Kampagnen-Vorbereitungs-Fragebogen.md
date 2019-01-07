@@ -11,4 +11,4 @@
 
 4.) Es schön wäre wenn sich gute und böse Warbands einigermaßen die Waage halten (für mögliche Allianzen). Weitere wäre es für die Kampagne glaube ich gut, wenn es einen klassisch bösen Angreifer und einen klassisch guten Verteidiger gäbe. Welche Warband(s) und welche Objective(s) würdest du gerne spielen?  
  - Stefan: Cult of the Possessed - Scion of Chaos/Silent Threat
- - Marius: Sisters of Sigmar - 
+ - Marius: Sisters of Sigmar - The Celestial Protectorate
