@@ -13,7 +13,6 @@
 
 |cost/unit|name|type|amount|description|
 |:---|:---|---:|---:|:---|
-|10gc|Warpstone amulet|rare 5|6x||
 |30+2d6 gc|War Horn|rare 8|1x|Before battle/Before rout test: Ld+1|
 |50 gc|Banner|rare 5|1x|re-roll a failed rout test (hero bearer only)|
 |10 gc|Helmet|common|4x|Heroes|
