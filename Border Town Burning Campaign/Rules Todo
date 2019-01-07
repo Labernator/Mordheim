@@ -39,7 +39,9 @@ Dungeon pieces (for Horrors of the underground)
 
 6. List of needed Equipment (e.g. Waggons) 
 
-7. house rules 
+7. house rules  
+Should it be possible to drop Chests/Treasures/etc?  
+- > NO. Once a chest, treasure, wyrdstone shard, or any other objective Was picked up, it cannot be dropped voluntarily. The goal is to prevent abuse from fst chars carriying boxes and dropping them and to prevent manipulating the movement of NPCs.
 
 9. Second Table
 
@@ -56,17 +58,10 @@ The Player with the lowest Campaign Points (CP) chooses an opponent. Then he rol
 If a multiplayer scenario is chosen, the Player selecting the scenario also selects the additional Player 
 If the scenario requires to choose a defender/attacker, the Player Who chose the scenario assigns roles. 
 
-12. Exploration (Wyrdstone/Treasures/...)
-
-13. NPC Movement 
+12. NPC Movement 
 
 All Npcs move/charge according to the rules:
 1 IF possible, the npc Charges (charge distance = March distance) 
 2 IF no enemy is in charge distance, the NPC either makes a march move towards its objective or moves at random (2D6? Or march?)
 3 IF any enemy model has attacked the npc, or Contests an objective which the npc is guarding, this Model has the highest priority for the npc
 4 IF two or more enemy models are tied for priority, the npc randomizes between them. 
-
-14. Chests/Treasures/etc. 
-
-Should it be possible to drop them? 
-- > NO. Once a chest, treasure, wyrdstone shard, or any other objective Was picked up, it cannot be dropped voluntarily. 
