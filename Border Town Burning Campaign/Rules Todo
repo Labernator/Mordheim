@@ -64,3 +64,8 @@ All Npcs move/charge according to the rules:
 2 IF no enemy is in charge distance, the NPC either makes a march move towards its objective or moves at random (2D6? Or march?)
 3 IF any enemy model has attacked the npc, or Contests an objective which the npc is guarding, this Model has the highest priority for the npc
 4 IF two or more enemy models are tied for priority, the npc randomizes between them. 
+
+12. Auswahl der Wrabands  
+ - Wollen wir irgendwelche Warbands aus dem Grundbuch verbieten? (Forest-Walker und Skyre wären z.B. Kandidaten, andere aber auch)  
+ - Nach möglichkeit sollte es halbwegs ausgewogen sein zwischen guten und bösen Warbands (hat aber keine so hohe Prio)  
+ - Vielleicht macht es Sinn jeweils (mindestens) eine Warband mit der Objective Scion of Chaos (der böse Angreifer in der Kampagne) und Celestial Protectorate (der gute Verteidiger) zu haben  
