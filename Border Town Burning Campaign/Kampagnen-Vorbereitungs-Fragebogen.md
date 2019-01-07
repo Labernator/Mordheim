@@ -1,9 +1,9 @@
 1.) Hast du Lust die „Border Town Burning“ Kampagne zu spielen?  
- - **Ja**: Stefan, Marius, Kai
+ - **Ja**: Stefan, Marius, Kai, Aaron
  - **Nein**:  
 
 2.) Sollen wir die Kampagne am 16.3. beginnen?  
- - **Ja**: Stefan, Marius, Kai
+ - **Ja**: Stefan, Marius, Kai, Aaron
  - **Nein, lieber später:**
 
 3.) Sollen wir Warbands aus dem Grundregelwerk verbieten?  
@@ -14,3 +14,4 @@
  - Kai: Orks & Goblins - The Scourge of the Realm
         Dwarf * - The Celestial Protectorate (falls wir noch mehr von "den guten" brauchen.
  - Marius: Sisters of Sigmar - The Celestial Protectorate
+ - Aaron: Würde sehr gerne meine Dwarf Rangers spielen, wobei ich mir noch Merchant Caravans genauer anschauen will (die sollte jemand spielen hab ich gelesen)
