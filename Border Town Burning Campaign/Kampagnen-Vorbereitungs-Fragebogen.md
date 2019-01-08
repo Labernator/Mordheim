@@ -13,5 +13,5 @@
  - Stefan: Cult of the Possessed - Scion of Chaos/Silent Threat
  - Kai: Orks & Goblins - The Scourge of the Realm
         Dwarf * - The Celestial Protectorate (falls wir noch mehr von "den guten" brauchen.
- - Marius: Sisters of Sigmar - The Celestial Protectorate
+ - Marius: Sisters of Sigmar - The Celestial Protectorate / The Damned shall burn (falls jemand anderes das Protectorate wählt, damit wir maximal viele objectives ausprobieren können) 
  - Aaron: Würde sehr gerne meine Dwarf Rangers spielen, wobei ich mir noch Merchant Caravans genauer anschauen will (die sollte jemand spielen hab ich gelesen)
