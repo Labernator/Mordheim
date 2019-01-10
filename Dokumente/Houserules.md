@@ -61,4 +61,32 @@
 20.) Dürfen Tiere Objectives aufsammeln?
  - Nein, Tiere haben nicht die Fähigkeit Objectives aufzusammeln.  
  
-21.) Die Skills Weapons Expert, Weapons Training und Tin Can erlauben das führen von Ausrüstung die nicht in der eigenen Equipment List steht. Sie erlauben jedoch nicht Gegenstände zu erwerben, die explizit nur von einer bestimmten Warband erworben werden können (z.B. Saerath kann nur von Forest-Walkern gekauft werden). Dies soll verhindern, dass jeder Hero mit den gleichen Waffen herumläuft und overpowerte Kombinationen vermeiden (z.B. Heavy Armour + Sea Dragon Cloak).
+21.) Die Skills Weapons Expert, Weapons Training und Tin Can erlauben das führen von Ausrüstung die nicht in der eigenen Equipment List steht. Sie erlauben jedoch nicht Gegenstände zu erwerben, die explizit nur von einer bestimmten Warband erworben werden können (z.B. Saerath kann nur von Forest-Walkern gekauft werden). Dies soll verhindern, dass jeder Hero mit den gleichen Waffen herumläuft und overpowerte Kombinationen vermeiden (z.B. Heavy Armour + Sea Dragon Cloak)
+
+Troll comp:
+
+Version a) 
+M WSBS S T W I A Ld
+6 4 3 4 4 3 4 3 8
+
+Fear: Trolls are huge, bellowing monsters and cause 
+fear. See Psychology section for details. 
+Troll Vomit:... 
+Animal: may gain Experience, it may never 
+become a Hero. 
+Large:... 
+Tough:... 
+
+Version b.) 
+M WSBS S T W I A Ld
+6 3 1 5 4 3 1 3 4
+
+Fear: Trolls are huge, bellowing monsters and cause 
+fear. See Psychology section for details. 
+Stupidity:... 
+Animal: may gain Experience, it may never 
+become a Hero. 
+Large:... 
+Tough:... .. 
+4+ Armor save
+Troll Vomit
