@@ -65,19 +65,6 @@
 
 Troll comp:
 
-Version a) 
-M WSBS S T W I A Ld
-6 4 3 4 4 3 4 3 8
-
-Fear: Trolls are huge, bellowing monsters and cause 
-fear. See Psychology section for details. 
-Troll Vomit:... 
-Animal: may gain Experience, it may never 
-become a Hero. 
-Large:... 
-Tough:... 
-
-Version b.) 
 M WSBS S T W I A Ld
 6 3 1 5 4 3 1 3 4
 
