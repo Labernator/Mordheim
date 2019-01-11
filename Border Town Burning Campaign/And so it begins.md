@@ -4,8 +4,8 @@ Okay, hier ist das Vorgehen für den 20.01. und den Beginn der BTB Kampagne:
  - Stefan: Cult of the Possessed (Scion of Darkness)
  - Fabian: Beastmen (Scion of Darkness)
  - Maeius: Sisters of Sigmar (Celestial Protectorate)
- - Aaron:
- - Kai:
+ - Aaron: Dwarf Rangers (TBD) 
+ - Kai: Orcs & Goblins (Scourge of the Realm) 
  
 **Ermitteln der ersten Szenarios**  
 Jeder würfelt mit zwei Würfeln. Derjenige mit dem höchsten Wert darf sich seinen Gegner für das erste Spiel aussuchen.  
