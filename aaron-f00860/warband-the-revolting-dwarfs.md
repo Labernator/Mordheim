@@ -19,4 +19,4 @@ Alignment: **Lawful/Neutral**
 
 Warband Rating: **119**
 
-Objective: The Celestial Protectorate
+Objective: **The Celestial Protectorate**
