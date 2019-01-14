@@ -584,6 +584,7 @@ Ausgaben:
 24 GC übrig
 
 **Aaron**
+
 Einnahmen:
 - 6 GC vom letzten mal
 - 3 Shards (alle verkauft für 60 GC)
