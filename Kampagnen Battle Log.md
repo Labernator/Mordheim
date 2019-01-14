@@ -583,6 +583,21 @@ Ausgaben:
  
 24 GC übrig
 
+**Aaron**
+Einnahmen:
+- 6 GC vom letzten mal
+- 3 Shards (alle verkauft für 60 GC)
+- 3 Morning stars (werden vorerst noch gebunkert)
+ => +66 GC
+
+Ausgaben:
+- 5 GC Upkeep Beggar
+- 25 GC + 2 GC Dagger + 2 GC XP-Gebühr (rebuy Beardling #1.1)
+- 20 GC (rebuy Merchant)
+ => -54 GC
+
+12 GC übrig
+
 ## Szenario 3: The Pool (S. 213)
 
 ### Scenario Houselrules 
