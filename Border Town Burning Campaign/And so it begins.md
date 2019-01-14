@@ -3,8 +3,8 @@ Okay, hier ist das Vorgehen für den 20.01. und den Beginn der BTB Kampagne:
 **Warbands & Objectives**  
  - Stefan: Cult of the Possessed (Scion of Darkness)
  - Fabian: Beastmen (Scion of Darkness)
- - Maeius: Sisters of Sigmar (Celestial Protectorate)
- - Aaron: Dwarf Rangers (TBD) 
+ - Marius: Sisters of Sigmar (Celestial Protectorate)
+ - Aaron: Dwarf Rangers (Celestial Protectorate) 
  - Kai: Orcs & Goblins (Scourge of the Realm) 
  
 **Ermitteln der ersten Szenarios**  
