@@ -456,7 +456,7 @@ Hunter +1
 ===== 31gc left  
 
 
-## Szenario 1: The Merchant Square (S. 220)
+## Szenario 2: The Merchant Square (S. 220)
 
 ### Scenario Houselrules 
 -	Tiere können keine Kisten aufheben.  
@@ -582,3 +582,29 @@ Ausgaben:
  => -87 GC
  
 24 GC übrig
+
+## Szenario 3: The Pool (S. 213)
+
+### Scenario Houselrules 
+ - 
+
+**Rolls Vor dem Spiel**  
+- Stefan: Was produziert der Alchemist  
+- Aaron: Was verzaubern der Runesmith und sein Apprentice   
+- D3 + 3 Pieces of Wyrdstone auswürfeln 
+
+### Setup 
+Jeder würfelt mit 3D6. Das legt die Reihenfolge für die Aufstellung fest.  
+Aufstellung: Der aktive Spieler sucht sich ein Segment aus (siehe Bild) und platziert seine Warband maximal 6" vom Rand und 6" von einem Mitglied einer anderen Warband entfernt.  
+
+![Deployment](Deployment.png)  
+
+Nachdem alle Warbands platziert sind wird nochmal mit 3D6 gewürfelt. Das legt die Spielreihenfolge fest: Höchster Wert zuerst, danach im Uhrzeigersinn.  
+
+**Underdog**  
+Warband Rating   
+Aaron: ?  
+Fabian: ?   
+Kai: 152  
+Stefan: 198  
+ => ?  
