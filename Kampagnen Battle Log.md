@@ -619,8 +619,8 @@ Nachdem alle Warbands platziert sind wird nochmal mit 3D6 gewürfelt. Das legt d
 
 **Underdog**  
 Warband Rating   
-Aaron: ?  
-Fabian: ?   
+Aaron: 127  
+Fabian: 133     
 Kai: 152  
 Stefan: 198  
- => ?  
+ => kein Underdog  
