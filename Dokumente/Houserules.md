@@ -45,8 +45,35 @@
 15.) Equipment: Unique
  - Jeder Hero darf jedes Miscellaneous equipment (S.36) nur maximal einmal Besitzen. Dies soll das stacken von Items verhindern wie: Rabbit's Foot (S. 38), Cloak of Mists (S. 41), Holy Tome (S. 41), etc. Folgendes Equipment wirkt nur einmal pro Warband: Halfling Cookbook (S. 41)
 
-16.) Items wie ein Banner werden von einem Hero getragen. Dieser kann im Kampf mit angesagten waffen kämpfen. Banner wird automatisch wieder angelegt. Das Banner wirkt nur im Umkreis con 6“ um den Leader.
-  - Offene Frage: Wo wirkt es wenn der Leader OOA ist?
+16.) Items wie ein Banner werden von einem Hero getragen. Dieser kann im Kampf mit angesagten waffen kämpfen. Banner wird automatisch wieder angelegt. Das Banner wirkt nur im Umkreis von 6“ um den Bannerträger. Wenn der ooA ist wirkt es nicht.  
 
 17.) Der Black Ork Hired Sword (s.236 im PDF) trägt eine heavy armor (4+AS) und ist ein Black Ork (+1AS) daher hat er einen 3+AS
 
+18.) Equipment Listen für Hired Swords:  
+ - Beggar: Ugor Liste (Beastmen)  
+ - Merchant: Kislevite Hero Liste  
+ - Black Orc: Black Orc Hero Liste  
+ - Goblin Lantern Bearer: Forest Goblin Liste  
+ 
+19:) Ist es möglich Objectives (Kisten, Schätze, Wyrdstone, etc.) wieder abzulegen?  
+ - Nein, wenn ein Warrior ein Objective aufgepickt hat darf er es nicht mehr freiwillig ablegen. Es wird nur wieder abgelegt,wenn der Warrior ooA geht. Dies soll verhindern, dass Warrior mit extrem hohem Movement Objectives aufpicken, in Sichherheit bringen und dann an andere Warrior übergeben. Außerdem soll es die Manipulatiosnmöglichkeiten von NPCs einschränken.  
+ 
+20.) Dürfen Tiere Objectives aufsammeln?
+ - Nein, Tiere haben nicht die Fähigkeit Objectives aufzusammeln.  
+ 
+21.) Die Skills Weapons Expert, Weapons Training und Tin Can erlauben das führen von Ausrüstung die nicht in der eigenen Equipment List steht. Sie erlauben jedoch nicht Gegenstände zu erwerben, die explizit nur von einer bestimmten Warband erworben werden können (z.B. Saerath kann nur von Forest-Walkern gekauft werden). Dies soll verhindern, dass jeder Hero mit den gleichen Waffen herumläuft und overpowerte Kombinationen vermeiden (z.B. Heavy Armour + Sea Dragon Cloak)
+
+Troll comp:
+
+M WSBS S T W I A Ld
+6 3 1 5 4 3 1 3 4
+
+Fear: Trolls are huge, bellowing monsters and cause 
+fear. See Psychology section for details. 
+Stupidity:... 
+Animal: may gain Experience, it may never 
+become a Hero. 
+Large:... 
+Tough:... .. 
+4+ Armor save
+Troll Vomit

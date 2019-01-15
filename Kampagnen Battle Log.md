@@ -456,7 +456,7 @@ Hunter +1
 ===== 31gc left  
 
 
-## Szenario 1: The Merchant Square (S. 220)
+## Szenario 2: The Merchant Square (S. 220)
 
 ### Scenario Houselrules 
 -	Tiere können keine Kisten aufheben.  
@@ -477,10 +477,150 @@ Aufstellung: Der aktive Spieler sucht sich ein Segment aus (siehe Bild) und plat
 
 Nachdem alle Warbands platziert sind wird nochmal mit 3D6 gewürfelt. Das legt die Spielreihenfolge fest: Höchster Wert zuerst, danach im Uhrzeigersinn.
 
-**Underdog** 
-Warband Rating  
-Aaron:  
+**Underdog**  
+Warband Rating   
+Aaron:  119
 Fabian: 138  
-Kai: 144  
+Kai: 149  
 Marius: 153  
 Stefan: 160  
+ => kein Underdog
+
+12 Crates  
+Fabian lootet  
+Kai loot  
+Fabian lootet  
+CZ lootet  
+Aaron  lootet  
+Laber lootet  
+Fabian lootet  
+CZ lootet  
+Ratte 1 killt Chaos Hound  
+Norog killt Zwerg aus Henchmen Group 2  
+Fridthjofr killt Oggrot  
+Rog'Rogg killt Wolf  
+Trollslayer 2 killt Norog  
+Grommok killt Wolf  
+Freki killed Granak  
+Fridthjofr killt Gmorker  
+Rog'Rogg killt Wolf  
+Crek killt Chaoshund  
+Kai routet  
+Centigor killt Wolf  
+Dorsteinn killt Zwerg Henchmen 1  
+Laber routet  
+Chaos Hund tötet Beggar Aaron  
+Crek killt Merchant Aaron  
+
+
+**Post Game**  
+*Reward*  
+Aaron: 3 Morning Stars  
+Laber: 2 Bows  
+Kai: 1 Morning Star  
+Stefan: 2 Nets, 2 Crossbows, Bugman, Elven Cloak  
+Fabian: Heavy Armour, 3 Bows, 3 Spears, 1Repeter Crossbow  
+
+*Injuries*  
+Laber: 2 tote Wölfe  
+Kai: 2 tote Ork Henchmen  
+Aaron: Merchant tot, 1 Henchmen tot  
+Fabian: 1 Wolf tot  
+
+*XP*  
+Laber: alles +1, Dorstein +1, Friedjofer +2 (advance: Skill), Freki +1 (+1 T), Merchant (Skill), Hunter (+1 I), Beggar (+1 A)    
+Kai: Boss +1 (+1 I), Uglash +1 (+1 T), Karhag +1, Grommok +2 (Skill), Norog +2 (Lad's got Talent, +1 WS, Combat & Strength), Rog'rogg +3 (+1 I), Beggar 1+ (+1 S)  
+Aaron: Alle ausser Merchant +1 (da überlebt), Trollslayer +2 (da überlebt und 1 kill)
+Fabian: Chief +2, Centigor +2, Gor +2 (+1 I), Beggar (Skill)  
+CZ: Ratte 1 +2, Crek +3 (+1I), Tholk +1 (Skill), Chef +2, Krol +2 (+1 W), #7 +3 (+1 S), #5 +1 (BS), #8 +1(BS), Goblin +1 (BS)  
+Henchmen XP for buying = 6
+
+*Exploration*  
+CZ: 5 Shards +1, +30 GC (4x 5), Amulet gekauft, 1 Dark Venom, Blood Pact Beggar  
+Fabian: 3 Shards + Double Handed Weapon  
+Aaron: 3 Shards  
+Kai: 5 Shards + 4 GC  
+Marius: 5 Shards + 10 GC  
+
+***Post post game:***
+
+**Marius:**  
+old treasure chest: 24gc  
+Gold from scenario: 10gc  
+sells 5 shards for 70gc ->  
+=> 104gc  
+Rebuy 2 Wolves for 30gc  
+Buy 2 Hunters (seperate groups) for 50gc  
+Buy 2 Hammers for 4gc (thank you Merchant) 
+Upkeep hired Swords for 15gc  
+=> 5gc left  
+Arabian Merchant gains Skill 'Guardian'  
+Fridthjofr gains Skill 'Two Weapon Master'  
+
+**Kai:**  
+old treasure chest: 7gc  
+5 shards sold +80 gc  
+1 morningstar sold +8gc  
+upkeep beggar -5gc  
+upkeep troll -15gc  
+upkeep black ork -25gc  
+rebuy 2 henchmen ork boys (2 dagger per boy) -54g  
+new treasure chest: 0gc  
+
+**CZ**  
+Einnahmen:  
+- 5 Shards + 1 vom letzten Mal => 6 verkaufen für 80 GC  
+- 1 GC vom letzten mal  
+ - 30 GC von der Exploration  
+ => 111 GC  
+
+Ausgaben:  
+- 9 GC für Upkeep Hired Swords (dank Beggar Blood Pact)  
+- 60 GC für 2 Verminkin mit zusätzlichem dagger, sling, 3 XP  
+- 10 GC für ein Wapstone Amulett  
+- 8 GC für 4 Slings  
+ => -87 GC
+ 
+24 GC übrig
+
+**Aaron**
+
+Einnahmen:
+- 6 GC vom letzten mal
+- 3 Shards (alle verkauft für 60 GC)
+- 3 Morning stars (werden vorerst noch gebunkert)
+ => +66 GC
+
+Ausgaben:
+- 5 GC Upkeep Beggar
+- 25 GC + 2 GC Dagger + 2 GC XP-Gebühr (rebuy Beardling #1.1)
+- 20 GC (rebuy Merchant)
+ => -54 GC
+
+12 GC übrig
+
+## Szenario 3: The Pool (S. 213)
+
+### Scenario Houselrules 
+ - 
+
+**Rolls Vor dem Spiel**  
+- Stefan: Was produziert der Alchemist  
+- Aaron: Was verzaubern der Runesmith und sein Apprentice   
+- D3 + 3 Pieces of Wyrdstone auswürfeln 
+
+### Setup 
+Jeder würfelt mit 3D6. Das legt die Reihenfolge für die Aufstellung fest.  
+Aufstellung: Der aktive Spieler sucht sich ein Segment aus (siehe Bild) und platziert seine Warband maximal 6" vom Rand und 6" von einem Mitglied einer anderen Warband entfernt.  
+
+![Deployment](Deployment.png)  
+
+Nachdem alle Warbands platziert sind wird nochmal mit 3D6 gewürfelt. Das legt die Spielreihenfolge fest: Höchster Wert zuerst, danach im Uhrzeigersinn.  
+
+**Underdog**  
+Warband Rating   
+Aaron: ?  
+Fabian: ?   
+Kai: 152  
+Stefan: 198  
+ => ?  

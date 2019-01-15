@@ -128,4 +128,104 @@ Sell Tholks Sling +2 GC (dank Pawnbroker)
 
 *Skot schauderte leicht. In der Bibliothek waren noch andere gewesen. Feinde. Er selbst hatte einem Finsterelfen die das Herz durchbohrt und Qrunq hatte in schwarzer Wut einem Zwergenschmied in strahlender Rüstung die Kehle durchgebissen. Er musste den Eingang nach Morsulm finden. Von dort aus könnte er seine Untergebenen befehlen. Aber noch dringender brauchte er mehr Untergebene. Jeder Skaven zwischen ihm und dem Feind war eine zusätzliche Lebensversicherung. Zeit sich nach weiteren Rattenmenschen umzuschauen!*  
 
-# Akt 2
+# Akt 2: Monster (Szenario: The Merchant Square)  
+*Untergebene. Wo fand man in dieser von den Götten verfluchten Stadt weitere Skaven? Skot grübelte. Skaven waren von Natur aus scheu, sie würden sich nicht freiwillig in den Straßen zeigen. Allerdings waren Skaven auch gierig.*  
+
+*Schon länger machten Gerüchte über das Händlerviertel von Mordheim die Runde. Eine Schaar Pegasi sollte das Viertel terrorisieren und die meistens Warbands mieden diesen Stadtteil wie die Pest. Allerdings gab es im Händlerviertel natürlich auch noch viele Waren die ihre ehemaligen Besitzer überlebt haben mochten. Es war genau der Ort, den Skaven aufsuchen würden: Der Mythos von fliegenden Pferden mochte Mensch-Dinger abschrecken, aber das hieß nur mehr Beute für die Rattenmenschen. Und damit mehr potenzielle Untergebene für Skot.*  
+
+*Grimmig lächelnd befahl er seinem Wurf sich auf den Weg zu machen. Qrunq saß immer noch mit geweiteten Augen und verzerrter Schnauze vor den magischen Büchern, aber der Rest des Wurfes folgte ergeben den Anordnungen der Assassin. Und so huschte ein Schwarm von Rattenmenschen durch die hereinbrechende Dunkelheit die zerfallene Kaiser Franz Allee entlang in Richtung des Händlerviertels.*  
+
+### Schlachtbericht  
+**Ergebnis Szenario:**  
+Sieg  
+
+**Gefallene Krieger:**  
+Keine   
+
+**Belohnungen:**  
+Zwei Häuser durchsucht: 2 Nets & 2 Crossbows  
+Zwei Kisten gelootet: Bugman's Ale & Elven Cloak  
+
+**Experience:**  
+ - #0 +1xp  
+ - #1 +2xp    
+ - #2 +1xp    
+ - #3 +1xp  
+ - #4 +1xp    
+ - #5 +1xp (advance: +1BS)      
+ - #6 +1xp (advance: +1BS)        
+ - #7 +2xp (advance: +1S)   
+ - #8 +1xp  
+ - Krol +2xp (advance: +1W)  
+ - Crek +3xp (advance: +1I)   
+ - Vetch +1xp  
+ - Tholk +1xp (advance: Skill: Musician)     
+ - Skot +2xp  
+ - Besan +1xp    
+ - Gnog +1xp (advance: +1BS)       
+
+**Sonstiges:**  
+ - Beggar geht einen Blood Pact ein  
+ - Krol produziert eine Portion Dark Venom  
+
+**Wyrdstone:**  
+5 Shards + 1 vom letzten Mal: 6 verkaufen für 80 GC  
+
+**Neues Equipment/Rekruten:**  
+80 GC von Wyrdstone +30 GC von quadrupel 5 +1 GC  vomletzten Mal  
+  => 111 GC  
+  
+ - 1 Warpstone Amulets (10 GC)  
+ - Upkeep Besan (4 GC, dank Blood Pact)  
+ - Upkeep Gnog (5 GC)  
+ - 2 Verminkin mit zusätzlichem Dagger, Sling, 3 XP (60 GC)  
+ - 4 Slings (8 GC)  
+ => 24 GC übrig  
+
+### Aktuelles Roaster  
+*Heroes*  
+**Skot Ashenstalker** (Assassin Adept, 26 XP): 2x Dagger, Sling, Warpstone Amulet (31 Rating)  
+
+**Crek Crowripper** (Black Skaven, 13 XP): 2x Dagger, Sling, Warpstone Amulet (18 Rating)  
+
+**Vetch Heartchewer** (Black Skaven, 10 XP): 2x Dagger, Sling, Warpstone Amulet (15 Rating)  
+
+**Qrunq Kragsnout** (Eshin Sorcerer, 11 XP): Flail, Warpstone Amulet (16 Rating) Spell: Black Fury  
+
+**Tholk Roughbreaker** (Night Runner, 2 XP): 2x Dagger, Sling, Warpstone Amulet (7 Rating)  
+
+**Krol Clawcleaver** (Verminkin, 4 XP): 2x Dagger, Sling, Warpstone Amulet (9 Rating)  
+
+*Hired Swords*  
+**Besan one-leg** (Beggar, 5 XP): Club (10 Rating)  
+
+**Lucky Gnog** (Goblin Lantern Bearer, 2 XP): Dagger (7 Rating)  
+
+*Henchmen*  
+**Group #0** (3x Verminkin (#0, #9, #10), 3 XP): 2x Dagger, Sling (24 Rating), **+1 S**  
+**Group #1** (1x Verminkin, 4 XP): 2x Dagger, Sling (9 Rating), **+1 S**  
+**Group #2** (1x Verminkin, 3 XP): 2x Dagger, Sling (8 Rating), **+1 A**  
+**Group #3** (1x Verminkin, 3 XP): 2x Dagger, Sling (8 Rating), **+1 BS**  
+**Group #4** (1x Verminkin, 3 XP): 2x Dagger, Sling (8 Rating), **+1 Ld**  
+**Group #5** (1x Verminkin, 2 XP): 2x Dagger, Sling (7 Rating), **+1 BS**  
+**Group #6** (1x Verminkin, 2 XP): 2x Dagger, Sling (7 Rating), **+1 BS**    
+**Group #7** (1x Verminkin, 3 XP): 2x Dagger, Sling (8 Rating), **+1 S**  
+**Group #8** (1x Verminkin, 1 XP): 2x Dagger, Sling (6 Rating)  
+
+**Treasure Chest:** 2 Nets, 2 Crossbows, Bugman's Ale, Elven Cloak, 24 GC  
+**Alignment:** Neutral / Chaotic  
+**Warband Rating:** 198  
+
+### Nachspiel  
+*Ein Troll. Ein verfluchter Troll! Und ein Pegasus mit drei Köpfen!! Skot schüttellte sich. Die Geschichten waren wahr gewesen. Sie hatten ungestört das Viertel erreicht und auf dem Platz in der Mitte stapelten sich Kisten mit Reichtümern. Skot gratulierte sich schon zu seinem meisterlichen Schachzug, als ein gigantischer Troll auf den Platz stolperte. So sehr Skot die Kisten besitzen wollte und so wenig Achtung er für das Leben seiner Untergebenen hatte, so wusste er doch, dass sein eigenes Überleben in dieser Stadt direkt von der Anzahl seiner „Beschützer“ abhing. „Beschützer“ meinte hier rattenmenschliche Schutzschilde.*  
+
+*So ordnete Skot zuerst an die Häuser um den Platz zu durchsuchen in der Hoffnung, dass sich der Troll irgendwann wieder verziehen würde. Und in einem dieser Häuser im eingestürzten Keller fand er auch einen kleinen Wurf versteckter Skaven. Und wie in die Ecke getriebene Ratten war ihr erster Reflex Skots Wurf anzugreifen. Nachdem Crek und Vetch allerdings zwei der Angreifer förmlich zerrissen hatten, lief der Rest des Wurfes unterwürfig zu Skot über. Er hatte endlich Verstärkung gefunden.*  
+
+*Und tatsächlich wankte auch der Troll nach einiger Zeit wieder zwischen die Häuser und verschwand. Skot sah seine Chance und ließ alle Untergebenen auf den Platz stürmen und die Kisten ergreifen. Da tauchte am anderen Ende des Platzes ein schwarzer Pegasus auf. Ein Pegasus mit drei Köpfen. Ein abgrundtief hasserfüllter Pegasus. Ein Blick auf das Untier genügt um Skot klar zu machen, dass er hier weder Kämpfen, noch rechtzeitig alle Kisten vom Platz schaffen konnte. So befahl er seinen neuen Untergebenen die Kisten zu tragen und seinem Wurf zu fliehen.*  
+
+*Aus den Fenstern eines zerfallenen Hauses beobachtete Skot wie einer der neuen Skaven nach dem anderen von dem Schwarzen Pegasus zerstampft wurde. Die Kisten lagen zerschmettert auf dem Platz, Gold und Geschmeide vom Blut der Rattenmenschen besudelt. Nur zwei der neuen Skaven bewiesen ihren Wert und schafften es sich und ihre Kisten vor dem tobenden Untier in Sicherheit zu bringen. Skot wertete das als einen Sieg für sich.*  
+
+# Akt 3: Lurklox (Szenario: The Pool)  
+*Qrunq starrte Skot mit glasigen Augen an. Der Geisteszustand des Hexers war schon zu den besten Zeiten weit weg von stabil oder rational gewesen. Selbst für einen Skaven. Und das war vor diesen verfluchten Büchern gewesen. Fahrig zitterten seine Barthaare und seine Schwanzspitze peitschte wild durch die Luft. "Ich habe es gesehen, jaja. Visionen-Träume. Morsulm!" Skot Gesicht war eine ausdruckslose Maske. Jeder erfolgreiche Skaven lernte früh keinerlei Schwäche zu zeigen. "Wir müssen einen See-Teich finden. Der große Fels-Stein vom Himmel hat ihn geschaffen, ja ja. Mächtig-magisch. In der Unterstadt der Mensch-Dinge. Laude Lurklox!"*  
+
+*Skot war skeptisch. Wie sollte ein Teich der Eingang zu Morsulm darstellen? Was hatte Qrunq wirklich gesehen? Wer war Lurklox? War es an der Zeit sich des irrsinnigen Hexers zu entledigen? Aber letztendlich war die Aussicht Morsulm endlich zu finden zu verlockend. Er musste nur dafür sorgen sich bei der Mission im Hintergrund zu halten. Weiche Pelzkörper zwischen sich und dem Hexer sollten für ausreichend Sicherheit sorgen.*  
