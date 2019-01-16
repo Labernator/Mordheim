@@ -6,4 +6,4 @@
 
 4.) Der Satz "Any model other than a Marauder, Beastman, Norseman, Mutant, Dark Elf, Undead or Chaos Dwarf Hero" wird um Magister ergänzt (direkt nach Mutant) (BTB S. 37)
 
-5.) Der Cathayan Merchant (BTB S. 171) ersetzt den Arabian Merchant (Core S. 234)
+5.) Der Cathayan Merchant (BTB S. 171) und Arabian Merchant (Core S. 234), sowie Beggar (Corse S. 235) werden ersatzlos gestrichen und können nicht angeheuert werden. 
