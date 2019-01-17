@@ -28,10 +28,10 @@ class unit_2:
 
 class unit_1:
     name = "rat"
-    t = 4
-    s = 4
-    ws = 4
-    _as = 6
+    t = 3
+    s = 3
+    ws = 3
+    _as = 0
     w = 1
     a = 1
     state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
