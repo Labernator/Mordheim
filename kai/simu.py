@@ -111,7 +111,7 @@ def attack(u1, u2, wn):
         wound_granted = tryToWound(u1, u2)
         if wound_granted == True:
 
-            # ARMOD SAVE
+            # ARMOR SAVE
             as_granted = tryArmorSave(u1, u2, wn)
 
             if as_granted == False:
@@ -270,8 +270,8 @@ if __name__ == "__main__":
 
         print "\n----------"
         print
-        printChar(unit_1)
         printChar(unit_2)
+        printChar(unit_1)
         print
 
         if tryToWound(unit_2, unit_1):
