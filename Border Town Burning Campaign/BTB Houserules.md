@@ -20,3 +20,5 @@ Timer: Es gibt genau 3 Runden. D.h. alle Helden einer Warband werden per Würfel
 Dasselbe gilt für Henchmen groups. 
 Besitzt eine Warband nur 2 Henchmen groups, nimmt die Henchmen group aus der ersten Runde, auch an der 3. Runde teil.
 Gibt es nur eine Henchmen Gruppe, spielt diese alle 3 Runden. (Sollte diese komplett OOA gehen vor der 3. Runde, sind die Helden ab diesem Zeitpunkt auf sich gestellt).
+
+Keine XP für Zombie kills.
