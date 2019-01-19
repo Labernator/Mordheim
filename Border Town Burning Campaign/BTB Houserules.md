@@ -9,6 +9,7 @@
 5.) Der Cathayan Merchant (BTB S. 171) und Arabian Merchant (Core S. 234) Goblin Lantern Bearer (S. 243), sowie Beggar (Corse S. 235) werden ersatzlos gestrichen und können nicht angeheuert werden. 
 
 6.) Regelanpassung Szenario Round up at the mordheim corral: 
+Szenario wird ohne Optional Rule für Mutations gespielt.
 Zusätzliche Regel für 'End Game' -> Das Spiel endet wenn alle Eber erschlagen wurden.
 Regeländerung 'Expierience' -> Streichung: +1 per Wyrdstone counter... 
 Regeländerung 'Special Rules' -> Wenn ein Boar OOA geht, passiert stattdessen folgendes: Roll a D6. The warband recovers D6 wyrdstone fragments. At the end of the battle, each warbands adds up all fragments + 3 and consults the exploration table for Wyrdstones found, using the calculated sum of fragments as the dice result.
