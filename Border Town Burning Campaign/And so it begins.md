@@ -24,21 +24,21 @@ Das Szenario wird aus folgender Liste ermittelt:
   - Wyrdstone Hunt  
   - Traces to Emprise  
   - Tainted Copse  
-  - Unlocking the tomb??  
-  - Vampire Hunters??  
-  - Don't wake the giant??  
-  - Round-Up At The Mordheim Corral?? (needs Modification... Too many wyrdstones otherwise, needs an alternate way to end the game, e.g. When all boars are killed)   
+  - Unlocking the tomb
+  - Vampire Hunters
+  - Don't wake the giant
+  - Round-Up At The Mordheim Corral (See Errata in Houserules) 
   
   **multiplayer scenarios**   
   - Man Hunt  
   - Last Orders!  
   - The Enemy of my Enemy  
-  - The Great Library??  
-  - The Raven Barracks??  
-  - Night Of The Dead?? (needs Modification... Too many wyrdstones otherwise)  
-  - The Game??  
-  - Earthquake??  
-  - Merchant Square?? (needs modification... Rules for Pegasus)  
-  - The lost Prince??  
+  - The Great Library
+  - The Raven Barracks
+  - Night Of The Dead (See Errata in Houserules)  
+  - The Game
+  - Earthquake
+  - Merchant Square (See Errata in Houserules)  
+  - The lost Prince
   
   Die verbleibenden zwei oder drei Spieler wiederholen das ganze um das Szenario für den zweiten Tisch zu ermitteln.
