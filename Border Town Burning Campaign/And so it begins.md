@@ -42,3 +42,7 @@ Das Szenario wird aus folgender Liste ermittelt:
   - The lost Prince
   
   Die verbleibenden zwei oder drei Spieler wiederholen das ganze um das Szenario für den zweiten Tisch zu ermitteln.
+
+- stefan gegen kai: wyrdstone hunt (normal weather)
+- aaron, fabian, laber: night of the dead (fog - thick mist)
+
