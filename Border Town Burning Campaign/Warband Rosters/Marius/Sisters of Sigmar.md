@@ -2,6 +2,7 @@ Sisters of Sigmar 499
 Sigmarite matriarch	70
 Heavy Armor, Sigmarite Warhammer, Sling	67
 Helmet	10
+Prayer: Healing Hand (5)
 	
 Augur	25
 Sigmarite Warhammer	15
