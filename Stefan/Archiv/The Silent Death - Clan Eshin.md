@@ -229,3 +229,65 @@ Zwei Kisten gelootet: Bugman's Ale & Elven Cloak
 *Qrunq starrte Skot mit glasigen Augen an. Der Geisteszustand des Hexers war schon zu den besten Zeiten weit weg von stabil oder rational gewesen. Selbst für einen Skaven. Und das war vor diesen verfluchten Büchern gewesen. Fahrig zitterten seine Barthaare und seine Schwanzspitze peitschte wild durch die Luft. "Ich habe es gesehen, jaja. Visionen-Träume. Morsulm!" Skot Gesicht war eine ausdruckslose Maske. Jeder erfolgreiche Skaven lernte früh keinerlei Schwäche zu zeigen. "Wir müssen einen See-Teich finden. Der große Fels-Stein vom Himmel hat ihn geschaffen, ja ja. Mächtig-magisch. In der Unterstadt der Mensch-Dinge. Laude Lurklox!"*  
 
 *Skot war skeptisch. Wie sollte ein Teich der Eingang zu Morsulm darstellen? Was hatte Qrunq wirklich gesehen? Wer war Lurklox? War es an der Zeit sich des irrsinnigen Hexers zu entledigen? Aber letztendlich war die Aussicht Morsulm endlich zu finden zu verlockend. Er musste nur dafür sorgen sich bei der Mission im Hintergrund zu halten. Weiche Pelzkörper zwischen sich und dem Hexer sollten für ausreichend Sicherheit sorgen.*  
+
+
+
+### Schlachtbericht  
+**Ergebnis Szenario:**  
+Niederlage  
+
+**Gefallene Krieger:**  
+#8 (recovery), #1 (dead), #10 (recovery), #3 (recovery), #7 (recovery), Gnog (recovery)     
+
+**Belohnungen:**  
+2 Wyrdstones aus dem Teich gefischt  
+
+**Experience:**  
+ - Group #0 +2xp (advance: +1WS)  
+ - Group #2 +1xp    
+ - Group #4 +1xp    
+ - Group #5 +2xp      
+ - Group #6 +2xp        
+ - Krol +1xp  
+ - Crek +2xp (advance: +1WS)   
+ - Vetch +3xp (advance: +1WS)   
+ - Tholk +2xp (advance: +1BS)     
+ - Skot +1xp
+ - Qrunq +2xp    
+ - Besan +1xp (advance: Skill - Fleet Footed)  
+ - Gnog +1xp         
+
+**Sonstiges:**  
+ - Krol produziert X Portionen Dark Venom  
+
+**Wyrdstone:**  
+5 Shards + 1 von der Kampagne => alle verkaufen für 90 GC  
+
+**Neues Equipment/Rekruten:**  
+80 GC von Wyrdstone +2 GC von Exploration +24 GC vom letzten Mal +30 GC vom 2 Dosen Sleep Powder (Alchemist)  
+  => 136 GC  
+  
+Weitere Einnahmen durch Verkauf des Equipments vom letzten Szenario mit Skill: Pawnbroker  
+ - 2 Nets (je 5 GC)  
+ - 2 Crossbows (je 13 +2D6 GC)  
+ - Bugman's Ale (25 + 2D6 GC)  
+ - Elven Cloak (50 + 2D6 GC)  
+ => 111 + 8D6 GC
+
+Insgesamt stehen also 247 +8D6 GC zur Verfügung
+
+ - Upkeep Besan (4 GC, dank Blood Pact)  
+ - Upkeep Gnog (5 GC)  
+ - Rat Ogre (175)    
+ => 63 + 8D6 GC übrig  
+
+Vom Rest hätte ich mir noch 3 Verminkin gekauft (mit so viel XP wie möglich) um meine Warband auf 20 Warrior voll zu machen.
+
+### Nachspiel  
+*Qrunq hielt den Wyrdstonesplitter hoch erhoben, den er aus dem verfluchten Teich gezogen hatte. Eine Ork Warband hatte Skots Wurf überfallen und in einem blutigen Scharmützel den Teich erobert. Skot tobte vor Zorn, aber immerhin hielten sich die Verluste in Grenzen. Und ein paar Splitter des begeherten Wyrdstone hatten sie doch aus den trüben Wassern des Teiches gefischt.*  
+
+*Ungeduldig fauchte Skot den irren Hexer an: " Los-schnell! Wo ist der Weg-Pfad nach Morsulm. Bei den Dreizehn, wenn du mir keine Antwort-lösung gibst, dann bist du Verminfraß, jaja! " Die Schnurrhaare des Hexers zitterten hasserfüllt als er mit den Vorbereitungen für sein Ritual begann.*  
+
+*Flammen flackerten und dicke Wyrdstonedämpfe machten das Atmen im Unterschlupf der Skaven fast unmöglich. Schließlich begann der Hexer mit verdrehten Augen und hohler, unskavischer Stimme zu sprechen: "Der Eingang zum großen Nest liegt unter den Trümmern des ehemaligen Siechenhauses dieser Stadt. Folgt der Spur der Pest."*  
+
+*Auch wenn Skot derart kryptischen Botschaften wenig abgewinnen konnte so befahl er seinem Wurf doch sich auf den Weg ins nördliche Wohnviertel der verfluchten Stadt zu machen. Hier stand die Ruine des ehemaligen Hospitals. Und nach stundenlangem Wühlen durch die Trümmer im Keller des Gebäudes stieß Tholk schließlich auf einen gut versteckten und halb verschütteten Eingang. Morsulm! Skot war am Ziel. Vorerst…*  
