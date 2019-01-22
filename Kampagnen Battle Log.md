@@ -721,10 +721,10 @@ group 0: +2xp +lvlUp — +1WS
 group 8: +2xp +lvlUp — +1BS
 überlebende +1
 
-grannak +2 lvl up +1 A
-uglash +3 )skill)
+granak +2 lvl up (+1A)
+uglash +3 (+skill)
 rem buld +1 (+1A)
-rogrogg  +2 (+1 ld)
+rogrogg  +2 (+1Ld)
 alle ueberlebenden +1
 
 wyrdstones. 

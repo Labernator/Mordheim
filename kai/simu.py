@@ -1,9 +1,9 @@
 
 import random
 
-class unit_2:
+class Unit:
     name = "troll"
-    t = 3
+    t = 4
     s = 5
     ws = 3
     _as = 4
@@ -13,8 +13,9 @@ class unit_2:
 
     weapon = [
         {
-            "type" : "club",
+            "type" : "hand",
             "s" : 0,
+            "firstRoundSAdd" : 2,
             "offhand" : False,
             "toHitOffhand" : 0,
             "toHit" : 0,
@@ -26,39 +27,126 @@ class unit_2:
         }
     ]
 
-class unit_1:
-    name = "rat"
-    t = 3
-    s = 3
-    ws = 3
-    _as = 0
-    w = 1
-    a = 1
-    state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
+#####
+beastmen = Unit()
+beastmen.name = "beastmen"
+beastmen.t = 4
+beastmen.s = 3
+beastmen.ws = 4
+beastmen._as = 0
+beastmen.w = 2
+beastmen.a = 1
+beastmen.state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
+# first weapon
+beastmen.weapon = [
+    {
+        "type" : "flail",
+        "s" : 0,
+        "firstRoundSAdd" : 2,
+        "offhand" : False,
+        "toHitOffhand" : 0,
+        "toHit" : 0,
+        "as" : 0,
+        "a" : 0,
+        "range" : False,
+    }
+]
+###
+mutant = Unit()
+mutant.name = "mutant"
+mutant.t = 6
+mutant.s = 3
+mutant.ws = 3
+mutant._as = 0
+mutant.w = 1
+mutant.a = 1
+mutant.state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
+# first weapon
+mutant.weapon = [
+    {
+        "type" : "two-handed",
+        "s" : 2,
+        "firstRoundSAdd" : 0,
+        "offhand" : False,
+        "toHitOffhand" : 0,
+        "toHit" : 0,
+        "as" : 0,
+        "a" : 0,
+        "range" : False,
+    }
+]
 
-    # the first weapon
-    weapon = [
-        {
-            "type" : "dagger",
-            "s" : 0,
-            "offhand" : True,
-            "toHitOffhand" : 1,
-            "toHit" : 0,
-            "as" : 1,
-            "a" : 0,
-            "range" : False,
-        }
-        ,
-        {
-            "type" : "dagger",
-            "s" : 0,
-            "offhand" : False,
-            "toHitOffhand" : 1,
-            "toHit" : 0,
-            "as" : 1,
-            "a" : 0,
-            "range" : False,
-        }
+#####
+ob1 = Unit()
+ob1.name = "ork boy 1"
+ob1.t = 4
+ob1.s = 3
+ob1.ws = 3
+ob1._as = 0
+ob1.w = 1
+ob1.a = 1
+ob1.state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
+# first weapon
+ob1.weapon = [
+    {
+        "type" : "dagger",
+        "s" : 0,
+        "firstRoundSAdd" : 0,
+        "offhand" : True,
+        "toHitOffhand" : 1,
+        "toHit" : 0,
+        "as" : 1,
+        "a" : 0,
+        "range" : False,
+    }
+    ,
+    {
+        "type" : "dagger",
+        "s" : 0,
+        "firstRoundSAdd" : 0,
+        "offhand" : False,
+        "toHitOffhand" : 1,
+        "toHit" : 0,
+        "as" : 1,
+        "a" : 0,
+        "range" : False,
+    }
+]
+###
+ob2 = Unit()
+ob2.name = "ork boy 2"
+ob2.t = 4
+ob2.s = 3
+ob2.ws = 3
+ob2._as = 0
+ob2.w = 1
+ob2.a = 1
+ob2.state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
+# the weapon
+ob2.weapon = [
+    {
+        "type" : "dagger",
+        "s" : 0,
+        "firstRoundSAdd" : 0,
+        "offhand" : True,
+        "toHitOffhand" : 1,
+        "toHit" : 0,
+        "as" : 1,
+        "a" : 0,
+        "range" : False,
+    }
+    ,
+    {
+        "type" : "dagger",
+        "s" : 0,
+        "firstRoundSAdd" : 0,
+        "offhand" : False,
+        "toHitOffhand" : 1,
+        "toHit" : 0,
+        "as" : 1,
+        "a" : 0,
+        "range" : False,
+    }
 ]
 
 def rollD6():
@@ -99,7 +187,7 @@ def printChar(u):
 
     print str(u.t) + " " + str(u.s) + "  " + str(u.ws) + "  " + str(u._as) + " " + str(u.w) + " " + str(u.a) + " " + state
 
-def attack(u1, u2, wn):
+def attack(u1, u2, wn, first_round = False):
 
     u2_w_old = u2.w
 
@@ -108,7 +196,7 @@ def attack(u1, u2, wn):
     if hit_granted == True:
 
         # WOUND
-        wound_granted = tryToWound(u1, u2)
+        wound_granted = tryToWound(u1, u2, wn, first_round)
         if wound_granted == True:
 
             # ARMOR SAVE
@@ -146,8 +234,11 @@ def tryToHit(u1, u2, wn):
 
     return False
 
-def tryToWound(u1, u2):
-    minWoundRoll = getMinWoundRoll(u1.s, u2.t)
+def tryToWound(u1, u2, wn, first_round = False):
+    tmp_s = 0
+    if first_round == True:
+        tmp_s = u1.weapon[wn]["firstRoundSAdd"]
+    minWoundRoll = getMinWoundRoll(u1.s + tmp_s, u2.t)
     roll = rollD6()
 
     print "\t\tto wound on " + str(minWoundRoll)
@@ -165,14 +256,14 @@ def tryArmorSave(u1, u2, wn):
     t_as = u2._as
 
     if t_as == 0:
-        t_as = 6
+        t_as = 7
 
     if u1.s > 3:
         print "\t\t\tS" + str(u1.s) + " -" + str(u1.s - 3) + "AS"
         t_as = t_as + (u1.s - 3)
 
     if u1.weapon[wn]["s"] > 0:
-        print "\t\t\tweapon S" + str(u1.weapon[wn]["s"]) + " " + str(u1_weapon[wn]["s"] * -1) + "AS"
+        print "\t\t\tweapon S" + str(u1.weapon[wn]["s"]) + " " + str(u1.weapon[wn]["s"] * -1) + "AS"
         t_as = t_as + u1.weapon[wn]["s"]
 
     if u1.weapon[wn]["as"] != 0:
@@ -202,6 +293,16 @@ def tryToInjure(u1, u2, u2_w_old):
     if u2_w_old == 0:
         injury_addition = 1
         print "\t\t\tinjury roll +1"
+
+    doInjuryRoll(u2, injury_addition)
+    # hier auch die injudies erwurfeln wenn u2.w = 0 ist und der angreifer u1 mehr als eine wunde in dieser runde verursacht hat
+    # bedingungen:
+    # u2.w == 0
+    # u1.attacken > 0
+    # u1.wunden ausgeloest > 0
+    # anz injury rolls = u1.
+
+def doInjuryRoll(u2, injury_addition):
     if u2.w == 0:
         roll = rollD6() + injury_addition
         print "\t\t\tinjury roll: " + str(roll)
@@ -218,7 +319,7 @@ def tryToInjure(u1, u2, u2_w_old):
             if u2.state < 3:
                 u2.state = 3
 
-def doAllAttacks(u1, u2):
+def doAllAttacks(u1, u2, first_round = False):
     a_main = u1.a
     a_off = 0
     off_weapon = -1
@@ -244,38 +345,59 @@ def doAllAttacks(u1, u2):
 
     if main_weapon > -1:
         for w in range(0, a_main):
-            attack(u1, u2, main_weapon) # do the w'th attack
+            attack(u1, u2, main_weapon, first_round) # do the w'th attack
             print
 
     if off_weapon > -1:
         a_off = a_off + 1
         for w in range(0, a_off):
-            attack(u1, u2, off_weapon) # do the w'th attack
+            attack(u1, u2, off_weapon, first_round) # do the w'th attack
             print
 
     printChar(u1)
     printChar(u2)
     print
 
-if __name__ == "__main__":
-
-    doAllAttacks(unit_2, unit_1)
-    if unit_1.state == 0:
-        doAllAttacks(unit_1, unit_2)
-    elif unit_1.state == 1: # knocked down
-        unit_1.state = 0
-        doAllAttacks(unit_2, unit_1) # strike last for the unit_1
-    elif unit_1.state == 2:
-        unit_1.state = 1
-
-        print "\n----------"
-        print
-        printChar(unit_2)
-        printChar(unit_1)
-        print
-
-        if tryToWound(unit_2, unit_1):
-            unit_1.state = 3 # out of action
+def doFight(attacker, target, first_round = False):
+        if target.state == 0:
+            doAllAttacks(attacker, target, first_round)
+        elif target.state == 1: # knocked down
+            doAllAttacks(attacker, target)
+        elif target.state == 2:
+            target.state = 3 # out of action
             print "\t\tauto hit & wound"
             print "\t\tauto ooa"
+
+if __name__ == "__main__":
+
+    attackers = [ ob1, ob2 ]
+    target = mutant
+    first_round = True
+
+    rounds = 0
+    while not (attackers[0].state == 3 or attackers[1].state == 3) and target.state < 3:
+        for attacker in attackers:
+            if attacker.state == 0:
+                # TODO reihenfolge anhaengig von stunned/knockdown/initiative/strikeFirst/strikeLast
+                doFight(attacker, target, first_round)
+
+        if target.state == 0:
+            # strike back
+            for attacker in attackers:
+                if attacker.state < 3:
+                    doAllAttacks(target, attacker)
+                    break # all defined attacks only one time
+
+        first_round = False
+
+        print "========="
+        rounds = rounds + 1
+
+    print "\n----------"
+    print str(rounds) + " rounds done"
+    printChar(ob1)
+    printChar(ob2)
+    printChar(target)
+    print
+
 
