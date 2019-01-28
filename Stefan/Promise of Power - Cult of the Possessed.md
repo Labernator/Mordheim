@@ -64,3 +64,21 @@
 **Objective:** Scion of Darkness  
 **Campaign Points:** 0
 **Warband Rating:** 106  
+
+# Szenario 1: Alte Schätze, neue Feinde  
+
+*Jaya betrachtete interessiert von einem Hügel aus die Landschaft die vor ihr lag. Einheimische mieden diese Gegend und Schauergeschichten über Dämonensichtungen, Flüche und Pestausbrüche waren in den Dörfern in der Nähe weit verbreitet.*  
+
+*Ohne die Maske des Aberglaubens und der Normen der schwachen Götter konnte Jaya aus diesen Geschichten hauptsächlich eines heraushören: ungezähmte Chaos Energie. Und das bedeutete aller Wahrscheinlichkeit nach ein größeres Vorkommen an Wyrdstone!*  
+
+*Jaya scheute den Umgang mit dem magischen Gestein normalerweise. Das Risiko war abseits aller Märchen der Unwissenden sehr real. Und in ein Chaos Spawn verwandelt zu werden würde ihren ambitionierten Plänen ein abruptes Ende bereiten.*  
+
+*Seufzend sah sich Jaya nach ihren Begleitern um. Teng, Lai und Lu sahen sie erwartungsvoll an. Nur der Gehörnte starrte in die Ferne. Sie waren wirklich noch nicht viele. Jaya brauchte mehr. Mehr Anhänger, mehr Ausrüstung und mehr Macht. Und demütig zu warten und die Götter um Almosen anzuflehen war der Weg der Weichlinge. Der Weg der alten Götter war sich zu nehmen was  einem zustand, ohne Rücksicht auf Verluste. Und wenn es sich um gefährliche Chaos-Steine handelte!*  
+
+*Entschlossen reckte Jaya ihr Kinn vor und wolle gerade etwas sagen, als der Gehörte sprach: "Orks. Grumlogs Horde!" Jaya kniff die Augen zusammen und unterdrückte einen Fluch als sie die Ansammlung grüner Körper erblickte. Sie hatte die Geschichten gehört. Wie auch nicht, jedes Kind in den Grenzlanden kannte sie. Und Grumlogs Namen wurde selbst von den abgebrühteren Menschen dieses Landstrichs nur im Flüsterton genannt.*  
+
+*Natürlich kümmerte sich diese ungebildete Bande auch nicht um die Märchen der Menschen. Und natürlich waren sie ebenfalls zu dumm um das Risiko der Wyrdstones beurteilen zu können. Jaya sah hinüber zur Horde. Und Horde war durchaus nicht übertrieben. Dutzende Orks, Goblins und Squigs marodierten dort.*  
+
+*Jaya erwägt angesichts einer derartigen Übermacht ihre Pläne zu ändern. Zu fünft gegen diese Masse aus Zähnen und Metal anzutreten erschien ihr wie eine besonders schmerzhafte Art des Selbstmordes. Doch bevor sie diesen Gedanken zu Ende denken konnte ertönte Tengs Gebrüll: "Bluuut! Vernichtung! " und Lu stimmte sofort mit ein: "Zerstören!".*  
+
+*Die Besessenen hörten den Ruf der alten Götter deutlicher. Und die sahen Feigheit gar nicht gerne. "Wirklich frei ist nur wer nichts fürchtet. Macht um jeden Preis!" erinnerte Jaya sich und laut rief sie: "Lasst uns diesen Grünhäuten zeigen wer wirklich von den Göttern gesegnet ist. Heute tränken wir den Boden mit Orkblut!"*  
