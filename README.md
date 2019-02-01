@@ -22,5 +22,7 @@
 * Sonntag, 18.11.2018 10:00 Uhr bei Stefan
 * Samstag, 15.12.2018 10:00 Uhr bei Stefan
 * Sonntag, 20.01.2019 10:00 Uhr bei Kai
-* Samstag, 09.02.2019
-* Samstag, 16.03.2019  
+* Samstag, 09.02.2019 10:00 Uhr 
+* Samstag, 16.03.2019 10:00 Uhr 
+* Samstag, 28.04.2019 10:00 Uhr 
+* Samstag, 19.05.2019 10:00 Uhr 
