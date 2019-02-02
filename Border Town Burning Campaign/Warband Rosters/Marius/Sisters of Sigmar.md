@@ -7,10 +7,10 @@ Heavy Armor, Sigmarite Warhammer, Dagger, Sling, Helmet	 - **147** (70+50+15+2+1
 Sigmarite Warhammer, Dagger	- **40** (25+15)
 
 **Rosa** - Sister superior | 	
-Sigmarite Warhammer, Dagger, Sling	- **52** (35+15+2)
+Sigmarite Warhammer, Dagger, Sling Light Armor	- **72** (35+15+2+20)
 
 **Agustina** - Sister superior | 	
-Sigmarite Warhammer, Dagger, Sling, Light Armor	- **72** (35+15+2+20)
+Sigmarite Warhammer, Dagger, Sling	- **52** (35+15+2)
 
 **Emilia** - Sister superior | 	
 Sigmarite Warhammer, Dagger, Sling	- **52** (35+15+2)
