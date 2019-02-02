@@ -1,19 +1,19 @@
 ***Sisters of Sigmar – 499***	
 
-**Johanna von Marienburg** - Sigmarite matriarch | *Prayer:* Healing Hand (5) |	
-Heavy Armor, Sigmarite Warhammer, Sling, Helmet	 - **147** (70+67+10)
+**Johanna von Marienburg** - Sigmarite matriarch | **Prayer:** Healing Hand (5) |	
+Heavy Armor, Sigmarite Warhammer, Sling, Helmet	 - **147** (70+50+15+2+10)
 
 **Theresa** - Augur | 
 Sigmarite Warhammer, Light Armor	- **60** (25+15+20)
 
 **Rosa** - Sister superior | 	
-Sigmarite Warhammer, Sling	- **52** (35+17)
+Sigmarite Warhammer, Sling	- **52** (35+15+2)
 
 **Agustina** - Sister superior | 	
-Sigmarite Warhammer, Sling	- **52** (35+17)
+Sigmarite Warhammer, Sling	- **52** (35+15+2)
 
 **Emilia** - Sister superior | 	
-Sigmarite Warhammer, Sling	- **52** (35+17)
+Sigmarite Warhammer, Sling	- **52** (35+15+2)
 		
 **Group #1:**
 
