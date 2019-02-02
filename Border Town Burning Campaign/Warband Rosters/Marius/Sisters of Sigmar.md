@@ -7,16 +7,16 @@ Prayer: Healing Hand (5)
 	
 **Theresa** - Augur	25
 Sigmarite Warhammer	15
-Light Armor	20
+Light Armor	**60** (25+15+20)
 
-**Rosa** - Sister superior	35
-Sigmarite Warhammer, Sling	17
+**Rosa** - Sister superior	
+Sigmarite Warhammer, Sling	**52** (35+17)
 
-**Agustina** - Sister superior	35
-Sigmarite Warhammer, Sling	17
+**Agustina** - Sister superior	
+Sigmarite Warhammer, Sling	**52** (35+17)
 
-**Emilia** - Sister superior	35
-Sigmarite Warhammer, Sling	17
+**Emilia** - Sister superior	
+Sigmarite Warhammer, Sling	**52** (35+17)
 		
 **Group #1:**
 Novice	15
