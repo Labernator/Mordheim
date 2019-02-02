@@ -18,25 +18,25 @@ Sigmarite Warhammer, Sling	17
 **Emilia** - Sister superior	35
 Sigmarite Warhammer, Sling	17
 		
-**Group #1: **
+**Group #1:**
 Novice	15
 2x Dagger 2
 Novice	15
 2x Dagger 2
 
-**Group #2: **
+**Group #2:**
 Novice	15
 2x Dagger 2
 Novice	15
 2x Dagger 2
 
-**Group #3: **
+**Group #3:**
 Novice	15
 2x Dagger 2
 Novice	15
 2x Dagger 2
 
-**Group #4: **
+**Group #4:**
 Novice	15
 2x Dagger 2
 Novice	15
