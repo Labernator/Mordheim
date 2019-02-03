@@ -619,8 +619,116 @@ Nachdem alle Warbands platziert sind wird nochmal mit 3D6 gewürfelt. Das legt d
 
 **Underdog**  
 Warband Rating   
-Aaron: ?  
-Fabian: ?   
+Aaron: 127  
+Fabian: 133     
 Kai: 152  
 Stefan: 198  
- => ?  
+ => kein Underdog  
+
+CZ Alchemist 2 Sleep Powder
+
+5 wyrdstones im pool
+
+Log:
+Aaron fängt an
+Beastmen Gor OOA gezaubert von Schamanen
+Troll slayer 1 ooa von beastmen hund
+Troll slayer 2 ooa von beastmen hund
+Troll killed by Crek
+rat 7 ooa von Uglash
+Rat 1 ooa von grommok
+norog ooa von vetch
+gmorkor ooa von rat 0
+beastmen hund ooa von beardling 6
+beastmen hund ooa von beardling 5
+beardling 3 loses 1 dagger durch centauren
+runesmith ooa von beastmen chef
+rat 3 ooa von rog rog
+rat goblin ooa von uglash
+ratte 10 ooa von grommok
+rat 8 ooa von granak
+rog rogg ooa von rat 6
+rembuld ooa von rat 5
+oggrot ooa von vetch
+beardling 6 ooa von tody
+apprentice ooa von marchal
+berdling 4 ooa von beastmen hund
+beardling 5 ooa von beastmen hund
+beardling 3 ooa von tody
+stefan routet
+qrunq 1 wyrdstone
+tholk 1 wyrdstone
+beastmen hund ooa von dwarf merchant!!!!!!!!!!!!!
+beastmen hund ooa von beardling 7
+beardling 1 ooa von lilli
+dwarf beggar ooa von hund
+dwarf merchant ooa von beastmen tody
+fabian routet
+kai routet
+
+aaron gewinnt das match mit EINEM überebenden beardling
+
+unjury rolls:
+rat 8: recovered
+rat 1: dead
+rat 10: recovered
+rat 3: receovered
+rat 7: recovered
+rat goblin: recovered
+
+oggrot: recevered
+gmorkor: recovered
+rogrog: recovered
+norog: hasst alle skaven
+rembuld: recovery
+troll: recovery
+
+runesmith: recovery
+apprentice: recovery
+trollslayer 1: captured
+trollslayer 2: dead
+merchant: dead
+beggar: recovered
+beardling 1: recovered
+beardling 3: recovered
+4: recovered
+5: recovered
+6: recovered
+7: recovered
+
+beastmen hund 1: recovered
+hund 2: tot
+3+4: recovered
+
+gained xp:
+dwarf henchmen group 2: +3xp + lvlUp — +1WS
+dwarf henchmen group 1: +1 +berlebt + lvlUp — +1Ld
+leader: +1
+
+centigor: +3 +lvlUp — +1WS
+chef: +2xp + lvlUp — +skill
+lilli: +2 +lvlUp — +1A
+tody: +4 +lvlUp — hero + 1WS
+rest überlebende +1xp
+beggar: +lvlUp — +1T
+
+crek: +2 +lvlUp — +1WS
+vetch: +3 + lvlUp — +1WS
+qrunq: +2
+tholk: +2 + lvlUp — +1BS
+beggar: +1 +lvlUp — +skill
+group 0: +2xp +lvlUp — +1WS
+group 8: +2xp +lvlUp — +1BS
+überlebende +1
+
+granak +2 lvl up (+1A)
+uglash +3 (+skill)
+rem buld +1 (+1A)
+rogrogg  +2 (+1Ld)
+alle ueberlebenden +1
+
+wyrdstones. 
+kai 8gc 4 wyrdstones
+aaron 2wyrdstones
+fabian 3gc 4 wyrdstones
+cz 5 wyrdstones +(2 von szenario) + 2GC
