@@ -291,3 +291,31 @@ Ich bin inzwischen überzeugt, dass diese Warband **mindestens** so stark ist wi
 Ich habe bei diesem Rating Shooting nicht sehr hoch bewertet. Deswegen sind die meisten Fernkampf Warbands auch in Tier 4 gelandet. Es ist gut möglich, dass dies daran liegt, dass wir in der aktuellen Runde kaum Shooting haben und mir deswegen sein Powerlevel nicht mehr so klar ist. Aber ich habe das Gefühl, dass ein einzelner Warrior in Heavy Armour an der Front schon viel dagegen macht. 
 
 Die Einschätzung ist mit Sicherheit nicht fehlerfrei. Speziell die Stärke von Shooting Warbands ist mir nicht komplett klar. Aber ich denke, dass sie einen ganz guten Ansatz zur Einschätzung der Warbands bietet. Natürlich gibt es immer matchupbedingte Abweichungen: So sind zum Beispiel Zwerge vermutlich sehr viel besser gegen Pit Fighter (M4, Nahkampf, eher wenige) als gegen Clan Pestilense (M5, Fernkampf, ziemlich viele), obwohl alle im selben Tier stehen.
+
+## Flammen über einer Grenzstadt  
+**04.02.2019**  
+Die Border Town Burning Kampagne steht unmittelbar vor dem Beginn und ich will noch meine Gedanken dazu niederschreiben bevor es ans Eingemachte geht.
+
+Was die verschiedenen Warbands angeht ist meine initiale Einschätzung analog zum letzten Power Rating. Beastmen sind (zumindest am Anfang) klar am Stärksten, dann Zwerge und Grünhäute, dann die armen Menschen (Sisters und Possessed).
+
+Mal schauen wie sich dieses Kräfteverhältnis im Laufe der Kampagne entwickelt!
+
+Ich habe mir diesmal gefühlt schon einige Steine in den Weg gelegt. Aber ich wollte am Boden des Powerlevel starten und mich dann hocharbeiten. Hoffentlich =) Die Possessed sind am Anfang im direkten Vergleich jeder Warband (teilweise deutlich) unterlegen. Das liegt schon schlicht an der geringen Menge an Warriors die ich zur Verfügung habe.
+
+Normalerweise ist das Erstellen einer Warband leicht: Nimm alle Helden, dann so viele Henchmen, dass du auf 9, 13 oder 17 Leute kommst und drück allen einen zweiten Dolch in die Hand. Profit. Nur leider sind die Chars der Possessed Warband ziemlich überteuert, was vor allem an den unverhältnismäßig teuren Mutationen liegt. Irgendwie habe ich es deswegen auch nur auf 4 Helden und 5 Warrior insgesamt geschafft. Und ich bin mir noch nicht mal ansatzweise sicher, ob diese Liste halbwegs optimal für den Anfang ist.
+
+Der zweite große Stein den ich bewusst in meinen Weg gelegt habe war die Wahl der Objective. Ich konnte wählen zwischen "The Silent Threat" und "The Scion of Darkness". Silent Thread hat leichtere Möglichkeiten an CPs zu kommen (durch Poison und "The Heist"-Spam) und eine extrem leichte Siegbedingung (durch "The Heist"-Spam, was man ja sowieso machen will). Aaaaaber Scion hat einfach die sehr viel epischere Storyline und das ist ja der Grund warum ich die Kampagne spielen wollte. Also habe ich mich pro Story und contra Powergaming entschieden.
+
+Ziel des Scion ist es alle vier Chaos Artefakte zu finden. 
+ * Das Buch ist leicht: Da erhält man ab 20 CP ein Szenario in dem man es findet. Klar, man muss gewinnen und sich mit dem anderen Scion (den extrem starken Beastmen) drum kloppen, aber immerhin.
+ * Das Schwert ist schon nicht mehr leicht: Es muss ein bestimmtes Random Happening passieren und dann muss man einen NPC erledigen. Immerhin kann man dieses Happening mit der Map of Cathay herbeiführen (wenn man eine 6 beim Kauf würfelt), oder wenn man das Szenario "The lost caravans" gewinnt und dann Glück hat…
+ * Dann kommt der Helm. Hier muss man "nur" ein Szenario gewinnen. Aaaaaber dieses Szenario darf man ausschließlich spielen nachdem man in der Exploration Phase fünf 5en gewürfelt hat. Klar, das ist halt auch voll realistisch irgendwie…
+ * Und zum Schluss braucht man noch die Rüstung. Dafür muss man wieder ein Spezialszenario spielen. Das kriegt man wenn man sehr viel Geld bei einem Random Happening lässt (das man natürlich erstmal treffen muss) oder wenn man das Szenario "The lost caravans" gewinnt und dann Glück hat. Hat man das Szenario irgendwie erlangt, dann muss man nur noch einen Chaos Drachen töten. Und das Ding kann völlig problemlos mehrere Warbands gleichzeitig auslöschen. Aber passt schon.
+
+Alles in allem vermute ich, dass es absurd schwer wird diese Artefakte zu bergen und damit die Kampagne zu gewinnen. Und das schon ganz ohne, dass Fabian genau das gleiche möchte und Aaron und Marius genau das aktiv verhindern wollen.
+
+Trotz alle dem bin ich sehr begeistert das die Kamagne los geht und werde alles versuchen meine Magistra bei ihren ehrgeizigen Plänen zu unterstützen die Chaos Götter zu überzeugen und zum Dämonenprinz (-prinzessin?!?) aufzusteigen!
+
+Für das erste Szenario hatte ich auch direkt großes Glück und konnte sowohl Gegner als auch Szenario auswählen. Da ich fest davon ausgehe die ersten paar Szenarios zu verlieren (weil meine Warband so schwach ist am Anfang) habe ich Kai als Gegner gewählt um zumindest den Underdog Bonus mitzunehmen. Wyrdstone Hunt ist eine Möglichkeit etwas Geld und Erfahrung vom Feld zu tragen.
+
+Der Plan ist also mir ein bis zwei Wyrdstones zu schnappen, ein paar Goblins zu töten, den Underdog Bonus abzustauben und dann mit nicht allzu großen Verlusten zu routen. Mal schauen wie gut ich den umsetzen kann, da ja bekanntlich kein Plan den ersten Feindkontakt übersteht =)
