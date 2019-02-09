@@ -141,7 +141,7 @@
  Marius: 4 Wyrdstones + 8GC
  
 **Trading:**
-Marius +50GC 1 Wyrdstone + Rosary
+Marius: übrig 1GC +8GC aus Exploration +60GC 1 Wyrdstone übrig =>69GC => kauft Rosary = 59GC übrig => heuert an Runesmith Journeyman => 29GC übrig
 Aaron +60GC 2 Wyrdstones
 Fabian +70GC 0Wyrdstones
 Henchmen XP 7
