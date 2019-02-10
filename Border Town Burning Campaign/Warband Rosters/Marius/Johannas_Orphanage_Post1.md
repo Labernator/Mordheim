@@ -67,9 +67,9 @@ Novice | 2x Dagger 17(15+2)
 
 **Dwarf Runesmith Journeyman (10xp)**
 
-Gromril hammer, Heavy armour
+Gromril hammer, Heavy Armor, Dagger
 
-**Treasure Chest:** 2 GC, 1 Wyrdstone 
+**Treasure Chest:** 0 GC, 1 Wyrdstone 
 
 **Alignment:** Lawful
 
