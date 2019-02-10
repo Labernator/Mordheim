@@ -75,6 +75,6 @@ Gromril hammer, Heavy armour
 
 **Objective:** The Damned shall burn 
 
-**Warband Rating:** 150
+**Warband Rating:** 155
 
 **Campaign Points:** 1
