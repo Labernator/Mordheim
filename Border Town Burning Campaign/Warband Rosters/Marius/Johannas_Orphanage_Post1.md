@@ -16,9 +16,9 @@ Sigmarite Warhammer, Dagger
 
 **Rosa - Sister superior (9xp)**
 
-Sigmarite Warhammer, Dagger, Sling, Light Armor, Helmet
+Sigmarite Warhammer, Dagger, Sling, Light Armor
 
-- 82 (35+15+2+20+10)
+- 72 (35+15+2+20)
 
 **Agustina - Sister superior (9xp)**
 
@@ -69,7 +69,7 @@ Novice | 2x Dagger 17(15+2)
 
 Gromril hammer, Heavy Armor, Dagger
 
-**Treasure Chest:** 0 GC, 1 Wyrdstone 
+**Treasure Chest:** 4 GC, 1 Wyrdstone 
 
 **Alignment:** Lawful
 
