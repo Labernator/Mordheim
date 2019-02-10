@@ -1,8 +1,6 @@
 **Sisters of Sigmar**
 
-**Johanna von Marienburg - Sigmarite matriarch**
-
-1xp
+**Johanna von Marienburg - Sigmarite Matriarch (21xp)**
 
 Prayer: Healing Hand (5)
 
@@ -10,47 +8,39 @@ Heavy Armor, Sigmarite Warhammer, Dagger, Sling, Helmet, Rosary
 
 - 157 (70+50+15+2+10+10)
 
-**Theresa - Augur**
-
-1xp
+**Theresa - Augur (1xp)**
 
 Sigmarite Warhammer, Dagger	
 
 - 40 (25+15)
 
-**Rosa - Sister superior**
+**Rosa - Sister superior (9xp)**
 
-1xp
+Sigmarite Warhammer, Dagger, Sling, Light Armor, Helmet
 
-Sigmarite Warhammer, Dagger, Sling Light Armor	
+- 82 (35+15+2+20+10)
 
-- 72 (35+15+2+20)
-
-**Agustina - Sister superior**
-
-1xp
+**Agustina - Sister superior (9xp)**
 
 Sigmarite Warhammer, Dagger, Sling	
 
 - 52 (35+15+2)
 
-**Emilia - Sister superior**
-
-2xp
+**Emilia - Sister superior (10xp)**
 
 Sigmarite Warhammer, Dagger, Sling	
 
 - 52 (35+15+2)
 
-**Group #1:** 
-
-3xp - +1 Attack
+**Group #1: (3xp)** [+1 Attack] 
 
 Novice | 2x Dagger 17(15+2)
 
 Novice | 2x Dagger 17(15+2)
 
-**Group #2:**
+Novice | 2x Dagger 17(15+2)
+
+**Group #2: (1xp)**
 
 1xp
 
@@ -58,7 +48,7 @@ Novice | 2x Dagger 17(15+2)
 
 Novice | 2x Dagger 17(15+2)
 
-**Group #3:**
+**Group #3: (1xp)**
 
 1xp
 
@@ -66,9 +56,8 @@ Novice | 2x Dagger 17(15+2)
 
 Novice | 2x Dagger 17(15+2)
 
-**Group #4:**
+**Group #4: (1xp)**
 
-1xp
 
 Novice | 2x Dagger 17(15+2)
 
@@ -76,13 +65,16 @@ Novice | 2x Dagger 17(15+2)
 
 ***Hired Swords***:
 
-**Dwarf Runesmith Journeyman**
+**Dwarf Runesmith Journeyman (10xp)**
 
-10xp
+Gromril hammer, Heavy armour
 
+**Treasure Chest:** 2 GC, 1 Wyrdstone 
 
-
-**Treasure Chest:** 29 GC, 1 Wyrdstone 
 **Alignment:** Lawful
+
 **Objective:** The Damned shall burn 
-**Warband Rating:** 114
+
+**Warband Rating:** 150
+
+**Campaign Points:** 1
