@@ -65,7 +65,7 @@ Novice | 2x Dagger 17(15+2)
 
 ***Hired Swords***:
 
-**Grombsld - Dwarf Runesmith Journeyman (10xp)**
+**Grombald - Dwarf Runesmith Journeyman (10xp)**
 
 Gromril hammer, Heavy Armor, Dagger
 
