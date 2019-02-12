@@ -1,7 +1,7 @@
 **Warbands & Objectives**  
  - Stefan: Cult of the Possessed (Scion of Darkness)
  - Fabian: Beastmen (Scion of Darkness)
- - Marius: Sisters of Sigmar (Celestial Protectorate)
+ - Marius: Sisters of Sigmar (The damned shall burn)
  - Aaron: Dwarf Rangers (Celestial Protectorate) 
  - Kai: Orcs & Goblins (Scourge of the Realm) 
  
@@ -41,8 +41,13 @@ Das Szenario wird aus folgender Liste ermittelt:
   
   Die verbleibenden zwei oder drei Spieler wiederholen das ganze um das Szenario für den zweiten Tisch zu ermitteln.
 
+1. Szenario Runde:
 - stefan gegen kai: wyrdstone hunt (normal weather)
 - aaron, fabian, laber: night of the dead (fog - thick mist)
+
+2. Szenario Runde 
+- Aaron, Laber: Unlocking the tomb 
+- Stefan, Fabian, Kai: The Game
 
 # Termine
 
