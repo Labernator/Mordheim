@@ -1,0 +1,73 @@
+warband: Orks, Goblins & Squigs
+rating: 189
+campaign: 2
+
+gc: 3
+shards: 1
+equipment: 
+
+heros:
+    - hero: Grumlog & Gazbag (Ork leader) [23XP]
+      stats: M4, WS3, BS4, S4, T4, W1, I3, A1, Ld8
+      weapons: Axe, Dagger
+      armour: Helmet, Lucky charm
+      rules: Leader
+
+    - hero: Grommok (Big'Un) [16XP]
+      stats: M4, WS4, BS3, S3, T4, W1, I3, A1, Ld7
+      weapons: Hand weapon, Dagger
+      rules: 
+
+    - hero:  Ug'Lash (Big'Un) [16XP]
+      stats: M4, WS4, BS3, S3, T4, W1, I2, A1, Ld7
+      weapons: Hand weapon, Dagger
+      rules:
+
+    - hero: Karhag (Big'Un) [16XP]
+      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9
+      weapons: Hand weapon, Dagger
+      rules:
+
+    - hero: Wogga (Shaman) [16XP]
+      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9
+      weapons: Hand weapon, Dagger
+      rules: Clubba
+
+henchmen:
+    - group: Goblins (4 Goblin warrior) [2XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I4, A1, Ld5
+      weapons: Dagger, Dagger
+      rules: Animosity, Not orks, Runts
+
+    - group: Squig herder (1 Goblin warrior) [1XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld5
+      weapons: Squig prodder, Dagger, Short bow
+      rules: Animosity, Not orks, Runts
+
+    - group: Norog (1 Ork boy) [1XP]
+      stats: M4, WS3, BS3, S3, T4, W1, I2, A1, Ld7
+      weapons: Dagger, Dagger
+      rules: Animosity, Not orks, Runts
+
+    - group: Granak (1 Ork boy) [1XP]
+      stats: M4, WS3, BS3, S3, T4, W1, I2, A1, Ld7
+      weapons: Dagger, Dagger
+      rules: Animosity, Not orks, Runts
+
+    - group: Gmorkor (1 Ork boy) [1XP]
+      stats: M4, WS3, BS3, S3, T4, W1, I2, A1, Ld7
+      weapons: Dagger, Dagger
+      rules: Animosity, Not orks, Runts
+
+    - group: Oggrot (1 Ork boy) [0XP]
+      stats: M4, WS3, BS3, S3, T4, W1, I2, A1, Ld7
+      weapons: Dagger, Dagger
+      rules: Animosity, Not orks, Runts
+
+    - group: Squigs (5 Squigs) [0XP]
+      stats: M2D6, WS4, BS0, S4, T3, W1, I4, A1, Ld6
+      weapons: Dagger, Dagger
+      rules: Animosity, Not orks, Runts
+
+notes:
+  - Muss noch angepasst werden
