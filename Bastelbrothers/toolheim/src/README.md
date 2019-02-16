@@ -4,7 +4,7 @@ A simple tool to generate warband roasters out of .mordheim definition
 files.
 
 ## Building
-    > export GOPATH=/complete/path/to/Bastelbrothers/toolheim/
+    > export GOPATH=/complete/path/to/Bastelbrothers/toolheim/src
     > go get github.com/jung-kurt/gofpdf
     > go get github.com/ghodss/yaml
     > GOOS=windows GOARCH=386 go build -o toolheim.exe . # windows binary
