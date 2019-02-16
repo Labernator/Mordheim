@@ -1,4 +1,4 @@
-warband: Orks, Goblins & Squigs
+warband: Orks, Goblins and Squigs (Orks)
 rating: 189
 campaign: 2
 
@@ -65,7 +65,7 @@ henchmen:
       rules: Animosity, Not orks, Runts
 
     - group: Squigs (5 Squigs) [0XP]
-      stats: M2D6, WS4, BS0, S4, T3, W1, I4, A1, Ld6
+      stats: M2, WS4, BS0, S4, T3, W1, I4, A1, Ld6
       weapons: Dagger, Dagger
       rules: Animosity, Not orks, Runts
 

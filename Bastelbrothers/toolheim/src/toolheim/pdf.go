@@ -25,13 +25,18 @@ func MakePDF(warband Warband) {
 	for i, hero := range warband.Heros {
 		posY := 43
 		offsetY = i*posY + offsetYHeader
+
+		if offsetY > 297-40 {
+			pdf.AddPage()
+			offsetY = 0
+		}
 		// Background
 		pdf.SetX(5)
 		pdf.SetY(float64(offsetY + 5))
 		pdf.Image("images/hero.png", 5, 0, 1499*0.133, 295*0.133, true, "", 0, "")
 
-		pdf.SetFont("Arial", "B", 15)
 		// Name
+		pdf.SetFont("Arial", "B", 15)
 		pdf.SetY(float64(offsetY + 4))
 		pdf.SetX(20)
 		pdf.Write(11, hero.Name)
@@ -44,7 +49,6 @@ func MakePDF(warband Warband) {
 
 		// Stats
 		pdf.SetFillColor(255, 0, 0)
-
 		pdf.SetFont("Arial", "B", 13)
 		pdf.SetFontUnitSize(5)
 
@@ -99,10 +103,15 @@ func MakePDF(warband Warband) {
 	}
 
 	startY := offsetY + 50
+	if startY > 297-60 {
+		pdf.AddPage()
+		startY = 0
+	}
 
 	for i, henchmen := range warband.HenchmenGroups {
 		posY := 32
 		offsetY = i*posY + startY
+
 		// Background
 		pdf.SetX(5)
 		pdf.SetY(float64(offsetY + 5))
@@ -183,7 +192,7 @@ func MakePDF(warband Warband) {
 		pdf.Write(20, strconv.Itoa(henchmen.Experience))
 	}
 	// TODO: Make output name variable or use name of the input file
-	err := pdf.OutputFileAndClose("warband.pdf")
+	err := pdf.OutputFileAndClose("warband-roaster.pdf")
 
 	if err != nil {
 		panic(err)
