@@ -5,6 +5,7 @@ import (
 	"io/ioutil"
 
 	"toolheim"
+	"fmt"
 )
 
 var warbandFile = flag.String("warband", "", ".mordheim warband definition file to work with")
@@ -18,5 +19,6 @@ func main() {
 	}
 
 	warband := toolheim.ParseWarband(yamlContent)
+	fmt.Println(warband.Rating)
 	toolheim.MakePDF(warband)
 }

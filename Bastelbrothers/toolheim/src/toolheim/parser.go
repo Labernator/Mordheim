@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	//"github.com/davecgh/go-spew/spew"
+	"github.com/davecgh/go-spew/spew"
 	"github.com/ghodss/yaml"
 )
 
@@ -35,6 +35,7 @@ type Hero struct {
 	Name       string
 	Type       string
 	Experience int
+	WarbandAddition int `json:"warbandaddition,omitempty"`
 	Stats      *Stats    `json:"stats"`
 	Weapons    *Weapons  `json:"weapons,omitempty"`
 	Armour     *ItemList `json:"armour,omitempty"`
@@ -134,6 +135,10 @@ func ParseWarband(warbandDefinition []byte) Warband {
 		h.Name = strings.TrimSpace(matches[1])
 		h.Type = strings.TrimSpace(matches[2])
 		h.Experience, _ = strconv.Atoi(strings.TrimSpace(matches[3]))
+		warband.Rating = warband.Rating + h.Experience + 5
+		if h.WarbandAddition > 0 {
+			warband.Rating = warband.Rating + h.WarbandAddition
+		}
 	}
 
 	for _, hg := range warband.HenchmenGroups {
@@ -143,9 +148,10 @@ func ParseWarband(warbandDefinition []byte) Warband {
 		hg.Number, _ = strconv.Atoi(strings.TrimSpace(matches[2]))
 		hg.Type = strings.TrimSpace(matches[3])
 		hg.Experience, _ = strconv.Atoi(strings.TrimSpace(matches[4]))
+		warband.Rating = warband.Rating + (hg.Experience + 5) * hg.Number
 	}
 
-	//spew.Dump(warband)
+	spew.Dump(warband)
 
 	return warband
 }

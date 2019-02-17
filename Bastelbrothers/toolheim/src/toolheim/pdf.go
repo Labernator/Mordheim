@@ -2,7 +2,7 @@ package toolheim
 
 import (
 	"strconv"
-
+    "math"
 	"github.com/jung-kurt/gofpdf"
 )
 
@@ -21,6 +21,8 @@ func MakePDF(warband Warband) {
 
 	offsetYHeader := 22
 	offsetY := 0
+    henchmen_cnt := 0
+    hero_cnt := 0
 
 	for i, hero := range warband.Heros {
 		posY := 43
@@ -100,6 +102,8 @@ func MakePDF(warband Warband) {
 		pdf.SetFont("Arial", "B", 20)
 		pdf.SetXY(185, float64(offsetY+28))
 		pdf.Write(20, strconv.Itoa(hero.Experience))
+
+        hero_cnt = hero_cnt + 1
 	}
 
 	startY := offsetY + 50
@@ -190,7 +194,45 @@ func MakePDF(warband Warband) {
 		pdf.SetFont("Arial", "B", 13)
 		pdf.SetXY(190, float64(offsetY+21))
 		pdf.Write(20, strconv.Itoa(henchmen.Experience))
+
+        henchmen_cnt = henchmen_cnt + henchmen.Number
 	}
+
+	// Statistic page
+	pdf.AddPage()
+	startY = 0
+    offsetY = 0
+	pdf.SetFont("Arial", "B", 13)
+	pdf.SetXY(20, float64(offsetY+21))
+	pdf.Write(20, strconv.Itoa(warband.Rating))
+
+    offsetY = offsetY + 20
+    pdf.SetFont("Arial", "B", 13)
+    pdf.SetXY(20, float64(offsetY+21))
+    pdf.Write(20, strconv.Itoa(hero_cnt))
+
+    offsetY = offsetY + 20
+    pdf.SetFont("Arial", "B", 13)
+    pdf.SetXY(20, float64(offsetY+21))
+    pdf.Write(20, strconv.Itoa(len(warband.HenchmenGroups)))
+
+    offsetY = offsetY + 20
+    pdf.SetFont("Arial", "B", 13)
+    pdf.SetXY(20, float64(offsetY+21))
+    pdf.Write(20, strconv.Itoa(henchmen_cnt))
+
+    routtest := int(math.RoundToEven(float64(hero_cnt + henchmen_cnt) / 4.0))
+
+    offsetY = offsetY + 20
+    pdf.SetFont("Arial", "B", 13)
+    pdf.SetXY(20, float64(offsetY+21))
+    pdf.Write(20, strconv.Itoa(routtest))
+
+    offsetY = offsetY + 20
+    pdf.SetFont("Arial", "B", 13)
+    pdf.SetXY(20, float64(offsetY+21))
+    pdf.Write(20, strconv.Itoa(warband.CampaignPoints))
+
 	// TODO: Make output name variable or use name of the input file
 	err := pdf.OutputFileAndClose("warband-roaster.pdf")
 
