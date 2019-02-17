@@ -2,20 +2,20 @@ warband: The Revolting Dwarfs (Dwarf Rangers)
 rating: 119
 campaign: 2
 
-gc: 9
+gc: 52
 shards: 2
 equipment: 
 
 heros:
-    - hero: Ragnar (Runesmith) [20XP]
+    - hero: Ragnar (Runesmith) [22XP]
       stats: M3, WS5, BS4, S3, T4, W1, I2, A1, Ld10
-      weapons: Dagger, Axe
+      weapons: Axe, Dagger
       armour: Helmet
-      rules: Leader
+      rules: Leader, Blackblood
 
-    - hero: Floki (Apprentice Runesmith) [0XP]
-      stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld8
-      weapons: Dagger, Axe
+    - hero: Floki (Apprentice Runesmith) [2XP]
+      stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld9
+      weapons: Axe, Dagger
       rules: Extra Set Of Hands
 
     - hero: Bjorn (Troll Slayer) [8XP]
@@ -23,17 +23,23 @@ heros:
       weapons: Axe, Axe
       rules: Deathwish
 
-    - hero: Ivar (Troll Slayer) [8XP]
+    - hero: Ivar (Troll Slayer) [11XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9
       weapons: Axe, Axe
-      rules: Deathwish
+      rules: Deathwish, Two Handed Master
+      
+    - hero: Gordon (Halfling Scout) [0XP]
+      stats: M4, WS2, BS4, S2, T2, W1, I4, A1, Ld8
+      weapons: Bow, Dagger
+      armour: Cooking Pot
+      rules: Cook
 
 henchmen:
-    - group: Beard Mob (5 Beardling) [0XP]
-      stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld8
+    - group: Beard Mob (5 Beardling) [4XP]
+      stats: M3, WS4, BS2, S3, T4, W1, I2, A1, Ld8
       weapons: Dagger, Dagger
 
-    - group: The Enforcers (3 Beardling) [0XP]
+    - group: The Enforcers (3 Beardling) [1XP]
       stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld8
       weapons: Dagger, Dagger
 

@@ -1,7 +1,6 @@
 warband: Orks, Goblins and Squigs (Orks)
-rating: 189
 campaign: 2
-
+rating: 0
 gc: 3
 shards: 1
 equipment: 
@@ -12,6 +11,7 @@ heros:
       weapons: Axe, Dagger
       armour: Helmet, Lucky charm
       rules: Leader
+      warbandaddition: 5
       skilllists: Strength, Shooting, Combat, Speed, Special
 
     - hero: Grommok (Big'Un) [16XP]
