@@ -1,8 +1,9 @@
 package toolheim
 
 import (
-	"strconv"
 	"math"
+	"strconv"
+
 	"github.com/jung-kurt/gofpdf"
 )
 
@@ -38,15 +39,15 @@ func MakePDF(warband Warband) {
 		pdf.Image("images/hero.png", 5, 0, 1499*0.133, 295*0.133, true, "", 0, "")
 
 		// Name
-		pdf.SetFont("Arial", "B", 15)
+		pdf.SetFont("Arial", "B", 13)
 		pdf.SetY(float64(offsetY + 4))
-		pdf.SetX(20)
+		pdf.SetX(18)
 		pdf.Write(11, hero.Name)
 
 		// Type
 		pdf.SetFont("Arial", "", 13)
 		pdf.SetY(float64(offsetY + 11))
-		pdf.SetX(20)
+		pdf.SetX(18)
 		pdf.Write(11, hero.Type)
 
 		// Stats
@@ -77,17 +78,21 @@ func MakePDF(warband Warband) {
 		// Weapons
 		if hero.Weapons != nil {
 			for w, weapon := range hero.Weapons.List {
-				pdf.SetFont("Arial", "", 12)
+				if w == 0 {
+					pdf.SetFont("Arial", "B", 10)
+				} else {
+					pdf.SetFont("Arial", "", 10)
+				}
 				pdf.SetXY(138, float64(offsetY+7+(w*5)))
 				pdf.Write(11, weapon)
 			}
 		}
 
 		// Armour
-		pdf.SetFont("Arial", "", 11)
+		pdf.SetFont("Arial", "", 10)
 		if hero.Armour != nil {
 			for j, armour := range hero.Armour.List {
-				pdf.SetXY(170, float64(offsetY+6+(j*5)))
+				pdf.SetXY(178, float64(offsetY+7+(j*5)))
 				pdf.Write(11, armour)
 			}
 		}
@@ -109,7 +114,7 @@ func MakePDF(warband Warband) {
 			pdf.SetFont("Arial", "B", 10)
 			xx := x
 			if reduce_x > 0 {
-				xx = xx - reduce_x * 30
+				xx = xx - reduce_x*30
 			}
 			pdf.SetXY(float64(73+((float64(xx)-1.0)*3.43)), float64(offsetY)+float64(y)*15.0+34.0)
 			pdf.Write(0, "X")
@@ -246,12 +251,12 @@ func MakePDF(warband Warband) {
 	pdf.SetXY(20, float64(offsetY+21))
 	pdf.Write(20, strconv.Itoa(henchmen_cnt))
 
-	routtest := int(math.RoundToEven(float64(hero_cnt + henchmen_cnt) / 4.0))
+	routtest := int(math.RoundToEven(float64(hero_cnt+henchmen_cnt) / 4.0))
 
 	offsetY = offsetY + 20
 	pdf.SetFont("Arial", "B", 13)
 	pdf.SetXY(20, float64(offsetY+21))
-	pdf.Write(20, strconv.Itoa(hero_cnt + henchmen_cnt))
+	pdf.Write(20, strconv.Itoa(hero_cnt+henchmen_cnt))
 
 	pdf.SetFont("Arial", "B", 13)
 	pdf.SetXY(40, float64(offsetY+21))
