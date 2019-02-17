@@ -70,6 +70,15 @@ type Stats struct {
 	Leadership     int
 }
 
+type Skilllist struct {
+	Strength	bool
+	Academic	bool
+	Combat		bool
+	Shooting	bool
+	Speed		bool
+	Special		bool
+}
+
 func (stats *Stats) UnmarshalJSON(b []byte) error {
 	regex := regexp.MustCompile(`"\s*M([0-9]+)\s*,\s*WS([0-9]+)\s*,\s*BS([0-9]+)\s*,\s*S([0-9]+)\s*,\s*T([0-9]+)\s*,\s*W([0-9]+)\s*,\s*I([0-9]+)\s*,\s*A([0-9]+)\s*,\s*Ld([0-9]+)\s*"`)
 	matches := regex.FindStringSubmatch(string(b))
