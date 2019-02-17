@@ -1,9 +1,8 @@
 warband: Orks, Goblins and Squigs (Orks)
-campaign: 2
+campaign: 3
 gc: 3
 shards: 1
 equipment: 
-campain: 3
 
 heros:
     - hero: Grumlog & Gazbag (Ork leader) [23XP]
@@ -71,7 +70,6 @@ henchmen:
 
     - group: Squigs (5 Squig) [0XP]
       stats: M2, WS4, BS0, S4, T3, W1, I4, A1, Ld6
-      weapons: Dagger, Dagger
       rules: Movement, Minderz, Not orks, Animals
 
 notes:

@@ -31,15 +31,16 @@ type ItemList struct {
 }
 
 type Hero struct {
-	Header     string `json:"hero"`
-	Name       string
-	Type       string
-	Experience int
-	WarbandAddition int `json:"warbandaddition,omitempty"`
-	Stats      *Stats    `json:"stats"`
-	Weapons    *Weapons  `json:"weapons,omitempty"`
-	Armour     *ItemList `json:"armour,omitempty"`
-	Rules      *ItemList `json:"rules,omitempty"`
+	Header		string		`json:"hero"`
+	Name		string
+	Type		string
+	Experience	int
+	WarbandAddition	int		`json:"warbandaddition,omitempty"`
+	Stats		*Stats		`json:"stats"`
+	Weapons		*ItemList	`json:"weapons,omitempty"`
+	Armour		*ItemList	`json:"armour,omitempty"`
+	Rules		*ItemList	`json:"rules,omitempty"`
+	SkillLists	*ItemList	`json:"skilllists,omitempty"`
 }
 
 type HenchmenGroup struct {
@@ -49,7 +50,7 @@ type HenchmenGroup struct {
 	Type       string
 	Experience int
 	Stats      *Stats    `json:"stats"`
-	Weapons    *Weapons  `json:"weapons"`
+	Weapons    *ItemList `json:"weapons"`
 	Armour     *ItemList `json:"armour"`
 	Rules      *ItemList `json:"rules"`
 }

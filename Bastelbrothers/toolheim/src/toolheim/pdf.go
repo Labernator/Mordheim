@@ -2,7 +2,7 @@ package toolheim
 
 import (
 	"strconv"
-    "math"
+	"math"
 	"github.com/jung-kurt/gofpdf"
 )
 
@@ -21,8 +21,8 @@ func MakePDF(warband Warband) {
 
 	offsetYHeader := 22
 	offsetY := 0
-    henchmen_cnt := 0
-    hero_cnt := 0
+	henchmen_cnt := 0
+	hero_cnt := 0
 
 	for i, hero := range warband.Heros {
 		posY := 43
@@ -75,12 +75,13 @@ func MakePDF(warband Warband) {
 		pdf.Write(11, strconv.Itoa(hero.Stats.Leadership))
 
 		// Weapons
-		pdf.SetFont("Arial", "B", 12)
-		pdf.SetXY(138, float64(offsetY+6))
-		pdf.Write(11, hero.Weapons.MainHand)
-		pdf.SetFont("Arial", "", 12)
-		pdf.SetXY(138, float64(offsetY+11))
-		pdf.Write(11, hero.Weapons.OffHand)
+		if hero.Weapons != nil {
+			for w, weapon := range hero.Weapons.List {
+				pdf.SetFont("Arial", "", 12)
+				pdf.SetXY(138, float64(offsetY+7+(w*5)))
+				pdf.Write(11, weapon)
+			}
+		}
 
 		// Armour
 		pdf.SetFont("Arial", "", 11)
@@ -102,8 +103,26 @@ func MakePDF(warband Warband) {
 		pdf.SetFont("Arial", "B", 20)
 		pdf.SetXY(185, float64(offsetY+28))
 		pdf.Write(20, strconv.Itoa(hero.Experience))
+		y := 0.0
+		reduce_x := 0
+		for x := 1; x <= hero.Experience; x++ {
+			pdf.SetFont("Arial", "B", 10)
+			xx := x
+			if reduce_x > 0 {
+				xx = xx - reduce_x * 30
+			}
+			pdf.SetXY(float64(73+((float64(xx)-1.0)*3.43)), float64(offsetY)+float64(y)*15.0+34.0)
+			pdf.Write(0, "X")
+			if x == 30 || x == 60 {
+				y = y + 0.22
+				reduce_x = reduce_x + 1
+			}
+		}
 
-        hero_cnt = hero_cnt + 1
+		// Skill lists
+		// TODO mark skill lists
+
+		hero_cnt = hero_cnt + 1
 	}
 
 	startY := offsetY + 50
@@ -166,12 +185,13 @@ func MakePDF(warband Warband) {
 		pdf.Write(11, strconv.Itoa(henchmen.Stats.Leadership))
 
 		// Weapons
-		pdf.SetFont("Arial", "B", 12)
-		pdf.SetXY(138, float64(offsetY+7))
-		pdf.Write(11, henchmen.Weapons.MainHand)
-		pdf.SetFont("Arial", "", 12)
-		pdf.SetXY(138, float64(offsetY+12))
-		pdf.Write(11, henchmen.Weapons.OffHand)
+		if henchmen.Weapons != nil {
+			for w, weapon := range henchmen.Weapons.List {
+				pdf.SetFont("Arial", "", 12)
+				pdf.SetXY(138, float64(offsetY+7+(w*5)))
+				pdf.Write(11, weapon)
+			}
+		}
 
 		// Armour
 		pdf.SetFont("Arial", "", 11)
@@ -194,44 +214,53 @@ func MakePDF(warband Warband) {
 		pdf.SetFont("Arial", "B", 13)
 		pdf.SetXY(190, float64(offsetY+21))
 		pdf.Write(20, strconv.Itoa(henchmen.Experience))
+		for x := 1; x <= henchmen.Experience; x++ {
+			pdf.SetFont("Arial", "B", 12)
+			pdf.SetXY(float64(137+((float64(x)-1.0)*3.45)), float64(offsetY)+30.5)
+			pdf.Write(0, "X")
+		}
 
-        henchmen_cnt = henchmen_cnt + henchmen.Number
+		henchmen_cnt = henchmen_cnt + henchmen.Number
 	}
 
 	// Statistic page
 	pdf.AddPage()
 	startY = 0
-    offsetY = 0
+	offsetY = 0
 	pdf.SetFont("Arial", "B", 13)
 	pdf.SetXY(20, float64(offsetY+21))
 	pdf.Write(20, strconv.Itoa(warband.Rating))
 
-    offsetY = offsetY + 20
-    pdf.SetFont("Arial", "B", 13)
-    pdf.SetXY(20, float64(offsetY+21))
-    pdf.Write(20, strconv.Itoa(hero_cnt))
+	offsetY = offsetY + 20
+	pdf.SetFont("Arial", "B", 13)
+	pdf.SetXY(20, float64(offsetY+21))
+	pdf.Write(20, strconv.Itoa(hero_cnt))
 
-    offsetY = offsetY + 20
-    pdf.SetFont("Arial", "B", 13)
-    pdf.SetXY(20, float64(offsetY+21))
-    pdf.Write(20, strconv.Itoa(len(warband.HenchmenGroups)))
+	offsetY = offsetY + 20
+	pdf.SetFont("Arial", "B", 13)
+	pdf.SetXY(20, float64(offsetY+21))
+	pdf.Write(20, strconv.Itoa(len(warband.HenchmenGroups)))
 
-    offsetY = offsetY + 20
-    pdf.SetFont("Arial", "B", 13)
-    pdf.SetXY(20, float64(offsetY+21))
-    pdf.Write(20, strconv.Itoa(henchmen_cnt))
+	offsetY = offsetY + 20
+	pdf.SetFont("Arial", "B", 13)
+	pdf.SetXY(20, float64(offsetY+21))
+	pdf.Write(20, strconv.Itoa(henchmen_cnt))
 
-    routtest := int(math.RoundToEven(float64(hero_cnt + henchmen_cnt) / 4.0))
+	routtest := int(math.RoundToEven(float64(hero_cnt + henchmen_cnt) / 4.0))
 
-    offsetY = offsetY + 20
-    pdf.SetFont("Arial", "B", 13)
-    pdf.SetXY(20, float64(offsetY+21))
-    pdf.Write(20, strconv.Itoa(routtest))
+	offsetY = offsetY + 20
+	pdf.SetFont("Arial", "B", 13)
+	pdf.SetXY(20, float64(offsetY+21))
+	pdf.Write(20, strconv.Itoa(hero_cnt + henchmen_cnt))
 
-    offsetY = offsetY + 20
-    pdf.SetFont("Arial", "B", 13)
-    pdf.SetXY(20, float64(offsetY+21))
-    pdf.Write(20, strconv.Itoa(warband.CampaignPoints))
+	pdf.SetFont("Arial", "B", 13)
+	pdf.SetXY(40, float64(offsetY+21))
+	pdf.Write(20, strconv.Itoa(routtest))
+
+	offsetY = offsetY + 20
+	pdf.SetFont("Arial", "B", 13)
+	pdf.SetXY(20, float64(offsetY+21))
+	pdf.Write(20, strconv.Itoa(warband.CampaignPoints))
 
 	// TODO: Make output name variable or use name of the input file
 	err := pdf.OutputFileAndClose("warband-roaster.pdf")
