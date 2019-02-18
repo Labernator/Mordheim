@@ -347,15 +347,33 @@ func MakePDF(warband Warband) {
 	pdf.SetXY(22, 46.25)
 	pdf.Write(0, warband.Objective)
 	row := 0
-    for x := 1; x <= warband.CampaignPoints; x++ {
-        pdf.SetFont("Arial", "B", 8)
+	for x := 1; x <= warband.CampaignPoints; x++ {
+		pdf.SetFont("Arial", "B", 8)
 		xx := x - (row * 20)
-        pdf.SetXY(float64(130.75+((float64(xx)-1.0)*3.30)), float64(64.4) + float64((float64(row) * float64(2.5))))
-        pdf.Write(0, "X")
+		pdf.SetXY(float64(130.75+((float64(xx)-1.0)*3.30)), float64(64.4) + float64((float64(row) * float64(2.5))))
+		pdf.Write(0, "X")
 		if x == 20 {
 			row = row + 1
 		}
-    }
+	}
+
+/*
+	routtest := int(math.RoundToEven(float64(hero_cnt+henchmen_cnt) / 4.0))
+
+	offsetY = offsetY + 20
+	pdf.SetFont("Arial", "B", 13)
+	pdf.SetXY(20, float64(offsetY+21))
+	pdf.Write(20, strconv.Itoa(hero_cnt+henchmen_cnt))
+
+	pdf.SetFont("Arial", "B", 13)
+	pdf.SetXY(40, float64(offsetY+21))
+	pdf.Write(20, strconv.Itoa(routtest))
+
+	offsetY = offsetY + 20
+	pdf.SetFont("Arial", "B", 13)
+	pdf.SetXY(20, float64(offsetY+21))
+	pdf.Write(20, strconv.Itoa(warband.CampaignPoints))
+*/
 
 	// TODO: Make output name variable or use name of the input file
 	err := pdf.OutputFileAndClose("warband-roaster.pdf")

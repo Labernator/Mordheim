@@ -319,3 +319,26 @@ Trotz alle dem bin ich sehr begeistert das die Kamagne los geht und werde alles 
 Für das erste Szenario hatte ich auch direkt großes Glück und konnte sowohl Gegner als auch Szenario auswählen. Da ich fest davon ausgehe die ersten paar Szenarios zu verlieren (weil meine Warband so schwach ist am Anfang) habe ich Kai als Gegner gewählt um zumindest den Underdog Bonus mitzunehmen. Wyrdstone Hunt ist eine Möglichkeit etwas Geld und Erfahrung vom Feld zu tragen.
 
 Der Plan ist also mir ein bis zwei Wyrdstones zu schnappen, ein paar Goblins zu töten, den Underdog Bonus abzustauben und dann mit nicht allzu großen Verlusten zu routen. Mal schauen wie gut ich den umsetzen kann, da ja bekanntlich kein Plan den ersten Feindkontakt übersteht =)
+
+## Once more with feeling  
+**18.02.2019**  
+Heute gibt es einen (aus offensichtlichen Gründen) kurzen Rückblick auf die erste Runde der BTB Kampagne und einen  
+Ausblick wie es weiter gehen soll.  
+
+Ich habe mit Kai die Wyrdstone Hunt gespielt und das ist ziemlich nach hinten losgegangen für mich. Dass das Matchup ziemlich schlecht ist habe ich ja beim letzten Mal schon geschrieben. Trotzdem wollte ich nach Möglichkeit einige Kills mitnehmen um meine XP zu steigern.  
+
+Die beiden Wyrdstones konnte ich mit meinen Possessed auch schnell einsammeln und dann positionierte ich mich an einer Engstelle, an der nicht so viele Modelle an mich herankommen.  
+
+Ich kann die Orks (vermeintlich) vorteilhaft für mich angreifen, aber in der ersten Runde mache ich aus 9 Attacken (2x S3, 5x S4, 2x S5) genau eine Wunde. Das zieht sich dann auch durch den restlichen Kampf mit dem traurigen Höhepunkt, dass mein Mutant zweimal hintereinander die 2+ zum Verwunden des am Boden liegenden Gegners nicht schafft...  
+
+Das konsequente Ergebnis ist dann auch die komplette Auslöschung meiner Warband. Keine XP, keine GC, ein Held in Gefangenschaft und einer in der Pit. Nach dem extrem unglücklichen Spiel ist dann auch meine Lust auf eine weitere Runde mit der Warband ziemlich gering.  
+
+Nachdem ich diese Klatsche dann verdaut habe ist es Zeit nach vorne zu blicken. Als nächstes Projekt entscheide ich mich recht schnell für die Pit Fighter. Die haben zumindest zwei vernünftige Kämpfer und durch die verschiedenen Völker sehr viele schöne Mini Optionen.  
+
+Meine Hauptfrage ist jetzt, wie ich die XP und GC ausgleichen kann, die mir durch das erste Spiel entgangen sind. Die GC werde ich so schnell einfach nicht rein bekommen, aber bei den XP kann man schon was machen.
+
+Die Antwort ist der Underdog-Bonus. Wenn ich eine bewusst kleine Warband aufstelle, dann erhalten alle meine Überlebenden Warrior mehr XP. Der Tradeoff ist, dass ich das nächste Spiel auch definitiv nicht gewinnen werde, sondern eher als Zuschauer verfolge.
+
+Aber immerhin kann ich so die entgangenen XP ausgleichen und mich für den weiteren Verlauf der Kampagne besser positionieren. Also beiße ich noch einmal in den sauren Apfel und das nächste Spiel de facto nicht mitspielen aber dafür meine Helden hochleveln. Der Rest der Warband wird danach dazugekauft.  
+
+Diesmal sind auch zwei Redshirt Henchmen als Bauernopfer vorgesehen um meine Heroes routen zu lassen.
