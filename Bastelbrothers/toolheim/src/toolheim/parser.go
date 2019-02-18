@@ -4,6 +4,7 @@ import (
 	"regexp"
 	"strconv"
 	"strings"
+	"fmt"
 
 	"github.com/davecgh/go-spew/spew"
 	"github.com/ghodss/yaml"
@@ -19,6 +20,7 @@ type Warband struct {
 	Heros          []*Hero          `json:"heros"`
 	HenchmenGroups []*HenchmenGroup `json:"henchmen"`
 	Notes          []string         `json:"notes"`
+	Objective		string			`json:"objective"`
 }
 
 type WarbandName struct {
@@ -41,6 +43,7 @@ type Hero struct {
 	Armour		*ItemList	`json:"armour,omitempty"`
 	Rules		*ItemList	`json:"rules,omitempty"`
 	SkillLists	*ItemList	`json:"skilllists,omitempty"`
+	bSkillLists	Skilllist
 }
 
 type HenchmenGroup struct {
@@ -139,6 +142,36 @@ func ParseWarband(warbandDefinition []byte) Warband {
 		warband.Rating = warband.Rating + h.Experience + 5
 		if h.WarbandAddition > 0 {
 			warband.Rating = warband.Rating + h.WarbandAddition
+		}
+		// hier text Skill listen-Name zu boolschen Wert umwandeln
+		fmt.Println(">>")
+		fmt.Println(h.SkillLists.List)
+		fmt.Println(h.bSkillLists)
+		h.bSkillLists.Speed = false
+        h.bSkillLists.Shooting = false
+        h.bSkillLists.Special = false
+        h.bSkillLists.Combat = false
+        h.bSkillLists.Academic = false
+        h.bSkillLists.Strength = false
+		for _, s := range h.SkillLists.List {
+			if strings.EqualFold(s, "Speed") {
+				h.bSkillLists.Speed = true
+			}
+			if strings.EqualFold(s, "Shooting") {
+				h.bSkillLists.Shooting = true
+			}
+			if strings.EqualFold(s, "Special") {
+				h.bSkillLists.Special = true
+			}
+			if strings.EqualFold(s, "Combat") {
+				h.bSkillLists.Combat = true
+			}
+			if strings.EqualFold(s, "Academic") {
+				h.bSkillLists.Academic = true
+			}
+			if strings.EqualFold(s, "Strength") {
+				h.bSkillLists.Strength = true
+			}
 		}
 	}
 

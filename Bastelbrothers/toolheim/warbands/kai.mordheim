@@ -2,7 +2,8 @@ warband: Orks, Goblins and Squigs (Orks)
 campaign: 3
 gc: 3
 shards: 1
-equipment: 
+equipment: none
+objective: Scruge of the realm
 
 heros:
     - hero: Grumlog & Gazbag (Ork leader) [23XP]
@@ -31,7 +32,7 @@ heros:
       rules:
       skilllists: Strength, Shooting, Combat, Special
 
-    - hero: Wogga (Shaman) [16XP]
+    - hero: Wogga (Shaman) [12XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9
       weapons: Hand weapon, Dagger
       rules: Clubba

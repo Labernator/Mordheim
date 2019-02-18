@@ -1,7 +1,6 @@
 warband: The Revolting Dwarfs (Dwarf Rangers)
-rating: 119
 campaign: 2
-
+objective: Zwergenaufstand
 gc: 52
 shards: 2
 equipment: 
@@ -12,27 +11,33 @@ heros:
       weapons: Axe, Dagger
       armour: Helmet
       rules: Leader, Blackblood
+      warbandaddition: 5
+      skilllists: Strength, combat
 
     - hero: Floki (Apprentice Runesmith) [2XP]
       stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld9
       weapons: Axe, Dagger
       rules: Extra Set Of Hands
+      skilllists: Strength, combat
 
     - hero: Bjorn (Troll Slayer) [8XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9
       weapons: Axe, Axe
       rules: Deathwish
+      skilllists: Strength, combat
 
     - hero: Ivar (Troll Slayer) [11XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9
       weapons: Axe, Axe
       rules: Deathwish, Two Handed Master
+      skilllists: Strength, combat
       
     - hero: Gordon (Halfling Scout) [0XP]
       stats: M4, WS2, BS4, S2, T2, W1, I4, A1, Ld8
       weapons: Bow, Dagger
       armour: Cooking Pot
       rules: Cook
+      skilllists: Strength, combat
 
 henchmen:
     - group: Beard Mob (5 Beardling) [4XP]
