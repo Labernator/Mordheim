@@ -1,6 +1,6 @@
 warband: The Revolting Dwarfs (Dwarf Rangers)
 campaign: 2
-objective: Zwergenaufstand
+objective: Celestial Protectorate
 gc: 52
 shards: 2
 equipment: 
@@ -8,36 +8,36 @@ equipment:
 heros:
     - hero: Ragnar (Runesmith) [22XP]
       stats: M3, WS5, BS4, S3, T4, W1, I2, A1, Ld10
+      skilllists: Combat, Shooting, Academic, Strength, Special
       weapons: Axe, Dagger
       armour: Helmet
       rules: Leader, Blackblood
       warbandaddition: 5
-      skilllists: Strength, combat
 
     - hero: Floki (Apprentice Runesmith) [2XP]
+      skilllists: Combat, Academic, Strength, Special
       stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld9
       weapons: Axe, Dagger
       rules: Extra Set Of Hands
-      skilllists: Strength, combat
 
     - hero: Bjorn (Troll Slayer) [8XP]
+      skilllists: Combat, Academic, Strength, Special
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9
       weapons: Axe, Axe
       rules: Deathwish
-      skilllists: Strength, combat
 
     - hero: Ivar (Troll Slayer) [11XP]
+      skilllists: Combat, Strength, Special
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9
       weapons: Axe, Axe
       rules: Deathwish, Two Handed Master
-      skilllists: Strength, combat
       
     - hero: Gordon (Halfling Scout) [0XP]
+      skilllists: Shooting, Speed, Special
       stats: M4, WS2, BS4, S2, T2, W1, I4, A1, Ld8
       weapons: Bow, Dagger
       armour: Cooking Pot
       rules: Cook
-      skilllists: Strength, combat
 
 henchmen:
     - group: Beard Mob (5 Beardling) [4XP]
@@ -49,4 +49,5 @@ henchmen:
       weapons: Dagger, Dagger
 
 notes:
-  - Muss noch angepasst werden
+  - "Special Rules: Hard to kill, Hard Head, Armour, Hate Orcs and Goblins, Grudgebearers, Incomarable Miners, Don't Trust 'Em"
+  - Roll for runes!!
