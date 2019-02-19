@@ -38,6 +38,7 @@ heros:
       weapons: Bow, Dagger
       armour: Cooking Pot
       rules: Cook
+      hiredsword: true
 
 henchmen:
     - group: Beard Mob (5 Beardling) [4XP]

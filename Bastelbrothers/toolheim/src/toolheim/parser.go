@@ -38,7 +38,9 @@ type Hero struct {
 	Type		string
 	Experience	int
 	WarbandAddition	int		`json:"warbandaddition,omitempty"`
-	Stats		*Stats		`json:"stats"`
+	Stats		*Stats		`json:"stats,omitempty"`
+	Large		bool		`json:"large"`
+	HiredSword	bool		`json:"hiredsword"`
 	Weapons		*ItemList	`json:"weapons,omitempty"`
 	Armour		*ItemList	`json:"armour,omitempty"`
 	Rules		*ItemList	`json:"rules,omitempty"`
@@ -52,6 +54,7 @@ type HenchmenGroup struct {
 	Number     int
 	Type       string
 	Experience int
+	Large      bool      `json:"large"`
 	Stats      *Stats    `json:"stats"`
 	Weapons    *ItemList `json:"weapons"`
 	Armour     *ItemList `json:"armour"`
@@ -139,7 +142,11 @@ func ParseWarband(warbandDefinition []byte) Warband {
 		h.Name = strings.TrimSpace(matches[1])
 		h.Type = strings.TrimSpace(matches[2])
 		h.Experience, _ = strconv.Atoi(strings.TrimSpace(matches[3]))
-		warband.Rating = warband.Rating + h.Experience + 5
+		if !h.Large {
+			warband.Rating = warband.Rating + h.Experience + 5
+		} else {
+			warband.Rating = warband.Rating + h.Experience + 20
+		}
 		if h.WarbandAddition > 0 {
 			warband.Rating = warband.Rating + h.WarbandAddition
 		}
@@ -182,7 +189,12 @@ func ParseWarband(warbandDefinition []byte) Warband {
 		hg.Number, _ = strconv.Atoi(strings.TrimSpace(matches[2]))
 		hg.Type = strings.TrimSpace(matches[3])
 		hg.Experience, _ = strconv.Atoi(strings.TrimSpace(matches[4]))
-		warband.Rating = warband.Rating + (hg.Experience + 5) * hg.Number
+		if !hg.Large {
+			warband.Rating = warband.Rating + (hg.Experience + 5) * hg.Number
+		} else {
+			warband.Rating = warband.Rating + (hg.Experience + 20) * hg.Number
+		}
+
 	}
 
 	spew.Dump(warband)
