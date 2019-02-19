@@ -38,7 +38,9 @@ type Hero struct {
 	Type		string
 	Experience	int
 	WarbandAddition	int		`json:"warbandaddition,omitempty"`
-	Stats		*Stats		`json:"stats"`
+	Stats		*Stats		`json:"stats,omitempty"`
+	Large		bool		`json:"large"`
+	HiredSword	bool		`json:"hiredsword"`
 	Weapons		*ItemList	`json:"weapons,omitempty"`
 	Armour		*ItemList	`json:"armour,omitempty"`
 	Rules		*ItemList	`json:"rules,omitempty"`
