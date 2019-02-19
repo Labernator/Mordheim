@@ -1,5 +1,10 @@
 
 import random
+import copy
+
+class Prestate:
+    w = 0
+    state = 0
 
 class Unit:
     name = "troll"
@@ -10,6 +15,8 @@ class Unit:
     w = 3
     a = 3
     state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
+    stunnedMin = 3
+    stunnedMax = 4
 
     weapon = [
         {
@@ -28,13 +35,90 @@ class Unit:
     ]
 
 #####
+troll = Unit()
+
+#####
+oger = Unit()
+oger.name = "pit fighter oger"
+oger.t  = 4
+oger.s  = 4
+oger.w  = 3
+oger.a  = 2
+oger.ws = 3
+oger.weapon = [
+    {
+        "type" : "flail",
+        "s" : 0,
+        "firstRoundSAdd" : 2,
+        "offhand" : False,
+        "toHitOffhand" : 0,
+        "toHit" : 0,
+        "as" : 0,
+        "a" : 0,
+        "stunnedMin" : 3,
+        "stunnedMax" : 4,
+        "range" : False,
+    },
+    {
+        "type" : "dagger",
+        "s" : 0,
+        "firstRoundSAdd" : 0,
+        "offhand" : True,
+        "toHitOffhand" : 1,
+        "toHit" : 0,
+        "as" : 1,
+        "a" : 0,
+        "stunnedMin" : 3,
+        "stunnedMax" : 4,
+        "range" : False,
+    }
+]
+
+#####
+ork_shaman = Unit()
+ork_shaman.name = "wogga"
+ork_shaman.t  = 4
+ork_shaman.s  = 3
+ork_shaman.w  = 1
+ork_shaman.a  = 1
+ork_shaman.ws = 4
+ork_shaman.weapon = [
+    {
+        "type" : "clubbba",
+        "s" : 2,
+        "firstRoundSAdd" : 0,
+        "offhand" : False,
+        "toHitOffhand" : 0,
+        "toHit" : 0,
+        "as" : 0,
+        "a" : 1,
+        "stunnedMin" : 3,
+        "stunnedMax" : 4,
+        "range" : False,
+    },
+    {
+        "type" : "dagger",
+        "s" : 0,
+        "firstRoundSAdd" : 0,
+        "offhand" : True,
+        "toHitOffhand" : 1,
+        "toHit" : 0,
+        "as" : 1,
+        "a" : 0,
+        "stunnedMin" : 3,
+        "stunnedMax" : 4,
+        "range" : False,
+    }
+]
+
+#####
 beastmen = Unit()
 beastmen.name = "beastmen"
 beastmen.t = 4
 beastmen.s = 3
 beastmen.ws = 4
 beastmen._as = 0
-beastmen.w = 2
+beastmen.w = 1
 beastmen.a = 1
 beastmen.state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
 # first weapon
@@ -48,10 +132,12 @@ beastmen.weapon = [
         "toHit" : 0,
         "as" : 0,
         "a" : 0,
+        "stunnedMin" : 3,
+        "stunnedMax" : 4,
         "range" : False,
     }
 ]
-###
+#
 mutant = Unit()
 mutant.name = "mutant"
 mutant.t = 6
@@ -72,9 +158,50 @@ mutant.weapon = [
         "toHit" : 0,
         "as" : 0,
         "a" : 0,
+        "stunnedMin" : 3,
+        "stunnedMax" : 4,
         "range" : False,
     }
 ]
+dwarf1 = Unit()
+dwarf1.name = "dwarf 1"
+dwarf1.t = 4
+dwarf1.s = 3
+dwarf1.ws = 3
+dwarf1._as = 0
+dwarf1.w = 1
+dwarf1.a = 1
+dwarf1.stunnedMax = 5
+dwarf1.weapon = [
+    {
+        "type" : "gromril axe",
+        "s" : 0,
+        "firstRoundSAdd" : 0,
+        "offhand" : False,
+        "toHitOffhand" : 0,
+        "toHit" : 0,
+        "as" : -2,
+        "a" : 0,
+        "stunnedMin" : 3,
+        "stunnedMax" : 4,
+        "range" : False,
+    },
+    {
+        "type" : "gromril axe",
+        "s" : 0,
+        "firstRoundSAdd" : 0,
+        "offhand" : True,
+        "toHitOffhand" : 0,
+        "toHit" : 0,
+        "as" : -2,
+        "a" : 0,
+        "stunnedMin" : 3,
+        "stunnedMax" : 4,
+        "range" : False,
+    }
+]
+dwarf2 = copy.deepcopy(dwarf1)
+dwarf2.name = "dwarf 2"
 
 #####
 ob1 = Unit()
@@ -97,6 +224,8 @@ ob1.weapon = [
         "toHit" : 0,
         "as" : 1,
         "a" : 0,
+        "stunnedMin" : 3,
+        "stunnedMax" : 4,
         "range" : False,
     }
     ,
@@ -109,45 +238,37 @@ ob1.weapon = [
         "toHit" : 0,
         "as" : 1,
         "a" : 0,
+        "stunnedMin" : 3,
+        "stunnedMax" : 4,
         "range" : False,
     }
 ]
-###
-ob2 = Unit()
+#
+ob2 = copy.deepcopy(ob1)
 ob2.name = "ork boy 2"
-ob2.t = 4
-ob2.s = 3
-ob2.ws = 3
-ob2._as = 0
-ob2.w = 1
-ob2.a = 1
-ob2.state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
-# the weapon
-ob2.weapon = [
-    {
-        "type" : "dagger",
-        "s" : 0,
-        "firstRoundSAdd" : 0,
-        "offhand" : True,
-        "toHitOffhand" : 1,
-        "toHit" : 0,
-        "as" : 1,
-        "a" : 0,
-        "range" : False,
-    }
-    ,
-    {
-        "type" : "dagger",
-        "s" : 0,
-        "firstRoundSAdd" : 0,
-        "offhand" : False,
-        "toHitOffhand" : 1,
-        "toHit" : 0,
-        "as" : 1,
-        "a" : 0,
-        "range" : False,
-    }
-]
+#
+ob3 = copy.deepcopy(ob1)
+ob3.name = "ork boy 3"
+#
+g1 = Unit()
+g1.name = "goblin 1"
+g1.t = 3
+g1.s = 3
+g1.ws = 3
+g1._as = 0
+g1.w = 1
+g1.a = 1
+g1.state = 0
+g1.weapon = copy.deepcopy(ob1.weapon)
+#
+g2 = copy.deepcopy(g1)
+g2.name = "goblin 2"
+#
+g3 = copy.deepcopy(g1)
+g3.name = "goblin 3"
+#
+g4 = copy.deepcopy(g1)
+g4.name = "goblin 4"
 
 def rollD6():
     return random.randint(1,6)
@@ -191,10 +312,15 @@ def attack(u1, u2, wn, first_round = False):
 
     u2_w_old = u2.w
 
-    # HIT
-    hit_granted = tryToHit(u1, u2, wn)
-    if hit_granted == True:
+    # TODO betrachtung der pre states einfuehren
+    if u2.state == 0:
+        # HIT
+        hit_granted = tryToHit(u1, u2, wn)
+    else:
+        print "\tauto hit"
+        hit_granted = True # autohit because the target is knocked down   
 
+    if hit_granted == True:
         # WOUND
         wound_granted = tryToWound(u1, u2, wn, first_round)
         if wound_granted == True:
@@ -206,7 +332,7 @@ def attack(u1, u2, wn, first_round = False):
                 print "\t\twound"
 
                 # INJURY
-                tryToInjure(u1, u2, u2_w_old)
+                tryToInjure(u1, u2, wn, u2_w_old)
             else:
                 print "\t\tno wound"
 
@@ -238,6 +364,7 @@ def tryToWound(u1, u2, wn, first_round = False):
     tmp_s = 0
     if first_round == True:
         tmp_s = u1.weapon[wn]["firstRoundSAdd"]
+    tmp_s = tmp_s + u1.weapon[wn]["s"]
     minWoundRoll = getMinWoundRoll(u1.s + tmp_s, u2.t)
     roll = rollD6()
 
@@ -286,7 +413,7 @@ def tryArmorSave(u1, u2, wn):
 
     return False
 
-def tryToInjure(u1, u2, u2_w_old):
+def tryToInjure(u1, u2, wn, u2_w_old):
     injury_addition = 0
     if u2.w > 0:
         u2.w = u2.w - 1;
@@ -294,7 +421,7 @@ def tryToInjure(u1, u2, u2_w_old):
         injury_addition = 1
         print "\t\t\tinjury roll +1"
 
-    doInjuryRoll(u2, injury_addition)
+    doInjuryRoll(u1, u2, wn, injury_addition)
     # hier auch die injudies erwurfeln wenn u2.w = 0 ist und der angreifer u1 mehr als eine wunde in dieser runde verursacht hat
     # bedingungen:
     # u2.w == 0
@@ -302,15 +429,16 @@ def tryToInjure(u1, u2, u2_w_old):
     # u1.wunden ausgeloest > 0
     # anz injury rolls = u1.
 
-def doInjuryRoll(u2, injury_addition):
+def doInjuryRoll(u1, u2, wn, injury_addition):
     if u2.w == 0:
         roll = rollD6() + injury_addition
         print "\t\t\tinjury roll: " + str(roll)
-        if roll < 3:
+        # TODO stunnedMax und stunnedMin von unit und waffen beachten
+        if roll < u1.weapon[wn]["stunnedMin"]:
             print "\t\t\tknocked down"
             if u2.state == 0:
                 u2.state = 1
-        elif roll > 2 and roll < 5:
+        elif roll >= u1.weapon[wn]["stunnedMin"] and roll <= u2.stunnedMax:
             print "\t\t\tstunned"
             if u2.state < 2:
                 u2.state = 2
@@ -364,18 +492,37 @@ def doFight(attacker, target, first_round = False):
         elif target.state == 1: # knocked down
             doAllAttacks(attacker, target)
         elif target.state == 2:
-            target.state = 3 # out of action
+            print "\n----------"
+            printChar(attacker)
+            printChar(target)
+            print
+
             print "\t\tauto hit & wound"
-            print "\t\tauto ooa"
+            print "\t\tauto ooa\n"
+
+            target.state = 3 # out of action
+
+            printChar(attacker)
+            printChar(target)
+            print
+
+def allAttackersDead(attackers):
+    allAttackersDead = True
+    for a in attackers:
+        if a.state < 3:
+            allAttackersDead = False
+            break
+    return allAttackersDead
 
 if __name__ == "__main__":
 
-    attackers = [ ob1, ob2 ]
+    attackers = [ g1, g2, ob1 ]
     target = mutant
     first_round = True
 
     rounds = 0
-    while not (attackers[0].state == 3 or attackers[1].state == 3) and target.state < 3:
+
+    while allAttackersDead(attackers) == False and target.state < 3:
         for attacker in attackers:
             if attacker.state == 0:
                 # TODO reihenfolge anhaengig von stunned/knockdown/initiative/strikeFirst/strikeLast
@@ -395,8 +542,8 @@ if __name__ == "__main__":
 
     print "\n----------"
     print str(rounds) + " rounds done"
-    printChar(ob1)
-    printChar(ob2)
+    for u in attackers:
+        printChar(u)
     printChar(target)
     print
 
