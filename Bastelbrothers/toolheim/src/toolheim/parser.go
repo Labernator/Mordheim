@@ -141,7 +141,11 @@ func ParseWarband(warbandDefinition []byte) Warband {
 		h.Name = strings.TrimSpace(matches[1])
 		h.Type = strings.TrimSpace(matches[2])
 		h.Experience, _ = strconv.Atoi(strings.TrimSpace(matches[3]))
-		warband.Rating = warband.Rating + h.Experience + 5
+		if !h.Large {
+			warband.Rating = warband.Rating + h.Experience + 5
+		} else {
+			warband.Rating = warband.Rating + h.Experience + 20
+		}
 		if h.WarbandAddition > 0 {
 			warband.Rating = warband.Rating + h.WarbandAddition
 		}
@@ -184,7 +188,12 @@ func ParseWarband(warbandDefinition []byte) Warband {
 		hg.Number, _ = strconv.Atoi(strings.TrimSpace(matches[2]))
 		hg.Type = strings.TrimSpace(matches[3])
 		hg.Experience, _ = strconv.Atoi(strings.TrimSpace(matches[4]))
-		warband.Rating = warband.Rating + (hg.Experience + 5) * hg.Number
+		if !h.Large {
+			warband.Rating = warband.Rating + (hg.Experience + 5) * hg.Number
+		} else {
+			warband.Rating = warband.Rating + (hg.Experience + 20) * hg.Number
+		}
+
 	}
 
 	spew.Dump(warband)
