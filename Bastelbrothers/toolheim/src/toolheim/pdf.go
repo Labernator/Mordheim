@@ -26,6 +26,9 @@ func MakePDF(warband Warband) {
 	henchmen_cnt := 0
 	hero_sum_xp := 0
 	hero_cnt := 0
+	hiredsword_sum_xp := 0
+	hiredsword_cnt := 0
+	large_cnt := 0
 
 	for i, hero := range warband.Heros {
 		posY := 43
@@ -158,11 +161,17 @@ func MakePDF(warband Warband) {
 			}
 		}
 
-		// Skill lists
-		// TODO mark skill lists
+		if !hero.Large && !hero.HiredSword {
+			hero_sum_xp = hero_sum_xp + hero.Experience
+			hero_cnt = hero_cnt + 1
+		} else if hero.Large {
+			hero_sum_xp = hero_sum_xp + hero.Experience
+			large_cnt = large_cnt + 1
+		} else if hero.HiredSword {
+			hiredsword_sum_xp = hiredsword_sum_xp + hero.Experience
+			hiredsword_cnt = hiredsword_cnt + 1
+		}
 
-		hero_sum_xp = hero_sum_xp + hero.Experience
-		hero_cnt = hero_cnt + 1
 	}
 
 	startY := offsetY + 50
@@ -260,8 +269,13 @@ func MakePDF(warband Warband) {
 			pdf.Write(0, "X")
 		}
 
-		henchmen_sum_xp = henchmen_sum_xp + (henchmen.Experience * henchmen.Number)
-		henchmen_cnt = henchmen_cnt + henchmen.Number
+		if !henchmen.Large {
+			henchmen_sum_xp = henchmen_sum_xp + (henchmen.Experience * henchmen.Number)
+			henchmen_cnt = henchmen_cnt + henchmen.Number
+		} else if hero.Large {
+			henchmen_sum_xp = henchmen_sum_xp + (henchmen.Experience * henchmen.Number)
+			large_cnt = large_cnt + 1
+		}
 	}
 
 	// Statistic page
@@ -282,10 +296,10 @@ func MakePDF(warband Warband) {
         for j, e := range warband.Equipment.List {
             pdf.SetXY(123 + float64(offsetX), float64(offsetY + 6 + (j * 5)))
             pdf.Write(11, e)
-			if j == 4 {
-				offsetX = 40
-				offsetY = -25
-			}
+	if j == 4 {
+	offsetX = 40
+	offsetY = -25
+	}
         }
     }
 
@@ -312,10 +326,21 @@ func MakePDF(warband Warband) {
 
 	pdf.SetFont("Arial", "B", 10)
 	pdf.SetXY(22.05, 18.0)
-	pdf.Write(0, strconv.Itoa(hero_cnt+henchmen_cnt))
+	pdf.Write(0, strconv.Itoa(hero_cnt+henchmen_cnt+hiredswords_cnt))
 	pdf.SetFont("Arial", "", 10)
 	pdf.SetXY(60.0, 18.0)
-	pdf.Write(0, strconv.Itoa((hero_cnt+henchmen_cnt) * 5))
+	pdf.Write(0, strconv.Itoa((hero_cnt+henchmen_cnt+hiredswords_cnt) * 5))
+
+	pdf.SetFont("Arial", "B", 10)
+	pdf.SetXY(22.05, 21.25)
+	pdf.Write(0, strconv.Itoa(large_cnt))
+	pdf.SetFont("Arial", "", 10)
+	pdf.SetXY(60.0, 21.25)
+	pdf.Write(0, strconv.Itoa((large_cnt) * 20))
+
+	pdf.SetFont("Arial", "", 10)
+	pdf.SetXY(60.0, 24.5)
+	pdf.Write(0, strconv.Itoa(hiredswords_sum_xp))
 
 	pdf.SetFont("Arial", "B", 10)
 	pdf.SetXY(95, 11.25)
