@@ -12,6 +12,8 @@ heros:
       armour: Helmet, Lucky charm
       rules: Leader
       warbandaddition: 5
+      large: false
+      hiredsword: false
       skilllists: Strength, Shooting, Combat, Speed, Special
 
     - hero: Grommok (Big'Un) [16XP]

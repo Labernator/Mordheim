@@ -1,0 +1,38 @@
+warband: My sample warband (Marienburg)
+campaign: 0
+gc: 300
+shards: 5
+campaign: 25
+equipment: Chaos artefact
+objective: My campaign objective
+
+heros:
+    - hero: The leader (pit king) [13XP]
+      stats: M8, WS4, BS4, S4, T5, W2, I4, A2, Ld9, Sv-
+      weapons: Axe, Axe
+      armour: Helmet, Heavy armor, Lucky charm
+      rules: Leader, Pit fighter
+      warbandaddition: 25
+      skilllists: Strength, Shooting, Combat, Speed, Special
+
+    - hero: Troll slayer (hired sword) [12XP]
+      stats: M3, WS4, BS2, S4, T4, W1, I2, A1, Ld9, Sv-
+      weapons: Hand weapon, Dagger
+      rules: Hates orks, ...
+      hiredsword: true
+      skilllists: Strength, Special
+
+henchmen:
+    - group: Odd (1 Troll) [0XP]
+      stats: M6, WS3, BS0, S5, T4, W3, I2, A3, Ld3, Sv-
+      weapons: Big club
+      armor: Heavy armor
+      large: true
+      rules: Stupid, Regeneration, Fearful
+
+    - group: Sample henchmen (4 Gor) [1XP]
+      stats: M5, WS2, BS3, S3, T3, W1, I3, A1, Ld5, Sv-
+      weapons: Dagger, Dagger
+
+notes:
+  - Muss noch angepasst werden
