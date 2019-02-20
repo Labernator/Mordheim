@@ -62,7 +62,10 @@ func MakePDF(warband Warband) {
 
 		pdf.SetY(float64(offsetY + 24))
 		pdf.SetX(6)
-		pdf.Write(11, strconv.Itoa(hero.Stats.Movement))
+		if len(hero.Stats.Movement) > 1 {
+			pdf.SetX(3)
+		}
+		pdf.Write(11, hero.Stats.Movement)
 		pdf.SetX(13)
 		pdf.Write(11, strconv.Itoa(hero.Stats.WeaponSkill))
 		pdf.SetX(20)
@@ -144,7 +147,7 @@ func MakePDF(warband Warband) {
 		}
 
 		// XP
-		pdf.SetFont("Arial", "B", 20)
+		pdf.SetFont("Arial", "", 20)
 		pdf.SetXY(185, float64(offsetY+28))
 		pdf.Write(20, strconv.Itoa(hero.Experience))
 		y := 0.0
@@ -217,7 +220,10 @@ func MakePDF(warband Warband) {
 
 		pdf.SetY(float64(offsetY + 18))
 		pdf.SetX(6)
-		pdf.Write(11, strconv.Itoa(henchmen.Stats.Movement))
+		if len(henchmen.Stats.Movement) > 1 {
+			pdf.SetX(3)
+		}
+		pdf.Write(11, henchmen.Stats.Movement)
 		pdf.SetX(13)
 		pdf.Write(11, strconv.Itoa(henchmen.Stats.WeaponSkill))
 		pdf.SetX(20)
