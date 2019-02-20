@@ -56,8 +56,8 @@ func MakePDF(warband Warband) {
 		pdf.Write(11, hero.Type)
 
 		// Stats
-		pdf.SetFillColor(255, 255, 255)
-		pdf.SetFont("Arial", "B", 13)
+		pdf.SetFillColor(255, 0, 0)
+		pdf.SetFont("Arial", "", 13)
 		pdf.SetFontUnitSize(5)
 
 		pdf.SetY(float64(offsetY + 24))
@@ -296,20 +296,20 @@ func MakePDF(warband Warband) {
 	pdf.SetY(5)
 	pdf.Image("images/wb_stats.png", 5, 0, 1499*0.133, 218*0.133, true, "", 0, "")
 
-    // Equipment
-    pdf.SetFont("Arial", "", 10)
+	// Equipment
+	pdf.SetFont("Arial", "", 10)
 	offsetX := 0
 	offsetY = 0
-    if warband.Equipment != nil {
-        for j, e := range warband.Equipment.List {
-            pdf.SetXY(123 + float64(offsetX), float64(offsetY + 6 + (j * 5)))
-            pdf.Write(11, e)
+	if warband.Equipment != nil {
+		for j, e := range warband.Equipment.List {
+			pdf.SetXY(123 + float64(offsetX), float64(offsetY + 6 + (j * 5)))
+			pdf.Write(11, e)
 	if j == 4 {
 	offsetX = 40
 	offsetY = -25
 	}
-        }
-    }
+		}
+	}
 
 	pdf.SetFont("Arial", "B", 10)
 	pdf.SetXY(60, 32.0)
@@ -379,6 +379,11 @@ func MakePDF(warband Warband) {
 	pdf.SetFont("Arial", "B", 10)
 	pdf.SetXY(22, 46.25)
 	pdf.Write(0, warband.Objective)
+
+	pdf.SetFont("Arial", "", 10)
+	pdf.SetXY(147, 60.0)
+	pdf.Write(0, strconv.Itoa(warband.CampaignPoints))
+
 	row := 0
 	for x := 1; x <= warband.CampaignPoints; x++ {
 		pdf.SetFont("Arial", "B", 8)
@@ -402,10 +407,6 @@ func MakePDF(warband Warband) {
 	pdf.SetXY(40, float64(offsetY+21))
 	pdf.Write(20, strconv.Itoa(routtest))
 
-	offsetY = offsetY + 20
-	pdf.SetFont("Arial", "B", 13)
-	pdf.SetXY(20, float64(offsetY+21))
-	pdf.Write(20, strconv.Itoa(warband.CampaignPoints))
 */
 
 	// TODO: Make output name variable or use name of the input file
