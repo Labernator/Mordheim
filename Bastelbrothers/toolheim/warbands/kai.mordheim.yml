@@ -72,7 +72,7 @@ henchmen:
       rules: Animosity
 
     - group: Squigs (5 Squig) [0XP]
-      stats: M2, WS4, BS0, S4, T3, W1, I4, A1, Ld6, Sv-
+      stats: 2D6, WS4, BS0, S4, T3, W1, I4, A1, Ld6, Sv-
       rules: Movement, Minderz, Not orks, Animals
 
 notes:
