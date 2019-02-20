@@ -8,7 +8,7 @@ objective: My campaign objective
 
 heros:
     - hero: The leader (pit king) [13XP]
-      stats: M8, WS4, BS4, S4, T5, W2, I4, A2, Ld9, Sv-
+      stats: M8, WS4, BS4, S4, T5, W2, I4, A2, Ld9, Sv4
       weapons: Axe, Axe
       armour: Helmet, Heavy armor, Lucky charm
       rules: Leader, Pit fighter
