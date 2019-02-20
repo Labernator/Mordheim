@@ -1,0 +1,23 @@
+# This file contains the skill lists, written in plain simple english
+# but precise and to the point. This file can be used to link with the 
+# warband roaster of as a quick reference for the special rules for
+# the skills.
+# Use brackets [] to mark weapons, dive rolls and other important
+# aspects. This makes it even quicker to gasp the rule(s). Feel free
+# to add and correct skills.
+
+Common:
+  Driver: Reroll result on Out of Control chart.
+  Money Maker: Additional [D6+2] GC in post game sequence.
+
+Combat:
+  Expert Axeman: Reroll all failed hits with [Axe] when charging.
+  Two-Weapon Master: Ignore the -2 to hit penalty for the off-hand weapon.
+  Disarm: Before normal attacks, declare weapon to disarm, then [roll to hit] ([-2WS] for single handed, [-3WS] for 2 handed weapon). Opponent can recover weapon in recovery phase.
+  Combat Master: +1 attack when 2+ opponents in hand to hand combat. No [All Alone] test. [Prereq 2 combat skills]
+
+Special:
+  Troll Slayer:
+    Fated: Reroll serious insuries once.
+    Berserker: +1 to hit.
+    Sweeping Strike: +1 attack for all models in base contact.

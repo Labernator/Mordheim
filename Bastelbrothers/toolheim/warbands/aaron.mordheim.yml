@@ -1,13 +1,13 @@
 warband: The Revolting Dwarfs (Dwarf Rangers)
 campaign: 2
-objective: Celestial Protectorate
+objective: The Lure of Fortune
 gc: 52
 shards: 2
 equipment: 
 
 heros:
     - hero: Ragnar (Runesmith) [22XP]
-      stats: M3, WS5, BS4, S3, T4, W1, I2, A1, Ld10
+      stats: M3, WS5, BS4, S3, T4, W1, I2, A1, Ld10, Sv-
       skilllists: Combat, Shooting, Academic, Strength, Special
       weapons: Axe, Dagger
       armour: Helmet
@@ -16,25 +16,25 @@ heros:
 
     - hero: Floki (Apprentice Runesmith) [2XP]
       skilllists: Combat, Academic, Strength, Special
-      stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld9
+      stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld9, Sv-
       weapons: Axe, Dagger
       rules: Extra Set Of Hands
 
     - hero: Bjorn (Troll Slayer) [8XP]
       skilllists: Combat, Academic, Strength, Special
-      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9
+      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       weapons: Axe, Axe
       rules: Deathwish
 
     - hero: Ivar (Troll Slayer) [11XP]
       skilllists: Combat, Strength, Special
-      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9
+      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       weapons: Axe, Axe
-      rules: Deathwish, Two Handed Master
+      rules: Deathwish, Two-Weapon Master
       
     - hero: Gordon (Halfling Scout) [0XP]
       skilllists: Shooting, Speed, Special
-      stats: M4, WS2, BS4, S2, T2, W1, I4, A1, Ld8
+      stats: M4, WS2, BS4, S2, T2, W1, I4, A1, Ld8, Sv-
       weapons: Bow, Dagger
       armour: Cooking Pot
       rules: Cook
@@ -42,13 +42,12 @@ heros:
 
 henchmen:
     - group: Beard Mob (5 Beardling) [4XP]
-      stats: M3, WS4, BS2, S3, T4, W1, I2, A1, Ld8
+      stats: M3, WS4, BS2, S3, T4, W1, I2, A1, Ld8, Sv-
       weapons: Dagger, Dagger
 
     - group: The Enforcers (3 Beardling) [1XP]
-      stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld8
+      stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld8, Sv-
       weapons: Dagger, Dagger
 
 notes:
-  - "Special Rules: Hard to kill, Hard Head, Armour, Hate Orcs and Goblins, Grudgebearers, Incomarable Miners, Don't Trust 'Em"
-  - Roll for runes!!
+  - Roll for runes
