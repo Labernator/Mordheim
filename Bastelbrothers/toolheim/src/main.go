@@ -5,10 +5,11 @@ import (
 	"io/ioutil"
 
 	"toolheim"
-	"fmt"
+	//"fmt"
 )
 
 var warbandFile = flag.String("warband", "", ".mordheim warband definition file to work with")
+var multiPage = flag.Bool("multipage", false, ".flag to generate multipage PDF")
 
 func main() {
 	flag.Parse()
@@ -19,6 +20,6 @@ func main() {
 	}
 
 	warband := toolheim.ParseWarband(yamlContent)
-	fmt.Println(warband.Rating)
-	toolheim.MakePDF(warband)
+	//fmt.Println(warband.Rating)
+	toolheim.MakePDF(warband, *multiPage)
 }
