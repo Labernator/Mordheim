@@ -21,6 +21,14 @@ type Warband struct {
 	HenchmenGroups []*HenchmenGroup `json:"henchmen"`
 	Notes          []string         `json:"notes"`
 	Objective		string			`json:"objective"`
+	henchmen_sum_xp   int
+	henchmen_cnt      int
+	hero_sum_xp       int
+	hero_cnt          int
+	hiredsword_sum_xp int
+	hiredsword_cnt    int
+	large_cnt         int
+
 }
 
 type WarbandName struct {
@@ -144,14 +152,24 @@ func ParseWarband(warbandDefinition []byte) Warband {
 		h.Name = strings.TrimSpace(matches[1])
 		h.Type = strings.TrimSpace(matches[2])
 		h.Experience, _ = strconv.Atoi(strings.TrimSpace(matches[3]))
-		if !h.Large {
-			warband.Rating = warband.Rating + h.Experience + 5
-		} else {
-			warband.Rating = warband.Rating + h.Experience + 20
-		}
 		if h.WarbandAddition > 0 {
 			warband.Rating = warband.Rating + h.WarbandAddition
 		}
+
+		if !h.Large && !h.HiredSword {
+			warband.Rating = warband.Rating + h.Experience + 5
+			warband.hero_sum_xp = warband.hero_sum_xp + h.Experience
+			warband.hero_cnt = warband.hero_cnt + 1
+		} else if h.Large {
+			warband.Rating = warband.Rating + h.Experience + 20
+			warband.hero_sum_xp = warband.hero_sum_xp + h.Experience
+			warband.large_cnt = warband.large_cnt + 1
+		} else if h.HiredSword {
+			warband.Rating = warband.Rating + h.Experience + 5
+			warband.hiredsword_sum_xp = warband.hiredsword_sum_xp + h.Experience
+			warband.hiredsword_cnt = warband.hiredsword_cnt + 1
+		} // TODO it is not possible that a large hired sword can be added
+
 		// hier text Skill listen-Name zu boolschen Wert umwandeln
 		fmt.Println(">>")
 		fmt.Println(h.SkillLists.List)
@@ -192,8 +210,12 @@ func ParseWarband(warbandDefinition []byte) Warband {
 		hg.Type = strings.TrimSpace(matches[3])
 		hg.Experience, _ = strconv.Atoi(strings.TrimSpace(matches[4]))
 		if !hg.Large {
+			warband.henchmen_sum_xp = warband.henchmen_sum_xp + (hg.Experience * hg.Number)
+			warband.henchmen_cnt = warband.henchmen_cnt + hg.Number
 			warband.Rating = warband.Rating + (hg.Experience + 5) * hg.Number
 		} else {
+			warband.henchmen_sum_xp = warband.henchmen_sum_xp + (hg.Experience * hg.Number)
+			warband.large_cnt = warband.large_cnt + 1
 			warband.Rating = warband.Rating + (hg.Experience + 20) * hg.Number
 		}
 
