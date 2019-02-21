@@ -31,9 +31,10 @@ Open a terminal
 ## ToolHeim Usage
 
 ### General help:
-
-    $ ./toolheim.<extension> --help
-
+```
+  $ ./toolheim.<extension> --help
+```
 ### Generate the PDF (warband-roaster.pdf) from a .mordheim file:
-
-    $ ./toolheim.<extension> -warband <yourfilename>.mordheim.yml
+```
+  $ ./toolheim.<extension> -warband <yourfilename>.mordheim.yml
+```
