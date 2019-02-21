@@ -13,6 +13,8 @@ Halfling Scout (15 GC, 5 Rating)
 
 **Objective:** The Celestial Protectorate
 
+**Allignement:** Lawful/Neutral
+
 **Warband Rating:** 63
 
 **Campaign Points:** 0
