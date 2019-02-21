@@ -3,7 +3,8 @@ package toolheim
 import (
 	"math"
 	"strconv"
-	"fmt"
+	//"fmt"
+
 	"github.com/jung-kurt/gofpdf"
 )
 
@@ -32,7 +33,6 @@ func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 
 	shiftY := 44
 	for i, hero := range warband.Heros {
-		fmt.Printf(strconv.Itoa(i))
 		if i > 0 {
 			offsetY = offsetY + shiftY
 		}
@@ -84,7 +84,7 @@ func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 		pdf.SetX(59.5)
 		pdf.Write(11, strconv.Itoa(hero.Stats.Leadership))
 		pdf.SetX(66.0)
-		pdf.Write(11, strconv.Itoa(hero.Stats.Save))
+		pdf.Write(11, hero.Stats.Save)
 
 		// Skill lists
 		if hero.bSkillLists.Combat == true {
@@ -252,7 +252,7 @@ func MakeHenchmenPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 		pdf.SetX(59.5)
 		pdf.Write(11, strconv.Itoa(henchmen.Stats.Leadership))
 		pdf.SetX(66.0)
-		pdf.Write(11, strconv.Itoa(henchmen.Stats.Save))
+		pdf.Write(11, henchmen.Stats.Save)
 
 		// Weapons
 		if henchmen.Weapons != nil {
@@ -439,7 +439,6 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 
 func MakePDF(warband Warband, multiPage bool) {
 	pdf := gofpdf.New("P", "mm", "A4", "")
-    fmt.Printf("%T\n", pdf)
 	pdf.SetTextColor(text_color_r, text_color_g, text_color_b)
 
 	MakeStatisticPage(warband, pdf)
