@@ -6,6 +6,13 @@ Pursuer: 2 Dagger (27 GC, 5 Rating)
 Halfling Scout (15 GC, 5 Rating)  
 
 => Warband Kosten: 258  
-=> Warband Rating: 63  
 
-Noch 242 GC übrig
+**Treasure Chest:** 242 GC 
+
+**Alignment:** ??
+
+**Objective:** The Celestial Protectorate
+
+**Warband Rating:** 63
+
+**Campaign Points:** 0
