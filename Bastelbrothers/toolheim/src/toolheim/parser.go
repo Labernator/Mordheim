@@ -4,9 +4,9 @@ import (
 	"regexp"
 	"strconv"
 	"strings"
-	"fmt"
+	//"fmt"
 
-	"github.com/davecgh/go-spew/spew"
+	//"github.com/davecgh/go-spew/spew"
 	"github.com/ghodss/yaml"
 )
 
@@ -84,7 +84,7 @@ type Stats struct {
 	Initiative     int
 	Attacks        int
 	Leadership     int
-	Save           int
+	Save           string
 }
 
 type Skilllist struct {
@@ -108,7 +108,7 @@ func (stats *Stats) UnmarshalJSON(b []byte) error {
 	stats.Initiative, _ = strconv.Atoi(matches[7])
 	stats.Attacks, _ = strconv.Atoi(matches[8])
 	stats.Leadership, _ = strconv.Atoi(matches[9])
-	stats.Save, _ = strconv.Atoi(matches[10])
+	stats.Save = matches[10]
 
 	return nil
 }
@@ -171,9 +171,6 @@ func ParseWarband(warbandDefinition []byte) Warband {
 		} // TODO it is not possible that a large hired sword can be added
 
 		// hier text Skill listen-Name zu boolschen Wert umwandeln
-		fmt.Println(">>")
-		fmt.Println(h.SkillLists.List)
-		fmt.Println(h.bSkillLists)
 		h.bSkillLists.Speed = false
         h.bSkillLists.Shooting = false
         h.bSkillLists.Special = false
@@ -221,7 +218,7 @@ func ParseWarband(warbandDefinition []byte) Warband {
 
 	}
 
-	spew.Dump(warband)
+	//spew.Dump(warband)
 
 	return warband
 }
