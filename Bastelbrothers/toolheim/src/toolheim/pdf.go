@@ -340,7 +340,7 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	pdf.SetXY(60, float64(offsetY)+32.0)
 	pdf.Write(0, strconv.Itoa(warband.Rating))
 
-	routtest := int(math.RoundToEven(float64(warband.hero_cnt+warband.henchmen_cnt) / 4.0))
+	routtest := int(math.RoundToEven(float64(warband.hero_cnt+warband.henchmen_cnt+warband.large_cnt+warband.hiredsword_cnt) / 4.0))
 
 	pdf.SetFont("Arial", "", 10)
 	pdf.SetXY(72.5, float64(offsetY)+32.0)
@@ -373,6 +373,9 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	pdf.SetXY(60.0, float64(offsetY)+21.25)
 	pdf.Write(0, strconv.Itoa((warband.large_cnt) * 20))
 
+	pdf.SetFont("Arial", "B", 10)
+	pdf.SetXY(27.05, float64(offsetY)+24.5)
+	pdf.Write(0, "( "+strconv.Itoa(warband.hiredsword_cnt)+" )")
 	pdf.SetFont("Arial", "", 10)
 	pdf.SetXY(60.0, float64(offsetY)+24.5)
 	pdf.Write(0, strconv.Itoa(warband.hiredsword_sum_xp))
