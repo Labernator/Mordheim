@@ -1,7 +1,6 @@
 package toolheim
 
 import (
-	"math"
 	"strconv"
 	//"fmt"
 
@@ -38,7 +37,7 @@ func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 		}
 
 		// handle multipage henchmen lists
-		if offsetY > 297-40 {
+		if offsetY > 297-60 {
 			pdf.AddPage()
 			offsetY = 0
 		}
@@ -340,8 +339,6 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	pdf.SetXY(60, float64(offsetY)+32.0)
 	pdf.Write(0, strconv.Itoa(warband.Rating))
 
-	routtest := int(math.RoundToEven(float64(warband.hero_cnt+warband.henchmen_cnt+warband.large_cnt+warband.hiredsword_cnt) / 4.0))
-
 	pdf.SetFont("Arial", "", 10)
 	pdf.SetXY(72.5, float64(offsetY)+32.0)
 	pdf.SetTextColor(0, 0, 0)
@@ -349,7 +346,7 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	pdf.SetFont("Arial", "", 10)
 	pdf.SetTextColor(text_color_r, text_color_g, text_color_b)
 	pdf.SetXY(95, float64(offsetY)+32.0)
-	pdf.Write(0, strconv.Itoa(routtest))
+	pdf.Write(0, strconv.Itoa(warband.routtest))
 
 	pdf.SetFont("Arial", "", 10)
 	pdf.SetXY(60, float64(offsetY)+11.25)
@@ -412,9 +409,18 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 		}
 	}
 
-	offsetY = offsetY + 29
+	// Notes block 
+	offsetY = offsetY + 35
+	pdf.SetXY(5, float64(offsetY))
+	pdf.Image("images/notes.png", 5, 0, 1499*0.133, 218*0.33, true, "", 0, "")
 
-	// TODO add campaign achievments here
+	for i := 0; i < len(warband.Notes); i++ {
+		pdf.SetXY(7.0, float64(offsetY + 8 + i * 8))
+        pdf.Write(0, warband.Notes[i])
+	}
+
+	// the space after
+	offsetY = offsetY + 70
 
 /*
 	pdf.SetFont("Arial", "B", 13)

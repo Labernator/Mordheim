@@ -4,6 +4,7 @@ import (
 	"regexp"
 	"strconv"
 	"strings"
+	"math"
 	//"fmt"
 
 	//"github.com/davecgh/go-spew/spew"
@@ -28,6 +29,7 @@ type Warband struct {
 	hiredsword_sum_xp int
 	hiredsword_cnt    int
 	large_cnt         int
+	routtest          int
 
 }
 
@@ -217,6 +219,8 @@ func ParseWarband(warbandDefinition []byte) Warband {
 		}
 
 	}
+
+	warband.routtest = int(math.RoundToEven(float64(warband.hero_cnt+warband.henchmen_cnt+warband.large_cnt+warband.hiredsword_cnt) / 4.0))
 
 	//spew.Dump(warband)
 
