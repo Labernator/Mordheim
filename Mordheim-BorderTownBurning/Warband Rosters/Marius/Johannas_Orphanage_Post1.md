@@ -73,7 +73,7 @@ Gromril hammer, Heavy Armor, Dagger
 
 **Alignment:** Lawful
 
-**Objective:** The Damned shall burn 
+**Objective:** The Celestial Protectorate
 
 **Warband Rating:** 155
 
