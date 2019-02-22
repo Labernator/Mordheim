@@ -12,16 +12,16 @@ import (
 )
 
 type Warband struct {
-	Warband        *WarbandName     `json:"warband"`
-	Rating         int              `json:"rating"`
-	CampaignPoints int              `json:"campaign"`
-	GoldCrowns     int              `json:"gc"`
-	Shards         int              `json:"shards"`
-	Equipment      *ItemList        `json:"equipment"`
-	Heros          []*Hero          `json:"heros"`
-	HenchmenGroups []*HenchmenGroup `json:"henchmen"`
-	Notes          []string         `json:"notes"`
-	Objective		string			`json:"objective"`
+	Warband           *WarbandName     `json:"warband"`
+	Rating            int              `json:"rating"`
+	CampaignPoints    int              `json:"campaign"`
+	GoldCrowns        int              `json:"gc"`
+	Shards            int              `json:"shards"`
+	Equipment         *ItemList        `json:"equipment"`
+	Heros             []*Hero          `json:"heros"`
+	HenchmenGroups    []*HenchmenGroup `json:"henchmen"`
+	Notes             string           `json:"notes"`
+	Objective         string           `json:"objective"`
 	henchmen_sum_xp   int
 	henchmen_cnt      int
 	hero_sum_xp       int

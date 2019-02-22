@@ -414,9 +414,11 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	pdf.SetXY(5, float64(offsetY))
 	pdf.Image("images/notes.png", 5, 0, 1499*0.133, 218*0.33, true, "", 0, "")
 
-	for i := 0; i < len(warband.Notes); i++ {
+	pdf.SetFont("Arial", "", 12)
+	lines := pdf.SplitLines([]byte(warband.Notes), 195)
+	for i := 0; i < len(lines); i++ {
 		pdf.SetXY(7.0, float64(offsetY + 8 + i * 8))
-        pdf.Write(0, warband.Notes[i])
+		pdf.Write(0, string(lines[i]))
 	}
 
 	// the space after
