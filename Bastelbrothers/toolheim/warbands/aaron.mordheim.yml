@@ -49,5 +49,5 @@ henchmen:
       stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld8, Sv-
       weapons: Dagger, Dagger
 
-notes:
-  - Roll for runes
+notes: |
+  Roll for runes

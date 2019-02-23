@@ -35,4 +35,5 @@ henchmen:
       weapons: Dagger, Dagger
 
 notes:
-  - Muss noch angepasst werden
+  Zusammenhängender Text
+  der auch auf mehrere Zeilen verteilt werden kann. Und der auch automatisch umgebrochen wird.

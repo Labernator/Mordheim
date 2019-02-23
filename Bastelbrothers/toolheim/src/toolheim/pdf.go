@@ -146,6 +146,12 @@ func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 			}
 		}
 
+		if hero.HiredSword {
+			// show hired sword marker
+			pdf.SetXY(0, float64(offsetY) + 38.5)
+			pdf.Image("images/hiredsword_marker.png", 6, 0, 421*0.053, 97*0.053, true, "", 0, "")
+		}
+
 		// XP
 		pdf.SetFont("Arial", "", 20)
 		pdf.SetXY(185, float64(offsetY+28))
