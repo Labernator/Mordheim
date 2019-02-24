@@ -220,7 +220,10 @@ func ParseWarband(warbandDefinition []byte) Warband {
 
 	}
 
-	warband.routtest = int(math.RoundToEven(float64(warband.hero_cnt+warband.henchmen_cnt+warband.large_cnt+warband.hiredsword_cnt) / 4.0))
+	warband.routtest = int(math.RoundToEven(float64(warband.hero_cnt + warband.henchmen_cnt + warband.large_cnt + warband.hiredsword_cnt) / 4.0))
+	if float64(warband.hero_cnt + warband.henchmen_cnt + warband.large_cnt + warband.hiredsword_cnt) / 4.0 > float64(warband.routtest) {
+		warband.routtest = warband.routtest + 1
+	}
 
 	//spew.Dump(warband)
 

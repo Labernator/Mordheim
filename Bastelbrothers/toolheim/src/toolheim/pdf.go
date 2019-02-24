@@ -139,10 +139,17 @@ func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 			}
 		}
 
+		ox := 0
+		oy := 0
 		if hero.Rules != nil {
 			for j, rule := range hero.Rules.List {
-				pdf.SetXY(75, float64(offsetY+6+(j*5)))
+				pdf.SetXY(float64(75 + ox), float64(offsetY + 6 + (j * 5) + oy))
 				pdf.Write(11, rule)
+				if j == 3 {
+					// start right of the first line after 4th line
+					ox = 30
+					oy = -20
+				}
 			}
 		}
 

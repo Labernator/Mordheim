@@ -44,7 +44,7 @@ heros:
 #      stats: M4, WS4, BS3, S4, T4, W1, I2, A1, Ld7, Sv3
 #      weapons: Axe, Axe
 #      armour: heavy armour, helmet
-#      rules: I said shut it'!, Who's da Boss!, Whose Da Man?, Independent
+#      rules: I said shut it'!, Who's da Boss!, Whose Da Man?, Independent, Black Ork
 #      skilllists: Strength, Combat, Special
 #      hiredsword: true
 
@@ -85,6 +85,7 @@ henchmen:
 
 #    - group: Gor (1 Troll) [0XP]
 #      stats: M6, WS3, BS1, S5, T4, W3, I1, A3, Ld4, Sv4
+#      weapons: Big club, Heavy armour
 #      large: true
 #      rules: Stupidity, Fear, Always hungry, Vomit attack
 
