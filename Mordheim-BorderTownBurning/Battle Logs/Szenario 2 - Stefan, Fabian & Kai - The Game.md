@@ -5,7 +5,7 @@
 **Warband Rating:**  
  - Stefan: 63  
  - Fabian 137
- - Kai: 199  
+ - Kai: 195
 
 **Underdog:** Stefan erhält +3XP fürs Überleben  
  

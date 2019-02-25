@@ -349,7 +349,7 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	}
 
 	pdf.SetFont("Arial", "B", 10)
-	pdf.SetXY(60, float64(offsetY)+32.0)
+	pdf.SetXY(55, float64(offsetY)+32.0)
 	pdf.Write(0, strconv.Itoa(warband.Rating))
 
 	pdf.SetFont("Arial", "", 10)
@@ -362,32 +362,35 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	pdf.Write(0, strconv.Itoa(warband.routtest))
 
 	pdf.SetFont("Arial", "", 10)
-	pdf.SetXY(60, float64(offsetY)+11.25)
+	pdf.SetXY(55, float64(offsetY)+11.25)
 	pdf.Write(0, strconv.Itoa(warband.hero_sum_xp))
 
+	pdf.SetXY(60, float64(offsetY)+11.25)
+	pdf.Write(0, "(+"+strconv.Itoa(warband.warbandAddition_sum)+")")
+
 	pdf.SetFont("Arial", "", 10)
-	pdf.SetXY(60, float64(offsetY)+14.75)
+	pdf.SetXY(55, float64(offsetY)+14.75)
 	pdf.Write(0, strconv.Itoa(warband.henchmen_sum_xp))
 
 	pdf.SetFont("Arial", "B", 10)
 	pdf.SetXY(22.05, float64(offsetY)+18.0)
 	pdf.Write(0, strconv.Itoa(warband.hero_cnt+warband.henchmen_cnt+warband.hiredsword_cnt))
 	pdf.SetFont("Arial", "", 10)
-	pdf.SetXY(60.0, float64(offsetY)+18.0)
+	pdf.SetXY(55.0, float64(offsetY)+18.0)
 	pdf.Write(0, strconv.Itoa((warband.hero_cnt+warband.henchmen_cnt+warband.hiredsword_cnt) * 5))
 
 	pdf.SetFont("Arial", "B", 10)
 	pdf.SetXY(32.05, float64(offsetY)+21.25)
 	pdf.Write(0, strconv.Itoa(warband.large_cnt))
 	pdf.SetFont("Arial", "", 10)
-	pdf.SetXY(60.0, float64(offsetY)+21.25)
+	pdf.SetXY(55.0, float64(offsetY)+21.25)
 	pdf.Write(0, strconv.Itoa((warband.large_cnt) * 20))
 
 	pdf.SetFont("Arial", "B", 10)
 	pdf.SetXY(27.05, float64(offsetY)+24.5)
 	pdf.Write(0, "( "+strconv.Itoa(warband.hiredsword_cnt)+" )")
 	pdf.SetFont("Arial", "", 10)
-	pdf.SetXY(60.0, float64(offsetY)+24.5)
+	pdf.SetXY(55.0, float64(offsetY)+24.5)
 	pdf.Write(0, strconv.Itoa(warband.hiredsword_sum_xp))
 
 	pdf.SetFont("Arial", "B", 10)

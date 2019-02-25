@@ -12,24 +12,25 @@ import (
 )
 
 type Warband struct {
-	Warband           *WarbandName     `json:"warband"`
-	Rating            int              `json:"rating"`
-	CampaignPoints    int              `json:"campaign"`
-	GoldCrowns        int              `json:"gc"`
-	Shards            int              `json:"shards"`
-	Equipment         *ItemList        `json:"equipment"`
-	Heros             []*Hero          `json:"heros"`
-	HenchmenGroups    []*HenchmenGroup `json:"henchmen"`
-	Notes             string           `json:"notes"`
-	Objective         string           `json:"objective"`
-	henchmen_sum_xp   int
-	henchmen_cnt      int
-	hero_sum_xp       int
-	hero_cnt          int
-	hiredsword_sum_xp int
-	hiredsword_cnt    int
-	large_cnt         int
-	routtest          int
+	Warband             *WarbandName     `json:"warband"`
+	Rating              int              `json:"rating"`
+	CampaignPoints      int              `json:"campaign"`
+	GoldCrowns          int              `json:"gc"`
+	Shards              int              `json:"shards"`
+	Equipment           *ItemList        `json:"equipment"`
+	Heros               []*Hero          `json:"heros"`
+	HenchmenGroups      []*HenchmenGroup `json:"henchmen"`
+	Notes               string           `json:"notes"`
+	Objective           string           `json:"objective"`
+	henchmen_sum_xp     int
+	henchmen_cnt        int
+	hero_sum_xp         int
+	hero_cnt            int
+	hiredsword_sum_xp   int
+	hiredsword_cnt      int
+	large_cnt           int
+	routtest            int
+    warbandAddition_sum int
 
 }
 
@@ -156,6 +157,7 @@ func ParseWarband(warbandDefinition []byte) Warband {
 		h.Experience, _ = strconv.Atoi(strings.TrimSpace(matches[3]))
 		if h.WarbandAddition > 0 {
 			warband.Rating = warband.Rating + h.WarbandAddition
+			warband.warbandAddition_sum = warband.warbandAddition_sum + h.WarbandAddition
 		}
 
 		if !h.Large && !h.HiredSword {
