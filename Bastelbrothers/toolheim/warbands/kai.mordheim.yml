@@ -7,7 +7,7 @@ objective: Scrooge of the realm
 
 heros:
     - hero: Grumlok & Gazbag (Ork leader) [23XP]
-      stats: M4, WS3, BS4, S4, T4, W1, I3, A1, Ld8, Sv-
+      stats: M4, WS4, BS4, S4, T4, W1, I3, A1, Ld8, Sv-
       weapons: Axe, Dagger
       armour: Helmet, Lucky charm
       rules: Leader
@@ -23,19 +23,19 @@ heros:
       skilllists: Strength, Shooting, Combat, Special
 
     - hero:  Ug'Lash (Big'Un) [16XP]
-      stats: M4, WS4, BS3, S3, T4, W1, I2, A1, Ld7, Sv-
+      stats: M4, WS4, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
       weapons: Hand weapon, Dagger
       rules:
       skilllists: Strength, Shooting, Combat, Special
 
     - hero: Karhag (Big'Un) [16XP]
-      stats: M4, WS4, BS3, S3, T4, W1, I2, A1, Ld7, Sv-
+      stats: M4, WS4, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
       weapons: Hand weapon, Dagger
       rules:
       skilllists: Strength, Shooting, Combat, Special
 
     - hero: Wogga (Shaman) [12XP]
-      stats: M4, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
+      stats: M4, WS4, BS3, S3, T4, W1, I3, A1, Ld9, Sv-
       weapons: Hand weapon, Dagger
       rules: Clubba
       skilllists: Strength, Special
@@ -80,14 +80,14 @@ henchmen:
       rules: Animosity
 
     - group: Squigs (5 Squig) [0XP]
-      stats: M2D6, WS4, BS0, S4, T3, W1, I4, A1, Ld6, Sv-
+      stats: M2D6, WS4, BS0, S4, T3, W1, I4, A1, Ld5, Sv-
       rules: Movement, Minderz, Not orks, Animals
 
 #    - group: Gor (1 Troll) [0XP]
 #      stats: M6, WS3, BS1, S5, T4, W3, I1, A3, Ld4, Sv4
 #      weapons: Big club, Heavy armour
 #      large: true
-#      rules: Stupidity, Fear, Always hungry, Vomit attack
+#      rules: Stupidity, Fear, Always hungry, Vomit attack, Cant become a hero
 
 notes: |
          If encounter beastmen: roll D6 "Traces to Chaos"
