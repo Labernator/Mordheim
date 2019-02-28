@@ -64,6 +64,6 @@ Der Schrecken verdeckt. Das Grollen verstummt.
 Die Schatten in der Nacht. Sie schreiten voran. Unaufhaltsam.
 Von Dunkelheit umhüllt. Weiter Voran. Bie Zähne gebleckt.
 Hunrig, Knurrend, Hasserfüllt.
-Teuflische Schatten in Ruinen der Nacht. Unaufhaltsam. Das Böse erwacht.
+Teuflische Schatten in Ruinen der Nacht. Unaufhaltsam. Das Böse erwacht. Der Fluch.
 
 Sie kommen.
