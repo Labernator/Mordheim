@@ -2,70 +2,68 @@ Blut und Donner.
 Blut.
 Donner.
 Feuer.
-In strömenden Regen.
+Strömender Regen.
 Nässe.
 Blitze.
 Sturm.
 
 Eine Fackel zappelt unruhig in der Nacht.
 Fettiges Öl weicht langsam der verdünnten Plörre in Lappen.
-Wenig gelbe in der Flamme. Es war mehr blau und dunkel. Erstickend.
+Wenig gelb in der Flamme. Es war mehr blau und dunkel. Erstickend.
 
 Er hielt sie fest umglammert. Aber er ging voran. Hielt sie in seiner rechten Pranke.
 Knarzend hatt er sie fest im Griff. Sie Schwankte in der Bewegung jedes Schrittes.
-Warm, nicht mehr Heiß brennt das Feuer. Mit leisem prickeln und knacken.
-Immer wieder schwach brennende kleine Fetzen fallen lassend.
-Die Pranke, grün. Scharfe abgewetzte Klauen, Nägel, wie Dolche an jedem Finger.
-Im schwachen Schein des Feuers nur schemenhaft zu erkennen. Aus der ferne schwebend in der Dunkelheit.
+Warm, nicht mehr Heiß, brennt das Feuer. Mit leisem prickeln und knacken.
+Immer wieder fallen kleine Fetzen, nur schwach brennend.
+Die Pranke, grün. Scharfe abgewetzte Klauen, Nägel, wie Dolche an jedem Finger. Tötlich.
+Im schwachen Schein des Feuers nur schemenhaft zu erkennen.
+Aus der ferne, schwebend in der Dunkelheit.
 Schatten in der Nacht.
 
-Noch schwächer. Umrisse seiner Massiven Gestalt, des Trägers rechter Oberkörper.
-Ein massiver Ork. In der Nacht. Die Zähne gebleckt. Ein Schatten auf der Schulter.
-Behäbig stampfend.
+Schwach zu sehen. Umrisse seiner Massiven Gestalt, des Trägers rechter Oberkörper. Kantig, schartig.
+Und ruppig. Ein massiver Ork. In der Nacht. Die Zähne gebleckt. Ein unwirsch wackelnder Schatten auf Schultern.
+Behäbig stampfend. Er schreitet voran.
 
-Mit starken Beinen durch die Ruinen. Ruinen von tiefen Pfützen übersäht. Mit jedem Schritt platzschende Geräusche.
-Er war durchnässt und hungrig. Ein grimmiges funkeln in Augen. Hasserfüllt.
-Suchend. Er ist auf der Suche. Nicht nach Nahrung. Er hat Durst. Ein schier unstillbares Verlangen.
-Nach Krieg. Blut. Kampf. Schätzen. Es treibt Ihn an. Es treibt Sie voran.
+Mit starken Beinen durch die Ruinen. Übersäht von tiefen Pfützen. Platzschende Geräusche der Schritte.
+Er war durchnässt und hungrig. Grimmiges funkeln blitzt in seinen in Augen. Hasserfüllt.
+Suchend. Heimsuchend. Nahrung, nein. Es ist der Durst. Schier unstillbares Verlangen.
+Es treibt Ihn an. Es treibt  Sie  voran.
 
-Drei dutzend Augen. Mehr noch. In Ihren Augen, das Licht der Fackel. Spiegelnd wie Katzenaugen.
-Teuflich funkelnd. Glühend rot und gelb. Wie brennendes Blut.
-So viele Augen. Der Schritte schwankend im flackernden Licht. So viele Augen. Ein Fluch.
+Drei dutzend Augen, mehr. In Ihren Augen, das Licht der Fackel. Widerspigelnd wie Katzenaugen.
+Teuflich funkelnd. Glühend rot mit gelb durchbohrendem starren Blick. Wie brennendes Blut.
+So viele Augen. Der Schritte schwankend im leise flackernden Licht. So viele Augen.
 
-Dann.
 Wieder Donner.
-Silbrig gleißendes Licht zuckt in dünnen Bahnen durch tief hängenden Gewitterwolken.
-Die Stadt erleuchtet. Die Ruinen. Die Überreste.
+Silbrig gleißendes weißes Licht zuckt, in dünnen Bahnen durch tief hängenden Gewitterwolken.
+Die Stadt erleuchtet. Die Ruinen. Die Überreste der Plünderrei.
 Für Bruchteile taghell.
-
-Frei von Schatten.
+Frei von den Schatten.
 
 Das Außmas der kommenden Katastrophe enthüllt.
-Ebenso wie das der vergangenen.
+Wie das der vergangenen.
 
-Unheilvoll entblöst.
-
-Entfesselt.
+Unheilvoll entblöst - Entfesselt.
 
 Die Heimsuchung im vollem Schein.
+Der erleuchtete Fluch. Der Fluch des Reiches.
 
-Der erleuchtete Fluch.
+Untriebig. Unaufhaltsam. Unnachgiebig. Auf Ihrem Weg.
 
-Untriebig. Unaufhaltsam. Auf Ihrem Weg.
+Grollendes Grbrüll, durch das Licht entflammt. Wütend, feindseliges dröhnen.
+Unheilvoll wiederhallend durch die Nacht. Ein Vorbote, an alle die es hören können.
 
-Grollendes Grbrüll, mit dem Licht entflammt. Wütend und feindselig erklungen.
-Unheilvoll schallend durch die Nacht. Ein Vorbote an alle die es hören können.
-
-Rastlose Krieger. Gehüllt in schwere Felle. Schwere Rüstungen. Hungrig. Durstig.
+Strahlend erhellt, rastlose Krieger. Gehüllt in schwere Felle. Schwere Rüstungen. Hungrig. Durstig.
 Rostig schartiger Stahl sorglos am Körper verstaut. Nass. Hass in Ihren zusammengekniffenen Augen.
-Seelenlos. Geschöpfe der Nacht. Der Tod derjeniger die Ihren Weg kreuzen werden.
+Seelenlos. Geschöpfe der Nacht. Der Tod derjeniger die Ihren Weg kreuzen werden. Die Zähne gebleckt.
 
-Vertraute Dunkelheit.
-Der Schrecken verdeckt.
+Auf Ihrem Weg.
 
-Die Schatten in der Nacht schreiten voran. Unaufhaltsam.
-Von Dunkelheit umhüllt. Immer weiter Voran. Bie Zähne bleckend voran.
-Hunrig. Knurrend. Hasserfüllt.
-Teuflische Schatten in der Ruine. Unaufhaltsam.
+Vertraute Dunkelheit, wieder.
+Der Schrecken verdeckt. Das Grollen verstummt.
+
+Die Schatten in der Nacht. Sie schreiten voran. Unaufhaltsam.
+Von Dunkelheit umhüllt. Weiter Voran. Bie Zähne gebleckt.
+Hunrig, Knurrend, Hasserfüllt.
+Teuflische Schatten in Ruinen der Nacht. Unaufhaltsam. Das Böse erwacht.
 
 Sie kommen.
