@@ -1,9 +1,9 @@
 warband: The Revolting Dwarfs (Dwarf Rangers)
 campaign: 2
 objective: The Lure of Fortune
-gc: 52
+gc: 19
 shards: 2
-equipment: 
+equipment:
 
 heros:
     - hero: Ragnar (Runesmith) [22XP]
@@ -20,7 +20,7 @@ heros:
       weapons: Axe, Dagger
       rules: Extra Set Of Hands
 
-    - hero: Bjorn (Troll Slayer) [8XP]
+    - hero: Bjorn (Troll Slayer) [9XP]
       skilllists: Combat, Academic, Strength, Special
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       weapons: Axe, Axe
@@ -31,7 +31,7 @@ heros:
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       weapons: Axe, Axe
       rules: Deathwish, Two-Weapon Master
-      
+
     - hero: Gordon (Halfling Scout) [0XP]
       skilllists: Shooting, Speed, Special
       stats: M4, WS2, BS4, S2, T2, W1, I4, A1, Ld8, Sv-
@@ -50,4 +50,10 @@ henchmen:
       weapons: Dagger, Dagger
 
 notes: |
-  Roll for runes
+  Roll for runes before battle (1D6 -> Rune, (2x) 2D6 -> Difficulty (2=damaged, <=no effect, >==profit!)
+  Don't forget Ragnar has Blackblood now! (Anyone in base contact got S3 hit if wounded)
+  Ivar hit on 3 and 3, not 3 and 5 (Two-Weapon Master)
+  Rout test on 4 OOA this time (thanks Gordon) (Roll 2D6; >10 => Game over)
+
+  Hatred on Orcs/Goblins (Reroll missed hit on any fight in first round)
+  Use Bow as much as possible (Range 24", S3)
