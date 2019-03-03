@@ -7,19 +7,19 @@ objective: The Celestial Protectorate
 
 heros:
     - hero: Johanna von Marienburg (Matriarch) [21XP]
-      stats: M8, WS4, BS4, S4, T5, W2, I4, A2, Ld9, Sv4
-      weapons: Axe, Axe
-      armour: Helmet, Heavy armor, Lucky charm
-      rules: Leader, Pit fighter
-      warbandaddition: 25
-      skilllists: Strength, Shooting, Combat, Speed, Special
+      stats: M4, WS4, BS4, S3, T3, W1, I4, A1, Ld8, Sv-
+      weapons: Sigmarite Warhammer, Dagger, Sling
+      armour: Helmet, Heavy armor, Rosary
+      rules: Leader, Pray User [Healing Hands] 
+      warbandaddition: 5
+      skilllists: Strength, Academic, Combat, Speed, Special
 
-    - hero: Troll slayer (hired sword) [12XP]
-      stats: M3, WS4, BS2, S4, T4, W1, I2, A1, Ld9, Sv-
-      weapons: Hand weapon, Dagger
-      rules: Hates orks, ...
-      hiredsword: true
-      skilllists: Strength, Special
+    - hero: Theresa (Augur) [1XP]
+      stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld6, Sv-
+      weapons: Sigmarite Warhammer, Dagger
+      armour: 
+      rules: Blessed Sight
+      skilllists: Academic, Combat, Speed, Special
 
 henchmen:
     - group: Odd (1 Troll) [0XP]
