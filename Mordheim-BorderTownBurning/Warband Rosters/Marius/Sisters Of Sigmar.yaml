@@ -1,0 +1,38 @@
+warband: Johannas Orphanage (Sisters of Sigmar)
+gc: 300
+shards: 1
+campaign: 1
+Alignment: lawful
+objective: The Celestial Protectorate 
+
+heros:
+    - hero: Johanna von Marienburg (Matriarch) [21XP]
+      stats: M8, WS4, BS4, S4, T5, W2, I4, A2, Ld9, Sv4
+      weapons: Axe, Axe
+      armour: Helmet, Heavy armor, Lucky charm
+      rules: Leader, Pit fighter
+      warbandaddition: 25
+      skilllists: Strength, Shooting, Combat, Speed, Special
+
+    - hero: Troll slayer (hired sword) [12XP]
+      stats: M3, WS4, BS2, S4, T4, W1, I2, A1, Ld9, Sv-
+      weapons: Hand weapon, Dagger
+      rules: Hates orks, ...
+      hiredsword: true
+      skilllists: Strength, Special
+
+henchmen:
+    - group: Odd (1 Troll) [0XP]
+      stats: M6, WS3, BS0, S5, T4, W3, I2, A3, Ld3, Sv-
+      weapons: Big club
+      armor: Heavy armor
+      large: true
+      rules: Stupid, Regeneration, Fearful
+
+    - group: Sample henchmen (4 Gor) [1XP]
+      stats: M5, WS2, BS3, S3, T3, W1, I3, A1, Ld5, Sv-
+      weapons: Dagger, Dagger
+
+notes:
+  Zusammenhängender Text
+  der auch auf mehrere Zeilen verteilt werden kann. Und der auch automatisch umgebrochen wird.
