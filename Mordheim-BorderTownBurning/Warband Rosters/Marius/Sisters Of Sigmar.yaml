@@ -1,13 +1,13 @@
 warband: Johannas Orphanage (Sisters of Sigmar)
-gc: 300
+gc: 12
 shards: 1
 campaign: 1
 Alignment: lawful
 objective: The Celestial Protectorate 
 
 heros:
-    - hero: Johanna von Marienburg (Matriarch) [21XP]
-      stats: M4, WS4, BS4, S3, T3, W1, I4, A1, Ld8, Sv-
+    - hero: Johanna von Marienburg (Sigmarite Matriarch) [21XP]
+      stats: M4, WS4, BS4, S3, T3, W1, I4, A1, Ld8, Sv4
       weapons: Sigmarite Warhammer, Dagger, Sling
       armour: Helmet, Heavy armor, Rosary
       rules: Leader, Pray User [Healing Hands] 
@@ -15,11 +15,37 @@ heros:
       skilllists: Strength, Academic, Combat, Speed, Special
 
     - hero: Theresa (Augur) [1XP]
-      stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld6, Sv-
+      stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld7, Sv-
       weapons: Sigmarite Warhammer, Dagger
       armour: 
       rules: Blessed Sight
       skilllists: Academic, Combat, Speed, Special
+
+    - hero: Rosa (Sister Superior) [9XP]
+      stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld7, Sv5
+      weapons: Sigmarite Warhammer, Dagger, Sling
+      armour: Light armor
+      rules:
+      warbandaddition: 
+      skilllists: Strength, Academic, Combat, Speed, Special
+
+- hero: Agustina (Sister Superior) [9XP]
+      stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+      weapons: Sigmarite Warhammer, Dagger, Sling
+      armour:
+      rules:
+      warbandaddition: 
+      skilllists: Strength, Academic, Combat, Speed, Special
+
+- hero: Emilia (Sister Superior) [10XP]
+      stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+      weapons: Sigmarite Warhammer, Dagger, Sling
+      armour: 
+      rules:
+      warbandaddition: 
+      skilllists: Strength, Academic, Combat, Speed, Special
+
+
 
 henchmen:
     - group: Odd (1 Troll) [0XP]
