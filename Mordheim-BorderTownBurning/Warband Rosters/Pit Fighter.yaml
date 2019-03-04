@@ -1,0 +1,48 @@
+warband: Splitterdämmerung (Pit Fighter)
+alignment: lawful/neutral
+objective: The Celestial Protectorate
+campaign: 0
+gc: 242
+shards: 0
+equipment: 
+
+heros:
+    - hero: Helme Haffax (Pit King) [20XP]
+      stats: M4, WS4, BS3, S4, T4, W1, I4, A2, Ld8, Sv4+
+      skilllists: Combat, Academic, Strength, Speed, Special
+      weapons: 2x Dagger
+      armour: Heavy Armour
+      rules: Leader, Pit Fighter
+      warbandaddition: 5
+
+    - hero: Gaius Cordovan Eslam Galotta (Initiate) [0XP]
+      skilllists: Combat, Strength, Special
+      stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld6, Sv-
+      weapons: 2x Dagger
+
+    - hero: Dimiona von Zorgan (Initiate) [0XP]
+      skilllists: Combat, Strength, Special
+      stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld6, Sv-
+      weapons: 2x Dagger
+
+    - hero: Sulman al'Venish (Dwarf Troll Slayer) [8XP]
+      skilllists: Combat, Academic, Strength, Speed, Special
+      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
+      weapons: 2x Dagger
+      rules: Pit Fighter, Hard to Kill, Hard Head, Hate Orcs and Goblins, Grudgebearers, Death Wish
+
+    - hero: Tiny (Halfling Scout) [0XP]
+      skilllists: Shooting, Speed, Special
+      stats: M4, WS2, BS4, S2, T2, W1, I4, A1, Ld8, Sv-
+      weapons: Bow, Dagger
+      armour: Cooking Pot (Helmet)
+      rules: Cook
+      hiredsword: true
+
+henchmen:
+    - group: Unbesiegbare Legion von Yaq~Monnith (1 Pursuer) [0XP]
+      stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+      weapons: 2x Dagger
+      rules: Pit Fighter
+
+notes: 
