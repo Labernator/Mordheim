@@ -1,39 +1,54 @@
-warband: My sample warband (Marienburg)
-campaign: 0
-gc: 300
-shards: 5
-campaign: 25
-equipment: Chaos artefact
-objective: My campaign objective
+warband: Orks, Goblins and Squigs (Orks)
+campaign: 23
+gc: 42
+shards: 1
+equipment: Chaos artifact #1
+objective: Campaign objective here
+alignment: neutral
 
 heros:
-    - hero: The leader (pit king) [13XP]
-      stats: M8, WS4, BS4, S4, T5, W2, I4, A2, Ld9, Sv4
-      weapons: Axe, Axe
-      armour: Helmet, Heavy armor, Lucky charm
-      rules: Leader, Pit fighter
-      warbandaddition: 25
+    - hero: Zwergi (Dwarf leader) [40XP]
+      stats: M9, WS1, BS6, S2, T8, W7, I1, A4, Ld2, Sv-
+      weapons: Two-Handed
+      armour: Helmet, Gromril armor
+      rules: Leader
+      warbandaddition: 5
+      large: false
+      hiredsword: false
       skilllists: Strength, Shooting, Combat, Speed, Special
 
-    - hero: Troll slayer (hired sword) [12XP]
-      stats: M3, WS4, BS2, S4, T4, W1, I2, A1, Ld9, Sv-
-      weapons: Hand weapon, Dagger
-      rules: Hates orks, ...
+    - hero: Black Ork (Black Ork) [10XP]
+      stats: M4, WS4, BS3, S4, T4, W1, I2, A1, Ld7, Sv3
+      weapons: Axe, Axe
+      armour: heavy armour, helmet
+      rules: I said shut it'!, Who's da Boss!, Whose Da Man?, Independent, Black Ork
+      skilllists: Strength, Combat, Special
       hiredsword: true
-      skilllists: Strength, Special
 
 henchmen:
-    - group: Odd (1 Troll) [0XP]
-      stats: M6, WS3, BS0, S5, T4, W3, I2, A3, Ld3, Sv-
-      weapons: Big club
-      armor: Heavy armor
-      large: true
-      rules: Stupid, Regeneration, Fearful
-
-    - group: Sample henchmen (4 Gor) [1XP]
-      stats: M5, WS2, BS3, S3, T3, W1, I3, A1, Ld5, Sv-
+    - group: Goblins (4 Goblin warrior) [2XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I4, A1, Ld5, Sv-
       weapons: Dagger, Dagger
+      armour: light armor, lucky charm, rosary
+      rules: Animosity, Not orks, Runts
 
-notes:
-  Zusammenhängender Text
-  der auch auf mehrere Zeilen verteilt werden kann. Und der auch automatisch umgebrochen wird.
+    - group: Squigs (5 Squig) [0XP]
+      stats: M2D6, WS4, BS0, S4, T3, W1, I4, A1, Ld5, Sv-
+      rules: Movement, Minderz, Not orks, Animals
+
+    - group: Gor (1 Troll) [0XP]
+      stats: M6, WS3, BS1, S5, T4, W3, I1, A3, Ld4, Sv4
+      weapons: Big club, Heavy armour
+      large: true
+      rules: Stupidity, Fear, Always hungry
+
+notes: |
+        - Erste Zeile
+        Zweite Zeile, s e h r  l a n g  ,  d a h e r  w i r d  s i e  u m g e b r o c h e n. Noch mehr Text weil der Zeilenumbruch einfach nicht stattfinden möchte.
+        Umlaute werden noch nicht korrekt dargestellt: ßÖÄÜöäü
+
+achievments: |
+        - Zeile 1
+        - Zwile 2
+        - Zeile 1, Reihe 2
+        - Letzte Zeile, letzte Reihe

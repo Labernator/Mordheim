@@ -4,6 +4,7 @@ gc: 3
 shards: 1
 equipment: none
 objective: Scrooge of the realm
+alignment: chaotic
 
 heros:
     - hero: Grumlok & Gazbag (Ork leader) [23XP]
@@ -79,6 +80,11 @@ henchmen:
       weapons: Dagger, Dagger
       rules: Animosity
 
+#    - group: Golm (1 Ork boy) [0XP]
+#      stats: M4, WS3, BS3, S3, T4, W1, I2, A1, Ld7, Sv-
+#      weapons: Dagger, Dagger
+#      rules: Animosity
+
     - group: Squigs (5 Squig) [0XP]
       stats: M2D6, WS4, BS0, S4, T3, W1, I4, A1, Ld5, Sv-
       rules: Movement, Minderz, Not orks, Animals
@@ -90,9 +96,12 @@ henchmen:
 #      rules: Stupidity, Fear, Always hungry, Vomit attack, Cant become a hero
 
 notes: |
-         - If encounter beastmen: roll D6 "Traces to Chaos"
-         (1-3 nothing happen, 4-5 Leader is frenzy, 6 add 1CP to your warband).
+         - If encounter beastmen: roll D6 "Traces to Chaos" (1-3 nothing happen, 4-5 Leader is frenzy, 6 add 1CP to your warband).
          - Concussion (2-4 stunned bei Clubs) beachten.
-         - Animosity 1 charge henchmen/hired sword if the next unit is not a hero, 2-5 do nothing, 6 charge next foe or move 4". Move another 4" in the movement phase and charge if the next foe is in charge range.
+         - Animosity 1 charge henchmen/hired sword if the next unit is not a hero, 2-5 do nothing, 6 charge
+         next foe or move 4". Move another 4" in the movement phase and charge if the next foe is in charge range.
          - Roll for random happenings.
          - Don't forget to do the fear tests.
+
+achievments: |
+        none

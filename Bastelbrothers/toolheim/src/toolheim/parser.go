@@ -22,6 +22,8 @@ type Warband struct {
 	HenchmenGroups      []*HenchmenGroup `json:"henchmen"`
 	Notes               string           `json:"notes"`
 	Objective           string           `json:"objective"`
+	Alignment           string           `json:"alignment"`
+	Achievments         string           `json:"achievments"`
 	henchmen_sum_xp     int
 	henchmen_cnt        int
 	hero_sum_xp         int
