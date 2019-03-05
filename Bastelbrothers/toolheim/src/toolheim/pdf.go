@@ -415,17 +415,21 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	pdf.Write(0, warband.Objective)
 
 	// achievments block 
-	pdf.SetFont("Arial", "", 12)
-	lines := pdf.SplitLines([]byte(warband.Achievments), 195)
+	pdf.SetFont("Arial", "", 10)
+	lines := pdf.SplitLines([]byte(warband.Achievments), 190)
 	ox := 0
 	oy := 0
 	for i := 0; i < len(lines); i++ {
-		pdf.SetXY(float64(7.0 + ox), float64(offsetY + 16 + i * 8) + float64(oy))
+		pdf.SetXY(float64(7.0 + ox), float64(offsetY + 14 + i * 5) + float64(oy))
 		pdf.Write(0, string(lines[i]))
-        if i == 1 {
-            oy = -16
-            ox = 55
-        }
+		if i == 2 {
+			oy = oy - 18
+			ox = ox + 55
+		}
+		if i == 6 {
+			oy = oy - 20
+			ox = ox + 55
+		}
 	}
 
 	pdf.SetFont("Arial", "", 10)
@@ -448,10 +452,10 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	pdf.SetXY(5, float64(offsetY))
 	pdf.Image("images/notes.png", 5, 0, 1499*0.133, 218*0.33, true, "", 0, "")
 
-	pdf.SetFont("Arial", "", 12)
-	lines = pdf.SplitLines([]byte(warband.Notes), 195)
+	pdf.SetFont("Arial", "", 10)
+	lines = pdf.SplitLines([]byte(warband.Notes), 190)
 	for i := 0; i < len(lines); i++ {
-		pdf.SetXY(7.0, float64(offsetY + 8 + i * 8))
+		pdf.SetXY(7.0, float64(offsetY + 7 + i * 5))
 		pdf.Write(0, string(lines[i]))
 	}
 

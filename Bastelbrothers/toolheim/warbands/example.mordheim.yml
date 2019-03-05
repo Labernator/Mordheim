@@ -38,7 +38,8 @@ henchmen:
 
     - group: Gor (1 Troll) [0XP]
       stats: M6, WS3, BS1, S5, T4, W3, I1, A3, Ld4, Sv4
-      weapons: Big club, Heavy armour
+      weapons: Big club
+      armour: Heavy armour
       large: true
       rules: Stupidity, Fear, Always hungry
 
@@ -48,7 +49,12 @@ notes: |
         Umlaute werden noch nicht korrekt dargestellt: ßÖÄÜöäü
 
 achievments: |
-        - Zeile 1
-        - Zwile 2
-        - Zeile 1, Reihe 2
-        - Letzte Zeile, letzte Reihe
+        - 1
+        - 2
+        - 3
+        - 4
+        - 5
+        - 6
+        - 7
+        - 8 letzte Zeile, mehr geht nicht in das Feld
+
