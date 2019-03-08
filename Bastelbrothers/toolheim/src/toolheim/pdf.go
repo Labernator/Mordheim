@@ -159,6 +159,12 @@ func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 			pdf.Image("images/hiredsword_marker.png", 6, 0, 421*0.053, 97*0.053, true, "", 0, "")
 		}
 
+		if hero.Large {
+			// show large creature marker
+			pdf.SetXY(0, float64(offsetY) + 38.5)
+			pdf.Image("images/large.png", 59.5, 0, 421*0.03, 97*0.05, true, "", 0, "")
+		}
+
 		// XP
 		pdf.SetFont("Arial", "", 20)
 		pdf.SetXY(185, float64(offsetY+28))
@@ -235,6 +241,18 @@ func MakeHenchmenPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 		pdf.SetX(64)
 		pdf.Write(11, strconv.Itoa(henchmen.Number))
 
+		if henchmen.Mount {
+			// show mount marker
+			pdf.SetXY(0, float64(offsetY) + 6.5)
+			pdf.Image("images/mount.png", 58, 0, 421*0.033, 97*0.055, true, "", 0, "")
+		}
+
+		if henchmen.Large {
+			// show large creature marker
+			pdf.SetXY(0, float64(offsetY) + 28.2)
+			pdf.Image("images/large.png", 58.5, 0, 421*0.03, 97*0.050, true, "", 0, "")
+		}
+
 		// Stats
 		pdf.SetFillColor(255, 0, 0)
 
@@ -263,7 +281,11 @@ func MakeHenchmenPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 		pdf.Write(11, strconv.Itoa(henchmen.Stats.Attacks))
 		pdf.SetX(59.5)
 		pdf.Write(11, strconv.Itoa(henchmen.Stats.Leadership))
-		pdf.SetX(66.0)
+		if len(henchmen.Stats.Save) > 1 {
+			pdf.SetX(65.0)
+		} else {
+			pdf.SetX(66.0)
+		}
 		pdf.Write(11, henchmen.Stats.Save)
 
 		// Weapons

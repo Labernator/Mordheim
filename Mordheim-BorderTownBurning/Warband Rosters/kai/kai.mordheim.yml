@@ -95,9 +95,14 @@ henchmen:
 #      large: true
 #      rules: Stupidity, Fear, Always hungry, Vomit attack, Cant become a hero
 
+#    - group: Binky (1 War Boar) [0XP]
+#      stats: M7, WS3, BS0, S3, T4, W1, I3, A1, Ld3, Sv+2
+#      mount: true
+#      rules: Ferocious Charge, Thick Skinned
+
 notes: |
          - If encounter beastmen: roll D6 "Traces to Chaos" (1-3 nothing happen, 4-5 Leader is frenzy, 6 add 1CP to your warband).
-         - Concussion (2-4 stunned bei Clubs) beachten.
+         - Concussion (2-4 stunned bei Clubs).
          - Animosity 1 charge henchmen/hired sword if the next unit is not a hero, 2-5 do nothing, 6 charge
          next foe or move 4". Move another 4" in the movement phase and charge if the next foe is in charge range.
          - Roll for random happenings.

@@ -13,7 +13,7 @@ heros:
       armour: Helmet, Gromril armor
       rules: Leader
       warbandaddition: 5
-      large: false
+      large: true
       hiredsword: false
       skilllists: Strength, Shooting, Combat, Speed, Special
 
@@ -42,6 +42,17 @@ henchmen:
       armour: Heavy armour
       large: true
       rules: Stupidity, Fear, Always hungry
+
+    - group: Pferdi (1 Horse) [0XP]
+      stats: M8, WS1, BS0, S3, T3, W1, I3, A0, Ld5, Sv+1
+      mount: true
+      rules:
+
+    - group: Fury (1 Horse) [0XP]
+      stats: M8, WS1, BS0, S3, T3, W1, I3, A0, Ld5, Sv+1
+      mount: true
+      large: true
+      rules: 
 
 notes: |
         - Erste Zeile
