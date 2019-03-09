@@ -103,24 +103,24 @@ type Skilllist struct {
 }
 
 func (stats *Stats) UnmarshalJSON(b []byte) error {
-	regex := regexp.MustCompile(`"\s*M([0-9]+[dD]*[6]*)\s*,\s*WS([0-9]+)\s*,\s*BS([0-9]+)\s*,\s*S([0-9]+)\s*,\s*T([0-9]+)\s*,\s*W([0-9]+)\s*,\s*I([0-9]+)\s*,\s*A([0-9]+)\s*,\s*Ld([0-9]+)\s*,\s*Sv([0-9\-\+]+)\s*"`)
+	regex   := regexp.MustCompile(`"\s*M([0-9]+[dD]*[6]*)\s*,\s*WS([0-9]+)\s*,\s*BS([0-9]+)\s*,\s*S([0-9]+)\s*,\s*T([0-9]+)\s*,\s*W([0-9]+)\s*,\s*I([0-9]+)\s*,\s*A([0-9]+)\s*,\s*Ld([0-9]+)\s*,\s*Sv([0-9\-\+]+)\s*"`)
 	matches := regex.FindStringSubmatch(string(b))
-	stats.Movement = matches[1]
-	stats.WeaponSkill, _ = strconv.Atoi(matches[2])
+	stats.Movement          = matches[1]
+	stats.WeaponSkill, _    = strconv.Atoi(matches[2])
 	stats.BallisticSkill, _ = strconv.Atoi(matches[3])
-	stats.Strength, _ = strconv.Atoi(matches[4])
-	stats.Toughness, _ = strconv.Atoi(matches[5])
-	stats.Wounds, _ = strconv.Atoi(matches[6])
-	stats.Initiative, _ = strconv.Atoi(matches[7])
-	stats.Attacks, _ = strconv.Atoi(matches[8])
-	stats.Leadership, _ = strconv.Atoi(matches[9])
-	stats.Save = matches[10]
+	stats.Strength, _       = strconv.Atoi(matches[4])
+	stats.Toughness, _      = strconv.Atoi(matches[5])
+	stats.Wounds, _         = strconv.Atoi(matches[6])
+	stats.Initiative, _     = strconv.Atoi(matches[7])
+	stats.Attacks, _        = strconv.Atoi(matches[8])
+	stats.Leadership, _     = strconv.Atoi(matches[9])
+	stats.Save              = matches[10]
 
 	return nil
 }
 
 func (warband *WarbandName) UnmarshalJSON(b []byte) error {
-	regex := regexp.MustCompile(`"([^\(]+)\(([^\)]+)\)`)
+	regex   := regexp.MustCompile(`"([^\(]+)\(([^\)]+)\)`)
 	matches := regex.FindStringSubmatch(string(b))
 	warband.Name = strings.TrimSpace(matches[1])
 	warband.Race = strings.TrimSpace(matches[2])
@@ -128,7 +128,7 @@ func (warband *WarbandName) UnmarshalJSON(b []byte) error {
 }
 
 func (itemList *ItemList) UnmarshalJSON(b []byte) error {
-	items := strings.Split(string(b[1:len(b)-1]), ",")
+	items       := strings.Split(string(b[1:len(b)-1]), ",")
 	for _, item := range items {
 		itemList.List = append(itemList.List, strings.TrimSpace(item))
 	}
@@ -153,10 +153,10 @@ func ParseWarband(warbandDefinition []byte) Warband {
 	}
 
 	for _, h := range warband.Heros {
-		regex := regexp.MustCompile(`([^\(]+)\(([^\)]+)\)\s*\[([0-9]+)XP\]\s*`)
+		regex   := regexp.MustCompile(`([^\(]+)\(([^\)]+)\)\s*\[([0-9]+)XP\]\s*`)
 		matches := regex.FindStringSubmatch(string(h.Header))
-		h.Name = strings.TrimSpace(matches[1])
-		h.Type = strings.TrimSpace(matches[2])
+		h.Name          = strings.TrimSpace(matches[1])
+		h.Type          = strings.TrimSpace(matches[2])
 		h.Experience, _ = strconv.Atoi(strings.TrimSpace(matches[3]))
 		if h.WarbandAddition > 0 {
 			warband.Rating = warband.Rating + h.WarbandAddition
