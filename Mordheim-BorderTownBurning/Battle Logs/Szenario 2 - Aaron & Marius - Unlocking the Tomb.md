@@ -8,15 +8,13 @@
 
 **Warband Rating:**
 
-Aaron:?? 
+Aaron:137
 
 Marius: 155
 
-Underdog:?? 
+Underdog:no underdog
 
 **Battle Log:**
-
-**Battle log:**
 
 **Injuries:**
 
