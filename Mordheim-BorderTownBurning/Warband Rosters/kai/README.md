@@ -30,7 +30,7 @@ Suchend. Heimsuchend. Nahrung, nein. Es ist der Durst. Schier unstillbares Verla
 Es treibt Ihn an. Es treibt  Sie  voran.
 
 Drei dutzend Augen, mehr. In Ihren Augen, das Licht der Fackel. Widerspigelnd wie Katzenaugen.
-Teuflich funkelnd. Glühend rot mit gelb durchbohrendem starren Blick. Wie brennendes Blut.
+Teuflisch funkelnd. Glühend rot mit gelb durchbohrendem starren Blick. Wie brennendes Blut.
 So viele Augen. Der Schritte schwankend im leise flackernden Licht. So viele Augen.
 
 Wieder Donner.
