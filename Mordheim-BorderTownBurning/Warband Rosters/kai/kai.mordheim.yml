@@ -89,6 +89,11 @@ henchmen:
       stats: M2D6, WS4, BS0, S4, T3, W1, I4, A1, Ld5, Sv-
       rules: Movement, Minderz, Not orks, Animals
 
+#    - group: Fanatic (1 Goblin warrior) [0XP]
+#      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld5, Sv-
+#      weapons: Ball and Chain, Dagger, Mad cap mushroom
+#      rules: Animosity, Not orks, Runts
+
 #    - group: Gor (1 Troll) [0XP]
 #      stats: M6, WS3, BS1, S5, T4, W3, I1, A3, Ld4, Sv4
 #      weapons: Big club, Heavy armour
