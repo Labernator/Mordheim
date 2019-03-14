@@ -15,7 +15,7 @@ Er hielt sie fest umglammert. Aber er ging voran. Hielt sie in seiner rechten Pr
 Knarzend hatt er sie fest im Griff. Sie Schwankte in der Bewegung jedes Schrittes.
 Warm, nicht mehr Heiß, brennt das Feuer. Mit leisem prickeln und knacken.
 Immer wieder fallen kleine Fetzen, nur schwach brennend.
-Die Pranke, grün. Scharfe abgewetzte Klauen, Nägel, wie Dolche an jedem Finger. Tötlich.
+Die Pranke, grün. Scharfe abgewetzte Klauen, Nägel, wie Dolche an jedem Finger. Tödlich.
 Im schwachen Schein des Feuers nur schemenhaft zu erkennen.
 Aus der ferne, schwebend in der Dunkelheit.
 Schatten in der Nacht.
