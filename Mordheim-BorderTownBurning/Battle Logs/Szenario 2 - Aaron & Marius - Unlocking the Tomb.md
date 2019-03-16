@@ -55,7 +55,7 @@ group3 +1 => +1I
 group4 +1 => +1LD
 grombald +1
 emilia +1 => +1 LD
-theresa +1 => skill
+theresa +1 => Skill (Step Aside) 
 Agustina +1
 johanna +1
 
@@ -71,5 +71,5 @@ Marius sells 3 wyrdstones => 55 => 70 gold (with treasury, expl income) => buy h
 **Henchmen XP:**
 5
 **Campagne Points:** 
-2 CP
-1 CP
+Aaron +2 CP
+Marius +1 CP
