@@ -15,9 +15,9 @@ Marius: 155
 Underdog:no underdog
 
 **Battle Log:**
-Rune of Sharpness auf Björn & Ivan
+Rune of Sharpness auf Björn & Ivar
 
-Rosa kills Cook
+Rosa kills Gordon
 
 Enforcer kills group2
 
@@ -65,7 +65,12 @@ Aaron:
 Marius:
 3 Wyrdstones +3 gc
 **Trading:**
-Aaron sells 6 wyrdstones => 90
+Aaron:
+* sells 6 wyrdstones => 90 GC
+* +19 GC treasure => 109 GC
+* +1 GC => 110 GC
+* -5 GC upkeep Gordon => 105 GC
+
 Marius sells 3 wyrdstones => 55 => 70 gold (with treasury, expl income) => buy heavy armor (-7) => 27 - 15 upkeep for dwarf => 12
 
 **Henchmen XP:**

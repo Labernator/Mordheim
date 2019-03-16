@@ -1,32 +1,33 @@
 warband: The Revolting Dwarfs (Dwarf Rangers)
-campaign: 2
+campaign: 4
 objective: The Lure of Fortune
-gc: 19
-shards: 2
+gc: 110
+shards: 0
 equipment:
 
 heros:
-    - hero: Ragnar (Runesmith) [22XP]
+    - hero: Ragnar (Runesmith) [24XP]
       stats: M3, WS5, BS4, S3, T4, W1, I2, A1, Ld10, Sv-
       skilllists: Combat, Shooting, Academic, Strength, Special
-      weapons: Axe, Dagger
+      weapons: Axe, Axe
       armour: Helmet
-      rules: Leader, Blackblood
+      rules: Leader, Blackblood, Expert Axeman
       warbandaddition: 5
 
-    - hero: Floki (Apprentice Runesmith) [2XP]
+    - hero: Floki (Apprentice Runesmith) [3XP]
       skilllists: Combat, Academic, Strength, Special
       stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld9, Sv-
-      weapons: Axe, Dagger
+      weapons: Axe, Axe
       rules: Extra Set Of Hands
 
-    - hero: Bjorn (Troll Slayer) [9XP]
-      skilllists: Combat, Academic, Strength, Special
-      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
-      weapons: Axe, Axe
-      rules: Deathwish
+      # Miss next game (injury roll)
+      #    - hero: Bjorn (Troll Slayer) [9XP]
+      #      skilllists: Combat, Academic, Strength, Special
+      #      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
+      #      weapons: Dagger, Dagger
+      #      rules: Deathwish
 
-    - hero: Ivar (Troll Slayer) [11XP]
+    - hero: Ivar (Troll Slayer) [12XP]
       skilllists: Combat, Strength, Special
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       weapons: Axe, Axe
@@ -41,12 +42,12 @@ heros:
       hiredsword: true
 
 henchmen:
-    - group: Beard Mob (5 Beardling) [4XP]
-      stats: M3, WS4, BS2, S3, T4, W1, I2, A1, Ld8, Sv-
+    - group: Beard Mob (4 Beardling) [6XP]
+      stats: M3, WS4, BS2, S3, T4, W1, I2, A2, Ld8, Sv-
       weapons: Dagger, Dagger
 
-    - group: The Enforcers (3 Beardling) [1XP]
-      stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld8, Sv-
+    - group: The Enforcers (2 Beardling) [4XP]
+      stats: M3, WS4, BS2, S3, T4, W1, I2, A1, Ld8, Sv-
       weapons: Dagger, Dagger
 
 notes: |
@@ -54,6 +55,6 @@ notes: |
   Don't forget Ragnar has Blackblood now! (Anyone in base contact got S3 hit if wounded)
   Ivar hit on 3 and 3, not 3 and 5 (Two-Weapon Master)
   Rout test on 4 OOA this time (thanks Gordon) (Roll 2D6; >10 => Game over)
-
+  Hard to kill (1,2 = knocked down, 3,4,5 = stunned, 6 = ooa)
   Hatred on Orcs/Goblins (Reroll missed hit on any fight in first round)
   Use Bow as much as possible (Range 24", S3)
