@@ -1,23 +1,29 @@
 warband: The Revolting Dwarfs (Dwarf Rangers)
 campaign: 4
 objective: The Lure of Fortune
-gc: 110
+gc: 5
 shards: 0
 equipment:
 
 heros:
     - hero: Ragnar (Runesmith) [24XP]
       stats: M3, WS5, BS4, S3, T4, W1, I2, A1, Ld10, Sv-
+      # Racial maximums (Dwarfs):
+      #      M3, WS7, BS6, S4, T5, W3, I5, A4, Ld10
       skilllists: Combat, Shooting, Academic, Strength, Special
       weapons: Axe, Axe
-      armour: Helmet
+      armour: Helmet, Light Armour
       rules: Leader, Blackblood, Expert Axeman
+      # Skill wishlist:
+      # * Haggle (-2D6 GC from a item on buy, 1x per post battle sequence)
+      # * Two-Weapon Master (ignore -2 to hit for offhand)
       warbandaddition: 5
 
     - hero: Floki (Apprentice Runesmith) [3XP]
       skilllists: Combat, Academic, Strength, Special
       stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld9, Sv-
       weapons: Axe, Axe
+      armour: Helmet
       rules: Extra Set Of Hands
 
       # Miss next game (injury roll)
@@ -32,6 +38,10 @@ heros:
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       weapons: Axe, Axe
       rules: Deathwish, Two-Weapon Master
+      # Skill wishlist:
+      # * Fated (reroll serious injuries)
+      # * Berserker (+1 to hit)
+      # * Sweeping strike (+1 attack for all models in base contact)
 
     - hero: Gordon (Halfling Scout) [0XP]
       skilllists: Shooting, Speed, Special
@@ -46,15 +56,29 @@ henchmen:
       stats: M3, WS4, BS2, S3, T4, W1, I2, A2, Ld8, Sv-
       weapons: Dagger, Dagger
 
-    - group: The Enforcers (2 Beardling) [4XP]
+    - group: The Enforcers (4 Beardling) [4XP]
       stats: M3, WS4, BS2, S3, T4, W1, I2, A1, Ld8, Sv-
       weapons: Dagger, Dagger
 
+# Next stuff to buy:
+# * Dwarf Axes (main hand) for Bjorn and Ivar (15 GC, Rare 8) * 2 = 30 GC
+# * Dwarf Axes (main hand) for Mob (15 GC, Rare 8) * 4 = 60 GC
+# * Light armour for Mob (20 GC, common) * 4 = 80 GC
+#
+# Long term goal:
+# Wagon (70 GC, Rare 7)
+# Horse (40 GC, Rare 8)
+
+
 notes: |
   Roll for runes before battle (1D6 -> Rune, (2x) 2D6 -> Difficulty (2=damaged, <=no effect, >==profit!)
-  Don't forget Ragnar has Blackblood now! (Anyone in base contact got S3 hit if wounded)
-  Ivar hit on 3 and 3, not 3 and 5 (Two-Weapon Master)
+  Blackblood (Ragnar) = Anyone in base contact got S3 hit if wounded
+  Expert Axeman (Ragnar) = Reroll all failed hits when charging (axe only)
+  Helmet (Ragnar, Floki) = 4+ save against stunned
+  Two-Weapon Master (Ivar) = hit on 3 and 3, not 3 and 5
+  Cutting Edge (Axe) = -1 save modifier
   Rout test on 4 OOA this time (thanks Gordon) (Roll 2D6; >10 => Game over)
   Hard to kill (1,2 = knocked down, 3,4,5 = stunned, 6 = ooa)
   Hatred on Orcs/Goblins (Reroll missed hit on any fight in first round)
   Use Bow as much as possible (Range 24", S3)
+  Incomarable Miners (+1 Wyrdstone at the end (3 heros + 1 = 4 WS))
