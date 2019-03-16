@@ -30,7 +30,7 @@ heros:
     - hero: Bjorn (Troll Slayer) [9XP]
       skilllists: Combat, Academic, Strength, Special
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
-      weapons: Dagger
+      weapons: Axe, Dagger
       rules: Deathwish, MISS NEXT GAME
 
     - hero: Ivar (Troll Slayer) [12XP]
