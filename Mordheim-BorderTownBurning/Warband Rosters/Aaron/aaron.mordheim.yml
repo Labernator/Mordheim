@@ -27,11 +27,11 @@ heros:
       rules: Extra Set Of Hands
 
       # Miss next game (injury roll)
-      #    - hero: Bjorn (Troll Slayer) [9XP]
-      #      skilllists: Combat, Academic, Strength, Special
-      #      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
-      #      weapons: Dagger, Dagger
-      #      rules: Deathwish
+    - hero: Bjorn (Troll Slayer) [9XP]
+      skilllists: Combat, Academic, Strength, Special
+      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
+      weapons: Dagger, Dagger
+      rules: Deathwish, MISS NEXT GAME
 
     - hero: Ivar (Troll Slayer) [12XP]
       skilllists: Combat, Strength, Special
