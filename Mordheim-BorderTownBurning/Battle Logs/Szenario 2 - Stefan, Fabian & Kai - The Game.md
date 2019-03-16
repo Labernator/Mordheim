@@ -10,42 +10,94 @@
 **Underdog:** Stefan erhält +3XP fürs Überleben  
  
 **Battle Log:**  
- 
- 
+ Stefan erhaelt heldenhaft einen Madcap Mushroom  
+Henchmen Dagger killen Karhag  
+Henchmen Toddy killt Squig  
+Squig killt Henchmen Dagger  
+Norog killt Toddy  
+Grumlok killt Hund  
+Bestigor 2 (11XP) killt Squig  
+Grumlok killt Henchmen Dagger  
+Squig killt Beastlord  
+Grommok killt Hund  
+Hund killt Squig  
+Centaure killt Gmorkor  
+Galotta kills squig
+Ug‘lash defeats the pillar
+Stefan gains Wyrdstone
 **Injuries:**  
 Stefan:  
 
 Fabian:  
-
+Warhounds recover
+Gors recover
+Chieftain -1BS (blinded) misses next game
 Kai:  
- 
+3 tote squigs 
+karhag -1toughness
 **Experience:**  
 Stefan:  
-
+leader +4xp skill 
+gallotta +5xp skill (moneymaker) 1ws
+dimiona +4xp 1attack 1strength
+sulman +4  1ini
+tiny +4 skill strength
+legion +4 attack
 Fabian:  
-
+Chieftain +0 xp
+Shaman 1xp 1attack
+Bestigor2  2xp 
+Bestigor1 1xp
+Centigor 2xp skill
+toddy +1xp lads got talent +1 ini beastmen combat henchmengroup +1str 
+dagger 2xp 1ws
 Kai:  
-  
- 
+  norog +2 skill
+grumlok +4 +1attacke
+ grommok +2 +1str
+uglash +2 ws5
+wogga +1
+karhag +0
+gobbos +1
+herder +1 1bs
+granak +1 +1ini
+oggrot +1
+
 **Exploration:**  
 Stefan:  
-
+3 wyrdstones + 1 vom feld getragen Moneymaker 4gc
 Fabian:  
-
+cathayan map
+3 wyrstones
 Kai:  
- 
+3 wyrdstones
++ 1 exploration dice next time discarding one
  
 **Trading:**
 Stefan:  
+verkauft 4 wyrdstones fuer 80GC.  
++1 Mushroom aus dem Spiel.  
++4GC von Moneymaker.  
+Kauft Lyre fuer 5GC.  
 
 Fabian:  
+verkauft 3 wyrdstones fuer 55GC.  
 
 Kai:  
+verkauft 4 wyrdstone fuer 55gc,  3 vom letzten spiel  
+3 squigs zurueck gekauft fuer 45
+Steel Cloth vom Pillar.  
 
+**Verfuegbare Henchmen XP:** 5  
 
 **Campagne Points:**  
 Stefan:  
-
+1  
 Fabian:  
-
+1  
 Kai:  
+3  
+
+**naechste szenarios:**. 
+cz vs laber:  tainted corpse, gale    
+rest: earthquake tempest  
