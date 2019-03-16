@@ -52,7 +52,7 @@ Centigor 2xp skill
 toddy +1xp lads got talent +1 ini beastmen combat henchmengroup +1str 
 dagger 2xp 1ws
 Kai:  
-  norog +2 skill
+  norog +2 +1ini
 grumlok +4 +1attacke
  grommok +2 +1str
 uglash +2 ws5
@@ -84,8 +84,7 @@ Fabian:
 verkauft 3 wyrdstones fuer 55GC.  
 
 Kai:  
-verkauft 4 wyrdstone fuer 55gc,  3 vom letzten spiel  
-3 squigs zurueck gekauft fuer 45
+verkauft 4 wyrdstone fuer 55gc, 1 vom letzten spiel  
 Steel Cloth vom Pillar.  
 
 **Verfuegbare Henchmen XP:** 5  
