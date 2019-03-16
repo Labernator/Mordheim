@@ -22,56 +22,65 @@ Squig killt Beastlord
 Grommok killt Hund  
 Hund killt Squig  
 Centaure killt Gmorkor  
-Galotta kills squig
-Ug‘lash defeats the pillar
-Stefan gains Wyrdstone
+Galotta kills squig  
+Ug‘lash defeats the pillar  
+Stefan gains Wyrdstone  
+
 **Injuries:**  
 Stefan:  
+-
 
 Fabian:  
-Warhounds recover
-Gors recover
-Chieftain -1BS (blinded) misses next game
+Warhounds recover  
+Gors recover  
+Chieftain -1BS (blinded) misses next game  
+
 Kai:  
-3 tote squigs 
-karhag -1toughness
+3 tote squigs   
+karhag -1toughness  
+
 **Experience:**  
 Stefan:  
-leader +4xp skill 
-gallotta +5xp skill (moneymaker) 1ws
-dimiona +4xp 1attack 1strength
-sulman +4  1ini
-tiny +4 skill strength
-legion +4 attack
+leader +4xp skill  
+gallotta +5xp skill (moneymaker) 1ws  
+dimiona +4xp 1 attack 1 strength  
+sulman +4  1 ini  
+tiny +4 skill strength  
+legion +4 attack  
+
 Fabian:  
-Chieftain +0 xp
-Shaman 1xp 1attack
-Bestigor2  2xp 
-Bestigor1 1xp
-Centigor 2xp skill
-toddy +1xp lads got talent +1 ini beastmen combat henchmengroup +1str 
-dagger 2xp 1ws
+Chieftain +0 xp  
+Shaman 1xp 1attack  
+Bestigor2  2xp  
+Bestigor1 1xp  
+Centigor 2xp skill  
+toddy +1xp lads got talent +1 ini beastmen combat henchmengroup +1str   
+dagger 2xp 1ws  
+
 Kai:  
-  norog +2 +1ini
-grumlok +4 +1attacke
- grommok +2 +1str
-uglash +2 ws5
-wogga +1
-karhag +0
-gobbos +1
-herder +1 1bs
-granak +1 +1ini
-oggrot +1
+norog +2 skill  
+grumlok +4 +1 attacke  
+grommok +2 +1str  
+uglash +2 ws5  
+wogga +1  
+karhag +0  
+gobbos +1  
+herder +1 1bs  
+granak +1 +1ini  
+oggrot +1  
 
 **Exploration:**  
 Stefan:  
-3 wyrdstones + 1 vom feld getragen Moneymaker 4gc
+3 wyrdstones + 1 vom feld getragen 
+Moneymaker 4gc  
+
 Fabian:  
-cathayan map
-3 wyrstones
+cathayan map  
+3 wyrstones  
+
 Kai:  
-3 wyrdstones
-+ 1 exploration dice next time discarding one
+3 wyrdstones  
++ 1 exploration dice next time discarding one  
  
 **Trading:**
 Stefan:  
