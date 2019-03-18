@@ -55,11 +55,6 @@ henchmen:
       weapons: Dagger, Dagger
       rules: Animosity, Not orks, Runts
 
-#    - group: Gobbos (3 Goblin warrior) [0XP]
-#      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld5, Sv-
-#      weapons: Short bow, Dagger
-#      rules: Animosity, Not orks, Runts
-
     - group: Squig herder (1 Goblin warrior) [2XP]
       stats: M4, WS2, BS4, S3, T3, W1, I3, A1, Ld5, Sv-
       weapons: Squig prodder, Dagger
@@ -99,6 +94,16 @@ henchmen:
       stats: M2D6, WS4, BS0, S4, T3, W1, I4, A1, Ld5, Sv-
       rules: Movement, Minderz, Not orks, Animals
 
+#    - group: Binky (1 War Boar) [0XP]
+#      stats: M7, WS3, BS0, S3, T4, W1, I3, A1, Ld3, Sv+2
+#      mount: true
+#      rules: Ferocious Charge, Thick Skinned
+
+#    - group: Gobbos (3 Goblin warrior) [0XP]
+#      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld5, Sv-
+#      weapons: Short bow, Dagger
+#      rules: Animosity, Not orks, Runts
+
 #    - group: Fanatic (1 Goblin warrior) [0XP]
 #      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld5, Sv-
 #      weapons: Ball and Chain, Dagger, Mad cap mushroom
@@ -114,11 +119,6 @@ henchmen:
 #      stats: M4, WS1, BS1, S1, T1, W1, I1, A1, Ld3, Sv-
 #      weapons: Blowpipe
 #      rules: Animal Companion, Largely Insignificant, Fetch and carry things
-
-#    - group: Binky (1 War Boar) [0XP]
-#      stats: M7, WS3, BS0, S3, T4, W1, I3, A1, Ld3, Sv+2
-#      mount: true
-#      rules: Ferocious Charge, Thick Skinned
 
 #    - group: Squiggi (1 Cave Squig) [0XP]
 #      stats: M2D6, WS4, BS0, S4, T3, W1, I4, A1, Ld5, Sv+1
