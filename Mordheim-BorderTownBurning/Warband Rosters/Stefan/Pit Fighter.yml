@@ -51,6 +51,11 @@ henchmen:
       stats: M4, WS3, BS3, S3, T3, W1, I3, A2, Ld7, Sv-
       weapons: 2x Dagger
       rules: Pit Fighter
+      
+    - group: Blutige Äxte (1 Pursuer) [0XP]
+      stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+      weapons: 2x Dagger
+      rules: Pit Fighter
 
     - group: Horde von Ghumai-Kal (1 Pit Fighter) [0XP]
       stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
