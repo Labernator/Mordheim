@@ -33,7 +33,7 @@ Stefan:
 Fabian:  
 Warhounds recover  
 Gors recover  
-Chieftain -1BS (blinded) misses next game  
+Chieftain -1BS (blinded) -1M misses next game
 
 Kai:  
 3 tote squigs   
@@ -49,7 +49,7 @@ tiny +4 skill strength
 legion +4 attack  
 
 Fabian:  
-Chieftain +0 xp  
+Chieftain +0 xp
 Shaman 1xp 1attack  
 Bestigor2  2xp  
 Bestigor1 1xp  
@@ -58,7 +58,7 @@ toddy +1xp lads got talent +1 ini beastmen combat henchmengroup +1str
 dagger 2xp 1ws  
 
 Kai:  
-norog +2 skill  
+norog +2
 grumlok +4 +1 attacke  
 grommok +2 +1str  
 uglash +2 ws5  
