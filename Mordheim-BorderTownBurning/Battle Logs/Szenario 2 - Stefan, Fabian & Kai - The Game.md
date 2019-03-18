@@ -84,10 +84,19 @@ Kai:
  
 **Trading:**
 Stefan:  
-verkauft 4 wyrdstones fuer 80GC.  
-+1 Mushroom aus dem Spiel.  
-+4GC von Moneymaker.  
-Kauft Lyre fuer 5GC.  
+verkauft 4 wyrdstones fuer 80 GC.  
++1 Mushroom aus dem Spiel. Verkaufe für 15 GC    
++4 GC von Moneymaker.  
+240 GC auf der hohen Kante  
+
+
+Kaufe Lyre (5)  
+Kaufe Pit Fighter Veteran (35)  
+Kaufe 2x Pit Fighters (70)  
+Kaufe Bard Hired Sword (20)  
+Kaufe 3 Dagger (6)  
+
+ => 203 GC übrig  
 
 Fabian:  
 verkauft 3 wyrdstones fuer 55GC.  
