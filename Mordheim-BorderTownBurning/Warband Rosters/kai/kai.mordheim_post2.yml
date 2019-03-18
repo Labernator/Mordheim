@@ -36,7 +36,7 @@ heros:
       skilllists: Strength, Shooting, Combat, Special
 
     - hero: Wogga (Shaman) [13XP]
-      stats: M4, WS4, BS3, S3, T4, W1, I3, A1, Ld9, Sv-
+      stats: M4, WS4, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
       weapons: Hand weapon, Dagger
       rules: Clubba
       skilllists: Strength, Special
