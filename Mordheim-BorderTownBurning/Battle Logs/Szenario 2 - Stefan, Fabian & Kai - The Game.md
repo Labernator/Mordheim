@@ -94,9 +94,10 @@ Kaufe Lyre (5)
 Kaufe Pit Fighter Veteran (35)  
 Kaufe 2x Pit Fighters (70)  
 Kaufe Bard Hired Sword (20)  
-Kaufe 3 Dagger (6)  
+Kaufe Pursuer (25)  
+Kaufe 4 Dagger (8)  
 
- => 203 GC übrig  
+ => 176 GC übrig  
 
 Fabian:  
 verkauft 3 wyrdstones fuer 55GC.  
