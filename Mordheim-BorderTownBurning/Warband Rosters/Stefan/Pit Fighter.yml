@@ -1,48 +1,65 @@
 warband: Splitterdämmerung (Pit Fighter)
 alignment: Lawful/Neutral
 objective: The Celestial Protectorate
-campaign: 0
-gc: 240
+campaign: 1
+gc: 203
 shards: 0
 equipment: 
 
 heros:
-    - hero: Helme Haffax (Pit King) [20XP]
+    - hero: Helme Haffax (Pit King) [24XP]
       stats: M4, WS4, BS3, S4, T4, W1, I4, A2, Ld8, Sv4+
       skilllists: Combat, Academic, Strength, Speed, Special
       weapons: 2x Dagger
       armour: Heavy Armour
-      rules: Leader, Pit Fighter
+      rules: Leader, Pit Fighter, Resilient
       warbandaddition: 5
 
-    - hero: Gaius Cordovan Eslam Galotta (Initiate) [0XP]
+    - hero: Gaius Cordovan Eslam Galotta (Initiate) [5XP]
       skilllists: Combat, Strength, Special
-      stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld6, Sv-
+      stats: M4, WS3, BS2, S3, T3, W1, I3, A1, Ld6, Sv-
+      weapons: 2x Dagger
+      rules: Money Maker
+
+    - hero: Dimiona von Zorgan (Initiate) [4XP]
+      skilllists: Combat, Strength, Special
+      stats: M4, WS2, BS2, S4, T3, W1, I3, A2, Ld6, Sv-
       weapons: 2x Dagger
 
-    - hero: Dimiona von Zorgan (Initiate) [0XP]
+    - hero: Skrechu (Veteran) [8XP]
       skilllists: Combat, Strength, Special
-      stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld6, Sv-
+      stats: M4, WS4, BS3, S3, T3, W1, I4, A1, Ld7, Sv-
       weapons: 2x Dagger
+      rules: Pit Fighter
 
-    - hero: Sulman al'Venish (Dwarf Troll Slayer) [8XP]
+    - hero: Sulman al'Venish (Dwarf Troll Slayer) [12XP]
       skilllists: Combat, Academic, Strength, Speed, Special
-      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
+      stats: M3, WS4, BS3, S3, T4, W1, I3, A1, Ld9, Sv-
       weapons: 2x Dagger
       rules: Pit Fighter, Hard to Kill, Hard Head, Hate Orcs and Goblins, Grudgebearers, Death Wish
 
-    - hero: Tiny (Halfling Scout) [0XP]
-      skilllists: Shooting, Speed, Special
-      stats: M4, WS2, BS4, S2, T2, W1, I4, A1, Ld8, Sv-
-      weapons: Bow, Dagger
-      armour: Cooking Pot (Helmet)
-      rules: Cook
+    - hero: Torxes von Freigeist (Bard) [3XP]
+      skilllists: Academic, Speed, Special
+      stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+      weapons: Sword, Dagger
+      armour: Light Armour, Lyre
+      rules: Musician, Songster
       hiredsword: true
 
 henchmen:
-    - group: Unbesiegbare Legion von Yaq~Monnith (1 Pursuer) [0XP]
-      stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+    - group: Unbesiegbare Legion von Yaq~Monnith (1 Pursuer) [4XP]
+      stats: M4, WS3, BS3, S3, T3, W1, I3, A2, Ld7, Sv-
       weapons: 2x Dagger
       rules: Pit Fighter
+
+    - group: Horde von Ghumai-Kal (1 Pit Fighter) [0XP]
+      stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+      weapons: 2x Dagger
+      rules: Pit Fighter, Arms Master
+
+    - group: Berserker des Belhalhar (1 Pit Fighter) [0XP]
+      stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+      weapons: 2x Dagger
+      rules: Pit Fighter, Arms Master
 
 notes: 
