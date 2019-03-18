@@ -6,13 +6,11 @@
 
 **Spieler:** Stefan & Marius
 
-**Warband Rating:**
+**Warband Rating:**  
+Stefan:115   
+Marius:175  
 
-Stefan:?? 
-
-Marius:175
-
-**Underdog:**?? 
+**Underdog:** Stefan erhält +1XP für's Überleben   
 
 **Battle Log:**
 
@@ -22,6 +20,10 @@ Marius:175
 
 **Exploration:**
 
+**Hired Swords Blood Pact:**
+
 **Henchmen XP:**
+
+**Trading:**
 
 **Campagne Points:**
