@@ -31,6 +31,7 @@ type Warband struct {
 	hiredsword_sum_xp   int
 	hiredsword_cnt      int
 	large_cnt           int
+    mount_cnt           int
 	routtest            int
     warbandAddition_sum int
 
@@ -215,8 +216,13 @@ func ParseWarband(warbandDefinition []byte) Warband {
 		hg.Experience, _ = strconv.Atoi(strings.TrimSpace(matches[4]))
 		if !hg.Large {
 			warband.henchmen_sum_xp = warband.henchmen_sum_xp + (hg.Experience * hg.Number)
-			warband.henchmen_cnt = warband.henchmen_cnt + hg.Number
-			warband.Rating = warband.Rating + (hg.Experience + 5) * hg.Number
+			if !hg.Mount {
+			    warband.henchmen_cnt = warband.henchmen_cnt + hg.Number
+			    warband.Rating = warband.Rating + (hg.Experience + 5) * hg.Number
+			} else {
+			    warband.mount_cnt = warband.mount_cnt + hg.Number
+			    warband.Rating = warband.Rating + 10 * hg.Number
+			}
 		} else {
 			warband.henchmen_sum_xp = warband.henchmen_sum_xp + (hg.Experience * hg.Number)
 			warband.large_cnt = warband.large_cnt + 1

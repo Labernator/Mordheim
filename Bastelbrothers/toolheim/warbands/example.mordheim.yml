@@ -51,7 +51,7 @@ henchmen:
     - group: Fury (1 Horse) [0XP]
       stats: M8, WS1, BS0, S3, T3, W1, I3, A0, Ld5, Sv+1
       mount: true
-      large: true
+      large: true # large mounts are not possible, the large flag has higher priority
       rules: 
 
 notes: |

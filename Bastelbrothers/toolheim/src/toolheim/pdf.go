@@ -419,6 +419,14 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	pdf.SetXY(55.0, float64(offsetY)+24.5)
 	pdf.Write(0, strconv.Itoa(warband.hiredsword_sum_xp))
 
+    // TODO hier die anzahl der mounts anzeigen und jeweils die 10 punkte für das rating pro mount
+    pdf.SetFont("Arial", "B", 10)
+	pdf.SetXY(7.0, float64(offsetY)+36.25)
+	pdf.Write(0, "Mounts: (" + strconv.Itoa(warband.mount_cnt) + ")")
+	pdf.SetFont("Arial", "", 10)
+	pdf.SetXY(55.0, float64(offsetY)+36.25)
+	pdf.Write(0, strconv.Itoa((warband.mount_cnt) * 10))
+
 	pdf.SetFont("Arial", "B", 10)
 	pdf.SetXY(95, float64(offsetY)+11.25)
 	pdf.Write(0, strconv.Itoa(warband.GoldCrowns))

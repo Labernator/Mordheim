@@ -92,7 +92,7 @@ ork_shaman.weapon = [
         "toHit" : 0,
         "as" : 0,
         "a" : 1,
-        "stunnedMin" : 3,
+        "stunnedMin" : 2,
         "stunnedMax" : 4,
         "range" : False,
     },
@@ -104,6 +104,59 @@ ork_shaman.weapon = [
         "toHitOffhand" : 1,
         "toHit" : 0,
         "as" : 1,
+        "a" : 0,
+        "stunnedMin" : 3,
+        "stunnedMax" : 4,
+        "range" : False,
+    }
+]
+#####
+squig = Unit()
+squig.name = "squig"
+squig.t = 3
+squig.s = 4
+squig.ws = 4
+squig._as = 0
+squig.w = 1
+squig.a = 1
+squig.state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
+# first weapon
+squig.weapon = [
+    {
+        "type" : "yaw",
+        "s" : 0,
+        "firstRoundSAdd" : 0,
+        "offhand" : False,
+        "toHitOffhand" : 0,
+        "toHit" : 0,
+        "as" : 0,
+        "a" : 0,
+        "stunnedMin" : 3,
+        "stunnedMax" : 4,
+        "range" : False,
+    }
+]
+
+#####
+beastmen_hound = Unit()
+beastmen_hound.name = "beastmen hound"
+beastmen_hound.t = 3
+beastmen_hound.s = 4
+beastmen_hound.ws = 4
+beastmen_hound._as = 0
+beastmen_hound.w = 1
+beastmen_hound.a = 1
+beastmen_hound.state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
+# first weapon
+beastmen_hound.weapon = [
+    {
+        "type" : "yaw",
+        "s" : 0,
+        "firstRoundSAdd" : 0,
+        "offhand" : False,
+        "toHitOffhand" : 0,
+        "toHit" : 0,
+        "as" : 0,
         "a" : 0,
         "stunnedMin" : 3,
         "stunnedMax" : 4,
@@ -137,7 +190,8 @@ beastmen.weapon = [
         "range" : False,
     }
 ]
-#
+
+#####
 mutant = Unit()
 mutant.name = "mutant"
 mutant.t = 6
@@ -254,7 +308,7 @@ g1 = Unit()
 g1.name = "goblin 1"
 g1.t = 3
 g1.s = 3
-g1.ws = 3
+g1.ws = 2
 g1._as = 0
 g1.w = 1
 g1.a = 1
@@ -516,8 +570,8 @@ def allAttackersDead(attackers):
 
 if __name__ == "__main__":
 
-    attackers = [ g1, g2, ob1 ]
-    target = mutant
+    attackers = [ squig, ork_shaman ]
+    target = beastmen_hound
     first_round = True
 
     rounds = 0
