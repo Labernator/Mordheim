@@ -63,6 +63,18 @@
  
 21.) Die Skills Weapons Expert, Weapons Training und Tin Can erlauben das führen von Ausrüstung die nicht in der eigenen Equipment List steht. Sie erlauben jedoch nicht Gegenstände zu erwerben, die explizit nur von einer bestimmten Warband erworben werden können (z.B. Saerath kann nur von Forest-Walkern gekauft werden). Dies soll verhindern, dass jeder Hero mit den gleichen Waffen herumläuft und overpowerte Kombinationen vermeiden (z.B. Heavy Armour + Sea Dragon Cloak)
 
+22.) Einheiten können von einem Szenario freiwillig ausgesetzt werden.
+
+23.) Aussetzende Einheiten zählen nicht zum Routtest-Limit in einem Szenario dazu.
+
+24.) Setzt eine Einheit freiwillig oder durch ein spielbedingt negativen Effekt aus die einen UpKeep erfordert, muss dieser trotzdem bezahlt werden.
+
+25.) Aussetzende Einheiten zählen in der Exploration phase normal zur Warband Größe.
+
+26.) Positive wie negative Effekte welche durch Einheiten ausgelöst werden, die aussetzen werden nicht angewendet.
+
+27.) Das Warband-Rating wird nicht neu berechnet wenn Einheiten aussetzen (kein künstlich erzeugter UnderDog-Bonus möglich).
+
 Troll comp:
 
 M WSBS S T W I A Ld
@@ -71,8 +83,7 @@ M WSBS S T W I A Ld
 Fear: Trolls are huge, bellowing monsters and cause 
 fear. See Psychology section for details. 
 Stupidity:... 
-Animal: may gain Experience, it may never 
-become a Hero. 
+Animal: may gain Experience, it may never  become a Hero. 
 Large:... 
 Tough:... .. 
 4+ Armor save
