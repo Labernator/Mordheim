@@ -342,3 +342,23 @@ Die Antwort ist der Underdog-Bonus. Wenn ich eine bewusst kleine Warband aufstel
 Aber immerhin kann ich so die entgangenen XP ausgleichen und mich für den weiteren Verlauf der Kampagne besser positionieren. Also beiße ich noch einmal in den sauren Apfel und das nächste Spiel de facto nicht mitspielen aber dafür meine Helden hochleveln. Der Rest der Warband wird danach dazugekauft.  
 
 Diesmal sind auch zwei Redshirt Henchmen als Bauernopfer vorgesehen um meine Heroes routen zu lassen.
+
+## Debriefing BTB Game 2  
+**20.03.2019**  
+Das erste Spiel mit der Pit Fighter Warband ist gelaufen und ich muss sagen, alles in allem bin ich sehr zufrieden. Es war schon vorher klar, dass ich weder gegen Fabians Beastmen noch gegen Kais Orks eine reelle Chance habe, weswegen ich mich ja für dieses Szenario fürs Aussitzen entschieden habe.
+
+Das hat auch alles hervorragend geklappt. Weder Kai noch Fabian haben mich (überraschenderweise) ernsthaft bedroht obwohl ich unglücklich zwischen ihnen saß. So konnte ich mich aus allen Kämpfen raus halten und zum Schluss sogar noch Kais Wyrdstone abgreifen und die XP für ein Squig. Weit über dem was ich erwartet hatte, ehrlich gesagt.
+
+Da ich noch glücklich einen Pilz im random Happening gefunden und den Money Maker Skill auf einem Initiate bekommen habe sind so am Ende fast 100 GC für mich raus gesprungen. Durch den +3 Underdog Bonus habe ich auch XP techisch gut aufgeholt. So weit, so gut also.
+
+Da ich immer noch die wenigsten CPs habe konnte ich mir auch wie geplant Marius als Gegner für das nächste Spiel aussuchen. Dann ist allerdings einiges schief gegangen beim Würfeln und jetzt spielen wir ein ziemlich schlechtes Szenario miteinander. Kein noch so guter Plan überlebt den Kontakt mit Würfeln…
+
+Für das Spiel gegen Marius werde ich nochmal den +1 Underdog Bonus abgreifen und meine Warbandgröße bei 9 belassen für ein besseres Einkommen.
+
+Danach ist es allerdings dann auch dringend Zeit, dass ich anfange Szenarios zu gewinnen und CPs zu generieren. Kai ist mit seinen 6 CP schon sehr weit weggezogen und hat im Moment auch eine so starke Warband, dass ich ihn noch nicht angehen kann. Nach dem nächsten Spiel hoffe ich aber auf einem Level mit Aaron und Fabian zu sein.
+
+**Wunschliste für das nächste Spiel**
+ - Ein Henchman wird zum Hero    
+ - Ein Skill für den Barden  
+ - 85 GC  
+ - Möglichst brauchbare Advances für die Initiates und den Zwerg
