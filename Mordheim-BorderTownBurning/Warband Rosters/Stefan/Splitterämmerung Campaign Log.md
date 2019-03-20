@@ -57,18 +57,77 @@ Sulman sah Galotta herausfordernd an, der darauf grimmig zu Boden blickte. "Wir 
 "Unsere Aufgabe ist weder der Paktschluss mit diesen Parteien, noch ihre Auslöschung. Primär müssen wir für weitere Aktionen mehr Informationen sammeln: Anzahl, Ausrüstung, Ausbildung und Agenda. Danach können wir qualifizierte Entscheidungen über das weitere Vorgehen treffen. Der Bethanier hat Informationen, dass diese beiden Gruppierungen sich morgen an der Säule des Belhalhar über den Weg laufen werden. Und wir werden dabei sein!"
 
 ### Schlachtbericht  
-**Szenario/Mitspieler:** The Game mit Kai & Fabian 
+**Szenario/Mitspieler:** The Game mit Kai & Fabian
 
-**Ergebnis:**  
+**Ergebnis:** Niederlage    
 
 **Gefallene Krieger:**  
- 
+Keine   
+
 **Belohnungen:**  
+1 Wyrdstone, 1 Madcap Mushroom  
 
 **Experience:**  
+ - Haffax: +4xp (advance: Resilient)     
+ - Galotta: +5xp (advance: Money Maker & +1 WS)
+ - Dimiona: +4xp (advance: +1 A & +1 S)  
+ - Sulman: +4xp (advance: +1 I)
+ - Legion: +4xp (advance: +1 A) 
+
+**Sonstiges:**  
+Kein Upkeep für den Halfling Cook bezahlen  
 
 **Exploration:**  
+3 Shards + 1 aus dem Szenario: 4 verkaufen für 80 GC  
 
 **Trading:**  
+80 GC von Wyrdstone +15 GC vom Mushroom +4 GC vom Money Maker + 240 GC übrig
+  => 339 GC  
+  
+ - 1 Lyre (5 GC)  
+ - Pit Fighter Veteran mit zusätzlichem Dagger (37 GC)  
+ - Pursuer mit zusätzlichem Dagger (27 GC)  
+ - 2 Pit Fighter mit zusätzlichem Dagger (74 GC)  
+ - Bard (20 GC)  
+ => 176 GC übrig  
+
+### Aktuelles Roaster  
+*Heroes*  
+**Helme Haffax** (Pit King, 24 XP): 2x Dagger, Heavy Armour  
+
+**Gaius Cordovan Eslam Galotta** (Initiate, 5 XP): 2x Dagger  
+
+**Dimiona von Zorgan** (Initiate, 4 XP): 2x Dagger  
+
+**Skrechu** (Veteran, 8 XP): 2x Dagger  
+
+**Sulman al'Venish** (Dwarf Troll Slayer, 12 XP): 2x Dagger  
+
+*Henchmen*  
+**Unbesiegbare Legion von Yaq-Monnith** (1 Pursuer, 4 XP): 2x Dagger    
+
+**Blutige Äxte** (1 Pursuer, 0 XP): 2x Dagger  
+
+**Horde von Ghumai-Kal** (1 Pit Fighter, 0 XP): 2x Dagger  
+
+**Berserker des Belhalhar** (1 Pit Fighter, 0 XP): 2x Dagger  
+
+*Hired Swords*  
+**Torxes von Freigeist** (Bard, 3 XP): Sword, Dagger, Light Armour, Lyre  
+
+**Treasure Chest:** 176 GC  
+**Alignment:** Lawful/Neutral  
+**Objective:** The Celestial Protectorate  
+**Campaign Points:** 1  
+**Warband Rating:** 115  
 
 ### Nachspiel  
+Ungläubig starrten die Grubenkämpfer auf das Schlachtfeld. Mit barbarischer Gnadenlosigkeit gingen sich Tiermenschen und Grünhäute an die Kehle. Der Staub um die Säule war von Blut besudelt und unmenschliche Kampf- und Schmerzensschreie drangen durch die Luft.
+
+"Na Sulman, wie war doch gleich dein grandioser Plan um diese beiden Horden dem Erdboden gleich zu machen?“, frage Dimiona zynisch, aber auch ihr Gesicht war bleich. Haffax beendete das betretene Schweigen: "Diese Kreaturen werden den Menschen nicht die Freiheit bringen. Sie können niemals unsere Verbündeten sein. Sie sind zwar auch gegen das Imperium, aber in diesem Fall sind die Feinde unseres Feindes trotzdem unsere Feinde!" Niemand widersprach.
+
+"Großartig und was haben wir jetzt gelernt?", fragte Galotta niedergeschlagen. Die anderen murmelten zustimmend. Haffax fixierte sie mit festen Blick: "Ihr seid ungeduldig und wollt das Imperium stützen und die Menschen befreien. Und das am besten an einem Tag. Wir haben heute keinen neuen Verbündeten gewonnen, sondern mehr Feinde. Allerdings solltet ihr hier auch eine sehr wichtige Lektion lernen: **Wenn du einen Kampf nicht gewinnen kannst, dann kämpfe nicht!**
+
+Alle nickten zustimmend. "Außerdem haben wir gelernt", warf Sulman ein "dass wir mehr Kämpfer benötigen. Viel mehr um ehrlich zu sein." Jetzt war es an Haffax zustimmend zu nicken. "Morgen finden wieder die Grubenkämpfe statt, lasst uns hoffen, dass das letzte Pamphlet des Bethaniers ein paar Menschen wachgerüttelt hat."
+
+Und tatsächlich, am nächsten Abend waren viele neue Gesichter in der Grube zu sehen. Torxes, ein Stadtmusikant war mit einer Gruppe Gleichgesinnter aus Wei-jin gekommen um den Lehren des Bethaniers zu folgen und für die Freiheit der Bevölkerung zu kämpfen. Auch Skrechu ein aus der Sklaverei geflohener Echsenmensch schloss sich der Sache an. Als Teil einer verfolgten und versklavten Minderheit hatte er wenig Sympathien für die Herrschenden übrig.
