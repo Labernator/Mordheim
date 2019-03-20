@@ -44,12 +44,11 @@ heros:
       weapons: Dagger, Dagger
       skilllists: Strength, Combat
 
-    - hero: Grombald (Dwarf Runesmith Journeyman) [1XP]
-      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv4
+    - hero: Grombald (Dwarf Runesmith Journeyman) [11XP]
+      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld10, Sv4
       weapons: Gromril Hammer, Dagger
       armour: Heavy armour
       rules: Runesmith, Armour, Armourer, Hate Orcs and Goblins, Hard Head, Hard to Kill
-      warbandaddition: 10
       skilllists: Strength, Combat, Special
       hiredsword: true
 
