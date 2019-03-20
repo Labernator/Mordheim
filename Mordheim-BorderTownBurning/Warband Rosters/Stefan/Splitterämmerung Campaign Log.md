@@ -91,7 +91,7 @@ Kein Upkeep für den Halfling Cook bezahlen
  - Bard (20 GC)  
  => 176 GC übrig  
 
-### Aktuelles Roaster  
+### Aktuelles Roster  
 *Heroes*  
 **Helme Haffax** (Pit King, 24 XP): 2x Dagger, Heavy Armour  
 
