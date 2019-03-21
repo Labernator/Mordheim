@@ -36,7 +36,7 @@ type Warband struct {
 	mount_cnt           int
 	member_cnt          int
 	routtest            int
-    warbandAddition_sum int
+	wbAdd_sum           int
 
 }
 
@@ -165,8 +165,8 @@ func ParseWarband(warbandDefinition []byte) Warband {
 		h.Experience, _ = strconv.Atoi(strings.TrimSpace(matches[3]))
 
 		if h.WarbandAddition > 0 {
+			warband.wbAdd_sum = warband.wbAdd_sum + h.WarbandAddition
 			warband.Rating = warband.Rating + h.WarbandAddition
-			warband.warbandAddition_sum = warband.warbandAddition_sum + h.WarbandAddition
 		}
 
 		if !h.Large && !h.HiredSword && !h.DramatisPersonae {

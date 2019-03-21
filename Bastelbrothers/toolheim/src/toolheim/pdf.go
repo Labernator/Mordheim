@@ -395,7 +395,7 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 
 	pdf.SetFont("Arial", "", 10)
 	pdf.SetXY(55, float64(offsetY)+11.25)
-	pdf.Write(0, strconv.Itoa(warband.hero_sum_xp))
+	pdf.Write(0, strconv.Itoa(warband.hero_sum_xp) + " (+" + strconv.Itoa(warband.wbAdd_sum - warband.dramatispersonae_sum_wbr) + ")" )
 
 	pdf.SetFont("Arial", "", 10)
 	pdf.SetXY(55, float64(offsetY)+14.75)
@@ -502,25 +502,6 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 
 	// the space after
 	offsetY = offsetY + 70
-
-/*
-	pdf.SetFont("Arial", "B", 13)
-	pdf.SetXY(20, float64(offsetY+21))
-	pdf.Write(20, strconv.Itoa(hero_cnt))
-
-	pdf.SetFont("Arial", "B", 13)
-	pdf.SetXY(20, float64(offsetY+21))
-	pdf.Write(20, strconv.Itoa(len(warband.HenchmenGroups)))
-
-	pdf.SetFont("Arial", "B", 13)
-	pdf.SetXY(20, float64(offsetY+21))
-	pdf.Write(20, strconv.Itoa(henchmen_cnt))
-
-	offsetY = offsetY + 20
-	pdf.SetFont("Arial", "B", 13)
-	pdf.SetXY(20, float64(offsetY+21))
-	pdf.Write(20, strconv.Itoa(hero_cnt+henchmen_cnt))
-*/
 
 }
 
