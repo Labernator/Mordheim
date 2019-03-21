@@ -24,6 +24,8 @@ type Warband struct {
 	Objective           string           `json:"objective"`
 	Alignment           string           `json:"alignment"`
 	Achievments         string           `json:"achievments"`
+	dramatispersonae_sum_wbr	int
+	dramatispersonae_cnt		int
 	henchmen_sum_xp     int
 	henchmen_cnt        int
 	hero_sum_xp         int
@@ -31,7 +33,8 @@ type Warband struct {
 	hiredsword_sum_xp   int
 	hiredsword_cnt      int
 	large_cnt           int
-    mount_cnt           int
+	mount_cnt           int
+	member_cnt          int
 	routtest            int
     warbandAddition_sum int
 
@@ -55,6 +58,7 @@ type Hero struct {
 	Stats		*Stats		`json:"stats,omitempty"`
 	Large		bool		`json:"large"`
 	HiredSword	bool		`json:"hiredsword"`
+	DramatisPersonae	bool		`json:"dramatispersonae,omitempty"`
 	Weapons		*ItemList	`json:"weapons,omitempty"`
 	Armour		*ItemList	`json:"armour,omitempty"`
 	Rules		*ItemList	`json:"rules,omitempty"`
@@ -159,15 +163,19 @@ func ParseWarband(warbandDefinition []byte) Warband {
 		h.Name          = strings.TrimSpace(matches[1])
 		h.Type          = strings.TrimSpace(matches[2])
 		h.Experience, _ = strconv.Atoi(strings.TrimSpace(matches[3]))
+
 		if h.WarbandAddition > 0 {
 			warband.Rating = warband.Rating + h.WarbandAddition
 			warband.warbandAddition_sum = warband.warbandAddition_sum + h.WarbandAddition
 		}
 
-		if !h.Large && !h.HiredSword {
+		if !h.Large && !h.HiredSword && !h.DramatisPersonae {
 			warband.Rating = warband.Rating + h.Experience + 5
 			warband.hero_sum_xp = warband.hero_sum_xp + h.Experience
 			warband.hero_cnt = warband.hero_cnt + 1
+		} else if h.DramatisPersonae {
+			warband.dramatispersonae_sum_wbr = warband.dramatispersonae_sum_wbr + h.WarbandAddition
+			warband.dramatispersonae_cnt = warband.dramatispersonae_cnt + 1
 		} else if h.Large {
 			warband.Rating = warband.Rating + h.Experience + 20
 			warband.hero_sum_xp = warband.hero_sum_xp + h.Experience
@@ -180,11 +188,11 @@ func ParseWarband(warbandDefinition []byte) Warband {
 
 		// hier text Skill listen-Name zu boolschen Wert umwandeln
 		h.bSkillLists.Speed = false
-        h.bSkillLists.Shooting = false
-        h.bSkillLists.Special = false
-        h.bSkillLists.Combat = false
-        h.bSkillLists.Academic = false
-        h.bSkillLists.Strength = false
+		h.bSkillLists.Shooting = false
+		h.bSkillLists.Special = false
+		h.bSkillLists.Combat = false
+		h.bSkillLists.Academic = false
+		h.bSkillLists.Strength = false
 		for _, s := range h.SkillLists.List {
 			if strings.EqualFold(s, "Speed") {
 				h.bSkillLists.Speed = true
@@ -231,8 +239,10 @@ func ParseWarband(warbandDefinition []byte) Warband {
 
 	}
 
-	warband.routtest = int(math.RoundToEven(float64(warband.hero_cnt + warband.henchmen_cnt + warband.large_cnt + warband.hiredsword_cnt) / 4.0))
-	if float64(warband.hero_cnt + warband.henchmen_cnt + warband.large_cnt + warband.hiredsword_cnt) / 4.0 > float64(warband.routtest) {
+	// mounts/attack animals do not count for rout test and do not count for warband size.
+	warband.member_cnt = warband.hero_cnt + warband.henchmen_cnt + warband.large_cnt + warband.hiredsword_cnt + warband.dramatispersonae_cnt
+	warband.routtest = int(math.RoundToEven(float64(warband.member_cnt) / 4.0))
+	if float64(warband.member_cnt) / 4.0 > float64(warband.routtest) {
 		warband.routtest = warband.routtest + 1
 	}
 

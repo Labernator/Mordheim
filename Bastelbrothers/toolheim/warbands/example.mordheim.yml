@@ -1,7 +1,7 @@
 warband: Orks, Goblins and Squigs (Orks)
 campaign: 23
 gc: 42
-shards: 1
+shards: 5
 equipment: Chaos artifact #1
 objective: Campaign objective here
 alignment: neutral
@@ -25,8 +25,17 @@ heros:
       skilllists: Strength, Combat, Special
       hiredsword: true
 
+    - hero: Dramatis Dwarf (Black Ork) [0XP]
+      stats: M5, WS6, BS2, S6, T5, W2, I5, A3, Ld8, Sv4
+      weapons: Groril Axe, Gromril Axe
+      armour: heavy armour, helmet
+      rules: Two-Handed master, Expertaxeman, Hates Orks, Hard head, Hard to kill, Grudgebearer
+      skilllists: Strength, Combat, Special, Academic, Shooting
+      warbandaddition: 10
+      dramatispersonae: true
+
 henchmen:
-    - group: Goblins (4 Goblin warrior) [2XP]
+    - group: Goblins (7 Goblin warrior) [2XP]
       stats: M4, WS2, BS3, S3, T3, W1, I4, A1, Ld5, Sv-
       weapons: Dagger, Dagger
       armour: light armor, lucky charm, rosary
@@ -45,7 +54,7 @@ henchmen:
 
     - group: Pferdi (1 Horse) [0XP]
       stats: M8, WS1, BS0, S3, T3, W1, I3, A0, Ld5, Sv+1
-      mount: true
+      mount: true # a mount is the same as a attack animal
       rules:
 
     - group: Fury (1 Horse) [0XP]

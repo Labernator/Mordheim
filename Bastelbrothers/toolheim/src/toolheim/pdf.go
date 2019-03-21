@@ -159,6 +159,12 @@ func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 			pdf.Image("images/hiredsword_marker.png", 6, 0, 421*0.053, 97*0.053, true, "", 0, "")
 		}
 
+		if hero.DramatisPersonae {
+			// show dramatis personae marker
+			pdf.SetXY(0, float64(offsetY) + 38.5)
+			pdf.Image("images/dp_marker.png", 6, 0, 421*0.053, 97*0.051, true, "", 0, "")
+		}
+
 		if hero.Large {
 			// show large creature marker
 			pdf.SetXY(0, float64(offsetY) + 38.5)
@@ -384,15 +390,12 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	pdf.Write(0, "Routtest: ")
 	pdf.SetFont("Arial", "", 10)
 	pdf.SetTextColor(text_color_r, text_color_g, text_color_b)
-	pdf.SetXY(95, float64(offsetY)+32.0)
-	pdf.Write(0, strconv.Itoa(warband.routtest))
+	pdf.SetXY(93, float64(offsetY)+32.0)
+	pdf.Write(0, strconv.Itoa(warband.routtest) + " (" + strconv.Itoa(warband.member_cnt) + ")")
 
 	pdf.SetFont("Arial", "", 10)
 	pdf.SetXY(55, float64(offsetY)+11.25)
 	pdf.Write(0, strconv.Itoa(warband.hero_sum_xp))
-
-	pdf.SetXY(60, float64(offsetY)+11.25)
-	pdf.Write(0, "(+"+strconv.Itoa(warband.warbandAddition_sum)+")")
 
 	pdf.SetFont("Arial", "", 10)
 	pdf.SetXY(55, float64(offsetY)+14.75)
@@ -400,10 +403,10 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 
 	pdf.SetFont("Arial", "B", 10)
 	pdf.SetXY(22.05, float64(offsetY)+18.0)
-	pdf.Write(0, strconv.Itoa(warband.hero_cnt+warband.henchmen_cnt+warband.hiredsword_cnt))
+	pdf.Write(0, strconv.Itoa(warband.hero_cnt + warband.henchmen_cnt))
 	pdf.SetFont("Arial", "", 10)
 	pdf.SetXY(55.0, float64(offsetY)+18.0)
-	pdf.Write(0, strconv.Itoa((warband.hero_cnt+warband.henchmen_cnt+warband.hiredsword_cnt) * 5))
+	pdf.Write(0, strconv.Itoa((warband.hero_cnt + warband.henchmen_cnt) * 5))
 
 	pdf.SetFont("Arial", "B", 10)
 	pdf.SetXY(32.05, float64(offsetY)+21.25)
@@ -417,22 +420,30 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	pdf.Write(0, "( "+strconv.Itoa(warband.hiredsword_cnt)+" )")
 	pdf.SetFont("Arial", "", 10)
 	pdf.SetXY(55.0, float64(offsetY)+24.5)
-	pdf.Write(0, strconv.Itoa(warband.hiredsword_sum_xp))
-
-    // TODO hier die anzahl der mounts anzeigen und jeweils die 10 punkte für das rating pro mount
-    pdf.SetFont("Arial", "B", 10)
-	pdf.SetXY(7.0, float64(offsetY)+36.25)
-	pdf.Write(0, "Mounts: (" + strconv.Itoa(warband.mount_cnt) + ")")
-	pdf.SetFont("Arial", "", 10)
-	pdf.SetXY(55.0, float64(offsetY)+36.25)
-	pdf.Write(0, strconv.Itoa((warband.mount_cnt) * 10))
+	pdf.Write(0, strconv.Itoa(warband.hiredsword_sum_xp) + " (+" + strconv.Itoa(warband.hiredsword_cnt * 5) + ")")
 
 	pdf.SetFont("Arial", "B", 10)
-	pdf.SetXY(95, float64(offsetY)+11.25)
+	pdf.SetXY(34.05, float64(offsetY)+28.0)
+	pdf.Write(0, "( "+strconv.Itoa(warband.dramatispersonae_cnt)+" )")
+	pdf.SetFont("Arial", "", 10)
+	pdf.SetXY(55.0, float64(offsetY)+28.0)
+	pdf.Write(0, strconv.Itoa(warband.dramatispersonae_sum_wbr))
+
+	if warband.mount_cnt > 0 {
+		pdf.SetFont("Arial", "B", 10)
+		pdf.SetXY(7.0, float64(offsetY)+36.25)
+		pdf.Write(0, "Mounts: (" + strconv.Itoa(warband.mount_cnt) + ")")
+		pdf.SetFont("Arial", "", 10)
+		pdf.SetXY(55.0, float64(offsetY)+36.25)
+		pdf.Write(0, strconv.Itoa((warband.mount_cnt) * 10))
+	}
+
+	pdf.SetFont("Arial", "B", 10)
+	pdf.SetXY(93, float64(offsetY)+11.25)
 	pdf.Write(0, strconv.Itoa(warband.GoldCrowns))
 
 	pdf.SetFont("Arial", "B", 10)
-	pdf.SetXY(95, float64(offsetY)+17.75)
+	pdf.SetXY(93, float64(offsetY)+17.75)
 	pdf.Write(0, strconv.Itoa(warband.Shards))
 
 	// Campaign info block
