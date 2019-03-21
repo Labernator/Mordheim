@@ -9,7 +9,7 @@ alignment: chaotic
 heros:
     - hero: Grumlok & Gazbag (Ork leader) [20XP]
       stats: M4, WS4, BS4, S4, T4, W1, I3, A1, Ld8, Sv-
-      weapons: Axe, Dagger
+      weapons: Dagger, Dagger
       armour: Helmet, Lucky charm
       rules: Leader
       warbandaddition: 5
@@ -28,28 +28,18 @@ heros:
       skilllists: Strength, Shooting, Combat, Special
 
     - hero: Karhag (Big'Un) [15XP]
-      stats: M4, WS3, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
+      stats: M4, WS4, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
       weapons: Hand weapon, Dagger
       rules:
       skilllists: Strength, Shooting, Combat, Special
 
     - hero: Wogga (Shaman) [10XP]
-      stats: M4, WS4, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
+      stats: M4, WS3, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
       weapons: Hand weapon, Dagger
       rules: Clubba
       skilllists: Strength, Special
 
 henchmen:
-    - group: Goblins (4 Goblin warrior) [0XP]
-      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld5, Sv-
-      weapons: Dagger, Dagger
-      rules: Animosity, Not orks, Runts
-
-    - group: Squig herder (1 Goblin warrior) [0XP]
-      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld5, Sv-
-      weapons: Squig prodder, Dagger, Short bow
-      rules: Animosity, Not orks, Runts
-
     - group: Norog (1 Ork boy) [0XP]
       stats: M4, WS3, BS3, S3, T4, W1, I2, A1, Ld7, Sv-
       weapons: Dagger, Dagger
@@ -65,10 +55,15 @@ henchmen:
       weapons: Dagger, Dagger
       rules: Animosity
 
-    - group: Oggrot (1 Ork boy) [0XP]
-      stats: M4, WS3, BS3, S3, T4, W1, I2, A1, Ld7, Sv-
+    - group: Goblins (4 Goblin warrior) [0XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld5, Sv-
       weapons: Dagger, Dagger
-      rules: Animosity
+      rules: Animosity, Not orks, Runts
+
+    - group: Squig herder (1 Goblin warrior) [0XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld5, Sv-
+      weapons: Squig prodder, Dagger, Short bow
+      rules: Animosity, Not orks, Runts
 
     - group: Squigs (4 Squig) [0XP]
       stats: M2D6, WS4, BS0, S4, T3, W1, I4, A1, Ld5, Sv-
