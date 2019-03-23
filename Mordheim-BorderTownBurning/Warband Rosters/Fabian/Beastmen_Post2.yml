@@ -15,7 +15,7 @@ heros:
       large: false
       hiredsword: false
       skilllists: Strength, Combat, Speed
-      injuries: Blind in One Eye, Leg Wound
+      injuries: Blind in One Eye, Leg Wound, Misses next game
 
     - hero: b (Beastmen Shaman) [14XP]
       stats: M5, WS4, BS3, S4, T4, W1, I4, A2, Ld7, Sv-
