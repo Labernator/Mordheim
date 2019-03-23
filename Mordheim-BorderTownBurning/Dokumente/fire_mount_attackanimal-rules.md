@@ -1,9 +1,9 @@
 # Attack animals
 
 ## Set up
-* Ein Attack animal wird in 3" Reichweite des Besitzers aufgestellt, danach ist der Abstand egal und es kann sich frei (unter spielerkontrolle) bewegen.
-* Wenn der Besitzer knocked down oder stunned ist bewegt sich das attack animal automaisch zum Besitzer und wird ihn dort beschützen solange der Held aufsteht oder das Spiel endet.
-* Was ist wenn das Attack animal im Kampf ist? Verbleibt es im Kampf und bewegt sich danach zum Besitzer oder verlässt es den Kampf?
+* Ein Attack animal wird in 3" Reichweite des Besitzers aufgestellt, danach ist der Abstand egal. Es kann sich frei (unter spielerkontrolle) bewegen.
+* Wenn der Besitzer knocked down oder stunned ist bewegt sich das attack animal automaisch zum Besitzer und wird ihn dort beschützen. Solange bis der Held aufsteht oder das Spiel endet.
+* Offene Kämpfe werden zu Ende geführt bevor das Attack Animal zu seinem Gegner rennen/gehen kann. Wird es angecharged, muss es diesen Kampf zu Ende führen usw..
 * In Reichweite von 6" zum Besitzer benutzt das Animal seinen Ld
 * Ist der Besitzer Dead verschwindet auch das Attack animal
 * Ein Held mit dem "Beastmaster" skill darf ein Attack animal besitzen.
@@ -19,10 +19,10 @@
 * Das Attack Animal gehört einer Einheit, es steht auf dessen Equip-Lsite auf dem Roaster.
 * Attack Animals gewinnen keine XP.
 * Attack Animals fügen 10 Punkte zum Warbandrating hinzu?
-* Können Attack Animals 2" hohe/weite Hürden überspringen?
+* Attack Animals können 2" hohe oder weite Hürden überspringen?
 
 # Riding mounts
-* Um ein Mount zu reiten benötigt man den Ride Skill, dieder Gilt nur für ein Mount.
+* Um ein Mount zu reiten benötigt man den Ride Skill, dieser Gilt nur für ein Mount. Dieser Skill befähigt den Held auch zum Kauf eines solchen Tieres.
 * Sie zählen gleich gesetzt wie Attack animals zur Warband.
 * Mounts die nicht durch geführt oder geritten (siehe Attack Animal skills) werden müssen einen Ld-Test zu Beginn des Zuges durchführen. Schlägt der Test fehl geht das Tier durch (siehe Bolt).
 * Bolt:
@@ -43,7 +43,7 @@
 * Mouns können Barding tragen. Es erhöht das AS +1, vermindert das Movement um 1. Mounts die ein Barding tragen und OOA gegangen sind, würdeln auf der henchmen Tserious injury abelle: 1=dead 2-6 überlebt.
 * Mounts können rennen, auch wenn ein Reiter darauf sitzt.
 * Wie auch beim Rennen von Fußtruppen gelten hier die Regeln/Einschränkungen für das Zaubern und Schießen, etc..
-* Berittene Einheiten können bis zu 2" große Hindernisse (höhe und weite) überspringen.
+* Berittene Einheiten können bis zu 2" große Hindernisse (hohe oder weite) überspringen.
 * Wie auch large creatures können Berittene Einheiten immer beschossen werden, aber ohne +1 auf to Hit.
 * Das berittene Mount kämpft im Nahkampf mit seinen eigenen Stats mit. Die Attacke(n) des Mount können wie die des Reiters auf die Feinde welche mit Ihm im Kampf sind aufgeteilt werden.
 * Reiter die im Kampf stunned gehen werden vom Mount geworfen und die Whoa Boy! Table muss betrachtet werden. Geht das Reittier dabei durch muss erst Base Kontakt wiederhergestellt werden damit der Reiter wieder aufsitzen kann.
