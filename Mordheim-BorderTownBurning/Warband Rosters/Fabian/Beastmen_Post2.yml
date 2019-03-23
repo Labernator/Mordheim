@@ -18,7 +18,7 @@ heros:
       injuries: Blind in One Eye, Leg Wound, Misses next game
 
     - hero: b (Beastmen Shaman) [14XP]
-      stats: M5, WS4, BS3, S4, T4, W1, I4, A2, Ld7, Sv-
+      stats: M5, WS4, BS3, S3, T4, W1, I4, A2, Ld7, Sv-
       weapons: Club, Dagger
       rules: Magic User, Eye of God 6''
       skilllists: Strength, Combat, Speed
