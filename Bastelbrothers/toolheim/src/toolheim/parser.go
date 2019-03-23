@@ -63,6 +63,7 @@ type Hero struct {
 	Armour		*ItemList	`json:"armour,omitempty"`
 	Rules		*ItemList	`json:"rules,omitempty"`
 	SkillLists	*ItemList	`json:"skilllists,omitempty"`
+	Injuries	string		`json:"injuries,omitempty"`
 	bSkillLists	Skilllist
 }
 

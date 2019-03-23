@@ -153,6 +153,12 @@ func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 			}
 		}
 
+		if len(hero.Injuries) > 0 {
+			pdf.SetFont("Arial", "", 7)
+			pdf.SetXY(145, float64(offsetY + 27))
+			pdf.Write(0, hero.Injuries)
+		}
+
 		if hero.HiredSword {
 			// show hired sword marker
 			pdf.SetXY(0, float64(offsetY) + 38.5)

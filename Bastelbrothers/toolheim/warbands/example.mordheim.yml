@@ -16,6 +16,7 @@ heros:
       large: true
       hiredsword: false
       skilllists: Strength, Shooting, Combat, Speed, Special
+      injuries: Blind in One Eye, Leg Wound, Misses next game
 
     - hero: Black Ork (Black Ork) [10XP]
       stats: M4, WS4, BS3, S4, T4, W1, I2, A1, Ld7, Sv3
