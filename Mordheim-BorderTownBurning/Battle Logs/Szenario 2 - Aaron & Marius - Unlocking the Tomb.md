@@ -71,11 +71,8 @@ Aaron:
 * +1 GC => 110 GC
 * -5 GC upkeep Gordon => 105 GC
 * -35 GC rebuy Enforcer (25 GC + 2GC dagger + 4XP*2GC = 8 GC) => 70 GC
-* -35 GC buy another enforcer ( 25 GC + 2 GC dagger + 4XP*2GC) => 35 GC
-* -20 GC buy light armour => 15 GC
-* -10 GC buy helmet => 5 GC
-* -2 GC buy dagger for Ivar => 3 GC
-* -2 GC buy dagger for Bjorn => 1 GC
+* -20 GC buy light armour => 50 GC
+* -50 GC buy 5 helmets (5*10 GC) => 0 GC
 
 Marius sells 3 wyrdstones => 55 => 70 gold (with treasury, expl income) => buy heavy armor (-7) => 27 - 15 upkeep for dwarf => 12
 
