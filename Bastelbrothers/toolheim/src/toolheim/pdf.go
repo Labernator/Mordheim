@@ -513,6 +513,7 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 
 func MakePDF(warband Warband, multiPage bool) {
 	pdf := gofpdf.New("P", "mm", "A4", "")
+    pdf.SetMargins(0,0,0)
 	pdf.SetTextColor(text_color_r, text_color_g, text_color_b)
 
 	MakeStatisticPage(warband, pdf)
