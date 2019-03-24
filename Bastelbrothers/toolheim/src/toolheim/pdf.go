@@ -500,7 +500,7 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	pdf.Image("images/notes.png", 5, 0, 1499*0.133, 218*0.33, true, "", 0, "")
 
 	pdf.SetFont("Arial", "", 10)
-	lines = pdf.SplitLines([]byte(warband.Notes), 190)
+	lines = pdf.SplitLines([]byte(warband.Notes), 195)
 	for i := 0; i < len(lines); i++ {
 		pdf.SetXY(7.0, float64(offsetY + 7 + i * 5))
 		pdf.Write(0, string(lines[i]))
