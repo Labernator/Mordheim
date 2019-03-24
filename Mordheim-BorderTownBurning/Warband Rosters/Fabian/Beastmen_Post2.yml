@@ -41,7 +41,7 @@ heros:
       rules:
       skilllists: Strength, Combat, Beastmen
 
-    - hero: Lad which got talent (Got) [3xp]
+    - hero: Lad which got talent (Got) [3XP]
       stats: M5, WS4, BS3, S3, T4, W1, I4, A1, Ld6, Sv-
       weapons: Club, Club
       rules: Infighting
