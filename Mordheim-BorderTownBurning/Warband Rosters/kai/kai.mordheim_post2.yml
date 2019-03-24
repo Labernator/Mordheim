@@ -1,6 +1,6 @@
 warband: Orks, Goblins and Squigs (Orks)
 campaign: 6
-gc: 8
+gc: 13
 shards: 0
 equipment: none
 objective: Scrooge of the realm
@@ -8,8 +8,8 @@ alignment: chaotic
 
 heros:
     - hero: Grumlok & Gazbag (Ork leader) [27XP]
-      stats: M4, WS4, BS4, S4, T4, W1, I3, A2, Ld8, Sv3
-      weapons: Axe, Dagger, Shield
+      stats: M4, WS4, BS4, S4, T4, W1, I3, A2, Ld8, Sv4
+      weapons: Axe, Dagger
       armour: Steel Cloth, Helmet, Light armour, Lucky charm
       rules: Leader, I am the scougre
       warbandaddition: 5
@@ -89,7 +89,7 @@ notes: |
          - +1 exploration dice next time discarding one
          - Grumlok hates Scion of darknes leader, he has to charge them if in reach
          - Sold 4 wyrdstone (1 from treasure chest) = 55gc
-         - Bought 1 light armour (20gc), 1 shield (5gc), 1 Ork Boy (25gc) + free dagger + dagger from squig herder
+         - Bought: 1 light armour (20gc), 1 Ork Boy (25gc) + free dagger + dagger from squig herder
 
 achievments: |
         none
