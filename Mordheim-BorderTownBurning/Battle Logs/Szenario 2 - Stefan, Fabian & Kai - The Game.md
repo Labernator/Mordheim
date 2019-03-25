@@ -37,7 +37,7 @@ Chieftain -1BS (blinded) -1M misses next game
 
 Kai:  
 3 tote squigs   
-karhag -1toughness  
+karhag chest wound (-1toughness)  
 
 **Experience:**  
 Stefan:  
