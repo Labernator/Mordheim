@@ -103,10 +103,12 @@ Fabian:
 verkauft 3 wyrdstones fuer 55GC.  
 
 Kai:  
-verkauft 4 wyrdstone fuer 55gc, 1 vom letzten spiel  
-Steel Cloth vom Pillar.
-Kaufe Ork Boy (25gc)
-Kaufe Light Armour (20gc)
+3gc übrig vom letzten Szenario  
+verkauft 4 wyrdstone fuer 55gc, 1 vom letzten spiel,  
+Steel Cloth vom Pillar.  
+Kaufe Ork Boy (25gc)  
+Kaufe Light Armour (20gc)  
+=> 13 GC übrig
 
 **Verfuegbare Henchmen XP:** 5  
 
