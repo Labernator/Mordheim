@@ -18,10 +18,12 @@
 * Attack Animals würfeln wenn sie OOA gegangen sind auf der henchmen Tabelle.
 * Das Attack Animal gehört einer Einheit, es steht auf dessen Equip-Lsite auf dem Roaster.
 * Attack Animals gewinnen keine XP.
-* Attack Animals fügen 10 Punkte zum Warbandrating hinzu?
-* Attack Animals können 2" hohe oder weite Hürden überspringen?
+* Attack Animals fügen 10 Punkte zum Warbandrating hinzu.
+* Attack Animals können 2" hohe oder weite Hürden überspringen.
 
 # Riding mounts
+* Mounts müssen mit einem Abstand von 1" zum Reiter/Besitzer in der Aufstellphase eines Szenario aufgestellt werden.
+* Können Reiter eines Mounts auch bereits aufgemountet aufgestellt werden? -> Es würde einen Vorteil im Movement geben, schnell an den Gegner oder schneller als andere an Schätze etc. zu kommen. -> +1 (kai) für gegen aufsitzend aufstellen
 * Um ein Mount zu reiten benötigt man den Ride Skill, dieser Gilt nur für ein Mount. Dieser Skill befähigt den Held auch zum Kauf eines solchen Tieres.
 * Sie zählen gleich gesetzt wie Attack animals zur Warband.
 * Mounts die nicht durch geführt oder geritten (siehe Attack Animal skills) werden müssen einen Ld-Test zu Beginn des Zuges durchführen. Schlägt der Test fehl geht das Tier durch (siehe Bolt).
@@ -30,6 +32,7 @@
   - In allen Folgezügen wird ein Ld-Test für das Mount das durch gegangen ist durchgeführt, ist er erfolgreich stoppt das Mount.
   - Ist dieser erfolgreich stoppt das Tier. Sonst rennt es weiter in die selbe Richtung.
 * Berittene Einheiten verwenden das Ld des Reiters.
+* Abgeworfene Reiter reiten nicht.
 * In Kämpfen verwendet der Held seine Stats (WS, BS, A, S, T, AS (zzgl. Mount AS addition)), nicht die des Mounts.
 * Das Mount kämpft mit seinen eigenen Stats.
 * Jede Einheit der es nicht ausdrücklich verboten ist darf ein Mount reiten.
@@ -56,7 +59,7 @@
 * Große Reittiere aus BTB addieren insgesamt 20 Punkte zum Warbandrating hinzu.
 * Mounts gewinnen keine XP.
 * Reiter die nicht mindest einen Cavalery Skill haben machen einen Ld-Test wenn sie mit dem Reittier in Basekontakt mit einem Feind kommen, oder wenn sie durch Fernkampf getroffen werden. Wenn er fehl schläft Whoa Boy! Table betrachtet. Das gilt nicht wenn der Feind in Bewegung ist.
-* Mounts die nicht geführt und nicht geritten werden bleiben stehen. Zu beginn der Runde in der das Mount steht muss ein Ld-Test durchgeführt werden. Wird der nicht bestanden geht das Mount durch - es rennt los siehe Bolt.
+* Mounts die nicht geführt und nicht geritten werden bleiben stehen (M0).
 * In einer Kampagne, wenn der Reiter OOA geht wird direkt 1D6 für das Mount gewürfelt: 1-2 = tot
 * Whoa Boy! Table (roll D6):
   - 1-2: Eine Runde stehen bleiben um die Kontrolle über das Mount wieder zu erlangen. Kein Movement/Charge/Shooting. Wird er attakiert zählt er als Heruntergefallen.
@@ -64,9 +67,9 @@
     Nochmal 1D6: 1-3=Mount geht durch 3D6" in zufälliger Richtung, wenn es den Tisch verlässt gilt es danach als eingefangen und darf weiter verwendet werden;
                  4-6: Das Mount bleibt in Basekontakt stehen und der Reiter kann aufsitzen wenn er wieder steht. Das Mount gilt als geführt aber nicht geritten.
   - 5-6: Der Reiter stürzt mitsamt des Reittiers, beide sind OOA. 1D6 würfeln 1-2: Das Mount fällt auf den Kopf des Reiters, er muss 2x auf die serious injury table würfeln und nochmal 1D6 würfeln 1-2 das Mount ist verkrüppelt oder tot und muss vom Roaster entfernt werden.
-* Wenn der Reiter endgültig stirbt wird auch das Reittier vom Roaster gestrichen.
+* Wenn der Reiter/Besitzer endgültig stirbt wird auch das Reittier vom Roaster gestrichen.
 * Mounts anderer Spieler können nicht geritten werden.
-* Hat der Reiter den Beast handler Skill kann das Mount als Attack Animal eingesetzt werden.
+* Hat der ReiterBesitzer den Beast handler Skill kann das Mount als Attack Animal eingesetzt werden.
 
 # Fire
 
@@ -90,5 +93,5 @@
 * In der Recovery phase können brennende Einheiten von anderen auf D6=4+ gelöscht werden wenn sie in Basekontakt sind.
 * Brennende Einheiten tun nichts bis sie ooa sind oder nicht mehr brennen.
 * Fire (set on Fire) Regel: Wenn die Waffe trifft D6 würfeln. Bei 5+ Ist die getroffene Einheit in Brand gesetzt.
-* Manche Waffen die Brennen fügen keinen Feuerschaden zu? Ist das Inkonsistent oder Absicht? Wieso sollte einen Fackel einen Gegner nicht in Brand setzen können wenn der Gegner getroffen wird?
+* Manche Waffen die Brennen fügen keinen Feuerschaden zu? Ist das Inkonsistent oder Absicht? Wieso sollte einen Fackel einen Gegner nicht in Brand setzen können wenn der Gegner getroffen wird? -> Waffen die Feuerschaden verursachen kosten mehr GC. Fackeln kosten fast nichts.
 
