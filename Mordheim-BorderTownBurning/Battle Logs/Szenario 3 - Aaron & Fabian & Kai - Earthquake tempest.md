@@ -1,14 +1,12 @@
-
-
-Szenario: Earthquake tempest
+Szenario: Earthquake
 
 Territorium: The Cathayan Borderlands
 
-Wetter: normal
+Wetter:  Tempest
 
 Spieler: Aaron & Fabian & Kai
 
-Warband Rating:
+Warband Rating:  
 Aaron:149
 Fabian:150
 Kai: 202
