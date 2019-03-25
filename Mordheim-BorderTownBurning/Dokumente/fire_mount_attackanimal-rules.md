@@ -25,6 +25,7 @@
 * Mounts müssen mit einem Abstand von 1" zum Reiter/Besitzer in der Aufstellphase eines Szenario aufgestellt werden.
 * Können Reiter eines Mounts auch bereits aufgemountet aufgestellt werden? -> Es würde einen Vorteil im Movement geben, schnell an den Gegner oder schneller als andere an Schätze etc. zu kommen. -> +1 (kai) für gegen aufsitzend aufstellen
 * Um ein Mount zu reiten benötigt man den Ride Skill, dieser Gilt nur für ein Mount. Dieser Skill befähigt den Held auch zum Kauf eines solchen Tieres.
+* Warbands denen in der Warband-Beschreibung erlaubt wird spezielle Mounts zu reiten erhalten automatisch den Ride skill.
 * Sie zählen gleich gesetzt wie Attack animals zur Warband.
 * Mounts die nicht durch geführt oder geritten (siehe Attack Animal skills) werden müssen einen Ld-Test zu Beginn des Zuges durchführen. Schlägt der Test fehl geht das Tier durch (siehe Bolt).
 * Bolt:
