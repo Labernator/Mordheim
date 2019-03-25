@@ -42,7 +42,7 @@ heros:
       rules:
       skilllists: Strength, Combat, Special
 
-    - hero: Super Toddy (Gor) [3XP]
+    - hero: Super Toddy (Gor) [2XP]
       stats: M5, WS4, BS3, S3, T4, W1, I4, A1, Ld6, Sv-
       weapons: Club, Club
       rules: Infighting
@@ -60,7 +60,7 @@ henchmen:
 
     - group: Dagger (2 Gor) [3XP]
       stats: M5, WS5, BS3, S3, T4, W1, I3, A1, Ld6, Sv-
-      weapons: Dagger, Sword
+      weapons: Club, Sword
       rules: Infighting
 
 
@@ -68,6 +68,7 @@ notes: |
          - Roll for random happenings.
          - Roll for Gor if they dont see an emeny
          - Roll for Centigor
+         - If at the start of your movement phase any Gor or Ungor does not see any enemy,make a leaderhip test on 3D6 (roll three dices and choose the two lowest rolls). If the Gor or Ungor fails the test, he moves full allowed distance directly to the nearest fellow Gor or Ungor who is not in hand-to-hand combat (if there is any).
 
 achievments: |
         none
