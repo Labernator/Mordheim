@@ -104,7 +104,9 @@ verkauft 3 wyrdstones fuer 55GC.
 
 Kai:  
 verkauft 4 wyrdstone fuer 55gc, 1 vom letzten spiel  
-Steel Cloth vom Pillar.  
+Steel Cloth vom Pillar.
+Kaufe Ork Boy (25gc)
+Kaufe Light Armour (20gc)
 
 **Verfuegbare Henchmen XP:** 5  
 
