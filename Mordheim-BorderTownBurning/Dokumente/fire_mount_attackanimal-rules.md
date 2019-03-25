@@ -30,7 +30,8 @@
   - In allen Folgezügen wird ein Ld-Test für das Mount das durch gegangen ist durchgeführt, ist er erfolgreich stoppt das Mount.
   - Ist dieser erfolgreich stoppt das Tier. Sonst rennt es weiter in die selbe Richtung.
 * Berittene Einheiten verwenden das Ld des Reiters.
-* In Kämpfen werden die Stats (WS, BS, A, S, T, AS (zzgl. Mount AS addition)) vom Helden verwendet.
+* In Kämpfen verwendet der Held seine Stats (WS, BS, A, S, T, AS (zzgl. Mount AS addition)), nicht die des Mounts.
+* Das Mount kämpft mit seinen eigenen Stats.
 * Jede Einheit der es nicht ausdrücklich verboten ist darf ein Mount reiten.
 * Es dauert einen ganzen Zug um auf ein Tier aufzusitzen. Zuerst Basekontakt herstellen, dann einen Zug lang nichts tun außer aufsitzen.
 * Wie auch das Attack Animal soll das Reittier durch ein Modell represäntiert werden.
