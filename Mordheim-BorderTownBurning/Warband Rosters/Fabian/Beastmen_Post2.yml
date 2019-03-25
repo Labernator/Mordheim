@@ -1,6 +1,6 @@
 warband: Clubsgiving (Beastmen)
 campaign: 2
-gc: 67
+gc: 27
 shards: 0
 equipment: Cathayan Map (Beylandish)
 objective: The Scion of Chaos
@@ -9,7 +9,7 @@ alignment: chaotic
 heros:
     - hero: Misses next game (Beastmen Chieftain) [22XP]
       stats: M4, WS4, BS2, S4, T4, W1, I4, A1, Ld7, Sv-
-      weapons: Halberd
+      weapons: Club, Dagger
       armour: 
       rules: Leader
       large: false
@@ -19,14 +19,15 @@ heros:
 
     - hero: b (Beastmen Shaman) [14XP]
       stats: M5, WS4, BS3, S3, T4, W1, I4, A2, Ld7, Sv-
-      weapons: Club, Dagger
+      weapons: Club, Club
       rules: Magic User, Eye of God 6''
       skilllists: Strength, Combat, Speed, Special
 
     - hero:  c(Centigor) [11XP]
       stats: M8, WS4, BS3, S4, T4, W1, I2, A2, Ld7, Sv-
-      weapons: Club, Club
-      rules: Drunken,Woodland Dwelling,Trample,Quadruped, SELECT A SKILL
+      weapons: Halberd
+      armour: Light Armour
+      rules: Drunken,Woodland Dwelling,Trample,Quadruped, Sweeping Blow, Map
       skilllists: Strength, Combat, Special
 
     - hero: d (Bestigors) [9XP]
@@ -41,7 +42,7 @@ heros:
       rules:
       skilllists: Strength, Combat, Special
 
-    - hero: Lad which got talent (Gor) [3XP]
+    - hero: Super Toddy (Gor) [3XP]
       stats: M5, WS4, BS3, S3, T4, W1, I4, A1, Ld6, Sv-
       weapons: Club, Club
       rules: Infighting
@@ -59,13 +60,14 @@ henchmen:
 
     - group: Dagger (2 Gor) [3XP]
       stats: M5, WS5, BS3, S3, T4, W1, I3, A1, Ld6, Sv-
-      weapons: Dagger, Club
+      weapons: Dagger, Sword
       rules: Infighting
 
 
 notes: |
          - Roll for random happenings.
          - Roll for Gor if they dont see an emeny
+         - Roll for Centigor
 
 achievments: |
         none
