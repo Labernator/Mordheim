@@ -22,3 +22,22 @@ Besitzt eine Warband nur 2 Henchmen groups, nimmt die Henchmen group aus der ers
 Gibt es nur eine Henchmen Gruppe, spielt diese alle 3 Runden. (Sollte diese komplett OOA gehen vor der 3. Runde, sind die Helden ab diesem Zeitpunkt auf sich gestellt).
 
 Keine XP für Zombie kills.
+
+8.) Strength Skill "Strongman" gilt wie gehabt, nur für alle Waffen welche die Eigenschaft "Strike last" besitzen.
+
+9.) Der Combat Skill "Shield smash" funktioniert nicht bei einer reitenden Einheit. Das Schild gewährt aber weiterhin den AS Bonus.
+
+10.) Der Augur (Sisters of Sigmar und andere) hat den Skill "Ignore Blind in one Eye". Er kann nicht erblinden, er ist schon blind.
+
+11.) Einheiten können von einem Szenario freiwillig ausgesetzt werden.
+
+12.) Aussetzende Einheiten zählen nicht zum Routtest-Limit in einem Szenario dazu.
+
+13.) Setzt eine Einheit freiwillig oder durch ein spielbedingt negativen Effekt aus die einen UpKeep erfordert, muss dieser trotzdem bezahlt werden.
+
+14.) Aussetzende Einheiten zählen in der Exploration phase normal zur Warband Größe.
+
+15.) Positive wie negative Effekte welche durch Einheiten ausgelöst werden, die aussetzen werden nicht angewendet.
+
+16.) Das Warband-Rating wird nicht neu berechnet wenn Einheiten aussetzen (kein künstlich erzeugter UnderDog-Bonus möglich).
+
