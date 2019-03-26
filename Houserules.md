@@ -75,16 +75,20 @@
 
 27.) Das Warband-Rating wird nicht neu berechnet wenn Einheiten aussetzen (kein künstlich erzeugter UnderDog-Bonus möglich).
 
-Troll comp:
+28.) Troll comp:
 
 M WSBS S T W I A Ld
 6 3 1 5 4 3 1 3 4
 
-Fear: Trolls are huge, bellowing monsters and cause 
-fear. See Psychology section for details. 
+Fear: Trolls are huge, bellowing monsters and cause fear. See Psychology section for details. 
 Stupidity:... 
 Animal: may gain Experience, it may never  become a Hero. 
 Large:... 
 Tough:... .. 
-4+ Armor save
+4+ Armor save instead of the regeneration skill.
 Troll Vomit
+
+29.) Strength Skill "Strongman" gilt wie gehabt, nur für alle Waffen welche die Eigenschaft "Strike last" besitzen.
+30.) Der Combat Skill "Shield smash" funktioniert nicht bei einer reitenden Einheit. Das Schild gewährt aber weiterhin den AS Bonus.
+31.) Der Augur (Sisters of Sigmar und andere) hat den Skill "Ignore Blind in one Eye". Er kann nicht erblinden, er ist schon blind.
+
