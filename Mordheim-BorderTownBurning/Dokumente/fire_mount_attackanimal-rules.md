@@ -30,7 +30,7 @@
 * Wenn der Besitzer "knocked down" oder "stunned" ist bewegt sich das Attack Animal schnellstmöglich und automaisch zum Besitzer. Es wird ihn dort beschützen.
 * Es muss die nahestehendste Einheiten angreifen mit der dieser im Combat ist.
 * Es muss sich beim Besizter aufhalten bis der Held aufsteht oder das Spiel endet.
-* FRAGE: Gegner die den Held anchargen werden wenn nicht im Kampf abgefangen. intercept???
+* FRAGE: Gegner die den Held anchargen werden wenn das Attack Animal nicht im Kampf ist abgefangen. Funktioniert wie Intercept?
 * Steht der Held auf kann das Attack Animal wieder frei bewegt werden.
 * Offene Kämpfe werden zu Ende geführt bevor das Attack Animal zu seinem Besiter rennen/gehen kann.
 * Wird es auf diesem Weg gecharged, muss es diesen Kampf zu Ende führen usw..
@@ -47,8 +47,8 @@
 * Sie zählen gleich gesetzt zur Warband wie Attack Animals.
 * Mounts können auch als Attack Animals gekauft werden. Reiten weiter erst wenn der Besitzer den "Ride" skill besitzt.
 * Mounts können rennen (2xM), wenn ein Reiter darauf sitzt, oder ohne.
-* FRAGE: Es dauert einen ganzen Zug um auf ein Tier aufzusitzen. Zuerst Basekontakt herstellen, dann einen Zug lang nichts tun außer aufsitzen? Oder Hin gehen und aufsitze und im kommenden Zug ist man aufgesessen?
-* FRAGE: Absitzen dauert so lange wie aufsitzen? In den Regeln ist nichts dazu verzeichnet. Es gibt aber den Cavalry Skill "Running dismount" der schnelles absitzen ermöglicht.
+* Es dauert einen ganzen Zug um auf ein Tier aufzusitzen. Zuerst Basekontakt herstellen, dann einen Zug lang nichts tun außer aufsitzen. Der Zug in dem man Baskontakt hergestellt hat zählt nicht, da man sich bewegt hat.
+* Absitzen dauert so lange wie aufsitzen.
 * Mounts die nicht geführt (siehe Attack Animal skills) und nicht geritten werden bleiben stehen (M0).
 * Zum Start des Zuges eines Spielers muss für ungeführte Mounts einen Ld-Test durchführen. Schlägt der Test fehl geht das Tier durch (siehe Bolt).
 * Berittene Mounts verwenden wie der Reiter selbst das Ld des Reiters.
@@ -65,7 +65,7 @@
 * Mounts anderer Spieler können nicht geritten werden.
 * Reiter dürfen im Basekontakt mit Ihren Reittieren sein.
 * Mounts die im Basekontakt Ihres Reiters stehen gelten als geführt, nicht geritten.
-* FRAGE: Reiter können Ihr Mount in Basekontakt über das Spielfeld führen (zufuß). Movement vom Reiter wird verwendet. Rennen ist nicht möglich.
+* Reiter können Ihr Mount in Basekontakt über das Spielfeld führen (zufuß). Movement vom Reiter wird verwendet. Rennen ist nicht möglich. Kämpfen ist möglich.
 
 ## Skills
 * Um ein Mount zu reiten benötigt man den "Ride" Skill.
@@ -76,12 +76,12 @@
 * Warbands denen in der Warband-Beschreibung erlaubt wird spezielle Mounts zu reiten erhalten automatisch den Ride skill.
 * Jeder Held dem es nicht ausdrücklich verboten ist darf mittels dem "Ride" skill ein Mount erwerben und reiten.
 * In dichtem Terrain wie einer Stadt (z.B. Mordheim / Wald) können von einer Warband maximal zwei Mounts gleichzeitig geritten werden.
-* FRAGE: Reiter die nicht mindest ???einen Cavalery Skill?? haben müsses einen Ld-Test durchführen, wenn sie mit dem Reittier in Basekontakt mit einem Feind kommen. Oder wenn sie durch Fernkampf getroffen werden.
+* Reiter die mindestens einen Cavalery Skill haben müsses keinen Ld-Test durchführen, wenn sie mit dem Reittier in Basekontakt mit einem Feind kommen. Oder wenn sie durch Fernkampf (Beschuss/Magic) getroffen werden.
   - Schlägt dieser fehl muss die Whoa Boy! Table betrachtet werden. Das gilt nicht wenn der Feind in Bewegung ist.
 * Hat der Reiter/Besitzer den "Beast handler" Skill kann das Mount als Attack Animal eingesetzt werden.
+* Reiter können mit dem "Animal handler" Skill mehrere Mounts des selben Typs führen, sofern diese im Basekontakt sind. Es müssen nicht alles seine Mounts sein. Mit Hilfe dieses Skills kann auch eines der Mounts dabei geritten werden.
 
 ## Sonderregeln
-
 * Bolt:
   - Mit einem Scatter dice wird die Richtung festlegegt, das Mount rennt in diese Richtung.
   - In allen Folgezügen wird ein Ld-Test für das Mount das durch gegangen ist durchgeführt.
@@ -119,6 +119,8 @@
 * Barding vermindert das Movement um 1M.
 * Mounts die ein Barding tragen und OOA gegangen sind, würfeln auf der henchmen serious injury Tabelle: 1=dead; 2-6 überlebt
 * Für berittene Einheiten gelden für Beschuss die gleiche Regel wie bei large creatures, aber ohne +1 auf to Hit.
+* Reitende müsses einen Ld-Test durchführen wenn sie in Basekontakt mit einem Feind kommen.
+* Reitende müsses einen Ld-Test durchführen wenn sie durch Fernkampf (Beschuss/Magic) getroffen werden.
 
 # Fire
 
@@ -149,5 +151,5 @@
 * Brennende Einheiten tun nichts bis sie nicht mehr brennen. Oder sie gehen OOA
 * Fire (set on Fire) Regel: Wenn die Waffe trifft D6 würfeln. Bei 5+ Ist die getroffene Einheit in Brand gesetzt.
 * Manche Waffen die Brennen fügen keinen Feuerschaden zu. Das ist nicht konsistent, aber Absicht. Waffen die Feuerschaden verursachen kosten mehr GC. Fackeln kosten fast nichts daher können sie im Kampf keinen Feuerschaden ausführen.
-* FRAGE: Wenn eine Waffe "set on fire" auslöst, wird dann sofort Feuerschaden ausgelöst? Wenn ja wie viel? D2 S2?
+* FRAGE: Wenn eine Waffe "set on fire" auslöst, wird dann auch sofort Feuerschaden ausgelöst? Wenn ja wie viel? D2 S2?
 
