@@ -131,3 +131,17 @@ Ungläubig starrten die Grubenkämpfer auf das Schlachtfeld. Mit barbarischer Gn
 Alle nickten zustimmend. "Außerdem haben wir gelernt", warf Sulman ein "dass wir mehr Kämpfer benötigen. Viel mehr um ehrlich zu sein." Jetzt war es an Haffax zustimmend zu nicken. "Morgen finden wieder die Grubenkämpfe statt, lasst uns hoffen, dass das letzte Pamphlet des Bethaniers ein paar Menschen wachgerüttelt hat."
 
 Und tatsächlich, am nächsten Abend waren viele neue Gesichter in der Grube zu sehen. Torxes, ein Stadtmusikant war mit einer Gruppe Gleichgesinnter aus Wei-jin gekommen um den Lehren des Bethaniers zu folgen und für die Freiheit der Bevölkerung zu kämpfen. Auch Skrechu ein aus der Sklaverei geflohener Echsenmensch schloss sich der Sache an. Als Teil einer verfolgten und versklavten Minderheit hatte er wenig Sympathien für die Herrschenden übrig.
+
+# Kapitel 2: Die Schwesternschaft
+*Wenn deine Gegner zu stark oder zu zahlreich sind: Suche dir Verbündete!*
+ - Fünftes Strategem des Helme Haffax
+
+Nach dem Grubenkampf saßen die Rebellen in ihrem Unterschlupf und besprachen das weitere Vorgehen. "Torxes und seine Leute sind auf jeden Fall eine willkommene Verstärkung. Und Skrechu sieht aus, als könnte er es mit drei imperialen Gardisten auf einmal aufnehmen. Aber Haffax, seien wir ehrlich: Gegen das Chaos das wir gestern gesehen haben sind wir doch immer noch völlig chancenlos!",  sprach Dimiona aus was alle dachten.
+
+"Das hast du völlig korrekt beobachtet", entgegnete Haffax. "Wir sind zu wenige, wir sind zu schlecht ausgerüstet und kennen die Umgebung hier nicht gut genug. Das sind miserable Voraussetzungen um die Chaos Anhänger oder das Imperium davon abzuhalten die Waffe zu finden." In der darauffolgenden Stille sahen alle ihren Anführer erwartungsvoll an. "Ja und jetzt?", platze es auf Galotta heraus. "Was ist jetzt der Plan? Däumchen drehen? Heim gehen? Aufgeben?" 
+
+"Naja, wenn wir zu schwach sind um uns gegen die Chaos Anhänger zu behaupten, dann wäre die offensichtliche Lösung sich mit Gleichgesinnten zusammen zu tun. Mehr Kämpfer sind mehr Macht!", meinte Sulman. Haffax nickte anerkennend. "Nur", fuhr Sulman fort, "wo sollen wir die finden. Jeder der für unsere Sache kämpfen will und die Pamphlete des Bathaniers gelesen hat kommt zu unseren Grubenkämpfen. Wo sollen diese Verbündeten plötzlich her kommen?"
+
+Fragend wandten sich die Blicke wieder zu Haffax. Dieser zuckte mit den Schultern und wollte gerade zu einer Erwiderung ansetzen als Torxes die Stimme erhob. "In Wei-jin kannte ich eine Gruppe fanatischer Sigmar Anhängerinnen. Etwas eigen natürlich und nicht sehr kompromissbereit, aber anders würde man es von Extremisten auch nicht erwarten. Aber von einem brennenden Hass auf das Chaos durchdrungen. Sie nennen sich die Schwesternschaft Sigmars." Sulman war begeistert. "Das ist genau die Unterstützung die wir brauchen um die Waffe zu finden, Torxes! Wo finden wir die Schwestern?"
+
+"Ihr Klostern liegt nahe Wie-jin. In den toten Wäldern", antwortete Torxes düster. "Na wenn das nicht mal einladen klingt", spottete Dimiona. "Wir werden uns ja wohl kaum von ein paar Bäumen ins Bockhorn jagen lassen, oder?"
