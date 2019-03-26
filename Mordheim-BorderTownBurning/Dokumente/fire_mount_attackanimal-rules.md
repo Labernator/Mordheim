@@ -41,7 +41,7 @@
 ## Allgemein
 * Wie auch das Attack Animal soll das Reittier durch ein Modell represäntiert werden.
 * Ist der Held auf dem Tier aufgesessen, soll auch das als Modell dargestellt werden. (Marker reicht vermutlich).
-* Können Reiter eines Mounts auch bereits aufgemountet aufgestellt werden???
+* FRAGE: Können Reiter eines Mounts auch bereits aufgemountet aufgestellt werden???
 	- Es würde einen Vorteil im Movement geben, schnell an den Gegner oder schneller als andere an Schätze etc. zu kommen.
 * Mounts müssen mit einem Abstand von 1" zum Reiter/Besitzer in der Aufstellphase eines Szenario aufgestellt werden.
 * Sie zählen gleich gesetzt zur Warband wie Attack Animals.
@@ -58,7 +58,7 @@
 * Berittene Einheiten können bis zu 2" große Hindernisse (hohe oder weite) überspringen.
 * Das Mount stoppt wenn Basecontakt durch den Reiter, nach einem Bolt, wiederhergestellt wurde und gilt als geführt.
 * Mounts können nur außerhalb von Gebäuden geritten werden.
-* Wie auch bei rennenden von Fußtruppen gelten bei berittenen Mounts die rennen die Regeln/Einschränkungen für den Beschuss von Gegnern, etc.
+* Wie auch bei rennenden Fußtruppen gelten bei berittenen Mounts die rennen die Regeln/Einschränkungen für den Beschuss von Gegnern, etc.
 * Reiter die im Kampf "stunned" gehen werden vom Mount geworfen und die Whoa Boy! Table muss betrachtet werden.
 * In einer Kampagne, wenn der Reiter OOA geht wird direkt 1D6 für das Mount gewürfelt: 1-2 = tot
 * Wenn der Reiter/Besitzer endgültig stirbt wird auch das Reittier vom Roaster gestrichen.
@@ -80,6 +80,7 @@
   - Schlägt dieser fehl muss die Whoa Boy! Table betrachtet werden. Das gilt nicht wenn der Feind in Bewegung ist.
 * Hat der Reiter/Besitzer den "Beast handler" Skill kann das Mount als Attack Animal eingesetzt werden.
 * Reiter können mit dem "Animal handler" Skill mehrere Mounts des selben Typs führen, sofern diese im Basekontakt sind. Es müssen nicht alles seine Mounts sein. Mit Hilfe dieses Skills kann auch eines der Mounts dabei geritten werden.
+* Der Skill "Shield Smash" befähigt einen Reiter nicht dazu mit dem Schild zuzuschlagen. Reiten ist zu schwierig.
 
 ## Sonderregeln
 * Bolt:
@@ -106,7 +107,7 @@
 * Das Mount kämpft mit seinen eigenen Stats und Fähigkeiten.
 * Die Attacke(n) des Mount können wie die des Reiters auf die Feinde welche mit Ihm im Kampf sind aufgeteilt werden.
 * Es ist dem Reiter nicht erlaubt mit zwei Händen zu kämpfen, in der zweiten Hand ist ein Buckler oder Schild erlaubt.
-* Der Skill "Shield Smash" befähigt einen Reiter nicht dazu mit dem Schild zuzuschlagen. Reiten ist zu schwierig.
+* Schützen die ein Mount reiten erhalten ebenso wie erhöht stehende die Mglich ein Ziel zu wählen welches nicht das nächste ist.
 
 #### Defensiv
 * Wird eine aufgesessene Einheit angecharged sind Mount und Reiter (die Einheit) automatisch im Kampf.
