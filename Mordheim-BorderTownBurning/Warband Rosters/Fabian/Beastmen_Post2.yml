@@ -24,10 +24,9 @@ heros:
       skilllists: Strength, Combat, Speed, Special
 
     - hero:  c(Centigor) [11XP]
-      stats: M8, WS4, BS3, S4, T4, W1, I2, A2, Ld7, Sv-
-      weapons: Halberd
-      armour: Light Armour
-      rules: Drunken,Woodland Dwelling,Trample,Quadruped, Sweeping Blow, Cathayan Map (Beylandish)
+      stats: M8, WS4, BS3, S4, T4, W1, I2, A1, Ld7, Sv-
+      weapons: Club, Club
+      rules: Drunken,Woodland Dwelling, Trample, Quadruped, Sweeping Blow, Cathayan Map (Beylandish)
       skilllists: Strength, Combat, Special
 
     - hero: d (Bestigors) [9XP]
@@ -38,7 +37,8 @@ heros:
 
     - hero: e (Bestigors) [13XP]
       stats: M5, WS4, BS3, S4, T4, W1, I3, A2, Ld7, Sv-
-      weapons: Club, Club
+      weapons: Halberd
+      armour: Light Armour
       rules:
       skilllists: Strength, Combat, Special
 

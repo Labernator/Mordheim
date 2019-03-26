@@ -100,7 +100,10 @@ Kaufe 4 Dagger (8)
  => 176 GC übrig  
 
 Fabian:  
-verkauft 3 wyrdstones fuer 55GC.  
+verkauft 3 wyrdstones fuer 55GC + 12 vom letzten spiel = 67.  
+Kauft 2 Swords für 20
+Kauft 1 Light Armour für 20
+=> 27
 
 Kai:  
 3gc übrig vom letzten Szenario  
