@@ -62,7 +62,7 @@ Vertraute Dunkelheit, wieder.
 Der Schrecken verdeckt. Das Grollen verstummt.
 
 Die Schatten in der Nacht. Sie schreiten voran. Unaufhaltsam.
-Von Dunkelheit umhüllt. Weiter Voran. Bie Zähne gebleckt.
+Von Dunkelheit umhüllt. Weiter Voran. Die Zähne gebleckt.
 Hunrig, Knurrend, Hasserfüllt.
 Teuflische Schatten in Ruinen der Nacht. Unaufhaltsam. Das Böse erwacht. Der Fluch.
 
