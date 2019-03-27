@@ -22,6 +22,7 @@ Schatten in der Nacht.
 
 Schwach zu sehen. Umrisse seiner Massiven Gestalt, des Trägers rechter Oberkörper. Kantig, schartig.
 Und ruppig. Ein massiver Ork. In der Nacht. Die Zähne gebleckt. Ein unwirsch wackelnder Schatten auf Schultern.
+
 Behäbig stampfend. Er schreitet voran.
 
 Mit starken Beinen durch die Ruinen. Übersäht von tiefen Pfützen. Platzschende Geräusche der Schritte.
