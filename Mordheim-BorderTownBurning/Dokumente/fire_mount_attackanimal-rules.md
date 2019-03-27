@@ -11,12 +11,17 @@
 * Ein Attack Animal gehört einem Helden, es wird unter Equip auf dem Roaster aufgezählt.
 * Das Attack Animal wird zusätzlich auf dem Roaster unter Henchmen asl Einheit eingetragen.
 * In Reichweite von 6" zum Besitzer benutzt das Animal den Ld des Besitzers.
+* In Reichweite von 6" zum Besitzer verwenden Attack Animals den Ld des Besitzers für Stupidity-Tests.
+* Ist der Leader in Reichweite kann dessen Ld verwendet werden. Das gilt nicht für Stupidity-Tests.
 
 ## Skills
 * Ein Held mit dem "Beastmaster" Skill darf ein Attack Animal besitzen.
 * Der Skill "Animal Handler" alleine befähigt nicht zum Kauf eines Attack Animal, dazu wird der skill "Beast handler" benötigt.
 * Hat der Held auch den "Animal handler" skill darf er soviele Attack Animals eines Typs besitzen wie er möchte.
 * "Beastmaster" und "Animal handler" beziehen sich jeweils auf einen Typ von Attack Animal, dies muss auf dem Roaster notiert werden. Wechseln ist nicht möglich.
+* "Beastmaster" kann mehrfach gelernt werden, je für ein neues Attack Animal. (z.B. Ein Wolf und eine Spinne)
+* "Animal Handler" kann mehrfach gelernt werden, je für einen Typ von Attack Animal. (s.B. Pferde und Cave Squigs)
+* Heros können mit dem "Animal handler" Skill mehrere Mounts des selben Typs führen, sofern diese im Basekontakt sind. Es müssen nicht alles seine Attack Animals sein.
 
 # Bedeutung für das Warband-Rating
 * Attack Animals zählen nicht zum routtest dazu.
@@ -40,12 +45,10 @@
 
 ## Allgemein
 * Wie auch das Attack Animal soll das Reittier durch ein Modell represäntiert werden.
-* Ist der Held auf dem Tier aufgesessen, soll auch das als Modell dargestellt werden. (Marker reicht vermutlich).
-* FRAGE: Können Reiter eines Mounts auch bereits aufgemountet aufgestellt werden???
-	- Es würde einen Vorteil im Movement geben, schnell an den Gegner oder schneller als andere an Schätze etc. zu kommen.
-* Mounts müssen mit einem Abstand von 1" zum Reiter/Besitzer in der Aufstellphase eines Szenario aufgestellt werden.
+* Ist der Held auf dem Tier aufgesessen, soll es auch als Modell dargestellt werden. (Marker reicht vermutlich).
+* Mounts müssen mit einem Abstand von 3" zum Reiter/Besitzer in der Aufstellphase eines Szenario aufgestellt werden.
 * Sie zählen gleich gesetzt zur Warband wie Attack Animals.
-* Mounts können auch als Attack Animals gekauft werden. Reiten weiter erst wenn der Besitzer den "Ride" skill besitzt.
+* Mounts können auch als Attack Animals gekauft werden.
 * Mounts können rennen (2xM), wenn ein Reiter darauf sitzt, oder ohne.
 * Es dauert einen ganzen Zug um auf ein Tier aufzusitzen. Zuerst Basekontakt herstellen, dann einen Zug lang nichts tun außer aufsitzen. Der Zug in dem man Baskontakt hergestellt hat zählt nicht, da man sich bewegt hat.
 * Absitzen dauert so lange wie aufsitzen.
@@ -56,7 +59,7 @@
 * Abgeworfene Reiter reiten nicht und müssen neu aufsitzen.
 * Die großen Reittiere aus BTB addieren zum Warbandrating insgesamt 20 Punkte hinzu.
 * Berittene Einheiten können bis zu 2" große Hindernisse (hohe oder weite) überspringen.
-* Das Mount stoppt wenn Basecontakt durch den Reiter, nach einem Bolt, wiederhergestellt wurde und gilt als geführt.
+* Das Mount stoppt wenn Basekontakt durch den Reiter, nach einem Bolt, hergestellt wurde und gilt als geführt.
 * Mounts können nur außerhalb von Gebäuden geritten werden.
 * Wie auch bei rennenden Fußtruppen gelten bei berittenen Mounts die rennen die Regeln/Einschränkungen für den Beschuss von Gegnern, etc.
 * Reiter die im Kampf "stunned" gehen werden vom Mount geworfen und die Whoa Boy! Table muss betrachtet werden.
@@ -65,22 +68,21 @@
 * Mounts anderer Spieler können nicht geritten werden.
 * Reiter dürfen im Basekontakt mit Ihren Reittieren sein.
 * Mounts die im Basekontakt Ihres Reiters stehen gelten als geführt, nicht geritten.
-* Reiter können Ihr Mount in Basekontakt über das Spielfeld führen (zufuß). Movement vom Reiter wird verwendet. Rennen ist nicht möglich. Kämpfen ist möglich.
+* Reiter können Ihr Mount in Basekontakt über das Spielfeld führen (zufuß). Movement vom Reiter wird verwendet. Rennen ist nicht möglich. Kämpfen (verteidigen) ist möglich.
 
 ## Skills
-* Um ein Mount zu reiten benötigt man den "Ride" Skill.
+* Um ein Mount effektiv reiten zu können braucht man den "Ride" Skill.
 * Dieser Gilt nur für ein Mount, eines Typs.
 * Der Typ und das Mount kann nicht geändert werden.
 * Stirbt das Mount, kann eines gleichen Typs das im Ride skill definiert wurde nachgekauft werden. (Totes Pferd wird durch Pferd ersetzt, nich aber durch einen Elefant.)
-* Der Skill befähigt den Held auch zum Kauf eines solchen Tieres.
-* Warbands denen in der Warband-Beschreibung erlaubt wird spezielle Mounts zu reiten erhalten automatisch den Ride skill.
-* Jeder Held dem es nicht ausdrücklich verboten ist darf mittels dem "Ride" skill ein Mount erwerben und reiten.
-* In dichtem Terrain wie einer Stadt (z.B. Mordheim / Wald) können von einer Warband maximal zwei Mounts gleichzeitig geritten werden.
-* Reiter die mindestens einen Cavalery Skill haben müsses keinen Ld-Test durchführen, wenn sie mit dem Reittier in Basekontakt mit einem Feind kommen. Oder wenn sie durch Fernkampf (Beschuss/Magic) getroffen werden.
-  - Schlägt dieser fehl muss die Whoa Boy! Table betrachtet werden. Das gilt nicht wenn der Feind in Bewegung ist.
+* Einheiten die in der Beschreibung ein spezielles spezielle Mounts besitzen erhalten automatisch den Ride skill.
+* Jeder Held dem es nicht ausdrücklich verboten ist darf ein Mount erwerben und reiten. Damit ist es kein Attack Animal.
+* In dichtem Terrain wie einer Stadt (z.B. Mordheim / dichter Jungel) können von einer Warband maximal zwei Mounts gleichzeitig geritten werden.
+* Reitende dessen Reiter den "Ride" Skill haben müsses keinen Ld-Test durchführen, wenn sie mit dem Reittier in Basekontakt mit einem Feind kommen. Oder wenn sie durch Fernkampf (Beschuss/Magic) getroffen werden.
+  - Schlägt dieser Ld-Test fehl muss die Whoa Boy! Table betrachtet werden. Das gilt nicht wenn der Feind in Bewegung ist.
 * Hat der Reiter/Besitzer den "Beast handler" Skill kann das Mount als Attack Animal eingesetzt werden.
 * Reiter können mit dem "Animal handler" Skill mehrere Mounts des selben Typs führen, sofern diese im Basekontakt sind. Es müssen nicht alles seine Mounts sein. Mit Hilfe dieses Skills kann auch eines der Mounts dabei geritten werden.
-* Der Skill "Shield Smash" befähigt einen Reiter nicht dazu mit dem Schild zuzuschlagen. Reiten ist zu schwierig.
+* Der Skill "Shield Smash" befähigt einen reitenden nicht dazu mit dem Schild zuzuschlagen (Reiten benötigt die OffHand für sich).
 
 ## Sonderregeln
 * Bolt:
@@ -106,8 +108,9 @@
 * Aufgesessene Helden kämpfen mit ihren eigenen Stats wie WS, BS, A, S, T, AS (zzgl. Mount AS addition) etc., nicht die des Mounts.
 * Das Mount kämpft mit seinen eigenen Stats und Fähigkeiten.
 * Die Attacke(n) des Mount können wie die des Reiters auf die Feinde welche mit Ihm im Kampf sind aufgeteilt werden.
-* Es ist dem Reiter nicht erlaubt mit zwei Händen zu kämpfen, in der zweiten Hand ist ein Buckler oder Schild erlaubt.
-* Schützen die ein Mount reiten erhalten ebenso wie erhöht stehende die Mglich ein Ziel zu wählen welches nicht das nächste ist.
+* Es ist dem Reiter nicht erlaubt mit zwei Händen zu kämpfen, in der OffHand ist ein Buckler oder Schild erlaubt.
+* Zweihändige Waffen sind damit ausgeschlossen.
+* Schützen die ein Mount reiten erhalten ebenso wie erhöht stehende Schützen die Möglich ein Ziel zu wählen welches nicht das nächste zu Ihnen ist.
 
 #### Defensiv
 * Wird eine aufgesessene Einheit angecharged sind Mount und Reiter (die Einheit) automatisch im Kampf.
