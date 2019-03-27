@@ -22,6 +22,7 @@ Schatten in der Nacht.
 
 Schwach zu sehen. Umrisse seiner Massiven Gestalt, des Trägers rechter Oberkörper. Kantig, schartig.
 Und ruppig. Ein massiver Ork. In der Nacht. Die Zähne gebleckt. Ein unwirsch wackelnder Schatten auf Schultern.
+
 Behäbig stampfend. Er schreitet voran.
 
 Mit starken Beinen durch die Ruinen. Übersäht von tiefen Pfützen. Platzschende Geräusche der Schritte.
@@ -62,7 +63,7 @@ Vertraute Dunkelheit, wieder.
 Der Schrecken verdeckt. Das Grollen verstummt.
 
 Die Schatten in der Nacht. Sie schreiten voran. Unaufhaltsam.
-Von Dunkelheit umhüllt. Weiter Voran. Bie Zähne gebleckt.
+Von Dunkelheit umhüllt. Weiter Voran. Die Zähne gebleckt.
 Hunrig, Knurrend, Hasserfüllt.
 Teuflische Schatten in Ruinen der Nacht. Unaufhaltsam. Das Böse erwacht. Der Fluch.
 
