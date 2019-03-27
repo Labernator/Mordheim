@@ -38,6 +38,56 @@ class Unit:
 troll = Unit()
 
 #####
+centigor = Unit()
+centigor.name = "centigor"
+centigor.t = 4
+centigor.s = 4
+centigor.w = 1
+centigor.a = 2
+centigor.ws = 4
+centigor._as = 0
+centigor.weapon = [
+    {
+        "type" : "club",
+        "s" : 0,
+        "firstRoundSAdd" : 0,
+        "offhand" : False,
+        "toHitOffhand" : 0,
+        "toHit" : 0,
+        "as" : 0,
+        "a" : 0,
+        "stunnedMin" : 2,
+        "stunnedMax" : 4,
+        "range" : False,
+    },
+    {
+        "type" : "club",
+        "s" : 0,
+        "firstRoundSAdd" : 0,
+        "offhand" : True,
+        "toHitOffhand" : 0,
+        "toHit" : 0,
+        "as" : 0,
+        "a" : 0,
+        "stunnedMin" : 2,
+        "stunnedMax" : 4,
+        "range" : False,
+    },
+    {
+        "type" : "foot",
+        "s" : 0,
+        "firstRoundSAdd" : 0,
+        "offhand" : True,
+        "toHitOffhand" : 0,
+        "toHit" : 0,
+        "as" : 0,
+        "a" : 0,
+        "stunnedMin" : 3,
+        "stunnedMax" : 4,
+        "range" : False,
+    }
+]
+#####
 oger = Unit()
 oger.name = "pit fighter oger"
 oger.t  = 4
@@ -570,8 +620,8 @@ def allAttackersDead(attackers):
 
 if __name__ == "__main__":
 
-    attackers = [ squig, ork_shaman ]
-    target = beastmen_hound
+    attackers = [ squig, g1, g2 ]
+    target = centigor
     first_round = True
 
     rounds = 0
