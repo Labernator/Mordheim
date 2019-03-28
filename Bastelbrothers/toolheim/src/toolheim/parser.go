@@ -34,6 +34,7 @@ type Warband struct {
 	hiredsword_cnt      int
 	large_cnt           int
 	mount_cnt           int
+	attackanimal_cnt    int
 	member_cnt          int
 	routtest            int
 	wbAdd_sum           int
@@ -68,17 +69,18 @@ type Hero struct {
 }
 
 type HenchmenGroup struct {
-	Header     string `json:"group"`
-	Name       string
-	Number     int
-	Type       string
-	Experience int
-	Large      bool      `json:"large"`
-	Mount      bool      `json:"mount"`
-	Stats      *Stats    `json:"stats"`
-	Weapons    *ItemList `json:"weapons"`
-	Armour     *ItemList `json:"armour"`
-	Rules      *ItemList `json:"rules"`
+	Header       string `json:"group"`
+	Name         string
+	Number       int
+	Type         string
+	Experience   int
+	Large        bool      `json:"large"`
+	Mount        bool      `json:"mount"`
+	AttackAnimal bool      `json:"attackanimal"`
+	Stats        *Stats    `json:"stats"`
+	Weapons      *ItemList `json:"weapons"`
+	Armour       *ItemList `json:"armour"`
+	Rules        *ItemList `json:"rules"`
 }
 
 type Weapons struct {
@@ -225,14 +227,18 @@ func ParseWarband(warbandDefinition []byte) Warband {
 		hg.Experience, _ = strconv.Atoi(strings.TrimSpace(matches[4]))
 		if !hg.Large {
 			warband.henchmen_sum_xp = warband.henchmen_sum_xp + (hg.Experience * hg.Number)
-			if !hg.Mount {
+			if !hg.Mount && !hg.AttackAnimal {
 			    warband.henchmen_cnt = warband.henchmen_cnt + hg.Number
 			    warband.Rating = warband.Rating + (hg.Experience + 5) * hg.Number
-			} else {
+			} else if hg.Mount { // mount wiegt mehr als attack animal
 			    warband.mount_cnt = warband.mount_cnt + hg.Number
+			    warband.Rating = warband.Rating + 10 * hg.Number
+			} else if hg.AttackAnimal {
+			    warband.attackanimal_cnt = warband.attackanimal_cnt + hg.Number
 			    warband.Rating = warband.Rating + 10 * hg.Number
 			}
 		} else {
+			// large mounts are possible but they do count as large
 			warband.henchmen_sum_xp = warband.henchmen_sum_xp + (hg.Experience * hg.Number)
 			warband.large_cnt = warband.large_cnt + 1
 			warband.Rating = warband.Rating + (hg.Experience + 20) * hg.Number

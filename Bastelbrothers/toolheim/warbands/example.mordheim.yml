@@ -53,15 +53,21 @@ henchmen:
       large: true
       rules: Stupidity, Fear, Always hungry
 
-    - group: Pferdi (1 Horse) [0XP]
+    - group: Bear (1 Bear) [0XP]
       stats: M8, WS1, BS0, S3, T3, W1, I3, A0, Ld5, Sv+1
-      mount: true # a mount is the same as a attack animal
+      attackanimal: true # a mount is the same as a attack animal
+      large: false # there are no large attackanimals. the large flag is stronger than the attack animal flag
       rules:
 
     - group: Fury (1 Horse) [0XP]
       stats: M8, WS1, BS0, S3, T3, W1, I3, A0, Ld5, Sv+1
       mount: true
-      large: true # large mounts are not possible, the large flag has higher priority
+      rules: 
+
+    - group: Rhinor (1 Horse) [0XP]
+      stats: M5, WS1, BS0, S3, T3, W1, I3, A0, Ld5, Sv+2
+      mount: true
+      large: true # large mounts are possible, but the mount will not be shown as a mount in the roaster statistic
       rules: 
 
 notes: |

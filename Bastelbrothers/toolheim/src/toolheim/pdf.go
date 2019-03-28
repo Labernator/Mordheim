@@ -253,6 +253,12 @@ func MakeHenchmenPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 		pdf.SetX(64)
 		pdf.Write(11, strconv.Itoa(henchmen.Number))
 
+		if henchmen.AttackAnimal && !henchmen.Mount  {
+			// show attack animal marker, if the henchmen unit s a attack animal and a mount, only show the mount marker
+			pdf.SetXY(0, float64(offsetY) + 6.5)
+			pdf.Image("images/attackanimal.png", 58, 0, 421*0.033, 97*0.055, true, "", 0, "")
+		}
+
 		if henchmen.Mount {
 			// show mount marker
 			pdf.SetXY(0, float64(offsetY) + 6.5)
@@ -435,13 +441,17 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	pdf.SetXY(55.0, float64(offsetY)+28.0)
 	pdf.Write(0, strconv.Itoa(warband.dramatispersonae_sum_wbr))
 
+	mount_aanim_s := ""
+	if warband.attackanimal_cnt > 0 {
+		mount_aanim_s = "Attack animals: (" + strconv.Itoa(warband.attackanimal_cnt) + ")   " + strconv.Itoa(warband.attackanimal_cnt * 10) + "   "
+	}
 	if warband.mount_cnt > 0 {
+		mount_aanim_s = mount_aanim_s + "Mounts: (" + strconv.Itoa(warband.mount_cnt) + ")   " + strconv.Itoa(warband.mount_cnt * 10) + "   "
+	}
+	if len(mount_aanim_s) > 1 {
 		pdf.SetFont("Arial", "B", 10)
 		pdf.SetXY(7.0, float64(offsetY)+36.25)
-		pdf.Write(0, "Mounts: (" + strconv.Itoa(warband.mount_cnt) + ")")
-		pdf.SetFont("Arial", "", 10)
-		pdf.SetXY(55.0, float64(offsetY)+36.25)
-		pdf.Write(0, strconv.Itoa((warband.mount_cnt) * 10))
+		pdf.Write(0, mount_aanim_s)
 	}
 
 	pdf.SetFont("Arial", "B", 10)
