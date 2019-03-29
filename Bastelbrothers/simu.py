@@ -14,7 +14,9 @@ class Unit:
     _as = 4
     w = 3
     a = 3
+    i = 2
     state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
+    pre_state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
     stunnedMin = 3
     stunnedMax = 4
 
@@ -421,8 +423,11 @@ def attack(u1, u2, wn, first_round = False):
         # HIT
         hit_granted = tryToHit(u1, u2, wn)
     else:
-        print "\tauto hit"
-        hit_granted = True # autohit because the target is knocked down   
+        if u2.pre_state == 0:
+        	hit_granted = tryToHit(u1, u2, wn)
+	else:
+        	print "\tauto hit"
+        	hit_granted = True # autohit because the target is knocked down   
 
     if hit_granted == True:
         # WOUND
@@ -542,13 +547,16 @@ def doInjuryRoll(u1, u2, wn, injury_addition):
             print "\t\t\tknocked down"
             if u2.state == 0:
                 u2.state = 1
+		u2.pre_state = u2.state
         elif roll >= u1.weapon[wn]["stunnedMin"] and roll <= u2.stunnedMax:
             print "\t\t\tstunned"
             if u2.state < 2:
+		u2.pre_state = u2.state
                 u2.state = 2
         else:
             print "\t\t\tooa"
             if u2.state < 3:
+		u2.pre_state = u2.state
                 u2.state = 3
 
 def doAllAttacks(u1, u2, first_round = False):
@@ -620,7 +628,9 @@ def allAttackersDead(attackers):
 
 if __name__ == "__main__":
 
-    attackers = [ squig, g1, g2 ]
+    #attackers = [ squig, g1, g2 ]
+    #target = centigor
+    attackers = [ ob1, ork_shaman ]
     target = centigor
     first_round = True
 

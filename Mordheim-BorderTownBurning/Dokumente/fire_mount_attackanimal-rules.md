@@ -44,61 +44,67 @@
 # Riding mounts
 
 ## Allgemein
+* Jeder Held dem es nicht ausdrücklich verboten ist darf ein Mount erwerben und es reiten. Damit ist es kein Attack Animal.
 * Wie auch das Attack Animal soll das Reittier durch ein Modell represäntiert werden.
 * Ist der Held auf dem Tier aufgesessen, soll es auch als Modell dargestellt werden. (Marker reicht vermutlich).
 * Mounts müssen mit einem Abstand von 3" zum Reiter/Besitzer in der Aufstellphase eines Szenario aufgestellt werden.
 * Sie zählen gleich gesetzt zur Warband wie Attack Animals.
 * Mounts können auch als Attack Animals gekauft werden.
 * Mounts können rennen (2xM), wenn ein Reiter darauf sitzt, oder ohne.
-* Es dauert einen ganzen Zug um auf ein Tier aufzusitzen. Zuerst Basekontakt herstellen, dann einen Zug lang nichts tun außer aufsitzen. Der Zug in dem man Baskontakt hergestellt hat zählt nicht, da man sich bewegt hat.
-* Absitzen dauert so lange wie aufsitzen.
-* Mounts die nicht geführt (siehe Attack Animal skills) und nicht geritten werden bleiben stehen (M0).
-* Zum Start des Zuges eines Spielers muss für ungeführte Mounts einen Ld-Test durchführen. Schlägt der Test fehl geht das Tier durch (siehe Bolt).
-* Berittene Mounts verwenden wie der Reiter selbst das Ld des Reiters.
-* Der Leader Skill des Leaders befähigt Mount und den Reiter weiter zur Verwendung dessen Ld.
-* Abgeworfene Reiter reiten nicht und müssen neu aufsitzen.
-* Die großen Reittiere aus BTB addieren zum Warbandrating insgesamt 20 Punkte hinzu.
 * Berittene Einheiten können bis zu 2" große Hindernisse (hohe oder weite) überspringen.
-* Das Mount stoppt wenn Basekontakt durch den Reiter, nach einem Bolt, hergestellt wurde und gilt als geführt.
 * Mounts können nur außerhalb von Gebäuden geritten werden.
-* Wie auch bei rennenden Fußtruppen gelten bei berittenen Mounts die rennen die Regeln/Einschränkungen für den Beschuss von Gegnern, etc.
-* Reiter die im Kampf "stunned" gehen werden vom Mount geworfen und die Whoa Boy! Table muss betrachtet werden.
-* In einer Kampagne, wenn der Reiter OOA geht wird direkt 1D6 für das Mount gewürfelt: 1-2 = tot
-* Wenn der Reiter/Besitzer endgültig stirbt wird auch das Reittier vom Roaster gestrichen.
-* Mounts anderer Spieler können nicht geritten werden.
 * Reiter dürfen im Basekontakt mit Ihren Reittieren sein.
 * Mounts die im Basekontakt Ihres Reiters stehen gelten als geführt, nicht geritten.
 * Reiter können Ihr Mount in Basekontakt über das Spielfeld führen (zufuß). Movement vom Reiter wird verwendet. Rennen ist nicht möglich. Kämpfen (verteidigen) ist möglich.
+* Mounts die nicht geführt (siehe Attack Animal skills) und nicht geritten werden bleiben stehen (M0).
+* Das Mount stoppt wenn Basekontakt durch den Reiter, nach einem Bolt, hergestellt wurde und gilt als geführt.
+* Zum Start des Zuges eines Spielers muss für ungeführte Mounts einen Ld-Test durchführen. Schlägt der Test fehl geht das Tier durch (siehe Bolt).
+* Es dauert einen ganzen Zug um auf ein Tier aufzusitzen. Zuerst Basekontakt herstellen, dann einen Zug lang nichts tun außer aufsitzen. Der Zug in dem man Baskontakt hergestellt hat zählt nicht, da man sich bewegt hat.
+* Absitzen dauert genau so lange wie aufsitzen.
+* Berittene Mounts verwenden wie der Reiter selbst das Ld des Reiters.
+* Berittene Einheiten verwenden das Movement des Mounts.
+* Der Leader Skill des Leaders befähigt Mount und den Reiter weiter zur Verwendung dessen Ld, sofern sie in Reichweite sind.
+* Abgeworfene Reiter reiten nicht und müssen neu aufsitzen.
+* Wie auch bei rennenden Fußtruppen gelten bei berittenen Mounts die sich bewegen/rennen die Regeln/Einschränkungen für den Beschuss von Gegnern, etc.
+* Reiter die im Kampf "stunned" gehen werden vom Mount geworfen und die Whoa Boy! Table muss betrachtet werden.
+* In einer Kampagne, wenn der Reiter OOA geht, wird direkt D6 für das Mount gewürfelt: 1-2 = tot
+* Wenn der Reiter/Besitzer endgültig stirbt wird auch das Reittier vom Roaster gestrichen.
+* Mounts anderer Spieler können nicht geritten werden.
+* In dichtem Terrain wie einer Stadt (z.B. Mordheim / dichter Jungel) können von einer Warband maximal zwei Mounts gleichzeitig geritten werden. Es gibt Mounts die sich darüber hinweg setzen.
+  Bsp.: Spinnen können problemlos durch dichtes Terrain klettern.
+* Die großen Reittiere aus BTB addieren zum Warbandrating insgesamt 20 Punkte hinzu.
+* FRAGE: Was passiert wenn ein geführtes/ungeführtes Mount angecharged/beschossen wird?
+  - Ein Ld-Test muss durchgeführt werden, schlägt er fehl geht da Mount durch (Bolt).
+  - Beschuss wird normal ausgewürfelt.
+  - Hand-to-Hand combat wird nur ausgewürfelt wenn der Scatter-Dice in Richtung des Angreifers, oder an Ihm vorbei zeigt. Das Mount rennt schnell.
 
 ## Skills
-* Um ein Mount effektiv reiten zu können braucht man den "Ride" Skill.
-* Dieser Gilt nur für ein Mount, eines Typs.
+* Um ein Mount im Kampf effektiv reiten zu können braucht man den "Ride" Skill.
+  - Reitende die den "Ride" Skill haben müsses keinen Ld-Test durchführen, wenn sie mit dem Reittier in Basekontakt mit einem Feind kommen. Oder wenn sie durch Fernkampf (Beschuss/Magic) getroffen werden.
+* Der Ride Skill gilt nur für ein Mount, eines Typs. Es wird auf dem Roaster notiert für welchen Typ un für welches Mount der Skill verwendet wird.
 * Der Typ und das Mount kann nicht geändert werden.
-* Stirbt das Mount, kann eines gleichen Typs das im Ride skill definiert wurde nachgekauft werden. (Totes Pferd wird durch Pferd ersetzt, nich aber durch einen Elefant.)
-* Einheiten die in der Beschreibung ein spezielles spezielle Mounts besitzen erhalten automatisch den Ride skill.
-* Jeder Held dem es nicht ausdrücklich verboten ist darf ein Mount erwerben und reiten. Damit ist es kein Attack Animal.
-* In dichtem Terrain wie einer Stadt (z.B. Mordheim / dichter Jungel) können von einer Warband maximal zwei Mounts gleichzeitig geritten werden.
-* Reitende dessen Reiter den "Ride" Skill haben müsses keinen Ld-Test durchführen, wenn sie mit dem Reittier in Basekontakt mit einem Feind kommen. Oder wenn sie durch Fernkampf (Beschuss/Magic) getroffen werden.
-  - Schlägt dieser Ld-Test fehl muss die Whoa Boy! Table betrachtet werden. Das gilt nicht wenn der Feind in Bewegung ist.
-* Hat der Reiter/Besitzer den "Beast handler" Skill kann das Mount als Attack Animal eingesetzt werden.
-* Reiter können mit dem "Animal handler" Skill mehrere Mounts des selben Typs führen, sofern diese im Basekontakt sind. Es müssen nicht alles seine Mounts sein. Mit Hilfe dieses Skills kann auch eines der Mounts dabei geritten werden.
+* Stirbt das Mount, kann eines gleichen Typs das im Ride skill definiert wurde nachgekauft werden. Bsp.: Totes Pferd wird durch Pferd ersetzt, nich aber durch einen Elefant.
+* Einheiten die in der Beschreibung bereits ein Mount besitzen (z.B. Balansish) erhalten automatisch den Ride skill.
+* Hat der Reiter/Besitzer den "Beast handler" Skill kann das Mount als Attack Animal eingesetzt werden, in verbindung mit diesem Skill gilt das Mount immer als geführt.
+* Reiter können mit dem "Animal handler" Skill mehrere Mounts des selben Typs führen, sofern diese im Basekontakt sind. Es müssen nicht alles seine Mounts sein. Mit Hilfe dieses Skills kann beim führen mehrerer Mounts auch eines davon geritten werden.
 * Der Skill "Shield Smash" befähigt einen reitenden nicht dazu mit dem Schild zuzuschlagen (Reiten benötigt die OffHand für sich).
 
 ## Sonderregeln
-* Bolt:
-  - Mit einem Scatter dice wird die Richtung festlegegt, das Mount rennt in diese Richtung.
-  - In allen Folgezügen wird ein Ld-Test für das Mount das durch gegangen ist durchgeführt.
-  - Ist dieser erfolgreich stoppt das Tier. Sonst rennt es weiter in die selbe Richtung.
-  - Wenn es den Tisch verlässt gilt es danach als eingefangen und darf weiter verwendet werden.
-
 * Whoa Boy! Table (roll D6):
   - 1-2: Eine Runde stehen bleiben um die Kontrolle über das Mount wieder zu erlangen. Kein Movement/Charge/Shooting. Wird er attakiert zählt er als Heruntergefallen.
+    FRAGE: Wenn der Reiter schon stunned ist, was passiert hier?
   - 3-4: Der Reiter fällt und ist stunned. Der Reiter erfährt einen S2 Autohit, no Armor save allowed.
     Nochmal D6: 1-3=Mount geht durch und bewegt sich 3D6" in zufälliger Richtung (scatter Dice).
                 4-6=Das Mount bleibt in Basekontakt stehen und der Reiter kann aufsitzen wenn er wieder steht.
   - 5-6: Der Reiter stürzt mitsamt des Reittiers, beide sind OOA.
     Nochmal D6: 1-2=Das Mount fällt auf den Kopf des Reiters, er muss 2x auf die serious injury table würfeln
     Nochmal D6: 1-2=das Mount ist verkrüppelt/tot und muss vom Roaster entfernt werden.
+
+* Bolt:
+  - Mit einem Scatter dice wird die Richtung festlegegt, das Mount rennt in diese Richtung.
+  - In allen Folgezügen wird ein Ld-Test für das Mount das durch gegangen ist durchgeführt.
+  - Ist dieser erfolgreich stoppt das Tier. Sonst rennt es weiter in die selbe Richtung.
+  - Wenn es den Tisch verlässt gilt es danach als eingefangen und darf weiter verwendet werden.
 
 ### Kämpfen
 
@@ -113,18 +119,21 @@
 * Schützen die ein Mount reiten erhalten ebenso wie erhöht stehende Schützen die Möglich ein Ziel zu wählen welches nicht das nächste zu Ihnen ist.
 
 #### Defensiv
-* Wird eine aufgesessene Einheit angecharged sind Mount und Reiter (die Einheit) automatisch im Kampf.
+* Wird eine aufgesessene Einheit erfolgreich angecharged sind Mount und Reiter (die Einheit) im Kampf.
 * Nahkampf-Angriffe gehen bei einer aufgesessenen Einheit immer auf den Reiter.
 * Reittiere gewähren immer ein +1 auf das AS oder 6+AS falls keines zuvor vorhanden war.
 * Fernkämpfe treffen wenn das Mount geritten wird immer den Reiter.
 * Für die großen Reittiere aus BTB, die dem Warbandrating 20 Punkte hinzuaddieren gilt:
-  - Fernkämpfe/Angriffe würdeln D6: 1-4=mount wird beschossen; 5-6 reiter wird beschossen
-* Die meisten Mounts können Barding tragen. Es erhöht das AS des Mounts um +1.
-* Barding vermindert das Movement um 1M.
-* Mounts die ein Barding tragen und OOA gegangen sind, würfeln auf der henchmen serious injury Tabelle: 1=dead; 2-6 überlebt
-* Für berittene Einheiten gelden für Beschuss die gleiche Regel wie bei large creatures, aber ohne +1 auf to Hit.
-* Reitende müsses einen Ld-Test durchführen wenn sie in Basekontakt mit einem Feind kommen.
-* Reitende müsses einen Ld-Test durchführen wenn sie durch Fernkampf (Beschuss/Magic) getroffen werden.
+  - Fernkämpfer würfeln vor den ToHit-Würfen D6: 1-4=mount wird beschossen; 5-6 reiter wird beschossen
+  - Es gelten die jeweiligen Stats vom Mount oder dem Reiter, je nachdem was beschossen wird.
+* Manche Mounts können Barding tragen. Es erhöht das AS des Mounts um +1.
+* Barding vermindert und das Movement um 1M.
+* Mounts die ein Barding tragen und OOA gegangen sind, würfeln auf der Henchmen serious injury Tabelle: 1=dead; 2-6 überlebt
+* Für berittene Einheiten die Beschossen werrden gilt die gleiche Regel wie bei large creatures, aber ohne +1 auf to Hit.
+* Reitende müsses einen Ld-Test durchführen wenn sie in Basekontakt mit einem Feind kommen. Gilt nur wenn sie den Ride Skill nicht gelernt haben.
+  - Schlägt er fehl muss die Whoa Boy! Table betrachtet werden. Das gilt nicht wenn der Feind in Bewegung ist.
+* Reitende müsses einen Ld-Test durchführen wenn sie durch Fernkampf (Beschuss/Magic) getroffen werden. Gilt nur wenn sie den Ride Skill nicht gelernt haben.
+  - Schlägt er fehl muss die Whoa Boy! Table betrachtet werden. Das gilt nicht wenn der Feind in Bewegung ist.
 
 # Fire
 
@@ -136,10 +145,14 @@
   - Holzhaus 4+; Steinhaus 6+; Verrotteter Wald 2+; Wald 4+
   - Fackeln und brennende Pfeile +1 auf den Roll
   - Bei Gewitter/Sturm -2 au den Wurf
-  - Die Fackel oder der Pfeil ist daraufhin verbraucht.
-* Fackeln etc. können Gebäude und Bäume direkt in Brand setzen, wenn sie in Basekontakt sind. Vorausgesetzt sie kämpfen nicht und haben nicht geschossen.
-* Fackeln etc. die etwas in Brand setzen während sie im Basekontakt sind können weiter verwendet werden.
-* Feuer löst Fear bei Tieren aus.
+  - Die geworfene Fackel oder der geschossene Pfeil ist daraufhin verbraucht.
+* Fackeln etc. können die Umgebung in Brand setzen, wenn sie in Basekontakt sind. Vorausgesetzt sie kämpfen nicht und haben nicht geschossen. Es muss auf die Liste oben mit einem D6 gewürfelt werden.
+* Fackeln etc. die etwas in Brand setzen während sie im Basekontakt sind können danach weiter verwendet werden.
+* FRAGE: Feuer löst Fear bei Tieren aus, was hat das für Auswirkungen?
+* FRAGE: Können Tiere nach bestandenem Fear-Test in Gebäude gehen?
+* FRAGE: Was passiert wenn ein Tier an einem Baum/Gebäude etc. steht das brennt? Frat-Test und rennen wenn nicht bestanden?
+* FRAGE: Was ist wenn ein Tier in einem Haus steht?
+* FRAGE: Wie ist das bei Mounts?
 * Brandstiftung funktioniert bei Sturm und Gwitter schlechter. Es gilt -2 für den Wurf ob etwas in Brand gesetzt werden kann oder Feuerschaden ausgelöst wird.
 * Wenn ein Haus brennt muss zum Start eines neuen Zuges, bei jedem Spieler, ein 2D6 gewürfelt werden.
   - 1=Das Feuer geht aus
