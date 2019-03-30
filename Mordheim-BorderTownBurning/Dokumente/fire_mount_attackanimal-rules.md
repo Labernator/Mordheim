@@ -66,7 +66,8 @@
 * Der Leader Skill des Leaders befähigt Mount und den Reiter weiter zur Verwendung dessen Ld, sofern sie in Reichweite sind.
 * Abgeworfene Reiter reiten nicht und müssen neu aufsitzen.
 * Wie auch bei rennenden Fußtruppen gelten bei berittenen Mounts die sich bewegen/rennen die Regeln/Einschränkungen für den Beschuss von Gegnern, etc.
-* Reiter die im Kampf "stunned" gehen werden vom Mount geworfen und die Whoa Boy! Table muss betrachtet werden.
+* Reiter eine Wunde verlieren müssen auf die Woah Boy! Table würfeln.
+* Reiter die "stunned" gehen werden vom Mount geworfen, die Whoa Boy! Table muss betrachtet werden.
 * In einer Kampagne, wenn der Reiter OOA geht, wird direkt D6 für das Mount gewürfelt: 1-2 = tot
 * Wenn der Reiter/Besitzer endgültig stirbt wird auch das Reittier vom Roaster gestrichen.
 * Mounts anderer Spieler können nicht geritten werden.
@@ -74,6 +75,7 @@
   Bsp.: Spinnen können problemlos durch dichtes Terrain klettern.
 * Die großen Reittiere aus BTB addieren zum Warbandrating insgesamt 20 Punkte hinzu.
 * FRAGE: Was passiert wenn ein geführtes/ungeführtes Mount angecharged/beschossen wird?
+  Vorschlag:
   - Ein Ld-Test muss durchgeführt werden, schlägt er fehl geht da Mount durch (Bolt).
   - Beschuss wird normal ausgewürfelt.
   - Hand-to-Hand combat wird nur ausgewürfelt wenn der Scatter-Dice in Richtung des Angreifers, oder an Ihm vorbei zeigt. Das Mount rennt schnell.
