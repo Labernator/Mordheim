@@ -92,8 +92,8 @@
 ## Sonderregeln
 * Whoa Boy! Table (roll D6):
   - 1-2: Eine Runde stehen bleiben um die Kontrolle über das Mount wieder zu erlangen. Kein Movement/Charge/Shooting/Magic. Wird er attakiert zählt er als Heruntergefallen.
-    FRAGE: Was wenn der Reiter schon stunned ist? Dann passiert bei 1-2 nichts weiter?
-  - 3-4: Der Reiter fällt und ist stunned. FRAGE: Macht keinen Sinn, kann entfernt werden denn wer stunned geht wird automatisch abgeworfen, siehe oben.
+    FRAGE: Was wenn der Reiter schon stunned ist? Dann passiert bei 1-2 nichts weiter? Helden die den Ride Skill haben müssen nur noch auf die Woah Boy! Table würfeln wenn se stunned gehen, daher diese Frage.
+  - 3-4: Der Reiter fällt und ist stunned. FRAGE: Diese Zeile macht keinen Sinn, kann ignoriert werden denn wer stunned geht wird automatisch abgeworfen, siehe oben.
     Der Reiter erfährt einen S2 Autohit, no Armor save allowed.
     Nochmal D6: 1-3=Mount geht durch und bewegt sich 3D6" in zufälliger Richtung (scatter Dice).
                 4-6=Das Mount bleibt in Basekontakt stehen und der Reiter kann aufsitzen wenn er wieder steht.
@@ -142,7 +142,7 @@
 * Brennende Geschosse/Fackeln können Gebäude und Bäume in Brand setzen.
 * Fackeln können aus einer Entfernung von 6" geworfen werden.
 * Um die Umgebung in Brand zu setzen  D6 würfeln:
-  - FRAGE: Was ist mit Barrikaden? Fässer? Büsche? Felder?
+  - FRAGE: Was ist mit Barrikaden? Fässer? Büsche? Felder? Anderen Einheiten?
   - Holzhaus 4+; Steinhaus 6+; Verrotteter Wald 2+; Wald 4+
   - Fackeln und brennende Pfeile +1 auf den Roll
   - Bei Gewitter/Sturm -2 au den Wurf
@@ -154,6 +154,7 @@
 * FRAGE: Was passiert wenn ein Tier an einem Baum/Gebäude etc. steht das brennt? Frat-Test und rennen wenn nicht bestanden?
 * FRAGE: Was ist wenn ein Tier in einem Haus steht?
 * FRAGE: Wie ist das bei Mounts?
+* FRAGE: Armor save gegen Feuer? Geht das?
 * Brandstiftung funktioniert bei Sturm und Gwitter schlechter. Es gilt -2 für den Wurf ob etwas in Brand gesetzt werden kann oder Feuerschaden ausgelöst wird.
 * Wenn ein Haus brennt muss zum Start eines neuen Zuges, bei jedem Spieler, ein 2D6 gewürfelt werden.
   - 1=Das Feuer geht aus
@@ -163,7 +164,7 @@
 * Wenn ein Baum brennt erhalten Modelle im Umkreis von 2" um den Baum D3 S3 hits, kein AS erlaubt.
 
 ## Feuer gegen Einheiten
-* Hat ein Modell Feuerschaden erhalten gilt es als in Brand gesetzt.
+* FRAGE Gelten Wunden die durch eine Fackel oder ein Berzier Iron zugeführt wurde automatsich als Wunde die durch Feuer ausgelöst wurde? Wichtig zu klären wegen der Regeneration-Fähigkeit.
 * Modelle die in Brand gesetzt wurden können in der Recovery Phase versuchen D6=4+ zu würfeln um das Feuer zu löschen. Wenn nicht erhalten sie einen S4 ohne AS saves.
 * In der Recovery phase können brennende Einheiten von anderen auf D6=4+ gelöscht werden wenn sie bereits in Basekontakt sind.
 * Brennende Einheiten tun nichts bis sie nicht mehr brennen. Oder sie gehen OOA
