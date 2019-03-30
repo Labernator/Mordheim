@@ -32,7 +32,7 @@ Seite 78, BTB.pdf.
 * Chaos Armour
 * Ride (Tol'Agath)
 * Immune to psychology
-* Inconsistency - Reroll stats every turn
+* Inconsistency - Reroll stats every turn (every players turn and the also when it is time for belandysh's turn)
 * Regeneration - 4+ wound regeneration ohne Modifikator (außer gegen Feuer)
 * Reitet Tol'Agath
 * Wrath of Tchar - Wenn Belandysh einmal ooA gegangen ist taucht er nie mehr in dieser Kampagne auf
