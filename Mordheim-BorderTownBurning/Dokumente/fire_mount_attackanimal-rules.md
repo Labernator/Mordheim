@@ -32,7 +32,7 @@
 
 ## Kämpfen
 * Attack Animals würfeln für injuries auf der henchmen Tabelle.
-* Wenn der Besitzer "knocked down" oder "stunned" ist bewegt sich das Attack Animal schnellstmöglich und automaisch zum Besitzer. Es wird ihn dort beschützen.
+* Wenn der Besitzer "knocked down" oder "stunned" ist bewegt sich das Attack Animal schnellstmöglich und automatisch zum Besitzer. Es wird ihn dort beschützen.
 * Es muss die nahestehendste Einheiten angreifen mit der dieser im Combat ist.
 * Es muss sich beim Besizter aufhalten bis der Held aufsteht oder das Spiel endet.
 * FRAGE: Gegner die den Held anchargen werden wenn das Attack Animal nicht im Kampf ist abgefangen. Funktioniert wie Intercept?
@@ -102,7 +102,7 @@
     Nochmal D6: 1-2=das Mount ist verkrüppelt/tot und muss vom Roaster entfernt werden.
 
 * Bolt:
-  - Mit einem Scatter dice wird die Richtung festlegegt, das Mount rennt in diese Richtung.
+  - Mit einem Scatter dice wird die Richtung festgelegt, das Mount rennt in diese Richtung.
   - In allen Folgezügen wird ein Ld-Test für das Mount das durch gegangen ist durchgeführt.
   - Ist dieser erfolgreich stoppt das Tier. Sonst rennt es weiter in die selbe Richtung.
   - Wenn es den Tisch verlässt gilt es danach als eingefangen und darf weiter verwendet werden.
