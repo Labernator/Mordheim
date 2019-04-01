@@ -32,7 +32,7 @@
 
 ## Kämpfen
 * Attack Animals würfeln für injuries auf der henchmen Tabelle.
-* Wenn der Besitzer "knocked down" oder "stunned" ist bewegt sich das Attack Animal schnellstmöglich und automaisch zum Besitzer. Es wird ihn dort beschützen.
+* Wenn der Besitzer "knocked down" oder "stunned" ist bewegt sich das Attack Animal schnellstmöglich und automatisch zum Besitzer. Es wird ihn dort beschützen.
 * Es muss die nahestehendste Einheiten angreifen mit der dieser im Combat ist.
 * Es muss sich beim Besizter aufhalten bis der Held aufsteht oder das Spiel endet.
 * FRAGE: Gegner die den Held anchargen werden wenn das Attack Animal nicht im Kampf ist abgefangen. Funktioniert wie Intercept?
@@ -92,7 +92,6 @@
 ## Sonderregeln
 * Whoa Boy! Table (roll D6):
   - 1-2: Eine Runde stehen bleiben um die Kontrolle über das Mount wieder zu erlangen. Kein Movement/Charge/Shooting. Wird er attakiert zählt er als Heruntergefallen.
-    FRAGE: Wenn der Reiter schon stunned ist, was passiert hier?
   - 3-4: Der Reiter fällt und ist stunned. Der Reiter erfährt einen S2 Autohit, no Armor save allowed.
     Nochmal D6: 1-3=Mount geht durch und bewegt sich 3D6" in zufälliger Richtung (scatter Dice).
                 4-6=Das Mount bleibt in Basekontakt stehen und der Reiter kann aufsitzen wenn er wieder steht.
@@ -101,7 +100,7 @@
     Nochmal D6: 1-2=das Mount ist verkrüppelt/tot und muss vom Roaster entfernt werden.
 
 * Bolt:
-  - Mit einem Scatter dice wird die Richtung festlegegt, das Mount rennt in diese Richtung.
+  - Mit einem Scatter dice wird die Richtung festgelegt, das Mount rennt in diese Richtung.
   - In allen Folgezügen wird ein Ld-Test für das Mount das durch gegangen ist durchgeführt.
   - Ist dieser erfolgreich stoppt das Tier. Sonst rennt es weiter in die selbe Richtung.
   - Wenn es den Tisch verlässt gilt es danach als eingefangen und darf weiter verwendet werden.
