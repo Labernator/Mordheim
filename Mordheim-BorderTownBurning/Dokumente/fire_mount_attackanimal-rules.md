@@ -91,9 +91,10 @@
 
 ## Sonderregeln
 * Whoa Boy! Table (roll D6):
-  - 1-2: Eine Runde stehen bleiben um die Kontrolle über das Mount wieder zu erlangen. Kein Movement/Charge/Shooting. Wird er attakiert zählt er als Heruntergefallen.
-    FRAGE: Wenn der Reiter schon stunned ist, was passiert hier?
-  - 3-4: Der Reiter fällt und ist stunned. Der Reiter erfährt einen S2 Autohit, no Armor save allowed.
+  - 1-2: Eine Runde stehen bleiben um die Kontrolle über das Mount wieder zu erlangen. Kein Movement/Charge/Shooting/Magic. Wird er attakiert zählt er als Heruntergefallen.
+    FRAGE: Was wenn der Reiter schon stunned ist? Dann passiert bei 1-2 nichts weiter?
+  - 3-4: Der Reiter fällt und ist stunned. FRAGE: Macht keinen Sinn, kann entfernt werden denn wer stunned geht wird automatisch abgeworfen, siehe oben.
+    Der Reiter erfährt einen S2 Autohit, no Armor save allowed.
     Nochmal D6: 1-3=Mount geht durch und bewegt sich 3D6" in zufälliger Richtung (scatter Dice).
                 4-6=Das Mount bleibt in Basekontakt stehen und der Reiter kann aufsitzen wenn er wieder steht.
   - 5-6: Der Reiter stürzt mitsamt des Reittiers, beide sind OOA.
