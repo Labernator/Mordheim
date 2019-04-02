@@ -90,14 +90,14 @@ centigor.weapon = [
     }
 ]
 #####
-oger = Unit()
-oger.name = "pit fighter oger"
-oger.t  = 4
-oger.s  = 4
-oger.w  = 3
-oger.a  = 2
-oger.ws = 3
-oger.weapon = [
+pit_ogre = Unit()
+pit_ogre.name = "pit fighter ogre"
+pit_ogre.t  = 4
+pit_ogre.s  = 4
+pit_ogre.w  = 3
+pit_ogre.a  = 2
+pit_ogre.ws = 3
+pit_ogre.weapon = [
     {
         "type" : "flail",
         "s" : 0,
@@ -188,6 +188,17 @@ squig.weapon = [
         "range" : False,
     }
 ]
+####
+sq1 = copy.deepcopy(squig)
+sq1.name = "squig 1"
+sq2 = copy.deepcopy(squig)
+sq2.name = "squig 2"
+sq3 = copy.deepcopy(squig)
+sq3.name = "squig 3"
+sq4 = copy.deepcopy(squig)
+sq4.name = "squig 4"
+sq5 = copy.deepcopy(squig)
+sq5.name = "squig 5"
 
 #####
 beastmen_hound = Unit()
@@ -269,6 +280,8 @@ mutant.weapon = [
         "range" : False,
     }
 ]
+
+#####
 dwarf1 = Unit()
 dwarf1.name = "dwarf 1"
 dwarf1.t = 4
@@ -349,13 +362,14 @@ ob1.weapon = [
         "range" : False,
     }
 ]
-#
+####
 ob2 = copy.deepcopy(ob1)
 ob2.name = "ork boy 2"
-#
+####
 ob3 = copy.deepcopy(ob1)
 ob3.name = "ork boy 3"
-#
+
+####
 g1 = Unit()
 g1.name = "goblin 1"
 g1.t = 3
@@ -630,8 +644,9 @@ if __name__ == "__main__":
 
     #attackers = [ squig, g1, g2 ]
     #target = centigor
-    attackers = [ ob1, ork_shaman ]
+    attackers = [ troll ]
     target = centigor
+    #target = pit_ogre
     first_round = True
 
     rounds = 0
