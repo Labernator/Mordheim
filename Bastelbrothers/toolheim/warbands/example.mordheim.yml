@@ -26,6 +26,15 @@ heros:
       skilllists: Strength, Combat, Special
       hiredsword: true
 
+    - hero: Ogre Bodyguard (Ogre) [2XP]
+      stats: M4, WS4, BS3, S4, T4, W1, I2, A1, Ld7, Sv3
+      weapons: Axe, Axe
+      armour: heavy armour, helmet
+      rules: I said shut it'!, Who's da Boss!, Whose Da Man?, Independent, Black Ork
+      skilllists: Strength, Combat, Special
+      hiredsword: true
+      large: true # large creatures will be count as large because they count +20 to warband rating
+
     - hero: Dramatis Dwarf (Black Ork) [0XP]
       stats: M5, WS6, BS2, S6, T5, W2, I5, A3, Ld8, Sv4
       weapons: Groril Axe, Gromril Axe
@@ -33,7 +42,7 @@ heros:
       rules: Two-Handed master, Expertaxeman, Hates Orks, Hard head, Hard to kill, Grudgebearer
       skilllists: Strength, Combat, Special, Academic, Shooting
       warbandaddition: 10
-      dramatispersonae: true
+      dramatispersonae: true # large dramatis personae are not defined
 
 henchmen:
     - group: Goblins (7 Goblin warrior) [2XP]

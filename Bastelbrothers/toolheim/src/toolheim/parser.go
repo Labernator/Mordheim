@@ -179,7 +179,7 @@ func ParseWarband(warbandDefinition []byte) Warband {
 		} else if h.DramatisPersonae {
 			warband.dramatispersonae_sum_wbr = warband.dramatispersonae_sum_wbr + h.WarbandAddition
 			warband.dramatispersonae_cnt = warband.dramatispersonae_cnt + 1
-		} else if h.Large {
+		} else if h.Large { // even a large hired sword counts as large
 			warband.Rating = warband.Rating + h.Experience + 20
 			warband.hero_sum_xp = warband.hero_sum_xp + h.Experience
 			warband.large_cnt = warband.large_cnt + 1
