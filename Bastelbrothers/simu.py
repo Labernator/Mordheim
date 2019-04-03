@@ -14,11 +14,13 @@ class Unit:
     _as = 4
     w = 3
     a = 3
-    i = 2
+    i = 1
     state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
     pre_state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
     stunnedMin = 3
     stunnedMax = 4
+    causedWounds = 0
+    regeneration = False
 
     weapon = [
         {
@@ -38,6 +40,7 @@ class Unit:
 
 #####
 troll = Unit()
+troll.regeneration = True
 
 #####
 centigor = Unit()
@@ -48,6 +51,7 @@ centigor.w = 1
 centigor.a = 2
 centigor.ws = 4
 centigor._as = 0
+centigor.i = 2
 centigor.weapon = [
     {
         "type" : "club",
@@ -97,6 +101,8 @@ pit_ogre.s  = 4
 pit_ogre.w  = 3
 pit_ogre.a  = 2
 pit_ogre.ws = 3
+pit_ogre._as = 5
+pit_ogre.i = 3
 pit_ogre.weapon = [
     {
         "type" : "flail",
@@ -127,6 +133,45 @@ pit_ogre.weapon = [
 ]
 
 #####
+grumlok = Unit()
+grumlok.name = "grumlok"
+grumlok.t  = 4
+grumlok.s  = 4
+grumlok.w  = 1
+grumlok.a  = 2
+grumlok.ws = 4
+grumlok._as = 4
+grumlok.i = 3
+grumlok.weapon = [
+    {
+        "type" : "axe",
+        "s" : 0,
+        "firstRoundSAdd" : 0,
+        "offhand" : False,
+        "toHitOffhand" : 1,
+        "toHit" : 0,
+        "as" : -1,
+        "a" : 0,
+        "stunnedMin" : 2,
+        "stunnedMax" : 4,
+        "range" : False,
+    },
+    {
+        "type" : "dagger",
+        "s" : 0,
+        "firstRoundSAdd" : 0,
+        "offhand" : True,
+        "toHitOffhand" : 1,
+        "toHit" : 0,
+        "as" : 1,
+        "a" : 0,
+        "stunnedMin" : 3,
+        "stunnedMax" : 4,
+        "range" : False,
+    }
+]
+
+#####
 ork_shaman = Unit()
 ork_shaman.name = "wogga"
 ork_shaman.t  = 4
@@ -134,6 +179,8 @@ ork_shaman.s  = 3
 ork_shaman.w  = 1
 ork_shaman.a  = 1
 ork_shaman.ws = 4
+ork_shaman._as = 0
+ork_shaman.i = 3
 ork_shaman.weapon = [
     {
         "type" : "clubbba",
@@ -162,6 +209,51 @@ ork_shaman.weapon = [
         "range" : False,
     }
 ]
+
+#####
+ork_hero = Unit()
+ork_hero.name = "ork hero"
+ork_hero.t  = 4
+ork_hero.s  = 3
+ork_hero.w  = 1
+ork_hero.a  = 1
+ork_hero.ws = 4
+ork_hero.i = 3
+ork_hero.weapon = [
+    {
+        "type" : "hand weapon",
+        "s" : 0,
+        "firstRoundSAdd" : 0,
+        "offhand" : False,
+        "toHitOffhand" : 0,
+        "toHit" : 0,
+        "as" : 0,
+        "a" : 1,
+        "stunnedMin" : 3,
+        "stunnedMax" : 4,
+        "range" : False,
+    },
+    {
+        "type" : "dagger",
+        "s" : 0,
+        "firstRoundSAdd" : 0,
+        "offhand" : True,
+        "toHitOffhand" : 1,
+        "toHit" : 0,
+        "as" : 1,
+        "a" : 0,
+        "stunnedMin" : 3,
+        "stunnedMax" : 4,
+        "range" : False,
+    }
+]
+ork_hero1 = copy.deepcopy(ork_hero)
+ork_hero1.name = "ork hero 1"
+ork_hero2 = copy.deepcopy(ork_hero)
+ork_hero2.name = "ork hero 2"
+ork_hero3 = copy.deepcopy(ork_hero)
+ork_hero3.name = "ork hero 3"
+
 #####
 squig = Unit()
 squig.name = "squig"
@@ -171,6 +263,7 @@ squig.ws = 4
 squig._as = 0
 squig.w = 1
 squig.a = 1
+squig.i = 4
 squig.state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
 # first weapon
 squig.weapon = [
@@ -209,6 +302,7 @@ beastmen_hound.ws = 4
 beastmen_hound._as = 0
 beastmen_hound.w = 1
 beastmen_hound.a = 1
+beastmen_hound.i = 4
 beastmen_hound.state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
 # first weapon
 beastmen_hound.weapon = [
@@ -236,6 +330,7 @@ beastmen.ws = 4
 beastmen._as = 0
 beastmen.w = 1
 beastmen.a = 1
+beastmen._as = 4
 beastmen.state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
 # first weapon
 beastmen.weapon = [
@@ -255,6 +350,36 @@ beastmen.weapon = [
 ]
 
 #####
+belandysh = Unit()
+belandysh.name = "belandysh"
+belandysh.t = 6
+belandysh.s = 6
+belandysh.ws = 6
+belandysh._as = 2
+belandysh.w = 3
+belandysh.a = 4
+belandysh.i = 6
+belandysh.state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
+belandysh.regeneration = True
+# first weapon
+belandysh.weapon = [
+    {
+        "type" : "two-handed",
+        "s" : 0,
+        "firstRoundSAdd" : 0,
+        "offhand" : False,
+        "toHitOffhand" : 0,
+        "toHit" : 0,
+        "as" : 0,
+        "a" : 0,
+        "stunnedMin" : 3,
+        "stunnedMax" : 4,
+        "range" : False,
+    }
+]
+
+
+#####
 mutant = Unit()
 mutant.name = "mutant"
 mutant.t = 6
@@ -263,6 +388,7 @@ mutant.ws = 3
 mutant._as = 0
 mutant.w = 1
 mutant.a = 1
+mutant.i = 4
 mutant.state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
 # first weapon
 mutant.weapon = [
@@ -290,6 +416,7 @@ dwarf1.ws = 3
 dwarf1._as = 0
 dwarf1.w = 1
 dwarf1.a = 1
+dwarf1.i = 2
 dwarf1.stunnedMax = 5
 dwarf1.weapon = [
     {
@@ -331,6 +458,7 @@ ob1.ws = 3
 ob1._as = 0
 ob1.w = 1
 ob1.a = 1
+ob1.i = 2
 ob1.state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
 # first weapon
 ob1.weapon = [
@@ -378,6 +506,7 @@ g1.ws = 2
 g1._as = 0
 g1.w = 1
 g1.a = 1
+g1.i = 4
 g1.state = 0
 g1.weapon = copy.deepcopy(ob1.weapon)
 #
@@ -415,7 +544,7 @@ def getMinWoundRoll(s, t):
 
 def printChar(u):
     print u.name + " characteristics"
-    print "T S WS AS W A St"
+    print "T S WS AS W A I St CW"
     state = ""
     if u.state == 0:
         state = "-"
@@ -426,7 +555,11 @@ def printChar(u):
     else:
         state = "ooa"
 
-    print str(u.t) + " " + str(u.s) + "  " + str(u.ws) + "  " + str(u._as) + " " + str(u.w) + " " + str(u.a) + " " + state
+    out = str(u.t) + " " + str(u.s) + "  " + str(u.ws) + "  " + str(u._as) + " " + str(u.w) + " " + str(u.a) + " " + str(u.i) + " " + state + " "
+    if state == "-":
+      out = out + " "
+    out = out + str(u.causedWounds)
+    print out
 
 def attack(u1, u2, wn, first_round = False):
 
@@ -534,11 +667,22 @@ def tryArmorSave(u1, u2, wn):
     else:
         print "\t\t\tno armor save"
 
+    if u2.regeneration == True:
+        print "\t\t\twound regeneration on 4+"
+        roll = rollD6()
+        print "\t\t\twound regeneration roll: " + str(roll)
+        if roll >= 4:
+            print "\t\t\tgranted"
+            return True
+        else:
+            print "\t\t\tno wound regeneration"
+
     return False
 
 def tryToInjure(u1, u2, wn, u2_w_old):
     injury_addition = 0
     if u2.w > 0:
+	u1.causedWounds = u1.causedWounds + 1
         u2.w = u2.w - 1;
     if u2_w_old == 0:
         injury_addition = 1
@@ -642,34 +786,86 @@ def allAttackersDead(attackers):
 
 if __name__ == "__main__":
 
-    #attackers = [ squig, g1, g2 ]
+    attackers = []
+    #attackers += [ squig, g1, g2 ]
+
+    #attackers += [ sq1, sq2, sq3, sq4, sq5 ]
+    #attackers += [ sq1, sq2, sq3, sq4, sq5 ]
+    attackers += [ sq1, sq2 ]
+    #attackers += [ g1, g2, g3, g4 ]
+    #attackers += [ ob1, ob2, ob3 ]
+    attackers += [ ork_hero1, ork_hero2, ork_hero3 ]
+    attackers += [ ork_shaman ]
+    #attackers += [ troll ]
+    attackers += [ grumlok ]
+    #attackers += [ troll, mutant, pit_ogre, beastmen, ork_shaman, dwarf1, centigor ]
+    target = belandysh
     #target = centigor
-    attackers = [ troll ]
-    target = centigor
     #target = pit_ogre
     first_round = True
 
     rounds = 0
 
     while allAttackersDead(attackers) == False and target.state < 3:
-        for attacker in attackers:
-            if attacker.state == 0:
-                # TODO reihenfolge anhaengig von stunned/knockdown/initiative/strikeFirst/strikeLast
-                doFight(attacker, target, first_round)
+	if target.name == "belandysh":
+            target.ws = random.randint(1,6)
+            target.s = random.randint(1,6)
+            target.t = random.randint(1,6)
+            target.a = random.randint(2,4)
+            print "---- Belandysh stats for this round"
+            printChar(target)
+            print "----"
 
-        if target.state == 0:
-            # strike back
+        if first_round == True:
+            # do the charges
             for attacker in attackers:
-                if attacker.state < 3:
-                    doAllAttacks(target, attacker)
-                    break # all defined attacks only one time
+                if attacker.state == 0:
+                    # TODO reihenfolge anhaengig von stunned/knockdown/initiative/strikeFirst/strikeLast
+                    doFight(attacker, target, first_round)
 
-        first_round = False
+            print "---- Belandysh stats for this fight"
+            printChar(target)
+            print "----"
+            foes = []
+            for i in range(target.a):
+                foes.append(attackers[random.randint(1, len(attackers)-1)])
+            # TODO unify the list and sum the attacks for each enemy
+            for ff in foes:
+                tmp_target = copy.deepcopy(target)
+                tmp_target.a = 1
+                doFight(tmp_target, ff)
+
+            first_round = False
+
+        else:
+            all_fighters = attackers + [ target ]
+            fights_ini_ordered = []
+            tf_num = 0
+            tf_cnt = 0
+            # 1. liste fer kampfenden nach ini sortieren
+	    fights_ini_ordered = sorted(all_fighters, key=lambda x: x.i, reverse=True)
+            # 2. die kampfe ausfuhren
+            for f in fights_ini_ordered:
+                if f != target:
+                    doFight(f, target)
+                else:
+                    # 3. choose f.A foes if has more than one
+                    print "---- Belandysh stats for this fight"
+                    printChar(target)
+                    print "----"
+                    foes = []
+                    for i in range(f.a):
+                        foes.append(attackers[random.randint(1, len(attackers)-1)])
+                    # TODO unify the list and sum the attacks for each enemy
+                    for ff in foes:
+                        tmp_target = copy.deepcopy(target)
+                        tmp_target.a = 1
+                        doFight(tmp_target, ff)
 
         print "========="
         rounds = rounds + 1
 
-    print "\n----------"
+    print "\n--------------------"
     print str(rounds) + " rounds done"
     for u in attackers:
         printChar(u)
