@@ -26,10 +26,10 @@ Das Szenario wird aus folgender Liste ermittelt:
   - Avalanche!  
   - Horrors of the underground  
   - Blockade  
-  - Wyrdstone Hunt (**Runde 1**) 
+  - Wyrdstone Hunt (**Runde 1**)  
   - Traces to Emprise  
-  - Tainted Copse  
-  - Unlocking the tomb (**Runde 2**)
+  - Tainted Copse (**Runde 3**)  
+  - Unlocking the tomb (**Runde 2**)  
   - Vampire Hunters
   - Don't wake the giant
   - Round-Up At The Mordheim Corral 
@@ -42,7 +42,7 @@ Das Szenario wird aus folgender Liste ermittelt:
   - The Raven Barracks
   - Night Of The Dead (**Runde 1**) 
   - The Game (**Runde 2**)
-  - Earthquake
+  - Earthquake (**Runde 3**)
   - Merchant Square  
   - The lost Prince
   
@@ -52,8 +52,12 @@ Das Szenario wird aus folgender Liste ermittelt:
 - Aaron, Fabian, Marius: Night of the Dead (fog - thick mist)
 
 2. Szenario Runde:   
-- Aaron, Marius: Unlocking the Tomb 
-- Stefan, Fabian, Kai: The Game
+- Aaron, Marius: Unlocking the Tomb (normal weather)
+- Stefan, Fabian, Kai: The Game (normal weather)
+
+3. Szenario Runde:   
+- Stefan, Marius: Tainted Corpse (Gale)
+- Aaron, Fabian, Kai: Earthquake (Tempest)
 
 ## Termine
 
