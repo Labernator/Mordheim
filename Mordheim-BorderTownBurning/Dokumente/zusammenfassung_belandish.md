@@ -15,9 +15,9 @@ Seite 78, BTB.pdf.
   Wird Belandysh OOA wird an dessen letzter Position ein Marker gelegt der das Boardsword represäntiert.  
   Kommt ein Held mit dem Marker in Berührung gilt das Schwert als aufgehoben.  
   Der Marker kann als Erinnerung in Basekontakt mit dem Modell verbleiben.
-  - Effekt: Wird mit dem Schwert ein Gegner OOA gesetzt, wird dieser durch einen Chaos Spawn ersetzt der unter Kontrolle von Belandysh ist.
+  - Effekt: Das Schwert zählt als double-handed weapon. Geht ein Gegner **durch einen critical hit** mit dem Schwert OOA, wird dieser durch einen Chaos Spawn ersetzt der für den Rest des Spiels unter Kontrolle von Belandysh ist. Entferne den Warrior vom Warband Roaster.
 * Helmet (4+ stunned safe)
-* Chaos Armour (4+AS)
+* Chaos Armour (3+AS)
 
 ## Skills  
 
@@ -28,17 +28,15 @@ Seite 78, BTB.pdf.
 * Ride (Tol'Agath)
 * Immune to psychology
 * Inconsistency - Reroll stats every turn
-* Regeneration - 4+ wound regeneration ohne Modifikator
-* Tol'Agath
-* Wrath of Tchar
+* Regeneration - 4+ wound regeneration ohne Modifikator (außer gegen Feuer)
+* Reitet Tol'Agath
+* Wrath of Tchar - Wenn Belandysh einmal ooA gegangen ist taucht er nie mehr in dieser Kampagne auf
 
 ### Tol'Agath
 * Battle Schooled - ReRoll failed loss of controll test (Ld-Test/Woah Boy! ???)
 * Inconsistency - ReRoll Stats every turn
 
 ## Beritten
-Belandysh kommt beritten auf das Spielfeld, sodern er nicht als Dramatis Personae eingesetzt wird.  
-Es gelten die Regeln für das reiten.  
 Da Belandysh den Ride-Skill besitzt muss er keinen Ld-Test durchführen wenn er beschossen wird oder in Basekontakt mit einem Feind kommt.
 
 |Profile|M|WS|BS|S|T|W|I|A|Ld|Sv|
