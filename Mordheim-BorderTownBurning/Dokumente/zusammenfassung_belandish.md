@@ -3,7 +3,7 @@
 |Profile|M|WS|BS|S|T|W|I|A|Ld|Sv|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |Belandysh|4|*D6*|0|*D6*|*D6*|3|*D6*|*D3*|10|3+|
-|Tol'Agath|8|3|0|*D6*|*D6*|1|3|1|5|+1|
+|Tol'Agath|8|3|0|*D6*|*D6*|1|3|1|5||
 
 # Out of action
 
@@ -49,7 +49,7 @@ Da Belandysh den Ride-Skill besitzt muss er keinen Ld-Test durchführen wenn er 
 #
 |Profil|M|WS|BS|S|T|W|I|A|Ld|Sv|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|Belandysh|4|*D6*|0|*D6*|*D6*|3|*D6*|*D3* + 1 (Tol'Agath)|10|2+ & 4+ wound regeneration & 4+ stunned safe|
+|Belandysh&Tol'Agath|8|*D6*|0|*D6*|*D6*|3|*D6*|*D3* + 1 (Stats von Tol'Agath)|10|2+ & 4+ wound regeneration & 4+ stunned safe|
 
 ## Abgesessen
 Ist Belandysh in abgesessenem Zustand nicht in Basekontakt mit Tol'Agath gilt es laut Reit/Mount-Regeln als ungeführt und muss Ld-Tests durchführen.
