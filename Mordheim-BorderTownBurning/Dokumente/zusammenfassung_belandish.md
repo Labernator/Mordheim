@@ -2,7 +2,7 @@
 
 |Profile|M|WS|BS|S|T|W|I|A|Ld|Sv|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|Belandysh|4|`D6`|0|`D6`|`D6`|3|`D6`|`D3`|10|4+|
+|Belandysh|4|`D6`|0|`D6`|`D6`|3|`D6`|`D3`|10|3+|
 |Tol'Agath|8|3|0|`D6`|`D6`|1|3|1|5|+1|
 
 ## Regeln für non-player Einheiten
