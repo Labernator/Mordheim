@@ -26,10 +26,10 @@ Das Szenario wird aus folgender Liste ermittelt:
   - Avalanche!  
   - Horrors of the underground  
   - Blockade  
-  - Wyrdstone Hunt (**Runde 1**) 
+  - Wyrdstone Hunt (**Runde 1**)  
   - Traces to Emprise  
-  - Tainted Copse  
-  - Unlocking the tomb (**Runde 2**)
+  - Tainted Copse (**Runde 3**)  
+  - Unlocking the tomb (**Runde 2**)  
   - Vampire Hunters
   - Don't wake the giant
   - Round-Up At The Mordheim Corral 
@@ -42,22 +42,24 @@ Das Szenario wird aus folgender Liste ermittelt:
   - The Raven Barracks
   - Night Of The Dead (**Runde 1**) 
   - The Game (**Runde 2**)
-  - Earthquake
+  - Earthquake (**Runde 3**)
   - Merchant Square  
   - The lost Prince
   
 ## Game Days  
-1. Szenario Runde:  
+1. Szenario Runde (09.02.2019):  
 - Stefan gegen Kai: Wyrdstone Hunt (normal weather)
 - Aaron, Fabian, Marius: Night of the Dead (fog - thick mist)
 
-2. Szenario Runde:   
-- Aaron, Marius: Unlocking the Tomb 
-- Stefan, Fabian, Kai: The Game
+2. Szenario Runde (16.03.2019):   
+- Aaron, Marius: Unlocking the Tomb (normal weather)
+- Stefan, Fabian, Kai: The Game (normal weather)
+
+3. Szenario Runde (28.04.2019):   
+- Stefan, Marius: Tainted Corpse (Gale)
+- Aaron, Fabian, Kai: Earthquake (Tempest)
 
 ## Termine
 
-* Samstag, 09.02.2019 10:00 Uhr bei Kai (Beginn BTB!!) 
-* Samstag, 16.03.2019 10:00 Uhr 
 * Samstag, 28.04.2019 10:00 Uhr 
 * Samstag, 19.05.2019 10:00 Uhr 
