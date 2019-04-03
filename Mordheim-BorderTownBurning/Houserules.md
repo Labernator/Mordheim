@@ -41,3 +41,9 @@ Keine XP für Zombie kills.
 
 16.) Das Warband-Rating wird nicht neu berechnet wenn Einheiten aussetzen (kein künstlich erzeugter UnderDog-Bonus möglich).
 
+17.) Der Leader einer neutral/chaotic oder chaotic Warband kann, ohne Penality, Chaos Artefakte anlegen und verwenden.
+
+18.) Warbands die nicht neutral/chaotic oder chaotic, deren Träger (Leader/Held, ) ein Chaos Artefakt tragen sind vom Thousand Voices-Fluch (Ld wird auf 4 herunter gesetzt) und stupidity betroffen.
+
+19). Die Warband mit dem Objective "Tilean Merchant Caravan" darf sie in Ihrem Wagen befördern, der Wagen wird nicht stupid und ist nicht verflucht.
+
