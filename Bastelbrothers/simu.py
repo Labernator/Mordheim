@@ -544,7 +544,7 @@ def getMinWoundRoll(s, t):
 
 def printChar(u):
     print u.name + " characteristics"
-    print "T S WS AS W A I St CW"
+    print "T S WS AS W A I  St  CW"
     state = ""
     if u.state == 0:
         state = "-"
@@ -555,7 +555,7 @@ def printChar(u):
     else:
         state = "ooa"
 
-    out = str(u.t) + " " + str(u.s) + "  " + str(u.ws) + "  " + str(u._as) + " " + str(u.w) + " " + str(u.a) + " " + str(u.i) + " " + state + " "
+    out = str(u.t) + " " + str(u.s) + "  " + str(u.ws) + "  " + str(u._as) + " " + str(u.w) + " " + str(u.a) + " " + str(u.i) + "  " + state + "  "
     if state == "-":
       out = out + " "
     out = out + str(u.causedWounds)
@@ -792,8 +792,8 @@ if __name__ == "__main__":
     #attackers += [ sq1, sq2, sq3, sq4, sq5 ]
     #attackers += [ sq1, sq2, sq3, sq4, sq5 ]
     attackers += [ sq1, sq2 ]
-    #attackers += [ g1, g2, g3, g4 ]
-    #attackers += [ ob1, ob2, ob3 ]
+    attackers += [ g1, g2, g3, g4 ]
+    attackers += [ ob1, ob2, ob3 ]
     attackers += [ ork_hero1, ork_hero2, ork_hero3 ]
     attackers += [ ork_shaman ]
     #attackers += [ troll ]
@@ -807,38 +807,72 @@ if __name__ == "__main__":
     rounds = 0
 
     while allAttackersDead(attackers) == False and target.state < 3:
+
 	if target.name == "belandysh":
             target.ws = random.randint(1,6)
             target.s = random.randint(1,6)
             target.t = random.randint(1,6)
             target.a = random.randint(2,4)
-            print "---- Belandysh stats for this round"
+            print "\n---- " + target.name + " stats for this round"
             printChar(target)
-            print "----"
+            print "---"
 
         if first_round == True:
             # do the charges
             for attacker in attackers:
                 if attacker.state == 0:
-                    # TODO reihenfolge anhaengig von stunned/knockdown/initiative/strikeFirst/strikeLast
                     doFight(attacker, target, first_round)
 
-            print "---- Belandysh stats for this fight"
-            printChar(target)
-            print "----"
+            print "---- " + target.name + ": selected foes to attack (" + str(target.a) + "A possible)"
             foes = []
             for i in range(target.a):
-                foes.append(attackers[random.randint(1, len(attackers)-1)])
-            # TODO unify the list and sum the attacks for each enemy
+                j = random.randint(0, len(attackers)-1)
+                while attackers[j].state > 0:
+                    j = random.randint(1, len(attackers)-1)
+                print "\t" + attackers[j].name + " St = " + str(attackers[j].state)
+
+                tmp_inc = False
+                for k in range(len(foes)):
+                    if foes[k][0] == attackers[j]:
+                        foes[k][1] = foes[k][1] + 1
+                        tmp_inc = True
+                        break
+
+                if tmp_inc == False:
+                    foes.append([attackers[j], 1])
+
             for ff in foes:
                 tmp_target = copy.deepcopy(target)
-                tmp_target.a = 1
-                doFight(tmp_target, ff)
+                tmp_target.a = ff[1]
+                print "\n---- " + tmp_target.name + " stats for this fight"
+                printChar(tmp_target)
+                print "----"
+                doFight(tmp_target, ff[0])
 
             first_round = False
 
         else:
+
             all_fighters = attackers + [ target ]
+
+            tmp_first_line = True
+            for u in all_fighters:
+                    if u.state == 1:
+                        if tmp_first_line == True:
+                            print "\n\n---"
+                        u.state = 0
+                        u.i = -9 # strike last
+                        tmp_first_line = False
+                        print "\t" + u.name + ": stand up"
+                    if u.state == 2:
+                        if tmp_first_line == True:
+                            print "\n\n---"
+                        u.state = 1
+                        tmp_first_line = False
+                        print "\t" + u.name + ": stn -> knd"
+            if tmp_first_line == False:
+                print "---"
+
             fights_ini_ordered = []
             tf_num = 0
             tf_cnt = 0
@@ -847,20 +881,52 @@ if __name__ == "__main__":
             # 2. die kampfe ausfuhren
             for f in fights_ini_ordered:
                 if f != target:
-                    doFight(f, target)
+                    if f.state == 0:
+                        doFight(f, target)
+
                 else:
-                    # 3. choose f.A foes if has more than one
-                    print "---- Belandysh stats for this fight"
-                    printChar(target)
-                    print "----"
-                    foes = []
-                    for i in range(f.a):
-                        foes.append(attackers[random.randint(1, len(attackers)-1)])
-                    # TODO unify the list and sum the attacks for each enemy
-                    for ff in foes:
-                        tmp_target = copy.deepcopy(target)
-                        tmp_target.a = 1
-                        doFight(tmp_target, ff)
+                    if f.state == 0:
+                        # 3. choose f.A foes if has more than one
+                        print "\n---- " + target.name + ": selected foes to attack (" + str(target.a) + "A possible)"
+                        foes = []
+                        for i in range(f.a):
+                            j = random.randint(0, len(attackers)-1)
+                            l = 0
+                            while attackers[j].state > 0 and l < 50:
+                                #print ">" + str(j)
+                                j = random.randint(0, len(attackers)-1)
+                                l = l + 1
+                            if l == 50:
+                                l = 0
+                                j = random.randint(0, len(attackers)-1)
+                                while attackers[j].state == 3 and l < 50:
+                                    #print "<" + str(j) + " " + str(attackers[j].state)
+                                    j = random.randint(0, len(attackers)-1)
+                                    l = l + 1
+
+                            if l == 50:
+                                exit(0)
+
+                            print "\t" + attackers[j].name + " St = " + str(attackers[j].state)
+
+                            tmp_inc = False
+                            for k in range(len(foes)):
+                                #print k
+                                if foes[k][0] == attackers[j]:
+                                    foes[k][1] = foes[k][1] + 1
+                                    tmp_inc = True
+                                    break
+
+                            if tmp_inc == False:
+                                foes.append([attackers[j], 1])
+
+                        for ff in foes:
+                            tmp_target = copy.deepcopy(target)
+                            tmp_target.a = ff[1]
+                            print "\n---- " + tmp_target.name + " stats for this fight"
+                            printChar(tmp_target)
+                            print "----"
+                            doFight(tmp_target, ff[0])
 
         print "========="
         rounds = rounds + 1
