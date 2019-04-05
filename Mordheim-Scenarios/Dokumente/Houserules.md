@@ -70,7 +70,7 @@ M WSBS S T W I A Ld
 
 Fear: Trolls are huge, bellowing monsters and cause fear. See Psychology section for details. 
 Stupidity:... 
-Animal: may gain Experience, it may never  become a Hero. 
+Animal: may gain Experience, it may never become a Hero. 
 Large:... 
 Tough:... .. 
 4+ Armor save instead of the regeneration skill.

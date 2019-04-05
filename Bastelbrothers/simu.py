@@ -20,7 +20,10 @@ class Unit:
     stunnedMin = 3
     stunnedMax = 4
     causedWounds = 0
+    causedOOA = 0
     regeneration = False
+    helmet = False
+    stepaside = False
 
     weapon = [
         {
@@ -40,7 +43,7 @@ class Unit:
 
 #####
 troll = Unit()
-troll.regeneration = True
+troll.regeneration = False
 
 #####
 centigor = Unit()
@@ -93,6 +96,7 @@ centigor.weapon = [
         "range" : False,
     }
 ]
+
 #####
 pit_ogre = Unit()
 pit_ogre.name = "pit fighter ogre"
@@ -142,6 +146,7 @@ grumlok.a  = 2
 grumlok.ws = 4
 grumlok._as = 4
 grumlok.i = 3
+grumlok.helmet = True
 grumlok.weapon = [
     {
         "type" : "axe",
@@ -228,7 +233,7 @@ ork_hero.weapon = [
         "toHitOffhand" : 0,
         "toHit" : 0,
         "as" : 0,
-        "a" : 1,
+        "a" : 0,
         "stunnedMin" : 3,
         "stunnedMax" : 4,
         "range" : False,
@@ -249,10 +254,13 @@ ork_hero.weapon = [
 ]
 ork_hero1 = copy.deepcopy(ork_hero)
 ork_hero1.name = "ork hero 1"
+ork_hero1.ws = 5
 ork_hero2 = copy.deepcopy(ork_hero)
 ork_hero2.name = "ork hero 2"
+ork_hero2.s = 4
 ork_hero3 = copy.deepcopy(ork_hero)
 ork_hero3.name = "ork hero 3"
+ork_hero3.t = 3
 
 #####
 squig = Unit()
@@ -325,25 +333,39 @@ beastmen_hound.weapon = [
 beastmen = Unit()
 beastmen.name = "beastmen"
 beastmen.t = 4
-beastmen.s = 3
+beastmen.s = 4
 beastmen.ws = 4
 beastmen._as = 0
 beastmen.w = 1
 beastmen.a = 1
 beastmen._as = 4
+beastmen.i = 3
 beastmen.state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
 # first weapon
 beastmen.weapon = [
     {
-        "type" : "flail",
+        "type" : "club",
         "s" : 0,
-        "firstRoundSAdd" : 2,
+        "firstRoundSAdd" : 0,
         "offhand" : False,
         "toHitOffhand" : 0,
         "toHit" : 0,
         "as" : 0,
         "a" : 0,
-        "stunnedMin" : 3,
+        "stunnedMin" : 2,
+        "stunnedMax" : 4,
+        "range" : False,
+    },
+    {
+        "type" : "club",
+        "s" : 0,
+        "firstRoundSAdd" : 0,
+        "offhand" : True,
+        "toHitOffhand" : 0,
+        "toHit" : 0,
+        "as" : 0,
+        "a" : 0,
+        "stunnedMin" : 2,
         "stunnedMax" : 4,
         "range" : False,
     }
@@ -361,6 +383,7 @@ belandysh.a = 4
 belandysh.i = 6
 belandysh.state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
 belandysh.regeneration = True
+belandysh.helmet = True
 # first weapon
 belandysh.weapon = [
     {
@@ -406,6 +429,22 @@ mutant.weapon = [
         "range" : False,
     }
 ]
+
+#####
+champ_of_chaos = Unit()
+champ_of_chaos.name = "Champion of Chaos"
+champ_of_chaos.ws = 7
+champ_of_chaos.s = 5
+champ_of_chaos.t = 4
+champ_of_chaos.w = 2
+champ_of_chaos.i = 6
+champ_of_chaos.a = 4
+champ_of_chaos._as = 3
+champ_of_chaos.stepaside = True
+champ_of_chaos.helmet = True
+champ_of_chaos.weapon[0]["type"] = "great axe"
+champ_of_chaos.weapon[0]["s"] = 2
+champ_of_chaos.weapon[0]["as"] = -1
 
 #####
 dwarf1 = Unit()
@@ -496,6 +535,14 @@ ob2.name = "ork boy 2"
 ####
 ob3 = copy.deepcopy(ob1)
 ob3.name = "ork boy 3"
+####
+ob4 = copy.deepcopy(ob1)
+ob4.i = 3
+ob4.name = "ork boy 4"
+####
+ob5 = copy.deepcopy(ob1)
+ob5.i = 3
+ob5.name = "ork boy 5"
 
 ####
 g1 = Unit()
@@ -518,6 +565,25 @@ g3.name = "goblin 3"
 #
 g4 = copy.deepcopy(g1)
 g4.name = "goblin 4"
+#
+g5 = copy.deepcopy(g1)
+g5.name = "goblin 5"
+g5.i = 3
+g5.weapon = [
+    {
+        "type" : "spear",
+        "s" : 0,
+        "firstRoundSAdd" : 0,
+        "offhand" : False,
+        "toHitOffhand" : 0,
+        "toHit" : 0,
+        "as" : 0,
+        "a" : 0,
+        "stunnedMin" : 3,
+        "stunnedMax" : 4,
+        "range" : False,
+    }
+]
 
 def rollD6():
     return random.randint(1,6)
@@ -544,7 +610,7 @@ def getMinWoundRoll(s, t):
 
 def printChar(u):
     print u.name + " characteristics"
-    print "T S WS AS W A I  St  CW"
+    print "T S WS AS W A I  St  CW CooA"
     state = ""
     if u.state == 0:
         state = "-"
@@ -555,17 +621,26 @@ def printChar(u):
     else:
         state = "ooa"
 
-    out = str(u.t) + " " + str(u.s) + "  " + str(u.ws) + "  " + str(u._as) + " " + str(u.w) + " " + str(u.a) + " " + str(u.i) + "  " + state + "  "
-    if state == "-":
+    out = str(u.t) + " " + str(u.s) + "  " + str(u.ws) + "  " + str(u._as) + " " + str(u.w) + " " + str(u.a) + " " + str(u.i)
+    if u.i > 0:
+      out = out + "  "
+    else:
       out = out + " "
+    out = out + state + " "
+
+    if state == "-":
+      out = out + "  "
+
     out = out + str(u.causedWounds)
+
+    out = out + "  " + str(u.causedOOA)
+
     print out
 
 def attack(u1, u2, wn, first_round = False):
 
     u2_w_old = u2.w
 
-    # TODO betrachtung der pre states einfuehren
     if u2.state == 0:
         # HIT
         hit_granted = tryToHit(u1, u2, wn)
@@ -667,6 +742,16 @@ def tryArmorSave(u1, u2, wn):
     else:
         print "\t\t\tno armor save"
 
+    if u2.stepaside == True:
+        print "\t\t\tstep aside on 5+"
+        roll = rollD6()
+        print "\t\t\tstep aside roll: " + str(roll)
+        if roll >= 5:
+            print "\t\t\tgranted"
+            return True
+        else:
+            print "\t\t\tno step aside"
+
     if u2.regeneration == True:
         print "\t\t\twound regeneration on 4+"
         roll = rollD6()
@@ -703,19 +788,38 @@ def doInjuryRoll(u1, u2, wn, injury_addition):
         # TODO stunnedMax und stunnedMin von unit und waffen beachten
         if roll < u1.weapon[wn]["stunnedMin"]:
             print "\t\t\tknocked down"
+
             if u2.state == 0:
+		#u2.pre_state = u2.state
                 u2.state = 1
-		u2.pre_state = u2.state
+                u2.i = -9 # strike last
+
         elif roll >= u1.weapon[wn]["stunnedMin"] and roll <= u2.stunnedMax:
-            print "\t\t\tstunned"
+            if u2.helmet == True:
+                print "\t\t\thelmet stunned save on 4+"
+                roll = rollD6()
+                print "\t\t\tstunned save roll: " + str(roll)
+                if roll >= 4:
+			print "\t\t\tgranted, knocked down instead"
+			#u2.pre_state = u2.state
+			u2.state = 1
+			u2.i = -9 # strike last
+			return True
+                else:
+                    print "\t\t\tstunned"
+
             if u2.state < 2:
-		u2.pre_state = u2.state
+		#u2.pre_state = u2.state
                 u2.state = 2
+                u2.i = -9 # strike last
         else:
             print "\t\t\tooa"
+
             if u2.state < 3:
-		u2.pre_state = u2.state
+		#u2.pre_state = u2.state
                 u2.state = 3
+	        u1.causedOOA = u1.causedOOA + 1
+
 
 def doAllAttacks(u1, u2, first_round = False):
     a_main = u1.a
@@ -745,8 +849,10 @@ def doAllAttacks(u1, u2, first_round = False):
         for w in range(0, a_main):
             attack(u1, u2, main_weapon, first_round) # do the w'th attack
             print
+            if u2.state == 3: # ooa
+                break
 
-    if off_weapon > -1:
+    if u2.state < 3 and off_weapon > -1:
         a_off = a_off + 1
         for w in range(0, a_off):
             attack(u1, u2, off_weapon, first_round) # do the w'th attack
@@ -771,6 +877,7 @@ def doFight(attacker, target, first_round = False):
             print "\t\tauto ooa\n"
 
             target.state = 3 # out of action
+	    attacker.causedOOA = attacker.causedOOA + 1
 
             printChar(attacker)
             printChar(target)
@@ -784,25 +891,10 @@ def allAttackersDead(attackers):
             break
     return allAttackersDead
 
-if __name__ == "__main__":
-
-    attackers = []
-    #attackers += [ squig, g1, g2 ]
-
-    #attackers += [ sq1, sq2, sq3, sq4, sq5 ]
-    #attackers += [ sq1, sq2, sq3, sq4, sq5 ]
-    attackers += [ sq1, sq2 ]
-    attackers += [ g1, g2, g3, g4 ]
-    attackers += [ ob1, ob2, ob3 ]
-    attackers += [ ork_hero1, ork_hero2, ork_hero3 ]
-    attackers += [ ork_shaman ]
-    #attackers += [ troll ]
-    attackers += [ grumlok ]
-    #attackers += [ troll, mutant, pit_ogre, beastmen, ork_shaman, dwarf1, centigor ]
-    target = belandysh
-    #target = centigor
-    #target = pit_ogre
+def fightTilOOA(attackers, target):
     first_round = True
+
+    all_fighters = attackers + [ target ]
 
     rounds = 0
 
@@ -821,6 +913,7 @@ if __name__ == "__main__":
             # do the charges
             for attacker in attackers:
                 if attacker.state == 0:
+                    target.pre_state = target.state
                     doFight(attacker, target, first_round)
 
             print "---- " + target.name + ": selected foes to attack (" + str(target.a) + "A possible)"
@@ -844,44 +937,57 @@ if __name__ == "__main__":
             for ff in foes:
                 tmp_target = copy.deepcopy(target)
                 tmp_target.a = ff[1]
+                tmp_target.causedOOA = 0
                 print "\n---- " + tmp_target.name + " stats for this fight"
                 printChar(tmp_target)
                 print "----"
+                ff[0].pre_state = ff[0].state
                 doFight(tmp_target, ff[0])
+                target.causedOOA = target.causedOOA + tmp_target.causedOOA
 
             first_round = False
 
         else:
 
-            all_fighters = attackers + [ target ]
-
+            # recovery phase
             tmp_first_line = True
             for u in all_fighters:
-                    if u.state == 1:
+                do_recover = False
+                if u == target and ((rounds + 1) % 2) == 0:
+                   do_recover = True
+                elif u != target and ((rounds + 1) % 2) == 1:
+                   do_recover = True
+
+                if do_recover == True:
+                   if u.state == 1:
                         if tmp_first_line == True:
                             print "\n\n---"
                         u.state = 0
                         u.i = -9 # strike last
                         tmp_first_line = False
                         print "\t" + u.name + ": stand up"
-                    if u.state == 2:
+                   if u.state == 2:
                         if tmp_first_line == True:
                             print "\n\n---"
                         u.state = 1
+                        u.i = -9 # strike last
                         tmp_first_line = False
                         print "\t" + u.name + ": stn -> knd"
             if tmp_first_line == False:
                 print "---"
 
             fights_ini_ordered = []
-            tf_num = 0
-            tf_cnt = 0
             # 1. liste fer kampfenden nach ini sortieren
 	    fights_ini_ordered = sorted(all_fighters, key=lambda x: x.i, reverse=True)
+
+            #for fo in fights_ini_ordered:
+            #    print fo.name + " " + str(fo.i)
+
             # 2. die kampfe ausfuhren
             for f in fights_ini_ordered:
                 if f != target:
                     if f.state == 0:
+                        target.pre_state = target.state
                         doFight(f, target)
 
                 else:
@@ -923,10 +1029,13 @@ if __name__ == "__main__":
                         for ff in foes:
                             tmp_target = copy.deepcopy(target)
                             tmp_target.a = ff[1]
+                            tmp_target.causedOOA = 0
                             print "\n---- " + tmp_target.name + " stats for this fight"
                             printChar(tmp_target)
                             print "----"
+                            ff[0].pre_state = ff[0].state
                             doFight(tmp_target, ff[0])
+                            target.causedOOA = target.causedOOA + tmp_target.causedOOA
 
         print "========="
         rounds = rounds + 1
@@ -938,4 +1047,66 @@ if __name__ == "__main__":
     printChar(target)
     print
 
+def runSimulation(max_run, attackers, target):
+
+    for i in range(max_run):
+        statistic.append( [ copy.deepcopy(attackers), copy.deepcopy(target) ] )
+        fightTilOOA(statistic[i][0], statistic[i][1])
+
+    cnt_knd = 0
+    cnt_stn = 0
+    cnt_ooa = 0
+    cnt_cw = 0
+    cnt_cooa = 0
+    for i in range(max_run):
+        if statistic[i][1].state == 1:
+          cnt_knd = cnt_knd + 1
+        if statistic[i][1].state == 2:
+          cnt_stn = cnt_stn + 1
+        if statistic[i][1].state == 3:
+          cnt_ooa = cnt_ooa + 1
+        cnt_cw = cnt_cw + statistic[i][1].causedWounds
+        cnt_cooa = cnt_cooa + statistic[i][1].causedOOA
+
+    cnt_knd = cnt_knd   / (max_run * 1.0)
+    cnt_stn = cnt_stn   / (max_run * 1.0)
+    cnt_ooa = cnt_ooa   / (max_run * 1.0)
+    cnt_cw = cnt_cw     / (max_run * 1.0)
+    cnt_cooa = cnt_cooa / (max_run * 1.0)
+
+    print target.name + " (" + str(max_run) + " tries)"
+    print "=========="
+    #print cnt_knd
+    #print cnt_stn
+    print "OOA in about " + str(cnt_ooa * (100.0)) + " %"
+    print "Caused a wound " + str(cnt_cw * 100.0) + " %"
+    print "Caused ooA " + str(cnt_cooa * 100.0) + " %"
+
+if __name__ == "__main__":
+
+    attackers = []
+    #attackers += [ squig, g1, g2 ]
+
+    #attackers += [ sq1, g1, ob1 ]
+    #attackers += [ sq1, sq2, sq3, sq4, sq5 ]
+    #attackers += [ sq1, sq2 ]
+    #attackers += [ g1, g2, g3, g4 ]
+    #attackers += [ g5 ]
+    #attackers += [ ob1, ob2, ob3, ob4, ob5 ]
+    #attackers += [ ork_hero1, ork_hero2, ork_hero3 ]
+    #attackers += [ ork_shaman ]
+    attackers += [ grumlok ]
+    #attackers += [ troll ]
+    #attackers += [ troll, mutant, pit_ogre, beastmen, ork_shaman, dwarf1, centigor ]
+    #target = belandysh
+    target = champ_of_chaos
+    #target = centigor
+    #target = beastmen
+    #target = pit_ogre
+
+    statistic = []
+
+    max_run = 500
+
+    runSimulation(max_run, attackers, target)
 
