@@ -22,8 +22,17 @@ class Unit:
     causedWounds = 0
     causedOOA = 0
     regeneration = False
+    ardEad = False
     helmet = False
     stepaside = False
+    resilient = False
+    mightyblow = False
+    striketoinjure = False
+    hate = False
+    hateEverytime = False
+    parry = False
+    parryImproved = False
+    parry_used_this_fight = False
 
     weapon = [
         {
@@ -442,6 +451,7 @@ champ_of_chaos.a = 4
 champ_of_chaos._as = 3
 champ_of_chaos.stepaside = True
 champ_of_chaos.helmet = True
+champ_of_chaos.mightyblow = True
 champ_of_chaos.weapon[0]["type"] = "great axe"
 champ_of_chaos.weapon[0]["s"] = 2
 champ_of_chaos.weapon[0]["as"] = -1
@@ -685,9 +695,39 @@ def tryToHit(u1, u2, wn):
     print "\tto hit on " + str(minHitRoll)
     print "\tHit roll: " + str(roll)
 
+    if roll < minHitRoll:
+      # no hit
+      if u1.hate == True or u1.hateEverytime == True:
+        print "\t" + u1.name + " hates " + u2.name + ", re-roll"
+        roll = rollD6()
+        print "\tnew hit roll: " + str(roll)
+
     if roll >= minHitRoll:
         print "\thit"
+
+        if roll < 6 and u2.parry == True and u2.parry_used_this_fight == False:
+            u2.parry_used_this_fight = True
+
+            tmp_parryMin = roll + 1
+
+            if u2.parryImproved == True:
+                tmp_parryMin = roll
+
+            print "\tparry on " + str(tmp_parryMin) + "+"
+
+            roll = rollD6()
+            print "\t parry roll " + str(roll)
+
+            if roll >= tmp_parryMin:
+                print "\tparried"
+                return False
+
+            else:
+                print "\tno parry"
+
         return True
+
+    print "\tno hit"
 
     return False
 
@@ -699,11 +739,15 @@ def tryToWound(u1, u2, wn, first_round = False):
     minWoundRoll = getMinWoundRoll(u1.s + tmp_s, u2.t)
     roll = rollD6()
 
+    if u1.mightyblow == True:
+        print "\t\t" + u1.name + " has skill mighty blow, +1 to wound roll"
+        roll = roll + 1
+
     print "\t\tto wound on " + str(minWoundRoll)
     print "\t\twound roll: " + str(roll)
 
     if roll >= minWoundRoll:
-        if roll == 6 and minWoundRoll < 6:
+        if roll == 6 and minWoundRoll < 6 and u1.mightyblow == False:
             roll = rollD6()
             print "\t\tcrit: " + str(roll)
         return True
@@ -737,7 +781,7 @@ def tryArmorSave(u1, u2, wn):
         roll = 0
 
     if roll >= t_as:
-        print "\t\t\tgranted"
+        print "\t\t\tas granted"
         return True
     else:
         print "\t\t\tno armor save"
@@ -747,7 +791,7 @@ def tryArmorSave(u1, u2, wn):
         roll = rollD6()
         print "\t\t\tstep aside roll: " + str(roll)
         if roll >= 5:
-            print "\t\t\tgranted"
+            print "\t\t\tstepped aside"
             return True
         else:
             print "\t\t\tno step aside"
@@ -757,7 +801,7 @@ def tryArmorSave(u1, u2, wn):
         roll = rollD6()
         print "\t\t\twound regeneration roll: " + str(roll)
         if roll >= 4:
-            print "\t\t\tgranted"
+            print "\t\t\twound regenerated"
             return True
         else:
             print "\t\t\tno wound regeneration"
@@ -766,6 +810,7 @@ def tryArmorSave(u1, u2, wn):
 
 def tryToInjure(u1, u2, wn, u2_w_old):
     injury_addition = 0
+
     if u2.w > 0:
 	u1.causedWounds = u1.causedWounds + 1
         u2.w = u2.w - 1;
@@ -783,7 +828,15 @@ def tryToInjure(u1, u2, wn, u2_w_old):
 
 def doInjuryRoll(u1, u2, wn, injury_addition):
     if u2.w == 0:
+
         roll = rollD6() + injury_addition
+        if u1.striketoinjure == True:
+          print "\t\t\t" + u1.name + " has skill strike to injure, +1 to injury roll"
+          roll = roll + 1
+        if u2.resilient == True:
+          print "\t\t\t" + u2.name + " has skill resilient, -1 to injury roll"
+          roll = roll - 1
+
         print "\t\t\tinjury roll: " + str(roll)
         # TODO stunnedMax und stunnedMin von unit und waffen beachten
         if roll < u1.weapon[wn]["stunnedMin"]:
@@ -795,11 +848,23 @@ def doInjuryRoll(u1, u2, wn, injury_addition):
                 u2.i = -9 # strike last
 
         elif roll >= u1.weapon[wn]["stunnedMin"] and roll <= u2.stunnedMax:
+            tmp_stnSv = 4
             if u2.helmet == True:
-                print "\t\t\thelmet stunned save on 4+"
+                print "\t\t\tHelmet: stunned save on " + str(tmp_stnSv) + "+"
+
+            if u2.ardEad == True:
+                tmp_stnSv = 3
+                print "\t\t\tOrk ard ead: stunned save on " + str(tmp_stnSv) + "+"
+
+            if u2.ardEad == True and u2.helmet == True:
+                tmp_stnSv = 2; # ard ead increases helmet save by 1
+                print "\t\t\tOrk ard ead combined with helmet: stunned save on " + str(tmp_stnSv) + "+"
+
+            if u2.ardEad == True or u2.helmet == True:
+                #print "\t\t\tstunned save on " + str(tmp_stnSv) + "+"
                 roll = rollD6()
                 print "\t\t\tstunned save roll: " + str(roll)
-                if roll >= 4:
+                if roll >= tmp_stnSv:
 			print "\t\t\tgranted, knocked down instead"
 			#u2.pre_state = u2.state
 			u2.state = 1
@@ -858,6 +923,8 @@ def doAllAttacks(u1, u2, first_round = False):
             attack(u1, u2, off_weapon, first_round) # do the w'th attack
             print
 
+    u2.parry_used_this_fight = False # reset the parry used flag
+    u1.hate = False # hate is only allowed for one round
     printChar(u1)
     printChar(u2)
     print
@@ -916,36 +983,47 @@ def fightTilOOA(attackers, target):
                     target.pre_state = target.state
                     doFight(attacker, target, first_round)
 
-            print "---- " + target.name + ": selected foes to attack (" + str(target.a) + "A possible)"
-            foes = []
-            for i in range(target.a):
-                j = random.randint(0, len(attackers)-1)
-                while attackers[j].state > 0:
-                    j = random.randint(1, len(attackers)-1)
-                print "\t" + attackers[j].name + " St = " + str(attackers[j].state)
+            #target.state = 3
+            if target.state == 0:
 
-                tmp_inc = False
-                for k in range(len(foes)):
-                    if foes[k][0] == attackers[j]:
-                        foes[k][1] = foes[k][1] + 1
-                        tmp_inc = True
-                        break
+                print "---- " + target.name + ": selected foes to attack (" + str(target.a) + "A possible)"
+                foes = []
+                for i in range(target.a):
+                    j = random.randint(0, len(attackers)-1)
+                    while attackers[j].state > 0:
+                        j = random.randint(1, len(attackers)-1)
+                    print "\t" + attackers[j].name + " St = " + str(attackers[j].state)
 
-                if tmp_inc == False:
-                    foes.append([attackers[j], 1])
+                    tmp_inc = False
+                    for k in range(len(foes)):
+                        if foes[k][0] == attackers[j]:
+                            foes[k][1] = foes[k][1] + 1
+                            tmp_inc = True
+                            break
 
-            for ff in foes:
-                tmp_target = copy.deepcopy(target)
-                tmp_target.a = ff[1]
-                tmp_target.causedOOA = 0
-                print "\n---- " + tmp_target.name + " stats for this fight"
-                printChar(tmp_target)
-                print "----"
-                ff[0].pre_state = ff[0].state
-                doFight(tmp_target, ff[0])
-                target.causedOOA = target.causedOOA + tmp_target.causedOOA
+                    if tmp_inc == False:
+                        foes.append([attackers[j], 1])
 
-            first_round = False
+                for ff in foes:
+                    tmp_target = copy.deepcopy(target)
+                    tmp_target.a = ff[1]
+                    tmp_target.causedWounds = 0
+                    tmp_target.causedOOA = 0
+                    print "\n---- " + tmp_target.name + " stats for this fight"
+                    printChar(tmp_target)
+                    print "----"
+                    ff[0].pre_state = ff[0].state
+                    tmp_ff = copy.deepcopy(ff[0])
+                    tmp_ff.causedWounds = 0
+                    tmp_ff.causedOOA = 0
+                    doFight(tmp_target, tmp_ff)
+                    ff[0].causedWounds = ff[0].causedWounds + tmp_ff.causedWounds
+                    ff[0].causedOOA = ff[0].causedOOA + tmp_ff.causedOOA
+                    ff[0].state = tmp_ff.state
+                    target.causedWounds = target.causedWounds + tmp_target.causedWounds
+                    target.causedOOA = target.causedOOA + tmp_target.causedOOA
+
+                first_round = False
 
         else:
 
@@ -1029,12 +1107,20 @@ def fightTilOOA(attackers, target):
                         for ff in foes:
                             tmp_target = copy.deepcopy(target)
                             tmp_target.a = ff[1]
+                            tmp_target.causedWounds = 0
                             tmp_target.causedOOA = 0
                             print "\n---- " + tmp_target.name + " stats for this fight"
                             printChar(tmp_target)
                             print "----"
                             ff[0].pre_state = ff[0].state
-                            doFight(tmp_target, ff[0])
+                            tmp_ff = copy.deepcopy(ff[0])
+                            tmp_ff.causedWounds = 0
+                            tmp_ff.causedOOA = 0
+                            doFight(tmp_target, tmp_ff)
+                            ff[0].causedWounds = ff[0].causedWounds + tmp_ff.causedWounds
+                            ff[0].causedOOA = ff[0].causedOOA + tmp_ff.causedOOA
+                            ff[0].state = tmp_ff.state
+                            target.causedWounds = target.causedWounds + tmp_target.causedWounds
                             target.causedOOA = target.causedOOA + tmp_target.causedOOA
 
         print "========="
@@ -1049,6 +1135,8 @@ def fightTilOOA(attackers, target):
 
 def runSimulation(max_run, attackers, target):
 
+    statistic = []
+
     for i in range(max_run):
         statistic.append( [ copy.deepcopy(attackers), copy.deepcopy(target) ] )
         fightTilOOA(statistic[i][0], statistic[i][1])
@@ -1058,6 +1146,10 @@ def runSimulation(max_run, attackers, target):
     cnt_ooa = 0
     cnt_cw = 0
     cnt_cooa = 0
+    tmp_stat_attackers = []
+    for j in range(len(attackers)):
+        tmp_stat_attackers.append([ 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ])
+
     for i in range(max_run):
         if statistic[i][1].state == 1:
           cnt_knd = cnt_knd + 1
@@ -1067,6 +1159,19 @@ def runSimulation(max_run, attackers, target):
           cnt_ooa = cnt_ooa + 1
         cnt_cw = cnt_cw + statistic[i][1].causedWounds
         cnt_cooa = cnt_cooa + statistic[i][1].causedOOA
+
+        for j in range(len(attackers)):
+
+            tmp_stat_attackers[j][0] = tmp_stat_attackers[j][0] + statistic[i][0][j].causedWounds / (max_run * 1.0)
+            tmp_stat_attackers[j][1] = tmp_stat_attackers[j][1] + statistic[i][0][j].causedOOA / (max_run * 1.0)
+            if statistic[i][0][j].state == 0:
+                tmp_stat_attackers[j][2] = tmp_stat_attackers[j][2] + 1 / (max_run * 1.0) # count normal state
+            if statistic[i][0][j].state == 1:
+                tmp_stat_attackers[j][3] = tmp_stat_attackers[j][3] + 1 / (max_run * 1.0) # count knocked down
+            if statistic[i][0][j].state == 2:
+                tmp_stat_attackers[j][4] = tmp_stat_attackers[j][4] + 1 / (max_run * 1.0) # count stunned
+            if statistic[i][0][j].state == 3:
+                tmp_stat_attackers[j][5] = tmp_stat_attackers[j][5] + 1 / (max_run * 1.0) # count ooA
 
     cnt_knd = cnt_knd   / (max_run * 1.0)
     cnt_stn = cnt_stn   / (max_run * 1.0)
@@ -1082,31 +1187,74 @@ def runSimulation(max_run, attackers, target):
     print "Caused a wound " + str(cnt_cw * 100.0) + " %"
     print "Caused ooA " + str(cnt_cooa * 100.0) + " %"
 
-if __name__ == "__main__":
+    for j in range(len(attackers)):
+        print "\n" + attackers[j].name + "\n====="
+        print "caused wound " + str(tmp_stat_attackers[j][0] * 100.0) + " %"
+        print "caused ooA   " + str(tmp_stat_attackers[j][2] * 100.0) + " %"
+        print "state normal " + str(tmp_stat_attackers[j][3] * 100.0) + " %"
+        print "state knd    " + str(tmp_stat_attackers[j][4] * 100.0) + " %"
+        print "state ooA    " + str(tmp_stat_attackers[j][5] * 100.0) + " %"
 
+    print
+
+def _main():
     attackers = []
     #attackers += [ squig, g1, g2 ]
 
-    #attackers += [ sq1, g1, ob1 ]
+    #attackers += [ sq1, g1, ob1, ork_hero1 ]
     #attackers += [ sq1, sq2, sq3, sq4, sq5 ]
-    #attackers += [ sq1, sq2 ]
+    attackers += [ sq1, sq2 ]
     #attackers += [ g1, g2, g3, g4 ]
     #attackers += [ g5 ]
     #attackers += [ ob1, ob2, ob3, ob4, ob5 ]
-    #attackers += [ ork_hero1, ork_hero2, ork_hero3 ]
-    #attackers += [ ork_shaman ]
+    attackers += [ ork_hero1, ork_hero2, ork_hero3 ]
+    attackers += [ ork_shaman ]
+
+    ##### special grumlok
+    #grumlok.a=4
+    #grumlok.i=5
+    #grumlok.ws=6
+    #grumlok.t=5
+    #grumlok.w=3
+    #grumlok._as=1 # well ard + hemd + light armor = 3AS
+    ## two weapon
+    #grumlok.weapon[0]["name"] = "two-handed axe"
+    #grumlok.weapon[0]["s"] = 1
+    #grumlok.weapon[0]["as"] = -1
+    #grumlok.weapon[1]["name"] = "obsidian axe"
+    #grumlok.weapon[1]["toHitOffhand"] = 2 # like two handed master
+    #grumlok.weapon[1]["s"] = 1
+    #grumlok.weapon[1]["as"] = -1
+    ## two-handed weapon
+    #grumlok.weapon[0]["name"] = "two-handed axe"
+    #grumlok.weapon[0]["s"] = 2
+    #grumlok.weapon[0]["as"] = 0
+    #del grumlok.weapon[-1] # remove the offhand
+    ## special skills
+    #grumlok.hate = True
+    #grumlok.ardEad = True
+    #grumlok.resilient = True
+    #grumlok.stepaside = True
+    #grumlok.mightyblow = True
+    #grumlok.striketoinjure = True
+    #grumlok.parry = True
+    #grumlok.parryImproved = True
+    #####
+
     attackers += [ grumlok ]
     #attackers += [ troll ]
     #attackers += [ troll, mutant, pit_ogre, beastmen, ork_shaman, dwarf1, centigor ]
-    #target = belandysh
-    target = champ_of_chaos
+
+    target = belandysh
+    #target = champ_of_chaos
     #target = centigor
     #target = beastmen
     #target = pit_ogre
 
-    statistic = []
-
-    max_run = 500
+    max_run = 1000
 
     runSimulation(max_run, attackers, target)
+
+if __name__ == "__main__":
+    _main()
 
