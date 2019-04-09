@@ -362,3 +362,26 @@ Danach ist es allerdings dann auch dringend Zeit, dass ich anfange Szenarios zu 
  - Ein Skill für den Barden  
  - 85 GC  
  - Möglichst brauchbare Advances für die Initiates und den Zwerg
+
+## It's all about the money money money
+**09.04.2019**  
+Anlass des Posts ist Kais (völlig berechtigte) Frustration, dass er trotz gewonnener Spiele gefühlt wenig Fortschritt mit seiner Warband macht. Ich glaube wir haben inzwischen alle verstanden, dass mehr Einheiten einfach extrem gut sind. Ganz egal wie gut ausgerüstet ein Krieger ist, wenn er von fünf Goblins gecharged wird ist er vermutlich Geschichte.
+
+Und je mehr Einheiten man hat, desto weniger profitabel ist die Exploration Phase. So weit ist das ein durchaus vernünftiger Balance Mechanismus. Und wenn es allen Spielern so geht und jeder wenig Gold bekommt, dann ist es auch irgendwie gerecht.
+
+Trotzdem macht es zum einen viel Spaß (fiktives)  Gold auszugeben und zum anderen kann man die Stärke seiner Warband mit Geld auch noch deutlich erhöhen: Rüstungen, Waffen aus magischen Metallen, Hired Swords, Dramatis Personae, Reittiere, etc. Money Sinks gibt es in dem Spiel wahrlich genug.
+
+Wie kann man sich also auch bei einer gesteigerten Warbandgröße trotzdem ein erträgliches Einkommen sichern?
+Hier sind die Überlegungen die ich für meine Pit Fighter angestellt habe:
+
+ - **Money Maker Skill**: 5,5GC pro Spiel im Schnitt. Das ist ehrlich gesagt nicht wirklich viel, aber wenn man sich den Skill früh und gegebenenfalls auch auf mehreren Helden sichert, dann summiert es sich im Laufe der Kampagne schon. Vor allem ist der Skill ohne Vorbedingungen zu haben. Eher mittelmäßig Effizienz.
+ - **Equipment**: Es gibt verschiedene Gegenstände die helfen die Exploration Phase ergiebiger zu gestalten: Tarot Cards, Wyrdstone Pendulum, Rabbit’s Foot, etc. Das Equipment ist auch ohne Vorbedingungen Verfügbar, allerdings meistens ziemlich teuer und nicht sehr mächtig. Kann sich vielleicht in einer langen Kampagne lohnen, aber bis man die Initialkosten erstmal rein geholt hat dauert es. Wenig bis mittelmäßig effizient.
+ - **Musician Skills**: Hier gibt es einige extrem einträgliche Möglichkeiten: Minstrel (+Lyre), Lore und Master of Lore machen schon sehr viel. Vorbedingung ist allerdings, dass man erstmal den Musician Skill kriegt. Oder einen Barden anheuert (der dann wiederum Upkeep kostet). Dann sind diese Skill allerdings eine der leichtesten Methoden ein vernünftiges zusatzeinkommen aufzubauen. Sehr effizient.
+ - **Academic Skills**: Hier findet man die Krönung der GC-generierenden Skills: Haggle, Pawnbroker, Wyrdstone Hunter und speziell Alchemist machen extrem viel. Der entscheidende Nachteil ist, dass Zugriff auf Academic Skills eher selten ist. Gegebenenfalls lohnt sich hier sogar das Anheuern eines Hired Swords nur um diese Skills zu bekommen (das Townsfolk Alchemist ist ein starker Kandidat). Extrem effizient.
+ - **Sechs Helden**: Je mehr Helden, desto mehr Exploration Dice. Nach dieser Logik macht es Sinn die Wahrscheinlichkeit auf den sechsten Helden zu optimieren. Je mehr Henchmen Gruppen man hat, desto größer die Chance, dass eine von ihnen „Lad’s got talent“ erwürfelt. Das ist dann zwar im späteren Spiel etwas unhandlich (das habe ich bei Clan Eshin mit seinen 10 Henchmen Gruppen deutlich gemerkt), aber trotzdem eine gute Möglichkeit an mehr Wyrdstones zu kommen. 
+ - **Gewinnen**: Wenn man ein Szenario gewinnt, dann erhält man automatisch einen zusätzlichen Würfel in der Exploration Phase. Es lohnt sich vor jedem Spiel zu überlegen, in welchen Szenarien man gegen welche Gegner die besten Chancen hat zu gewinnen. Dann kann man bei der Auswahl der Gegner/Szenarien am Schluss eine qualifizierte Entscheidung treffen. Gerade die Szenarien mit denen wir in dieser Kampagne spielen sind sehr unterschiedlich. Ein Plan in welchen davon man besser dasteht als in anderen erhöht die Gewinnchancen deutlich vermute ich.
+
+Für meine Warband habe ich einen ungefähren Plan, wie ich dafür sorgen will, dass ich auch bei voll ausgebauter Warbandgröße noch ein bisschen was zusätzlich zur Exploration verdiene. Wie gut der Plan funktioniert hängt natürlich wie immer nicht zuletzt von den Würfeln ab. Vielleicht helfen euch die oben genannten Punkte auch einen Plan zu entwickeln.
+
+In diesem Sinne: 
+[![GELD](https://img.youtube.com/vi/PGWTcIoBMuE/0.jpg)](https://www.youtube.com/watch?v=PGWTcIoBMuE)
