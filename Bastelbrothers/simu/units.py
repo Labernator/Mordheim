@@ -97,6 +97,34 @@ pit_ogre.weapon = [
 ]
 
 #####
+war_boar = Unit()
+war_boar.name = "binky tha war boar"
+war_boar.ws = 3
+war_boar.s = 3
+war_boar.t = 4
+war_boar.w = 1
+war_boar.i = 5
+war_boar.a = 1
+war_boar._as = 5
+war_boar.cantBeAttacked = True
+war_boar.weapon = [
+    {
+        "type" : "animal attack",
+        "s" : 0,
+        "firstRoundSAdd" : 2,
+        "offhand" : False,
+        "toHitOffhand" : 0,
+        "toHit" : 0,
+        "as" : 0,
+        "a" : 0,
+        "stunnedMin" : 3,
+        "stunnedMax" : 4,
+        "range" : False,
+    }
+
+]
+
+#####
 grumlok = Unit()
 grumlok.name = "grumlok"
 grumlok.t  = 4
@@ -344,6 +372,7 @@ belandysh.i = 6
 belandysh.state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
 belandysh.regeneration = True
 belandysh.helmet = True
+belandysh.inconsistency = True
 # first weapon
 belandysh.weapon = [
     {
@@ -533,6 +562,74 @@ g5.i = 3
 g5.weapon = [
     {
         "type" : "spear",
+        "s" : 0,
+        "firstRoundSAdd" : 0,
+        "offhand" : False,
+        "toHitOffhand" : 0,
+        "toHit" : 0,
+        "as" : 0,
+        "a" : 0,
+        "stunnedMin" : 3,
+        "stunnedMax" : 4,
+        "range" : False,
+    }
+]
+
+chaos_warr = Unit()
+chaos_warr.name = "Chaos warrior"
+chaos_warr.ws=6
+chaos_warr.s=4
+chaos_warr.t=4
+chaos_warr.w=1
+chaos_warr.i=6
+#chaos_warr.a=2
+chaos_warr.a=3 # frenzy + 4+ magic save
+chaos_warr._as=4 # heavy armor
+chaos_warr.helmet=True
+chaos_warr.parry=False # sword only
+chaos_warr.weapon = [
+    {
+        "type" : "axe",
+        "s" : 0,
+        "firstRoundSAdd" : 0,
+        "offhand" : False,
+        "toHitOffhand" : 0,
+        "toHit" : 0,
+        "as" : -1,
+        "a" : 0,
+        "stunnedMin" : 3,
+        "stunnedMax" : 4,
+        "range" : False,
+    },
+    {
+        "type" : "axe",
+        "s" : 0,
+        "firstRoundSAdd" : 0,
+        "offhand" : True,
+        "toHitOffhand" : 0,
+        "toHit" : 0,
+        "as" : -1,
+        "a" : 0,
+        "stunnedMin" : 3,
+        "stunnedMax" : 4,
+        "range" : False,
+    }
+]
+
+chaos_dragon = Unit()
+chaos_dragon.name = "Chaos dragon"
+chaos_dragon.ws=6
+chaos_dragon.s=6
+chaos_dragon.t=6
+chaos_dragon.w=6
+chaos_dragon.i=3
+chaos_dragon.a=6
+chaos_dragon._as=3
+chaos_dragon.helmet=False
+chaos_dragon.parry=False # sword only
+chaos_dragon.weapon = [
+    {
+        "type" : "claws",
         "s" : 0,
         "firstRoundSAdd" : 0,
         "offhand" : False,

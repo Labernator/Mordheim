@@ -16,6 +16,7 @@ class Unit:
     stunnedMax = 4
     causedWounds = 0
     causedOOA = 0
+    firstRoundToHitAdd = 0
     regeneration = False
     ardEad = False
     helmet = False
@@ -28,6 +29,8 @@ class Unit:
     parry = False
     parryImproved = False
     parry_used_this_fight = False
+    cantBeAttacked = False
+    inconsistency = False
 
     weapon = [
         {
