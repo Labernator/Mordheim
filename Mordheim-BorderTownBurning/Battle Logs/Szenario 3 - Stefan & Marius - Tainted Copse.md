@@ -46,7 +46,7 @@ Legion advance +1I
 Money Maker 3GC  
 
 **Hired Swords Blood Pact:**
- - 
+nix
 
 **Henchmen XP:**
 8  
@@ -73,7 +73,7 @@ Verkaufe War Horn für 15
  Kaufe Pursuer mit 6 XP + Dagger 39  
   => 0 GC übrig
  
-**Campagne Points:**
+**Campagne Points:**  
 *Laber*  
 4  
 
