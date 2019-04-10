@@ -2,15 +2,15 @@ warband: Johannas Orphanage (Sisters of Sigmar)
 campaign: 6
 gc: 54
 shards: 0
-equipment: Dagger
+equipment: 2x Dagger
 objective: The Celestial Protectorate 
 alignment: lawful
 
 heros:
     - hero: Johanna von Marienburg (Sigmarite Matriarch) [24XP]
       stats: M4, WS4, BS4, S3, T3, W1, I4, A1, Ld8, Sv4
-      weapons: Dagger, Sling, Sigmarite Warhammer
-      armour: Helmet, Heavy armor, Rosary
+      weapons: Dagger, Sling
+      armour: Rosary
       rules: Leader, Utter Determination, Pray User [Healing Hand] 
       warbandaddition: 5
       skilllists: Strength, Academic, Combat, Speed, Special
@@ -25,23 +25,26 @@ heros:
       stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld7, Sv5
       weapons: Sigmarite Warhammer, Dagger, Sling
       rules: Wyrdstone Hunter
-      armour: Light armor
+      armour: Heavy armor
       skilllists: Strength, Academic, Combat, Speed, Special
 
     - hero: Agustina (Sister Superior) [11XP]
       stats: M4, WS4, BS4, S3, T3, W1, I3, A1, Ld7, Sv-
       weapons: Sigmarite Warhammer, Dagger, Sling
+      armour: Light armor
       skilllists: Strength, Academic, Combat, Speed, Special
 
     - hero: Emilia (Sister Superior) [12XP]
       stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld8, Sv-
       weapons: Sigmarite Warhammer, Dagger, Sling
-      armour: Heavy armor
+      rules: Leader
+      armour: Heavy Armor, Helmet
       skilllists: Strength, Academic, Combat, Speed, Special
 
     - hero: Marie (Novice Superior) [3XP]
       stats: M4, WS2, BS2, S3, T3, W2, I3, A1, Ld6, Sv-
-      weapons: Dagger, Dagger
+      weapons: Sigmarite Warhammer, Dagger
+      armour: Heavy armor
       skilllists: Strength, Combat
 
     - hero: Grombald (Dwarf Runesmith Journeyman) [12XP]
