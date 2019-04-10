@@ -1,5 +1,10 @@
-Post3
-
+warband: Johannas Orphanage (Sisters of Sigmar)
+campaign: 6
+gc: 54
+shards: 0
+equipment: Dagger
+objective: The Celestial Protectorate 
+alignment: lawful
 
 heros:
     - hero: Johanna von Marienburg (Sigmarite Matriarch) [22XP]
