@@ -1,1 +1,48 @@
 Post3
+
+
+heros:
+    - hero: Johanna von Marienburg (Sigmarite Matriarch) [22XP]
+      stats: M4, WS4, BS4, S3, T3, W1, I4, A1, Ld8, Sv4
+      weapons: Dagger, Sling, Sigmarite Warhammer
+      armour: Helmet, Heavy armor, Rosary
+      rules: Leader, Pray User [Healing Hand] 
+      warbandaddition: 5
+      skilllists: Strength, Academic, Combat, Speed, Special
+
+    - hero: Theresa (Augur) [2XP]
+      stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld7, Sv-
+      weapons: Sigmarite Warhammer, Dagger
+      rules: Blessed Sight, No Armor allowed, Step aside
+      skilllists: Academic, Combat, Speed, Special
+
+    - hero: Rosa (Sister Superior) [12XP]
+      stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld7, Sv5
+      weapons: Sigmarite Warhammer, Dagger, Sling
+      rules: Wyrdstone Hunter
+      armour: Light armor
+      skilllists: Strength, Academic, Combat, Speed, Special
+
+    - hero: Agustina (Sister Superior) [10XP]
+      stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+      weapons: Sigmarite Warhammer, Dagger, Sling
+      skilllists: Strength, Academic, Combat, Speed, Special
+
+    - hero: Emilia (Sister Superior) [11XP]
+      stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld8, Sv-
+      weapons: Sigmarite Warhammer, Dagger, Sling
+      armour: Heavy armor
+      skilllists: Strength, Academic, Combat, Speed, Special
+
+    - hero: Marie (Novice Superior) [2XP]
+      stats: M4, WS2, BS2, S3, T3, W2, I3, A1, Ld6, Sv-
+      weapons: Dagger, Dagger
+      skilllists: Strength, Combat
+
+    - hero: Grombald (Dwarf Runesmith Journeyman) [11XP]
+      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld10, Sv4
+      weapons: Gromril Hammer, Dagger
+      armour: Heavy armour
+      rules: Runesmith, Armour, Armourer, Hate Orcs and Goblins, Hard Head, Hard to Kill
+      skilllists: Strength, Combat, Special
+      hiredsword: true
