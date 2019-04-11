@@ -56,12 +56,11 @@ nix
 Verkauft 5 Wyrdstones für 70GC  
 12 übrig + 7 aus Exploration => 19 + 70 => 89GC  
 Verkaufe Schwert für 5  
-Verkaufe War Horn für 15  
- => 109
+ => 94
  
  Kaufe Heavy Armour für 40 (dank Zwerg)  
  Bezahle Zwerg 15  
- => 54GC übrig  
+ => 39GC übrig  
  
  *CZ*  
  Verkaufe 3 Wyrdstones für 70 (wegen doppel 4)  
