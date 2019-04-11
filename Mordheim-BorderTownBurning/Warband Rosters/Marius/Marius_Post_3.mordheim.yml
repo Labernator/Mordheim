@@ -11,7 +11,7 @@ heros:
       stats: M4, WS4, BS4, S3, T3, W1, I4, A1, Ld8, Sv4
       weapons: Dagger, Sling
       armour: Rosary
-      rules: Leader, Utter Determination, Zealous Belief, Pray User [Healing Hand] 
+      rules: Leader, Utter Determination, Pray User [Healing Hand] 
       warbandaddition: 5
       skilllists: Strength, Academic, Combat, Speed, Special
 
