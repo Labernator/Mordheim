@@ -1,12 +1,17 @@
 
 import sys, os
 
+from deco import *
+
 import random
 import copy
 
 from simu_unit import *
-from units import *
-from fight_declaration import *
+
+try:
+  from fight_declaration_kai import *
+except:
+  from fight_declaration import *
 
 from argparse import ArgumentParser
 
@@ -74,19 +79,28 @@ def attack(u1, u2, wn, first_round = False):
     u2_w_old = u2.w
 
     if u2.state == 0:
-        # HIT
+        # try to hit
         hit_granted = tryToHit(u1, u2, wn, first_round)
-    else:
+    else: # u2 is not in state normal
         if u2.pre_state == 0:
+                # try to hit the target because it was not > normal in the last round
         	hit_granted = tryToHit(u1, u2, wn, first_round)
 	else:
+                # autohit because the target is knocked down
         	print "\tauto hit"
-        	hit_granted = True # autohit because the target is knocked down   
+        	hit_granted = True
 
     if hit_granted == True:
         # WOUND
         wound_granted = tryToWound(u1, u2, wn, first_round)
+
         if wound_granted == True:
+            if u2.pre_state == 1 and wound_granted == True:
+                # we have caused a wound and in the previois state the enemy was already knocked down
+                u2.w = 0
+                u2.state = 3
+                print "\t\twound & ooa"
+                return True
 
             # ARMOR SAVE
             as_granted = tryArmorSave(u1, u2, wn)
@@ -169,6 +183,10 @@ def tryToWound(u1, u2, wn, first_round = False):
     if u1.mightyblow == True:
         print "\t\t" + u1.name + " has skill mighty blow, +1 to wound roll"
         roll = roll + 1
+
+    if u2.resilient == True:
+        print "\t\t" + u2.name + " has skill resilient, -1 to wound roll"
+        roll = roll - 1
 
     print "\t\tto wound on " + str(minWoundRoll)
     print "\t\twound roll: " + str(roll)
@@ -260,9 +278,6 @@ def doInjuryRoll(u1, u2, wn, injury_addition):
         if u1.striketoinjure == True:
             print "\t\t\t" + u1.name + " has skill strike to injure, +1 to injury roll"
             roll = roll + 1
-        if u2.resilient == True:
-            print "\t\t\t" + u2.name + " has skill resilient, -1 to injury roll"
-            roll = roll - 1
 
         print "\t\t\tinjury roll: " + str(roll)
         # TODO stunnedMax und stunnedMin von unit und waffen beachten
@@ -295,8 +310,8 @@ def doInjuryRoll(u1, u2, wn, injury_addition):
 			u2.state = 1
 			u2.i = -9 # strike last
 			return True
-                else:
-                    print "\t\t\tstunned"
+
+            print "\t\t\tstunned"
 
             if u2.state < 2:
                 u2.state = 2
@@ -340,7 +355,7 @@ def doAllAttacks(u1, u2, first_round = False):
             if u2.state == 3: # ooa
                 break
 
-    if u2.state < 3 and off_weapon > -1:
+    if u2.state < 3 and off_weapon > -1 and u1.doNotUseOffhand == False:
         a_off = a_off + 1
         for w in range(0, a_off):
             attack(u1, u2, off_weapon, first_round) # do the w'th attack
@@ -353,6 +368,7 @@ def doAllAttacks(u1, u2, first_round = False):
     print
 
 def doFight(attacker, target, first_round = False):
+
         if target.state == 0:
             doAllAttacks(attacker, target, first_round)
         elif target.state == 1: # knocked down
@@ -382,71 +398,96 @@ def allAttackersDead(attackers):
 
     return allAttackersDead
 
-def fightTilOOA(attackers, target):
+def getStrState(s):
+    if s == 0:
+        return "normal"
+    if s == 1:
+        return "knd"
+    if s == 2:
+        return "stn"
+    if s == 3:
+        return "ooa"
+
+@concurrent
+def fightTilOOA(fighters):
+
+    tmp_att = fighters[0]
+    tmp_tgt = fighters[1]
+
     first_round = True
 
     all_fighters = attackers + [ target ]
 
     rounds = 0
 
-    while allAttackersDead(attackers) == False and target.state < 3:
+    while allAttackersDead(tmp_att) == False and tmp_tgt.state < 3:
 
-	if target.inconsistency == True:
-            target.ws = random.randint(1,6)
-            target.s = random.randint(1,6)
-            target.t = random.randint(1,6)
-            target.a = random.randint(2,4)
+	if tmp_tgt.inconsistency == True:
+            tmp_tgt.ws = random.randint(1,6)
+            tmp_tgt.s = random.randint(1,6)
+            tmp_tgt.t = random.randint(1,6)
+            tmp_tgt.a = random.randint(2,4)
 
             #enablePrint()
-            print "\n---- " + target.name + " stats for this round"
-            printChar(target)
+            print "\n---- " + tmp_tgt.name + " stats for this round"
+            printChar(tmp_tgt)
             print "---"
             #if args.quiet == True:
             #    blockPrint()
 
-        for a in attackers:
+        for a in tmp_att:
             if a.inconsistency == True:
                 a.ws = random.randint(1,6)
                 a.s = random.randint(1,6)
                 a.t = random.randint(1,6)
                 a.a = random.randint(2,4)
 
-                print "\n---- " + target.name + " stats for this round"
-                printChar(target)
+                print "\n---- " + tmp_tgt.name + " stats for this round"
+                printChar(tmp_tgt)
                 print "---"
 
         if first_round == True:
             # do the charges
-            for attacker in attackers:
+            for attacker in tmp_att:
                 if attacker.state == 0:
-                    target.pre_state = target.state
-                    doFight(attacker, target, first_round)
+                    tmp_tgt.pre_state = tmp_tgt.state
+                    doFight(attacker, tmp_tgt, first_round)
 
             #target.state = 3
-            if target.state == 0:
+            if tmp_tgt.state == 0:
 
-                print "---- " + target.name + ": selected foes to attack (" + str(target.a) + "A possible)"
+                print "---- " + tmp_tgt.name + ": selected foes to attack (" + str(tmp_tgt.a) + "A possible)"
                 foes = []
-                for i in range(target.a):
-                    j = random.randint(0, len(attackers)-1)
-                    while attackers[j].state > 0 or attackers[j].cantBeAttacked == True:
-                        j = random.randint(0, len(attackers)-1)
+                tmp_doNotUseOffhand = False
+                for i in range(tmp_tgt.a):
+                    j = random.randint(0, len(tmp_att)-1)
+                    while tmp_att[j].state > 0 or tmp_att[j].cantBeAttacked == True:
+                        j = random.randint(0, len(tmp_att)-1)
 
-                    print "\t" + attackers[j].name + " St = " + str(attackers[j].state)
+                    print "\t" + tmp_att[j].name + " St = " + getStrState(tmp_att[j].state)
 
-                    tmp_inc = False
+                    tmp_inc = False # increase the number of attacks against the choosen atackers[j]
                     for k in range(len(foes)):
-                        if foes[k][0] == attackers[j]:
+                        if foes[k][0] == tmp_att[j]:
+                            if tmp_doNotUseOffhand == False:
+                                foes[k][0].doNotUseOffhand = True if random.randint(0,1) else False
+                                tmp_doNotUseOffhand = True
+                                print "\t" + tmp_att[j].name + " St = " + getStrState(tmp_att[j].state) + " offHand attack"
+
                             foes[k][1] = foes[k][1] + 1
                             tmp_inc = True
                             break
 
-                    if tmp_inc == False:
-                        foes.append([attackers[j], 1])
+                    if tmp_inc == False: # the attacker is not part of the list which defines the number of attacks
+                        foes.append([tmp_att[j], 1])
+                        if tmp_doNotUseOffhand == False:
+                            foes[-1][0].doNotUseOffhand = True if random.randint(0,1) else False
+                            tmp_doNotUseOffhand = True
+                            print "\t" + tmp_att[j].name + " St = " + getStrState(tmp_att[j].state) + " off hand attack"
 
                 for ff in foes:
                     # generate a new temporary attacker unit object
-                    tmp_target = copy.deepcopy(target)
+                    tmp_target = copy.deepcopy(tmp_tgt)
                     # set the number of attacks for the upcoming fight
                     tmp_target.a = ff[1]
                     # reset the counter for the temporary unit
@@ -474,10 +515,10 @@ def fightTilOOA(attackers, target):
                     ff[0].causedOOA = ff[0].causedOOA + tmp_ff.causedOOA
                     ff[0].state = tmp_ff.state
                     ff[0].w = tmp_ff.w
-                    target.causedWounds = target.causedWounds + tmp_target.causedWounds
-                    target.causedOOA = target.causedOOA + tmp_target.causedOOA
-                    target.w = tmp_target.w
-                    target.state = tmp_target.state
+                    tmp_tgt.causedWounds = tmp_tgt.causedWounds + tmp_target.causedWounds
+                    tmp_tgt.causedOOA = tmp_tgt.causedOOA + tmp_target.causedOOA
+                    tmp_tgt.w = tmp_tgt.w
+                    tmp_tgt.state = tmp_tgt.state
 
                 first_round = False
 
@@ -523,50 +564,59 @@ def fightTilOOA(attackers, target):
             for f in fights_ini_ordered:
                 if f != target:
                     if f.state == 0:
-                        target.pre_state = target.state
-                        doFight(f, target)
+                        tmp_tgt.pre_state = tmp_tgt.state
+                        doFight(f, tmp_tgt)
 
                 else:
                     if f.state == 0:
                         # 3. choose f.A foes if has more than one
-                        print "\n---- " + target.name + ": selected foes to attack (" + str(target.a) + "A possible)"
+                        print "\n---- " + tmp_tgt.name + ": selected foes to attack (" + str(tmp_tgt.a) + "A possible)"
                         foes = []
+                        tmp_doNotUseOffhand = False
                         for i in range(f.a):
-                            j = random.randint(0, len(attackers)-1)
+                            j = random.randint(0, len(tmp_att)-1)
                             l = 0
-                            while (attackers[j].state > 0 and l < 50) or attackers[j].cantBeAttacked == True:
-                                j = random.randint(0, len(attackers)-1)
+                            while (tmp_att[j].state > 0 and l < 50) or tmp_att[j].cantBeAttacked == True:
+                                j = random.randint(0, len(tmp_att)-1)
                                 l = l + 1
 
                             if l == 50:
                                 l = 0
-                                j = random.randint(0, len(attackers)-1)
+                                j = random.randint(0, len(tmp_att)-1)
 
-                                while (attackers[j].state == 3 and l < 50) or attackers[j].cantBeAttacked == True:
-                                    j = random.randint(0, len(attackers)-1)
+                                while (tmp_att[j].state == 3 and l < 50) or tmp_att[j].cantBeAttacked == True:
+                                    j = random.randint(0, len(tmp_att)-1)
                                     l = l + 1
 
                                 if l == 50:
-                                    for j in range(len(attackers)):
-                                        if attackers[j].state < 3:
+                                    for j in range(len(tmp_att)):
+                                        if tmp_att[j].state < 3:
                                             break
                                             #exit(0) # TODO fix target selection bug here
 
-                            print "\t" + attackers[j].name + " St = " + str(attackers[j].state)
+                            print "\t" + tmp_att[j].name + " St = " + getStrState(tmp_att[j].state)
 
-                            tmp_inc = False
+                            tmp_inc = False # flag which indicates if the attack has been added to the choosen attacker
                             for k in range(len(foes)):
-                                if foes[k][0] == attackers[j]:
+                                if foes[k][0] == tmp_att[j]:
+                                    if tmp_doNotUseOffhand == False:
+                                        foes[k][0].doNotUseOffhand = True if random.randint(0,1) else False
+                                        tmp_doNotUseOffhand = True
+                                        print "\t" + tmp_att[j].name + " St = " + getStrState(tmp_att[j].state) + " offHand attack"
                                     foes[k][1] = foes[k][1] + 1
                                     tmp_inc = True
                                     break
 
                             if tmp_inc == False:
-                                foes.append([attackers[j], 1])
+                                foes.append([tmp_att[j], 1])
+                                if tmp_doNotUseOffhand == False:
+                                    foes[-1][0].doNotUseOffhand = True if random.randint(0,1) else False
+                                    tmp_doNotUseOffhand = True
+                                    print "\t" + tmp_att[j].name + " St = " + getStrState(tmp_att[j].state) + " offHand attack"
 
                         for ff in foes:
                             # generate a new temporary attacker unit object
-                            tmp_target = copy.deepcopy(target)
+                            tmp_target = copy.deepcopy(tmp_tgt)
 
                             # set the number of attacks for this fight
                             tmp_target.a = ff[1]
@@ -596,27 +646,27 @@ def fightTilOOA(attackers, target):
                             ff[0].causedOOA = ff[0].causedOOA + tmp_ff.causedOOA
                             ff[0].state = tmp_ff.state
                             ff[0].w = tmp_ff.w
-                            target.causedWounds = target.causedWounds + tmp_target.causedWounds
-                            target.causedOOA = target.causedOOA + tmp_target.causedOOA
-                            target.w = tmp_target.w
-                            target.state = tmp_target.state
+                            tmp_tgt.causedWounds = target.causedWounds + tmp_target.causedWounds
+                            tmp_tgt.causedOOA = target.causedOOA + tmp_target.causedOOA
+                            tmp_tgt.w = tmp_target.w
+                            tmp_tgt.state = tmp_target.state
 
         print "========="
         rounds = rounds + 1
 
     print "\n--------------------"
     print str(rounds) + " rounds done"
-    for u in attackers:
+    for u in tmp_att:
         printChar(u)
-    printChar(target)
+    printChar(tmp_tgt)
     print
 
-    return rounds
+    return [ tmp_att, tmp_tgt, rounds ]
 
-def runSimulation(max_run, attackers, target):
+@synchronized
+def runSimulation():
 
     statistic = []
-    tmp_rounds = 0
 
     if args.quiet == True:
         printChar(target)
@@ -626,9 +676,12 @@ def runSimulation(max_run, attackers, target):
 
         blockPrint()
 
-    for i in range(max_run):
-        statistic.append( [ copy.deepcopy(attackers), copy.deepcopy(target) ] )
-        tmp_rounds = tmp_rounds + fightTilOOA(statistic[i][0], statistic[i][1])
+    for i in range(args.max_tries):
+        statistic.append( fightTilOOA([ copy.deepcopy(attackers), copy.deepcopy(target) ]) )
+
+    return statistic
+
+def printStatistic(statistic):
 
     cnt_knd = 0
     cnt_stn = 0
@@ -636,6 +689,11 @@ def runSimulation(max_run, attackers, target):
     cnt_cw = 0
     cnt_cooa = 0
     tmp_stat_attackers = []
+    max_run = args.max_tries
+    tmp_rounds = 0
+
+    for s in statistic:
+        tmp_rounds = tmp_rounds + s[2]
 
     for j in range(len(attackers)):
         tmp_stat_attackers.append([ 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ])
@@ -721,7 +779,9 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    max_run = args.max_tries
+    statistic = runSimulation()
 
-    runSimulation(max_run, attackers, target)
+    print statistic
+    print len(statistic)
+    printStatistic(statistic)
 

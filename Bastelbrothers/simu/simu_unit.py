@@ -31,6 +31,7 @@ class Unit:
     parry_used_this_fight = False
     cantBeAttacked = False
     inconsistency = False
+    doNotUseOffhand = False
 
     weapon = [
         {

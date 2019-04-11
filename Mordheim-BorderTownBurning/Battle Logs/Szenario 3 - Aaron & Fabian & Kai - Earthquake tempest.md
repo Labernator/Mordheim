@@ -9,7 +9,7 @@ Spieler: Aaron & Fabian & Kai
 Warband Rating:  
 Aaron:149
 Fabian:150
-Kai: 202
+Kai: 203
 
 Underdog: no Underdog
 
