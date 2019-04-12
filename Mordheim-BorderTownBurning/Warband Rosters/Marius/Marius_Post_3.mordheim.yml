@@ -22,14 +22,14 @@ heros:
       skilllists: Academic, Combat, Speed, Special
 
     - hero: Rosa (Sister Superior) [13XP]
-      stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld7, Sv5
+      stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld7, Sv4
       weapons: Sigmarite Warhammer, Dagger, Sling
       rules: Wyrdstone Hunter
       armour: Heavy armor
       skilllists: Strength, Academic, Combat, Speed, Special
 
     - hero: Agustina (Sister Superior) [11XP]
-      stats: M4, WS4, BS4, S3, T3, W1, I3, A1, Ld7, Sv-
+      stats: M4, WS4, BS4, S3, T3, W1, I3, A1, Ld7, Sv5
       weapons: Sigmarite Warhammer, Dagger, Sling
       armour: Light armor
       skilllists: Strength, Academic, Combat, Speed, Special
@@ -40,7 +40,7 @@ heros:
       skilllists: Strength, Academic, Combat, Speed, Special
 
     - hero: Marie (Novice) [3XP]
-      stats: M4, WS2, BS2, S3, T3, W2, I3, A1, Ld6, Sv-
+      stats: M4, WS2, BS2, S3, T3, W2, I3, A1, Ld6, Sv4
       weapons: Sigmarite Warhammer, Dagger, War Horn
       armour: Heavy armor
       skilllists: Strength, Combat
