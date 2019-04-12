@@ -128,7 +128,7 @@ def tryToHit(u1, u2, wn, first_round = False):
 
     if u1.toHitAdd > 0:
         print "\t" + u1.name + " has +" + str(u1.toHitAdd) + " to hit"
-        roll = roll + 1
+        roll = roll + u1.toHitAdd
 
     if u1.weapon[wn]["offhand"] == True:
         if u1.weapon[wn]["toHitOffhand"] != 0:
