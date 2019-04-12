@@ -541,6 +541,8 @@ def fightTilOOA(fighters):
                     tmp_tgt.causedOOA = tmp_tgt.causedOOA + tmp_target.causedOOA
                     tmp_tgt.w = tmp_tgt.w
                     tmp_tgt.state = tmp_tgt.state
+                    if tmp_tgt.state == 3:
+                        break # the target is already ooa
 
                 first_round = False
 
