@@ -77,6 +77,10 @@ def printChar(u):
 def attack(u1, u2, wn, first_round = False):
 
     u2_w_old = u2.w
+    if u1.weapon[wn]["offhand"] == True:
+        print "\toff hand (" + u1.weapon[wn]["type"] + "):"
+    else:
+        print "\tmain hand (" + u1.weapon[wn]["type"] + "):"
 
     if u2.state == 0:
         # try to hit
@@ -122,13 +126,18 @@ def tryToHit(u1, u2, wn, first_round = False):
         print "\t" + u1.name + " has +" + str(u1.firstRoundToHitAdd) + " to hit in the first round"
         roll = roll + u1.firstRoundToHitAdd
 
+    if u1.toHitAdd > 0:
+        print "\t" + u1.name + " has +" + str(u1.toHitAdd) + " to hit"
+        roll = roll + 1
+
     if u1.weapon[wn]["offhand"] == True:
         if u1.weapon[wn]["toHitOffhand"] != 0:
-            print "\toffhand to hit mod " + str(u1.weapon[wn]["toHitOffhand"])
+            print "\tto hit addition " + str(u1.weapon[wn]["toHitOffhand"])
             minHitRoll = minHitRoll + 2 + (u1.weapon[wn]["toHitOffhand"] * -1)
         else:
-            print "\toffhand -2 to hit"
+            print "\toff hand -2 to hit"
             minHitRoll = minHitRoll + 2
+
     if u1.weapon[wn]["toHit"] != 0:
         print "\tto hit mod " + str(u1.weapon[wn]["toHit"])
         minHitRoll = minHitRoll + (u1.weapon[wn]["toHit"] * -1)
@@ -174,9 +183,17 @@ def tryToHit(u1, u2, wn, first_round = False):
 
 def tryToWound(u1, u2, wn, first_round = False):
     tmp_s = 0
+
     if first_round == True:
+       if u1.weapon[wn]["firstRoundSAdd"] > 0:
+        print "\t\tfirst round +" + str(u1.weapon[wn]["firstRoundSAdd"]) + "S"
         tmp_s = u1.weapon[wn]["firstRoundSAdd"]
+
+    if u1.weapon[wn]["s"] > 0:
+        print "\t\tweapon " + u1.weapon[wn]["type"]  + " +" + str(u1.weapon[wn]["s"]) + "S"
+
     tmp_s = tmp_s + u1.weapon[wn]["s"]
+
     minWoundRoll = getMinWoundRoll(u1.s + tmp_s, u2.t)
     roll = rollD6()
 
@@ -206,11 +223,11 @@ def tryArmorSave(u1, u2, wn):
         t_as = 7
 
     if u1.s > 3:
-        print "\t\t\tS" + str(u1.s) + " -" + str(u1.s - 3) + "AS"
+        print "\t\t\tS" + str(u1.s) + " = -" + str(u1.s - 3) + "AS"
         t_as = t_as + (u1.s - 3)
 
     if u1.weapon[wn]["s"] > 0:
-        print "\t\t\tweapon S" + str(u1.weapon[wn]["s"]) + " " + str(u1.weapon[wn]["s"] * -1) + "AS"
+        print "\t\t\tweapon +" + str(u1.weapon[wn]["s"]) + "S " + str(u1.weapon[wn]["s"] * -1) + "AS"
         t_as = t_as + u1.weapon[wn]["s"]
 
     if u1.weapon[wn]["as"] != 0:
@@ -278,6 +295,10 @@ def doInjuryRoll(u1, u2, wn, injury_addition):
         if u1.striketoinjure == True:
             print "\t\t\t" + u1.name + " has skill strike to injure, +1 to injury roll"
             roll = roll + 1
+
+        if "toInjuryRoll" in u1.weapon[wn] and u1.weapon[wn]["toInjuryRoll"] > 0:
+            print "\t\t\t" + u1.name + " has +" + str(u1.weapon[wn]["toInjuryRoll"]) + " on injury roll on weapon " + u1.weapon[wn]["type"] + " (" + str(wn) + ")"
+            roll = roll + u1.weapon[wn]["toInjuryRoll"]
 
         print "\t\t\tinjury roll: " + str(roll)
         # TODO stunnedMax und stunnedMin von unit und waffen beachten
@@ -472,7 +493,7 @@ def fightTilOOA(fighters):
                             if tmp_doNotUseOffhand == False:
                                 foes[k][0].doNotUseOffhand = True if random.randint(0,1) else False
                                 tmp_doNotUseOffhand = True
-                                print "\t" + tmp_att[j].name + " St = " + getStrState(tmp_att[j].state) + " offHand attack"
+                                print "\t" + tmp_att[j].name + " St = " + getStrState(tmp_att[j].state) + " off hand attack"
 
                             foes[k][1] = foes[k][1] + 1
                             tmp_inc = True
@@ -494,9 +515,10 @@ def fightTilOOA(fighters):
                     tmp_target.causedWounds = 0
                     tmp_target.causedOOA = 0
 
-                    print "\n---- " + tmp_target.name + " stats for this fight"
-                    printChar(tmp_target)
-                    print "----"
+                    if tmp_target.inconsistency == True:
+                        print "\n---- " + tmp_target.name + " stats for this fight"
+                        printChar(tmp_target)
+                        print "----"
 
                     # set the new pre state
                     ff[0].pre_state = ff[0].state
@@ -602,7 +624,7 @@ def fightTilOOA(fighters):
                                     if tmp_doNotUseOffhand == False:
                                         foes[k][0].doNotUseOffhand = True if random.randint(0,1) else False
                                         tmp_doNotUseOffhand = True
-                                        print "\t" + tmp_att[j].name + " St = " + getStrState(tmp_att[j].state) + " offHand attack"
+                                        print "\t" + tmp_att[j].name + " St = " + getStrState(tmp_att[j].state) + " off hand attack"
                                     foes[k][1] = foes[k][1] + 1
                                     tmp_inc = True
                                     break
@@ -612,7 +634,7 @@ def fightTilOOA(fighters):
                                 if tmp_doNotUseOffhand == False:
                                     foes[-1][0].doNotUseOffhand = True if random.randint(0,1) else False
                                     tmp_doNotUseOffhand = True
-                                    print "\t" + tmp_att[j].name + " St = " + getStrState(tmp_att[j].state) + " offHand attack"
+                                    print "\t" + tmp_att[j].name + " St = " + getStrState(tmp_att[j].state) + " off hand attack"
 
                         for ff in foes:
                             # generate a new temporary attacker unit object
@@ -650,6 +672,8 @@ def fightTilOOA(fighters):
                             tmp_tgt.causedOOA = target.causedOOA + tmp_target.causedOOA
                             tmp_tgt.w = tmp_target.w
                             tmp_tgt.state = tmp_target.state
+                            if tmp_tgt.state == 3:
+                                break # the target is down, abort the fight
 
         print "========="
         rounds = rounds + 1
@@ -781,7 +805,5 @@ if __name__ == "__main__":
 
     statistic = runSimulation()
 
-    print statistic
-    print len(statistic)
     printStatistic(statistic)
 

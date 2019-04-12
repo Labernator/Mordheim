@@ -17,6 +17,7 @@ class Unit:
     causedWounds = 0
     causedOOA = 0
     firstRoundToHitAdd = 0
+    toHitAdd = 0
     regeneration = False
     ardEad = False
     helmet = False
@@ -37,7 +38,7 @@ class Unit:
         {
             "type" : "hand",
             "s" : 0,
-            "firstRoundSAdd" : 2,
+            "firstRoundSAdd" : 0,
             "offhand" : False,
             "toHitOffhand" : 0,
             "toHit" : 0,

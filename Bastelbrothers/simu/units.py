@@ -45,9 +45,21 @@ champ_of_chaos._as = 3
 champ_of_chaos.stepaside = True
 champ_of_chaos.helmet = True
 champ_of_chaos.mightyblow = True
-champ_of_chaos.weapon[0]["type"] = "great axe"
-champ_of_chaos.weapon[0]["s"] = 2
-champ_of_chaos.weapon[0]["as"] = -1
+champ_of_chaos.weapon = [
+    {
+        "type" : "great axe",
+        "s" : 2,
+        "firstRoundSAdd" : 0,
+        "offhand" : False,
+        "toHitOffhand" : 0,
+        "toHit" : 0,
+        "as" : -1,
+        "a" : 0,
+        "stunnedMin" : 3,
+        "stunnedMax" : 4,
+        "range" : False,
+    }
+]
 
 #### chaos dragon
 chaos_dragon = Unit()
