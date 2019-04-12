@@ -59,8 +59,9 @@ Verkaufe Schwert für 5
  => 94
  
  Kaufe Heavy Armour für 40 (dank Zwerg)  
- Bezahle Zwerg 15  
- => 39GC übrig  
+ Bezahle Zwerg 15
+ Kaufe Sigmarite Warhammer 25
+ => 14 GC übrig  
  
  *CZ*  
  Verkaufe 3 Wyrdstones für 70 (wegen doppel 4)  
@@ -74,7 +75,7 @@ Verkaufe Schwert für 5
  
 **Campagne Points:**  
 *Laber*  
-4  
+2  
 
 *CZ*  
 1
