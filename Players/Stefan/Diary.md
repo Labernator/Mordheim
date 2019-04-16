@@ -383,5 +383,46 @@ Hier sind die Überlegungen die ich für meine Pit Fighter angestellt habe:
 
 Für meine Warband habe ich einen ungefähren Plan, wie ich dafür sorgen will, dass ich auch bei voll ausgebauter Warbandgröße noch ein bisschen was zusätzlich zur Exploration verdiene. Wie gut der Plan funktioniert hängt natürlich wie immer nicht zuletzt von den Würfeln ab. Vielleicht helfen euch die oben genannten Punkte auch einen Plan zu entwickeln.
 
-In diesem Sinne: 
+In diesem Sinne:  
 [![GELD](https://img.youtube.com/vi/PGWTcIoBMuE/0.jpg)](https://www.youtube.com/watch?v=PGWTcIoBMuE)
+
+## Debriefeing BTB Game 3  
+**16.04.19**  
+Sooo, das Spiel von Marius und mir in den bewegungsfreudigen Wäldern ist durch und ich kann nur sagen: Holy hell, das ist ein krasses Szenario!
+
+Sechs random Happenings (bei denen wir tatsächlich noch sehr viel Glück hatten!), unzählige Möglichkeiten den ganzen Tisch abzufackeln (Runaway Wagon, Laval Tunnels, Gale Wetter…), Terrain das es einem komplett unmöglich macht seine Movement Phase auch nur ansatzweise planvoll anzugehen und wenn man dann noch tatsächlich gegen einander gespielt spielt… Sehr krass!
+
+Nachdem wir also mir zwei blauen Augen davon gekommen sind war es Zeit für die lange erwartete Post-Game-Sequence.
+
+Zur Erinnerung nochmal meinen Hoffnungen vor dem Spiel:
+>Wunschliste für das nächste Spiel
+>Ein Henchman wird zum Hero
+>Ein Skill für den Barden
+>85 GC
+>Möglichst brauchbare Advances für die Initiates und den Zwerg
+
+Das Ergebnis: 
+ - Kein sechster Hero
+- Kein Skill auf dem Barden
+- 80 GC
+- Von den sieben Advances die ich hatte (Underdog lässt grüßen): kein S, kein A, kein W, kein T, kein "Lad's got Talent". Aber dafür vier (!!!) Mal I oder Ld. Ganz großes Tennis
+
+Zu dem Zeitpunkt war ich auch schon massiv unzufrieden mit dem Ergebnis. Miese Advances, keinen weiteren Hero (für mehr Geld), kein Minstrel-Skill auf dem Barden (ebenfalls für mehr Geld) und knapp zu wenig Geld für meine Pläne eingenommen. Versagen auf der ganzen Linie also.
+
+Dann habe ich mir den Alchemisten gekauft und im für mich wichtigsten Wurf des Abends bei seinem Skill die 1 gelegt. Damit produziert der Feuerbomben. Und die kann man teuer verkaufen. Tatsächlich hat dieser Wurf die miserable Post-Game Sequence in eine eher erfreuliche verwandelt. Ah Mordheim, wo die Geschicke ganzer Warbands an einzelnen Würfelwürfen hängen. :grimacing:
+
+Für mich ist die Aufbauphase nach dem Neustart jetzt beendet und gefühlt habe ich eine Warband die zumindest realistisch mitspielen kann. In wie fern sich dieses Gefühl mit der Realität deckt muss sich beim nächsten Spiel zeigen. Denn auch wenn ich vom Roster her wieder aufgeholt habe sind doch meine CP unterirdisch. Ein paar Szenarios gewinnen würde da deutlich weiter helfen.
+
+Nachdem Marius das Objective gewechselt hat (eine 100% richtige Entscheidung für alle, wie ich finde) muss ich mir allerdings überlegen wie ich jetzt an die Chaos Artefakte komme. Die Chancen, dass ich ohne Verbündete die Kampagne gewinne sind doch leider sehr klein. Das heißt aber nicht, dass ich es nicht mit allen mir zur Verfügung stehenden Mitteln versuchen werde! :grin:
+
+Meine ToDo Liste Stand jetzt nach Absteigender Priorität
+ - Das nächste Szenario gewinnen (CP)
+ - Den sechsten Hero bekommen (GC)
+ - Skills auf den Barden bekommen (GC)
+ - Das "Chaos Dragon Hunt" Szenario freischalten (Kampagne)
+ - Besseres Equipment (Warband)
+ - Nächstes Rout Limit erreichen (Warband)
+ - Das Chaos Schwert erbeuten (Kampagne)
+ - >20 CP erreichen bevor Fabian das tut und dann "The Horde Approaches" gegen ihn gewinnen (Kampagne)
+
+Ich bin auf jeden Fall extrem froh, dass ich nicht mehr nur an der Seitenlinie zuschaue, sondern jetzt auch in der Lage bin wieder kräftig in den Szenarios mitzumischen. Game on!
