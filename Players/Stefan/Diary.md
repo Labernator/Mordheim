@@ -395,17 +395,17 @@ Sechs random Happenings (bei denen wir tatsächlich noch sehr viel Glück hatten
 Nachdem wir also mir zwei blauen Augen davon gekommen sind war es Zeit für die lange erwartete Post-Game-Sequence.
 
 Zur Erinnerung nochmal meinen Hoffnungen vor dem Spiel:
->Wunschliste für das nächste Spiel
->Ein Henchman wird zum Hero
->Ein Skill für den Barden
->85 GC
+>Wunschliste für das nächste Spiel  
+>Ein Henchman wird zum Hero  
+>Ein Skill für den Barden  
+>85 GC  
 >Möglichst brauchbare Advances für die Initiates und den Zwerg
 
 Das Ergebnis: 
  - Kein sechster Hero
-- Kein Skill auf dem Barden
-- 80 GC
-- Von den sieben Advances die ich hatte (Underdog lässt grüßen): kein S, kein A, kein W, kein T, kein "Lad's got Talent". Aber dafür vier (!!!) Mal I oder Ld. Ganz großes Tennis
+ - Kein Skill auf dem Barden
+ - 80 GC
+ - Von den sieben Advances die ich hatte (Underdog lässt grüßen): kein S, kein A, kein W, kein T, kein "Lad's got Talent". Aber dafür vier (!!!) Mal I oder Ld. Ganz großes Tennis
 
 Zu dem Zeitpunkt war ich auch schon massiv unzufrieden mit dem Ergebnis. Miese Advances, keinen weiteren Hero (für mehr Geld), kein Minstrel-Skill auf dem Barden (ebenfalls für mehr Geld) und knapp zu wenig Geld für meine Pläne eingenommen. Versagen auf der ganzen Linie also.
 
@@ -423,6 +423,6 @@ Meine ToDo Liste Stand jetzt nach Absteigender Priorität
  - Besseres Equipment (Warband)
  - Nächstes Rout Limit erreichen (Warband)
  - Das Chaos Schwert erbeuten (Kampagne)
- - >20 CP erreichen bevor Fabian das tut und dann "The Horde Approaches" gegen ihn gewinnen (Kampagne)
+ - 20+ CP erreichen bevor Fabian das tut und dann "The Horde Approaches" gegen ihn gewinnen (Kampagne)
 
 Ich bin auf jeden Fall extrem froh, dass ich nicht mehr nur an der Seitenlinie zuschaue, sondern jetzt auch in der Lage bin wieder kräftig in den Szenarios mitzumischen. Game on!
