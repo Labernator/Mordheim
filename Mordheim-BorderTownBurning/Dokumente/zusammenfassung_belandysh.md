@@ -20,7 +20,7 @@ Seite 78, BTB.pdf.
   Wird Belandysh OOA wird an dessen letzter Position ein Marker gelegt der das Boardsword represäntiert.  
   Kommt ein Held mit dem Marker in Berührung gilt das Schwert als aufgehoben.  
   Der Marker kann als Erinnerung in Basekontakt mit dem Modell verbleiben.  
->> Effekt: Das Schwert zählt als double-handed weapon. Geht ein Gegner **durch einen critical hit** mit dem Schwert OOA, wird dieser durch einen Chaos Spawn ersetzt der für den Rest des Spiels unter Kontrolle von Belandysh ist. Entferne den Warrior vom Warband Roaster.
+>> Effekt: Das Schwert zählt als double-handed weapon +2S, strike last). Geht ein Gegner **durch einen critical hit** mit dem Schwert OOA, wird dieser durch einen Chaos Spawn ersetzt der für den Rest des Spiels unter Kontrolle von Belandysh ist. Entferne den Warrior vom Warband Roaster.
 * Helmet (4+ stunned safe)
 * Chaos Armour (3+AS)
 
