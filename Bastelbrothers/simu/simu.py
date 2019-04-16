@@ -191,8 +191,7 @@ def tryToWound(u1, u2, wn, first_round = False):
 
     if u1.weapon[wn]["s"] > 0:
         print "\t\tweapon " + u1.weapon[wn]["type"]  + " +" + str(u1.weapon[wn]["s"]) + "S"
-
-    tmp_s = tmp_s + u1.weapon[wn]["s"]
+        tmp_s = tmp_s + u1.weapon[wn]["s"]
 
     minWoundRoll = getMinWoundRoll(u1.s + tmp_s, u2.t)
     roll = rollD6()
@@ -477,10 +476,12 @@ def fightTilOOA(fighters):
             #target.state = 3
             if tmp_tgt.state == 0:
 
-                print "---- " + tmp_tgt.name + ": selected foes to attack (" + str(tmp_tgt.a) + "A possible)"
+                print "---- " + tmp_tgt.name + " (" + getStrState(tmp_tgt.state) + "): selected foes to attack (" + str(tmp_tgt.a) + "A possible)"
                 foes = []
                 tmp_doNotUseOffhand = False
                 for i in range(tmp_tgt.a):
+
+                    # select targets for the attacks
                     j = random.randint(0, len(tmp_att)-1)
                     while tmp_att[j].state > 0 or tmp_att[j].cantBeAttacked == True:
                         j = random.randint(0, len(tmp_att)-1)
@@ -553,9 +554,9 @@ def fightTilOOA(fighters):
             for u in all_fighters:
 
                 do_recover = False
-                if u == target and ((rounds + 1) % 2) == 0:
+                if u.name == target.name and ((rounds + 1) % 2) == 0:
                    do_recover = True
-                elif u != target and ((rounds + 1) % 2) == 1:
+                elif u.name != target.name and ((rounds + 1) % 2) == 1:
                    do_recover = True
 
                 if do_recover == True:
@@ -586,7 +587,10 @@ def fightTilOOA(fighters):
 
             # 2. die kampfe ausfuhren
             for f in fights_ini_ordered:
-                if f != target:
+                if tmp_tgt.state == 3:
+                    break # the target is ooa, abort all fights
+
+                if f.name != target.name:
                     if f.state == 0:
                         tmp_tgt.pre_state = tmp_tgt.state
                         doFight(f, tmp_tgt)
@@ -594,7 +598,8 @@ def fightTilOOA(fighters):
                 else:
                     if f.state == 0:
                         # 3. choose f.A foes if has more than one
-                        print "\n---- " + tmp_tgt.name + ": selected foes to attack (" + str(tmp_tgt.a) + "A possible)"
+                        print "---- " + tmp_tgt.name + " (" + getStrState(tmp_tgt.state) + "): selected foes to attack (" + str(tmp_tgt.a) + "A possible)"
+
                         foes = []
                         tmp_doNotUseOffhand = False
                         for i in range(f.a):
@@ -757,14 +762,6 @@ def printStatistic(statistic):
     cnt_cooa = cnt_cooa / (max_run * 1.0)
 
     enablePrint()
-    print target.name + " (" + str(max_run) + " tries)"
-    print "=========="
-    #print cnt_knd
-    #print cnt_stn
-    print "OOA in about " + str(cnt_ooa * (100.0)) + " %"
-    print "Caused a wound " + str(cnt_cw * 100.0) + " %"
-    print "Caused ooA " + str(cnt_cooa * 100.0) + " %"
-
     sum_state_norm   = 0
     sum_state_knd    = 0
     sum_state_stn    = 0
@@ -784,13 +781,22 @@ def printStatistic(statistic):
         sum_state_stn    = sum_state_stn    + tmp_stat_attackers[j][4] * 100.0
         sum_state_ooa    = sum_state_ooa    + tmp_stat_attackers[j][5] * 100.0
 
-    print "\nunit count / state per warband (" + str(len(attackers)) + ")"
+    print "\n=========="
+    print "unit count / state per warband (" + str(len(attackers)) + ")"
     print "normal " + str(sum_state_norm / 100.0)
     print "knd    " + str(sum_state_knd  / 100.0)
     print "stn    " + str(sum_state_stn  / 100.0)
     print "ooA    " + str(sum_state_ooa  / 100.0)
 
-    print "\naverage rounds " + str(tmp_rounds / (max_run * 1.0))
+    print "\n=========="
+    print "average rounds " + str(tmp_rounds / (max_run * 1.0))
+    print
+
+    print target.name + " (" + str(max_run) + " tries)"
+    print "=========="
+    print "OOA in about " + str(cnt_ooa * (100.0)) + " %"
+    print "Caused a wound " + str(cnt_cw * 100.0) + " %"
+    print "Caused ooA " + str(cnt_cooa * 100.0) + " %"
     print
 
 # Disable
