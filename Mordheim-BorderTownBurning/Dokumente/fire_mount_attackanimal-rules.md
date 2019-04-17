@@ -6,7 +6,7 @@
 * Ein Attack Animal wird in der Se-Up-Phase in 3" Reichweite des Besitzers aufgestellt.
 * Attack Animals können sich nach der Aufstellphase im Spiel frei bewegen.
 * Attack Animals können rennen (2xM).
-* Attack Animals können 2" hohe oder weite Hürden überspringen.
+* Attack Animals können 2" hohe oder weite Hürden überspringen. Ohne zu testen.
 * Die meisten Attack Animals können chargen, für manche reicht es Basekontakt zu erlangen.
 * Ein Attack Animal gehört einem Helden, es wird unter Equip auf dem Roaster aufgezählt.
 * Das Attack Animal wird zusätzlich auf dem Roaster unter Henchmen asl Einheit eingetragen.
@@ -51,7 +51,7 @@
 * Sie zählen gleich gesetzt zur Warband wie Attack Animals.
 * Mounts können auch als Attack Animals gekauft werden.
 * Mounts können rennen (2xM), wenn ein Reiter darauf sitzt, oder ohne.
-* Berittene Einheiten können bis zu 2" große Hindernisse (hohe oder weite) überspringen.
+* Berittene Einheiten können bis zu 2" große Hindernisse (hohe oder weite) überspringen. Ohne zu testen.
 * Mounts können nur außerhalb von Gebäuden geritten werden.
 * Reiter dürfen im Basekontakt mit Ihren Reittieren sein.
 * Mounts die im Basekontakt Ihres Reiters stehen gelten als geführt, nicht geritten.
