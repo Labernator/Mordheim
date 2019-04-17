@@ -405,7 +405,7 @@ Das Ergebnis:
  - Kein sechster Hero
  - Kein Skill auf dem Barden
  - 80 GC
- - Von den sieben Advances die ich hatte (Underdog lässt grüßen): kein S, kein A, kein W, kein T, kein "Lad's got Talent". Aber dafür vier (!!!) Mal I oder Ld. Ganz großes Tennis
+ - Von den acht Advances die ich hatte (Underdog lässt grüßen): kein S, kein A, kein W, kein T, kein "Lad's got Talent". Aber dafür fünf (!!!) Mal I oder Ld. Ganz großes Tennis
 
 Zu dem Zeitpunkt war ich auch schon massiv unzufrieden mit dem Ergebnis. Miese Advances, keinen weiteren Hero (für mehr Geld), kein Minstrel-Skill auf dem Barden (ebenfalls für mehr Geld) und knapp zu wenig Geld für meine Pläne eingenommen. Versagen auf der ganzen Linie also.
 
