@@ -71,8 +71,8 @@
 * In einer Kampagne, wenn der Reiter OOA geht, wird direkt D6 für das Mount gewürfelt: 1-2 = tot
 * Wenn der Reiter/Besitzer endgültig stirbt wird auch das Reittier vom Roaster gestrichen.
 * Mounts anderer Spieler können nicht geritten werden.
-* In dichtem Terrain wie einer Stadt (z.B. Mordheim / dichter Jungel) können von einer Warband maximal zwei Mounts gleichzeitig geritten werden. Es gibt Mounts die sich darüber hinweg setzen.
-  Bsp.: Spinnen können problemlos durch dichtes Terrain klettern.
+* In dichtem Terrain wie einer Stadt (z.B. Mordheim / dichter Jungel) können von einer Warband maximal zwei (2) Mounts gleichzeitig geritten werden. Es gibt Mounts die sich darüber hinweg setzen.
+  Bsp.: Spinnen können problemlos durch dichtes Terrain da aie ohne zu testen klettern können.
 * Die großen Reittiere aus BTB addieren zum Warbandrating insgesamt 20 Punkte hinzu.
 * FRAGE: Was passiert wenn ein geführtes/ungeführtes Mount angecharged/beschossen wird?
   Vorschlag:
