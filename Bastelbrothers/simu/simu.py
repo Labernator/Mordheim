@@ -22,6 +22,20 @@ parser.add_argument("-q", "--quiet",
                     dest="quiet", default=False, action='store_true',
                     help="don't print status messages to stdout")
 
+crit_table = [
+    [ # missile
+      [ { "as" : 0 }, { "as" : 0 }, { }, { }, { "wounds" : 2 }, { "wounds" : 2 } ]
+    ],
+    [ # bludge
+    ],
+    [ # blade
+    ],
+    [ # unarmed
+    ],
+    [ # thrusting
+    ],
+]
+
 def rollD6():
     return random.randint(1,6)
 
@@ -155,7 +169,21 @@ def tryToHit(u1, u2, wn, first_round = False):
     if roll >= minHitRoll:
         print "\thit"
 
+        if u2.luckyCharm == True and u2.luckyCharmUsed == False:
+            # lucky charm
+            u2.luckyCharmUsed = True
+            lcRoll = rollD6()
+            print "\t" + u2.name + " wear a lucky charm (4+ hit save)"
+            print "\troll: " + str(lcRoll)
+            if lcRoll >= 4:
+                if lcRoll == 6:
+                    print "\tthe lucky charm is broken because the roll was a 6"
+                    u2.luckyCharm = False
+                print "\tno hit"
+                return False # no hit
+
         if roll < 6 and u2.parry == True and u2.parry_used_this_fight == False:
+            # parry
             u2.parry_used_this_fight = True
 
             tmp_parryMin = roll + 1
@@ -230,7 +258,13 @@ def tryArmorSave(u1, u2, wn):
         t_as = t_as + u1.weapon[wn]["s"]
 
     if u1.weapon[wn]["as"] != 0:
-        print "\t\t\tweapon as mod " + str(u1.weapon[wn]["as"]) + "AS"
+        tmp_as_mod_str = ""
+        if u1.weapon[wn]["as"] > 0:
+            tmp_as_mod_str = "+"
+
+        tmp_as_mod_str = tmp_as_mod_str + str(u1.weapon[wn]["as"])
+
+        print "\t\t\tweapon as mod " + tmp_as_mod_str
         t_as = t_as + (u1.weapon[wn]["as"] * -1)
 
     print "\t\t\tarmor save on " + str(t_as)
@@ -538,10 +572,15 @@ def fightTilOOA(fighters):
                     ff[0].causedOOA = ff[0].causedOOA + tmp_ff.causedOOA
                     ff[0].state = tmp_ff.state
                     ff[0].w = tmp_ff.w
+                    ff[0].luckyCharmUsed = tmp_ff.luckyCharmUsed
+                    ff[0].luckyCharm = tmp_ff.luckyCharm
                     tmp_tgt.causedWounds = tmp_tgt.causedWounds + tmp_target.causedWounds
                     tmp_tgt.causedOOA = tmp_tgt.causedOOA + tmp_target.causedOOA
                     tmp_tgt.w = tmp_tgt.w
                     tmp_tgt.state = tmp_tgt.state
+                    tmp_tgt.luckyCharmUsed = tmp_target.luckyCharmUsed
+                    tmp_tgt.luckyCharm = tmp_target.luckyCharm
+
                     if tmp_tgt.state == 3:
                         break # the target is already ooa
 
@@ -675,10 +714,14 @@ def fightTilOOA(fighters):
                             ff[0].causedOOA = ff[0].causedOOA + tmp_ff.causedOOA
                             ff[0].state = tmp_ff.state
                             ff[0].w = tmp_ff.w
+                            ff[0].luckyCharmUsed = tmp_ff.luckyCharmUsed
+                            ff[0].luckyCharm = tmp_ff.luckyCharm
                             tmp_tgt.causedWounds = target.causedWounds + tmp_target.causedWounds
                             tmp_tgt.causedOOA = target.causedOOA + tmp_target.causedOOA
                             tmp_tgt.w = tmp_target.w
                             tmp_tgt.state = tmp_target.state
+                            tmp_tgt.luckyCharmUsed = tmp_target.luckyCharmUsed
+                            tmp_tgt.luckyCharm = tmp_target.luckyCharm
                             if tmp_tgt.state == 3:
                                 break # the target is down, abort the fight
 
@@ -782,7 +825,7 @@ def printStatistic(statistic):
         sum_state_ooa    = sum_state_ooa    + tmp_stat_attackers[j][5] * 100.0
 
     print "\n=========="
-    print "unit count / state per warband (" + str(len(attackers)) + ")"
+    print "unit count (" + str(len(attackers)) + ") / state per warband"
     print "normal " + str(sum_state_norm / 100.0)
     print "knd    " + str(sum_state_knd  / 100.0)
     print "stn    " + str(sum_state_stn  / 100.0)

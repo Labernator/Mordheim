@@ -33,6 +33,8 @@ class Unit:
     cantBeAttacked = False
     inconsistency = False
     doNotUseOffhand = False
+    luckyCharm = False
+    luckyCharmUsed = False
 
     weapon = [
         {
@@ -47,6 +49,7 @@ class Unit:
             "stunnedMin" : 2,
             "stunnedMax" : 4,
             "range" : False,
+            "critTable" : 1 # 0 missile, 1 bludge, 2 bladed, 3 unarmed, 4 thrusting
         }
     ]
 
