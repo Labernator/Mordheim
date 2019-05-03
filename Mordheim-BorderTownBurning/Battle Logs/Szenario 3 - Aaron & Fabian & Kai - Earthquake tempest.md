@@ -1,30 +1,96 @@
-Szenario: Earthquake
+Aufstellung: aaron, fabian, kai
+Aaron: rune of speed, 2x ini*2
+Kai: +1 CP (WHAT??)
 
-Territorium: The Cathayan Borderlands
+Battlelog:
+Round 1: 15:45 Uhr
+* Uglash killed Wuff#1 (Autohit)
+* Schamane Eye Of God beamed Goddie into the void (OOA)
+* e killed Uglash
+* Hound#2 killed a Goblin (bite to death)
 
-Wetter:  Tempest
+Round 2:  16:42 Uhr
+* Kai opened treasure: nothing special
+* Kai opened treasure: Giant Rat spawned in front of him
+* Norok killed Hound#3
+* Wogga killes Hound#4
+* Super Toti killed Squig (autohit)
+* Dagger killed Goblin (autohit)
 
-Spieler: Aaron & Fabian & Kai
+Round 3: 17:08 Uhr
+* No random happening (3)
+* Squig killed replacement Boss (Schamane)
+* Fabian routed voluntarely
+* Aaron opened treasure: Giant skorpion spawned
+* Aaron opened treasure: Giant skorpion spawned
+* Gollum killed giant Rat
+* Kai opened treasure: 1x wyrdstone!
 
-Warband Rating:  
-Aaron:149
-Fabian:150
-Kai: 203
+Round 4: 
+* Kai roll random happening: Contamination, Aaron Mob attacked by a wolf (OOA!)
+* Aaron killed skorpion with a mob of dwarfes
 
-Underdog: no Underdog
+Round 5:
+* Kai killed warhound
+* Skorpion killed Karhag
 
-Battle Log:
+Round 6:
+* Ragnar killed Wogga
+* Enforcer killed goblin
+* Aaron opened treasure: nothing special happens
+
+Game ends (all tokens are found)
+
+Winner: Kai (5 tokens)
+
+Post Game Sequence:
 
 Injuries:
+Kai:
+* Goblin 1 dead
+* Goblin 2 dead
+* Goblin 3 dead
+* Squig survived
+* Karhag: 54 (full recovery)
+* Uglash: 11 (dead)
+* Wogga (16: Multiple injuries: 5 d6: hardened, full recovery, dead (reroll: full recovery), chest wound (-1T)
 
-Experience:
+fabian:
+* Wuff#1: full recovery
+* Wuff#2: dead
+* Wuff#3: full recovery
+* Schamane: full recovery
 
-Exploration:
+aaron:
+nothing
 
-Hired Swords Blood Pact:
+Advances:
+Kai:
+* Grumlok: +1 Skill
+* Wogga: +1 Wunde!
+* Norok: Lat's got Talent!!11, +1I
+* Gmorkor: +1A
+* Oggrot: Lat's got talent, +1WS
 
-Henchmen XP:
+Fabian:
+* e: +1I
+* Super Toti: +1WS
+* Dagger Henchmens: +1I
 
-Trading:
+Aaron:
+* Ragnar: +1 Skill
+* Enforcer: +1A
 
-Campagne Points:
+Income:
+Kai:
+* 8 dices, triple 6 (slave mind: -1 squig, +2 Campain Points!!)
+* 6 WS + 1 from last battle, sell all for 110 GC (11 units alive)
+
+Fabian:
+* 4 dices, double 4 (+3GC)
+* 3 WS, sell all for 65GC
+
+Aaron:
+* 4 dices
+* 4 WS, sell ?
+
