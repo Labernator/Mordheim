@@ -5,25 +5,25 @@ Kai: +1 CP (WHAT??)
 Battlelog:
 Round 1: 15:45 Uhr
 * Uglash killed Wuff#1 (Autohit)
-* Schamane Eye Of God beamed Goddie into the void (OOA)
+* Schaman Eye Of God beamed Tody into the void (OOA)
 * e killed Uglash
 * Hound#2 killed a Goblin (bite to death)
 
 Round 2:  16:42 Uhr
 * Kai opened treasure: nothing special
 * Kai opened treasure: Giant Rat spawned in front of him
-* Norok killed Hound#3
+* Norog killed Hound#3
 * Wogga killes Hound#4
-* Super Toti killed Squig (autohit)
+* Super Tody killed Squig (autohit)
 * Dagger killed Goblin (autohit)
 
 Round 3: 17:08 Uhr
 * No random happening (3)
-* Squig killed replacement Boss (Schamane)
+* Squig killed replacement Boss (Schaman)
 * Fabian routed voluntarely
 * Aaron opened treasure: Giant skorpion spawned
 * Aaron opened treasure: Giant skorpion spawned
-* Gollum killed giant Rat
+* Golm killed giant Rat
 * Kai opened treasure: 1x wyrdstone!
 
 Round 4: 
@@ -68,13 +68,13 @@ Advances:
 Kai:
 * Grumlok: +1 Skill
 * Wogga: +1 Wunde!
-* Norok: Lat's got Talent!!11, +1I
+* Norog: Lat's got Talent!!11, +1I
 * Gmorkor: +1A
 * Oggrot: Lat's got talent, +1WS
 
 Fabian:
 * e: +1I
-* Super Toti: +1WS
+* Super Tody: +1WS
 * Dagger Henchmens: +1I
 
 Aaron:
@@ -83,8 +83,8 @@ Aaron:
 
 Income:
 Kai:
-* 8 dices, triple 6 (slave mind: -1 squig, +2 Campain Points!!)
-* 6 WS + 1 from last battle, sell all for 110 GC (11 units alive)
+* 8 dice, discarding one, double 6 (Runaway Horse: +2D6 = 7gc)
+* 5 WS + 1 from current battle, sell all for 80 GC (13 units alive)
 
 Fabian:
 * 4 dices, double 4 (+3GC)
