@@ -1,8 +1,8 @@
 warband: Orks, Goblins and Squigs (Orks)
 campaign: 10
-gc: 3
+gc: 0
 shards: 0
-equipment: none
+equipment: Dagger
 objective: Scrooge of the realm
 alignment: chaotic
 
@@ -23,7 +23,7 @@ heros:
 
     - hero: Karhag (Big'Un) [16XP]
       stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
-      weapons: Axe, Dagger
+      weapons: Handweapon, Dagger
       rules:
       injuries: Chest wound
       skilllists: Strength, Shooting, Combat, Special
@@ -36,13 +36,13 @@ heros:
       injuries: Chest wound
       skilllists: Strength, Special
 
-    - hero: Norog (Ork boy) [5XP]
+    - hero: Ug'Lash {Norog} (Ork boy) [5XP]
       stats: M4, WS3, BS3, S3, T4, W1, I4, A1, Ld7, Sv-
-      weapons: Axe, Dagger
+      weapons: Handweapon, Dagger
       rules: Animosity
       skilllists: Strength, Combat
 
-    - hero: Oggrot (Ork boy) [2XP]
+    - hero: Rog'Rogg {Oggrot} (Ork boy) [2XP]
       stats: M4, WS4, BS3, S3, T4, W1, I2, A1, Ld7, Sv-
       weapons: Handweapon, Dagger
       rules: Animosity
@@ -52,25 +52,20 @@ henchmen:
 
     - group: Granak (1 Ork boy) [3XP]
       stats: M4, WS3, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
-      weapons: Handweapon, Dagger
+      weapons: Dagger, Dagger
       rules: Animosity
 
-    - group: Gmorkor (1 Ork boy) [2XP]
+    - group: Gmorkor, Norog, Golm (3 Ork boy) [2XP]
       stats: M4, WS3, BS3, S3, T4, W1, I2, A2, Ld7, Sv-
-      weapons: Handweapon, Dagger
+      weapons: Dagger, Dagger
       rules: Animosity
 
-    - group: Golm (1 Ork boy) [1XP]
+    - group: Oggrot {Golm} (1 Ork boy) [1XP]
       stats: M4, WS3, BS3, S3, T4, W1, I2, A1, Ld7, Sv-
       weapons: Dagger, Dagger
       rules: Animosity
 
     - group: Goblins (1 Goblin warrior) [4XP]
-      stats: M4, WS2, BS3, S3, T3, W1, I4, A1, Ld5, Sv-
-      weapons: Dagger, Dagger
-      rules: Animosity, Not orks, Runts
-
-    - group: Goblins2 (3 Goblin warrior) [0XP]
       stats: M4, WS2, BS3, S3, T3, W1, I4, A1, Ld5, Sv-
       weapons: Dagger, Dagger
       rules: Animosity, Not orks, Runts
@@ -92,7 +87,7 @@ notes: |
          - Grumlok 4+ stunned save & Parry on >= hit & 5+ wound save (no mod)
          - Income scenario 3: Sold 5 wyrdstone (1 from scenario 3) = 70gc + (double 5 = axe + lucky charm)
            => 70gc + 13gc (treasure chest) = 83gc
-         - Bought: 1 sword (10gc) + 1 squig (15gc) + 3 goblins (15gc) + 2 axe (5gc) => 80gc
+         - Bought: 1 sword (10gc) + 2 Ork boy (25+4gc) + 1 squig (15gc) = 83gc
 
 achievments: |
         none
