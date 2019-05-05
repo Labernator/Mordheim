@@ -1,8 +1,8 @@
 warband: Orks, Goblins and Squigs (Orks)
 campaign: 10
-gc: 90
+gc: 2
 shards: 0
-equipment: 2x Dagger
+equipment: 1 dagger
 objective: Scrooge of the realm
 alignment: chaotic
 
@@ -17,33 +17,33 @@ heros:
 
     - hero: Grommok (Big'Un) [19XP]
       stats: M4, WS4, BS3, S4, T4, W1, I3, A1, Ld7, Sv-
-      weapons: Hand weapon, Dagger
+      weapons: Handweapon, Dagger
       rules: 
       skilllists: Strength, Shooting, Combat, Special
 
     - hero: Karhag (Big'Un) [16XP]
       stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
-      weapons: Hand weapon, Dagger
+      weapons: Handweapon, Handweapon
       rules:
       injuries: Chest wound
       skilllists: Strength, Shooting, Combat, Special
 
     - hero: Wogga (Shaman) [14XP]
       stats: M4, WS4, BS3, S3, T3, W2, I3, A1, Ld7, Sv-
-      weapons: Dagger
+      weapons: Handweapon
       rules: Clubba, Hardened
       injuries: Chest wound
       skilllists: Strength, Special
 
     - hero: Norog (Ork boy) [5XP]
       stats: M4, WS3, BS3, S3, T4, W1, I4, A1, Ld7, Sv-
-      weapons: Hand weapon, Dagger
+      weapons: Handweapon, Handweapon
       rules: Animosity
       skilllists: Strength, Combat
 
     - hero: Oggrot (Ork boy) [2XP]
       stats: M4, WS4, BS3, S3, T4, W1, I2, A1, Ld7, Sv-
-      weapons: Dagger, Dagger
+      weapons: Handweapon, Handweapon
       rules: Animosity
       skilllists: Strength, Combat
 
@@ -69,12 +69,17 @@ henchmen:
       weapons: Dagger, Dagger
       rules: Animosity, Not orks, Runts
 
-    - group: Squig herder (1 Goblin warrior) [3XP]
-      stats: M4, WS2, BS4, S3, T3, W1, I3, A1, Ld5, Sv-
-      weapons: Squig prodder, Short Bow
+    - group: Goblins2 (3    Goblin warrior) [0XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I4, A1, Ld5, Sv-
+      weapons: Dagger, Dagger
       rules: Animosity, Not orks, Runts
 
-    - group: Squigs (1 Squig) [0XP]
+    - group: Squig herder (1 Goblin warrior) [3XP]
+      stats: M4, WS2, BS4, S3, T3, W1, I3, A1, Ld5, Sv-
+      weapons: Squig prodder, 2xDagger, Short Bow
+      rules: Animosity, Not orks, Runts
+
+    - group: Squigs (4 Squig) [0XP]
       stats: M2D6, WS4, BS0, S4, T3, W1, I4, A1, Ld5, Sv-
       rules: Movement, Minderz, Not orks, Animals
 
@@ -83,9 +88,10 @@ notes: |
          - Animosity: 1 charge henchmen/hired sword if the next unit is not a hero, 2-5 do nothing, 6 charge next foe or move 4". Move another 4" or run in the movement phase in enemy direction. Charge if a foe is in charge range.
          - Lucky charm: D6 4+ first hit discard for Grumlok (on 6 it cant be used anymore after, it breaks)
          - Grumlok hates Scion of darknes leader, he has to charge them if in reach
-         - Grumlok 4+ stunned save & Parry on >= hit
-         - Sold 6 wyrdstone (1 from treasure chest) = 80gc + 2D6 = 7gc => 100gc
-         - Bought: 1 sword (10gc)
+         - Grumlok 4+ stunned save & Parry on >= hit & 5+ wound save (no mod)
+         - Sold 6 wyrdstone (1 from scenario 3) = 80gc + 2D6=7gc + 2gc (garlic) = 7gc
+           => 89gc + 13gc (treasure chest) = 102gc
+         - Bought: 1 sword (10gc) + 2 squigs (15gc) + 3 goblins (15gc) + 5 handweapon (3gc) => 100gc
 
 achievments: |
         none

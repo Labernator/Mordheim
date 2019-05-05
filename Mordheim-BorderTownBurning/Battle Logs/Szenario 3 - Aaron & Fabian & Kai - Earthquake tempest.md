@@ -83,8 +83,11 @@ Aaron:
 
 Income:
 Kai:
-* 8 dice, discarding one, double 6 (Runaway Horse: +2D6 = 7gc)
+* 7 dice, discarding one, double 6 (Runaway Horse: +2 garlic cloved +2D6 = 7gc)
+* 2 garlic cloves sold +2gc
 * 5 WS + 1 from current battle, sell all for 80 GC (13 units alive)
+* + 13 gc treasure chest
+=> 102gc
 
 Fabian:
 * 4 dices, double 4 (+3GC)
