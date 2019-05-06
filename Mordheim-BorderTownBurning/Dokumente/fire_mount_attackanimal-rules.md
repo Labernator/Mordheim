@@ -6,7 +6,7 @@
 * Ein Attack Animal wird in der Se-Up-Phase in 3" Reichweite des Besitzers aufgestellt.
 * Attack Animals können sich nach der Aufstellphase im Spiel frei bewegen.
 * Attack Animals können rennen (2xM).
-* Attack Animals können 2" hohe oder weite Hürden überspringen.
+* Attack Animals können 2" hohe oder weite Hürden überspringen. Ohne zu testen.
 * Die meisten Attack Animals können chargen, für manche reicht es Basekontakt zu erlangen.
 * Ein Attack Animal gehört einem Helden, es wird unter Equip auf dem Roaster aufgezählt.
 * Das Attack Animal wird zusätzlich auf dem Roaster unter Henchmen asl Einheit eingetragen.
@@ -51,7 +51,7 @@
 * Sie zählen gleich gesetzt zur Warband wie Attack Animals.
 * Mounts können auch als Attack Animals gekauft werden.
 * Mounts können rennen (2xM), wenn ein Reiter darauf sitzt, oder ohne.
-* Berittene Einheiten können bis zu 2" große Hindernisse (hohe oder weite) überspringen.
+* Berittene Einheiten können bis zu 2" große Hindernisse (hohe oder weite) überspringen. Ohne zu testen.
 * Mounts können nur außerhalb von Gebäuden geritten werden.
 * Reiter dürfen im Basekontakt mit Ihren Reittieren sein.
 * Mounts die im Basekontakt Ihres Reiters stehen gelten als geführt, nicht geritten.
@@ -71,8 +71,8 @@
 * In einer Kampagne, wenn der Reiter OOA geht, wird direkt D6 für das Mount gewürfelt: 1-2 = tot
 * Wenn der Reiter/Besitzer endgültig stirbt wird auch das Reittier vom Roaster gestrichen.
 * Mounts anderer Spieler können nicht geritten werden.
-* In dichtem Terrain wie einer Stadt (z.B. Mordheim / dichter Jungel) können von einer Warband maximal zwei Mounts gleichzeitig geritten werden. Es gibt Mounts die sich darüber hinweg setzen.
-  Bsp.: Spinnen können problemlos durch dichtes Terrain klettern.
+* In dichtem Terrain wie einer Stadt (z.B. Mordheim / dichter Jungel) können von einer Warband maximal zwei (2) Mounts gleichzeitig geritten werden. Es gibt Mounts die sich darüber hinweg setzen.
+  Bsp.: Spinnen können problemlos durch dichtes Terrain da aie ohne zu testen klettern können.
 * Die großen Reittiere aus BTB addieren zum Warbandrating insgesamt 20 Punkte hinzu.
 * FRAGE: Was passiert wenn ein geführtes/ungeführtes Mount angecharged/beschossen wird?
   Vorschlag:

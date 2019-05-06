@@ -1,0 +1,93 @@
+warband: Orks, Goblins and Squigs (Orks)
+campaign: 10
+gc: 0
+shards: 0
+equipment: Dagger
+objective: Scrooge of the realm
+alignment: chaotic
+
+heros:
+    - hero: Grumlok & Gazbag (Ork leader) [29XP]
+      stats: M4, WS4, BS4, S4, T4, W1, I3, A2, Ld8, Sv4
+      weapons: Axe, Sword
+      armour: Steel Cloth, Helmet, Light armour, Lucky charm
+      rules: Leader, I am the scougre, Remarkable duellist, Step Aside
+      warbandaddition: 5
+      skilllists: Strength, Shooting, Combat, Speed, Special
+
+    - hero: Grommok (Big'Un) [19XP]
+      stats: M4, WS4, BS3, S4, T4, W1, I3, A1, Ld7, Sv-
+      weapons: Axe, Dagger
+      rules: 
+      skilllists: Strength, Shooting, Combat, Special
+
+    - hero: Karhag (Big'Un) [16XP]
+      stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+      weapons: Handweapon, Dagger
+      rules:
+      injuries: Chest wound
+      skilllists: Strength, Shooting, Combat, Special
+
+    - hero: Wogga (Shaman) [14XP]
+      stats: M4, WS4, BS3, S3, T3, W2, I3, A1, Ld7, Sv-
+      weapons: Dagger
+      armour: Lucky charm
+      rules: Clubba, Hardened
+      injuries: Chest wound
+      skilllists: Strength, Special
+
+    - hero: Ug'Lash {Norog} (Ork boy) [5XP]
+      stats: M4, WS3, BS3, S3, T4, W1, I4, A1, Ld7, Sv-
+      weapons: Handweapon, Dagger
+      rules: Animosity
+      skilllists: Strength, Combat
+
+    - hero: Rog'Rogg {Oggrot} (Ork boy) [2XP]
+      stats: M4, WS4, BS3, S3, T4, W1, I2, A1, Ld7, Sv-
+      weapons: Handweapon, Dagger
+      rules: Animosity
+      skilllists: Strength, Combat
+
+henchmen:
+
+    - group: Granak (1 Ork boy) [3XP]
+      stats: M4, WS3, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
+      weapons: Dagger, Dagger
+      rules: Animosity
+
+    - group: Gmorkor, Norog, Golm (3 Ork boy) [2XP]
+      stats: M4, WS3, BS3, S3, T4, W1, I2, A2, Ld7, Sv-
+      weapons: Dagger, Dagger
+      rules: Animosity
+
+    - group: Oggrot {Golm} (1 Ork boy) [1XP]
+      stats: M4, WS3, BS3, S3, T4, W1, I2, A1, Ld7, Sv-
+      weapons: Dagger, Dagger
+      rules: Animosity
+
+    - group: Goblins (1 Goblin warrior) [4XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I4, A1, Ld5, Sv-
+      weapons: Dagger, Dagger
+      rules: Animosity, Not orks, Runts
+
+    - group: Squig herder (1 Goblin warrior) [3XP]
+      stats: M4, WS2, BS4, S3, T3, W1, I3, A1, Ld5, Sv-
+      weapons: Squig prodder, Short Bow
+      rules: Animosity, Not orks, Runts
+
+    - group: Squigs (3 Squig) [0XP]
+      stats: M2D6, WS4, BS0, S4, T3, W1, I4, A1, Ld5, Sv-
+      rules: Movement, Minderz, Not orks, Animals
+
+notes: |
+         - If encounter beastmen: roll D6 "Traces to Chaos" (1-3 nothing happens, 4-5 Leader is frenzy, 6 add 1CP to your warband).
+         - Animosity: 1 charge henchmen/hired sword if the next unit is not a hero, 2-5 do nothing, 6 charge next foe or move 4". Move another 4" or run in the movement phase in enemy direction. Charge if a foe is in charge range.
+         - Lucky charm: D6 4+ first hit discard for Grumlok (on 6 it cant be used anymore after, it breaks)
+         - Grumlok hates Scion of darknes leader, he has to charge them if in reach
+         - Grumlok 4+ stunned save & Parry on >= hit & 5+ wound save (no mod)
+         - Income scenario 3: Sold 5 wyrdstone (1 from scenario 3) = 70gc + (double 5 = axe + lucky charm)
+           => 70gc + 13gc (treasure chest) = 83gc
+         - Bought: 1 sword (10gc) + 2 Ork boy (25+4gc) + 1 squig (15gc) = 83gc
+
+achievments: |
+        none

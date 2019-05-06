@@ -45,5 +45,20 @@ Keine XP für Zombie kills.
 
 18.) Warbands die nicht neutral/chaotic oder chaotic, deren Träger (Leader/Held, ) ein Chaos Artefakt tragen sind vom Thousand Voices-Fluch (Ld wird auf 4 herunter gesetzt) und stupidity betroffen.
 
-19). Die Warband mit dem Objective "Tilean Merchant Caravan" darf sie in Ihrem Wagen befördern, der Wagen wird nicht stupid und ist nicht verflucht.
+19.) Die Warband mit dem Objective "Tilean Merchant Caravan" darf sie in Ihrem Wagen befördern, der Wagen wird nicht stupid und ist nicht verflucht.
+
+20.) Der Text zu Double 6 (Runaway Horse) wird wie folgt geändert:
+
+ALT: In its saddlebags, you find a rain coat, a net, a 
+couple of garlic cloves and D6 gold crowns. The 
+horse can be kept of course, if the 
+warband can find a use for it.
+
+NEU: In its saddlebags, you find a rain coat, a net, 2 garlic cloves and 2D6 gold crowns.
+
+21.) Serious injuries wie smashed leg, leg wound, hand wound, chest wound, nervous condition, blinded in one eye führen dazu das der betroffene Held vom Roster gestrichen wird wenn er das selbe Injury das zweite mal erhalten würde.
+
+22.) Serious injuries wie smashed leg, leg wound, hand wound, chest wound, nervous condition, blinded in one eye können geheilt werden wenn ein Advance auf die betroffene Stat erwürfelt wurde. Alternativ kann beim erwürfeln eines Skills die Injury gestrichen werden. Wird eine Injury geheilt wird auch die Stat wieder un den zuvor reduzierten Wert angehoben.
+
+23.) Serious injuries wie smashed leg, leg wound, hand wound, chest wound, nervous condition, blinded in one eye führen dazu das auf der betroffenen Stat keine verbesserungen mehr aufaddiert werden können, bis sie geheilt wurden. Siehe 22.
 

@@ -145,3 +145,105 @@ Nach dem Grubenkampf saßen die Rebellen in ihrem Unterschlupf und besprachen da
 Fragend wandten sich die Blicke wieder zu Haffax. Dieser zuckte mit den Schultern und wollte gerade zu einer Erwiderung ansetzen als Torxes die Stimme erhob. "In Wei-jin kannte ich eine Gruppe fanatischer Sigmar Anhängerinnen. Etwas eigen natürlich und nicht sehr kompromissbereit, aber anders würde man es von Extremisten auch nicht erwarten. Aber von einem brennenden Hass auf das Chaos durchdrungen. Sie nennen sich die Schwesternschaft Sigmars." Sulman war begeistert. "Das ist genau die Unterstützung die wir brauchen um die Waffe zu finden, Torxes! Wo finden wir die Schwestern?"
 
 "Ihr Klostern liegt nahe Wie-jin. In den toten Wäldern", antwortete Torxes düster. "Na wenn das nicht mal einladen klingt", spottete Dimiona. "Wir werden uns ja wohl kaum von ein paar Bäumen ins Bockhorn jagen lassen, oder?"
+
+### Schlachtbericht  
+**Szenario/Mitspieler:** Tainted Copse mit Marius
+
+**Ergebnis:** Niederlage    
+
+**Gefallene Krieger:** Keine   
+
+**Belohnungen:** Keine  
+
+**Experience:**  
+ - Haffax: +2xp  
+ - Galotta: +2xp (advance: Fearsome)  
+ - Dimiona: +2xp (advance: +1 I)  
+ - Skrechu: +2xp
+ - Sulman: +2xp (advance: Resilient)
+ - Legion: +2xp (advance: +1 I) 
+ - Äxte: +2xp (advance: +1 WS) 
+ - Horde: +2xp (advance: +1 I) 
+ - Berserker: +2xp (advance: +1 Ld) 
+ - Torxes: +2xp (advance: +1 Ld) 
+
+**Sonstiges:** Nichts  
+
+**Exploration:**  
+3 Wyrdstones + 7GC: Alle verkaufen für 70 GC  
+
+**Trading:**  
+70 GC von Wyrdstone +3 GC vom Money Maker (7 insgesamt) + 176 GC übrig  
+  => 256 GC  
+  
+ - Upkeep Barde (10 GC)  
+ - Oger mit zusätzlichem Dagger (167 GC)  
+ - Alchemist: make Fire Bombs (!!!) (40 GC)  
+ - Pursuer mit zusätzlichem Dagger und 6 XP für Legion (39 GC)  
+ => 0 GC übrig  
+
+### Aktuelles Roster  
+*Heroes*  
+**Helme Haffax** (Pit King, 26 XP): 2x Dagger   
+
+**Gaius Cordovan Eslam Galotta** (Initiate, 7 XP): 2x Dagger  
+
+**Dimiona von Zorgan** (Initiate, 6 XP): 2x Dagger  
+
+**Skrechu** (Veteran, 10 XP): 2x Dagger  
+
+**Sulman al'Venish** (Dwarf Troll Slayer, 14 XP): 2x Dagger  
+
+*Henchmen*  
+**Arzuch** (1 Oger, 0 XP): 2x Dagger, Heavy Armour      
+
+**Unbesiegbare Legion von Yaq-Monnith** (2 Pursuer, 6 XP): 2x Dagger    
+
+**Blutige Äxte** (1 Pursuer, 2 XP): 2x Dagger  
+
+**Horde von Ghumai-Kal** (1 Pit Fighter, 2 XP): 2x Dagger  
+
+**Berserker des Belhalhar** (1 Pit Fighter, 2 XP): 2x Dagger  
+
+*Hired Swords*  
+**Torxes von Freigeist** (Bard, 3 XP): Sword, Dagger, Light Armour, Lyre  
+
+**Leonardo von Havena** (Alchemist, 15 XP): Staff, Dagger, Crossbow Pistol  
+
+
+**Treasure Chest:** 0 GC  
+**Alignment:** Lawful/Neutral  
+**Objective:** The Celestial Protectorate  
+**Campaign Points:** 2  
+**Warband Rating:** 186  
+
+### Nachspiel  
+*"Im düstern Auge keine Träne*  
+*Sie sitzen am Webstuhl und fletschen die Zähne:*  
+*Imperium, wir weben dein Leichentuch,*  
+*Wir weben hinein den dreifachen Fluch -*  
+*Wir weben, wir weben!*  
+
+*Ein Fluch dem Gotte, zu dem wir gebeten*  
+*In Winterskälte und Hungersnöten;*  
+*Wir haben vergebens gehofft und geharrt -*  
+*Er hat uns geäfft, gefoppt und genarrt -*  
+*Wir weben, wir weben! "*
+ - Auszug aus dem Pamphlet "Die imperialen Weber" von Tharsonius von Bethana, neuzeitlich unter Verschluss in der Garnison Wei-jin
+
+*"Ich finde Ihren Mangel an Glauben beklagenswert"*
+ - Johanna von Marienburg zu Helme Haffax, neuzeitlich
+
+"Bei den zwölf tanzenden Niederhöllen, das war schräg!" fauchte Dimiona. In seltener Einmütigkeit nickten die Grubenkämpfer. "Schräg fasst es noch nicht mal ansatzweise zusammen." Galotta spuckte aus. "Verdammte Fanatiker!"
+
+"Haffax, die Schwestern wollen das Chaos genau so sehr wie wir bekämpfen", meinte Sulman. "Mehr als wir, wenn ich völlig ehrlich bin. Aber in ihrem blinden Obrigkeitsgehorsam und ihrer verschrobenen Weltsicht können sie niemals verlässliche Verbündete für unseren Befreiungskampf sein." "Ja, das ist auch mein Eindruck. Gegenseitige temporäre Unterstützung gegen das Chaos ist sicherlich möglich, aber eine dauerhafte Allianz mit den Extremisten ist ausgeschlossen. Damit sind wir allerdings jetzt auch nicht weiter als vorher."
+
+In dem Moment war ein splitterndes Krachen aus den toten Wäldern zu hören. Ruckartig fuhren die Grubenkämpfer herum und griffen zu ihren Waffen. Ein dumpfes Stampfen und Knacken drang aus den Bäumen und es schien näher zu kommen. "Bei allen Erzdämonen was ist das? Auf mein Kommando…", brüllte Haffax als ein gigantisches Ungetüm durch die Bäume brach.
+
+Der Oger blieb stehen und betrachtete die Grubenkämpfer abschätzig. "Ihr Freunde der Gottes-Kriecher?", fragte er langsam. Haffax trat einen Schritt vor ohne sein Schwert zu senken. "Nein, das kann man nicht sagen. Wir sind Freiheitskämpfer. Wir folgen keinen Göttern, wir folgen Tharsonius von Bethana! Wer bist du?"
+
+"Arzuch, Sohn des Garrg, letzter Überlebender der Wittran-Sippe", erwiderte der Oger. Dann fasste er in seinen Beutel und entfaltete mit seinen plumpen Fingern einen zerfledderten Zettel. "Thrasonius, eh?" Sulman erkannte den Zettel als das Pamphlet "die imperialen Weber". "Du kannst lesen?", fragte er halb spöttisch, halb belustigt. Mit einem großen Schritt stand Arzuch vor ihm, packte ihn mit seinen wagenradgroßen Händen und hielt ihn sich mühelos vor das Gesicht: "Du witzig, kleiner Mann?", grollte er. "Ganz ruhig, Großer!" Haffax ging auf den Oger zu "Du kannst zwar unserem Sulman hier den Schädel zerquetschen, aber in dem Moment schlitzen wir dich auf. Das wäre doch für uns alle ein ziemlich unwillkommener Ausgang, oder?"
+
+Arzuch sah kurzzeitig aus las wollte er es darauf ankommen lassen, setze dann aber Sulman unbeschadet auf die Erde. "Ausgezeichnet", meinte Haffax, "woher kennst du den Bethanier?" "Aus Stadt. Gardisten des Imperium mich jagen. Fliehen in tote Wälder" Arzuchs Stimme war leise geworden. "Sei nicht traurig, schließ dich uns an, wir zeigen den imperialen Speichelleckern was Freiheit bedeutet", sagte Galotta inbrünstig. " Ich nicht traurig", entgegnete Arzuch mit blitzenden Augen, "ich wütend!" 
+
+Unwillkürlich traten die Grubenkämpfer einen Schritt zurück. "Ich mit euch kämpfem" sagte Arzuch in einem Tonfall der keinen Widerspruch zuließ. "Na dann, willkommen an Bord", erwiderte Haffax grinsend. Einen Oger als Gefährten zu haben konnte keine schlechte Wendung für sie sein. Langsam nahm ihre Gruppe Gestalt an.
