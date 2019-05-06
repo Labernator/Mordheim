@@ -96,3 +96,8 @@ Aaron:
 * 4 dices
 * 4 WS, sell ?
 
+**Henchmen XP:**
+8  
+
+**Trading:**
+2 Gor for Henchman Group Toddy (70gc (Henchmen) + 8gc (XP) + 3gc (Club) = 81gc)
