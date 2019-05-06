@@ -100,4 +100,5 @@ Aaron:
 8  
 
 **Trading:**
-2 Gor for Henchman Group Toddy (70gc (Henchmen) + 8gc (XP) + 3gc (Club) = 81gc)
+Fabian: 2 Gor for Henchman Group Toddy (70gc (Henchmen) + 8gc (XP) + 3gc (Club) = 81gc)
+Kai: 1 sword (10gc) + 2 Ork boy (25+4gc) = 68gc

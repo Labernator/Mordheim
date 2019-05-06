@@ -1,6 +1,6 @@
 warband: Orks, Goblins and Squigs (Orks)
 campaign: 10
-gc: 0
+gc: 15
 shards: 0
 equipment: Dagger
 objective: Scrooge of the realm
@@ -75,7 +75,7 @@ henchmen:
       weapons: Squig prodder, Short Bow
       rules: Animosity, Not orks, Runts
 
-    - group: Squigs (3 Squig) [0XP]
+    - group: Squigs (2 Squig) [0XP]
       stats: M2D6, WS4, BS0, S4, T3, W1, I4, A1, Ld5, Sv-
       rules: Movement, Minderz, Not orks, Animals
 
@@ -87,7 +87,7 @@ notes: |
          - Grumlok 4+ stunned save & Parry on >= hit & 5+ wound save (no mod)
          - Income scenario 3: Sold 5 wyrdstone (1 from scenario 3) = 70gc + (double 5 = axe + lucky charm)
            => 70gc + 13gc (treasure chest) = 83gc
-         - Bought: 1 sword (10gc) + 2 Ork boy (25+4gc) + 1 squig (15gc) = 83gc
+         - Bought: 1 sword (10gc) + 2 Ork boy (25+4gc) = 68gc
 
 achievments: |
         none
