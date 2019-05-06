@@ -1,7 +1,7 @@
 ## Warbands & Objectives   
  - Stefan: Pit Fighter (Celestial Protectorate)
  - Fabian: Beastmen (Scion of Darkness)
- - Marius: Sisters of Sigmar (Celestial Protectorate)
+ - Marius: Sisters of Sigmar (The damned shall burn)
  - Aaron: Dwarf Rangers (The Lure of Fortune) 
  - Kai: Orcs & Goblins (Scourge of the Realm) 
  
