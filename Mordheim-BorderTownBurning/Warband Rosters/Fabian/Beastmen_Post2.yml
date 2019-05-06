@@ -1,13 +1,13 @@
 warband: Clubsgiving (Beastmen)
-campaign: 3
-gc: 27
+campaign: 4
+gc: 15
 shards: 0
-equipment: Dagger, Dagger
+equipment: 
 objective: The Scion of Chaos
 alignment: chaotic
 
 heros:
-    - hero: Misses next game (Beastmen Chieftain) [22XP]
+    - hero: a(Beastmen Chieftain) [22XP]
       stats: M4, WS4, BS2, S4, T4, W1, I4, A1, Ld7, Sv-
       weapons: Club, Dagger
       armour: 
@@ -15,7 +15,7 @@ heros:
       large: false
       hiredsword: false
       skilllists: Strength, Combat, Speed, Special
-      injuries: Blind in One Eye, Leg Wound, Misses next game
+      injuries: Blind in One Eye, Leg Wound
 
     - hero: b (Beastmen Shaman) [14XP]
       stats: M5, WS4, BS3, S3, T4, W1, I4, A2, Ld7, Sv-
@@ -23,43 +23,43 @@ heros:
       rules: Magic User, Eye of God 6''
       skilllists: Strength, Combat, Speed, Special
 
-    - hero:  c(Centigor) [11XP]
+    - hero:  c(Centigor) [12XP]
       stats: M8, WS4, BS3, S4, T4, W1, I2, A1, Ld7, Sv-
       weapons: Club, Club
       rules: Drunken,Woodland Dwelling, Trample, Quadruped, Sweeping Blow, Cathayan Map (Beylandish)
       skilllists: Strength, Combat, Special
 
-    - hero: d (Bestigors) [9XP]
+    - hero: d (Bestigors) [10XP]
       stats: M5, WS4, BS3, S4, T4, W1, I3, A1, Ld7, Sv-
       weapons: Club, Club
       rules:
       skilllists: Strength, Combat, Special
 
-    - hero: e (Bestigors) [13XP]
-      stats: M5, WS4, BS3, S4, T4, W1, I3, A2, Ld7, Sv-
+    - hero: e (Bestigors) [15XP]
+      stats: M5, WS4, BS3, S4, T4, W1, I4, A2, Ld7, Sv-
       weapons: Halberd
       armour: Light Armour
       rules:
       skilllists: Strength, Combat, Special
 
-    - hero: Super Toddy (Gor) [2XP]
-      stats: M5, WS4, BS3, S3, T4, W1, I4, A1, Ld6, Sv-
+    - hero: Super Toddy (Gor) [4XP]
+      stats: M5, WS5, BS3, S3, T4, W1, I4, A1, Ld6, Sv-
       weapons: Club, Club
       rules: Infighting
       skilllists: Combat, Special
 
 henchmen:
-    - group: Toddy (1 Gor) [2XP]
+    - group: Toddy (3 Gor) [2XP]
       stats: M5, WS4, BS3, S4, T4, W1, I3, A1, Ld6, Sv-
-      weapons: Club, Club
+      weapons: Club, Dagger
       rules: Infighting
 
-    - group: Wuff (5 Warhounds of Chaos) [0XP]
+    - group: Wuff (4 Warhounds of Chaos) [0XP]
       stats: M7, WS4, BS0, S4, T3, W1, I3, A1, Ld5, Sv-
       rules: Animals
 
-    - group: Dagger (2 Gor) [3XP]
-      stats: M5, WS5, BS3, S3, T4, W1, I3, A1, Ld6, Sv-
+    - group: Dagger (2 Gor) [5XP]
+      stats: M5, WS5, BS3, S3, T4, W1, I4, A1, Ld6, Sv-
       weapons: Club, Sword
       rules: Infighting
 
