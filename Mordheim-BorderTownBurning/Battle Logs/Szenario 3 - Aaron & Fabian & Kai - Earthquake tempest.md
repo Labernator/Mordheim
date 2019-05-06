@@ -78,7 +78,7 @@ Fabian:
 * Dagger Henchmens: +1I
 
 Aaron:
-* Ragnar: +1 Skill
+* Floki: +1 Skill
 * Enforcer: +1A
 
 Income:
