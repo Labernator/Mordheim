@@ -6,24 +6,24 @@ shards: 1
 equipment:
 
 heros:
-    - hero: Ragnar (Runesmith) [24XP]
+    - hero: Ragnar (Runesmith) [26XP]
       stats: M3, WS5, BS4, S3, T4, W1, I2, A1, Ld10, Sv-
       # Racial maximums (Dwarfs):
       #      M3, WS7, BS6, S4, T5, W3, I5, A4, Ld10
       skilllists: Combat, Shooting, Academic, Strength, Special
       weapons: Axe, Axe
       armour: Helmet, Light Armour
-      rules: Leader, Blackblood, Expert Axeman, Haggle
+      rules: Leader, Blackblood, Expert Axeman
       # Skill wishlist:
       # * Two-Weapon Master (ignore -2 to hit for offhand)
       warbandaddition: 5
 
-    - hero: Floki (Apprentice Runesmith) [3XP]
+    - hero: Floki (Apprentice Runesmith) [4XP]
       skilllists: Combat, Academic, Strength, Special
       stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld9, Sv-
       weapons: Dwarf Axe, Dagger, Dagger
       armour: Helmet
-      rules: Extra Set Of Hands, Skilled Driver
+      rules: Extra Set Of Hands, Skilled Driver, Haggle
 
     - hero: Bjorn (Troll Slayer) [9XP]
       skilllists: Combat, Academic, Strength, Special
@@ -31,7 +31,7 @@ heros:
       weapons: Dwarf Axe, Dagger, Dagger
       rules: Deathwish
 
-    - hero: Ivar (Troll Slayer) [12XP]
+    - hero: Ivar (Troll Slayer) [13XP]
       skilllists: Combat, Strength, Special
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       weapons: Dwarf Axe, Axe, Dagger
@@ -41,7 +41,7 @@ heros:
       # * Berserker (+1 to hit)
       # * Sweeping strike (+1 attack for all models in base contact)
 
-    - hero: Gordon (Halfling Scout) [0XP]
+    - hero: Gordon (Halfling Scout) [1XP]
       skilllists: Shooting, Speed, Special
       stats: M4, WS2, BS4, S2, T2, W1, I4, A1, Ld8, Sv-
       weapons: Bow, Dagger
@@ -50,12 +50,12 @@ heros:
       hiredsword: true
 
 henchmen:
-    - group: Beard Mob (4 Beardling) [6XP]
+    - group: Beard Mob (4 Beardling) [7XP]
       stats: M3, WS4, BS2, S3, T4, W1, I2, A2, Ld8, Sv-
       weapons: Dagger, Dagger
       armour: Helmet
 
-    - group: The Enforcers (3 Beardling) [4XP]
+    - group: The Enforcers (3 Beardling) [6XP]
       stats: M3, WS4, BS2, S3, T4, W1, I2, A2, Ld8, Sv-
       weapons: Axe, Dagger
 
