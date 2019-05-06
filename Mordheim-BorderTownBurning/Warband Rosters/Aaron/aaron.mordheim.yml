@@ -1,7 +1,7 @@
 warband: The Revolting Dwarfs (Dwarf Rangers)
 campaign: 5
 objective: The Lure of Fortune
-gc: 60
+gc: 20
 shards: 1
 equipment:
 
@@ -21,20 +21,20 @@ heros:
     - hero: Floki (Apprentice Runesmith) [3XP]
       skilllists: Combat, Academic, Strength, Special
       stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld9, Sv-
-      weapons: Axe, Dagger
+      weapons: Dwarf Axe, Dagger, Dagger
       armour: Helmet
       rules: Extra Set Of Hands, Skilled Driver
 
     - hero: Bjorn (Troll Slayer) [9XP]
       skilllists: Combat, Academic, Strength, Special
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
-      weapons: Axe, Dagger
+      weapons: Dwarf Axe, Dagger, Dagger
       rules: Deathwish
 
     - hero: Ivar (Troll Slayer) [12XP]
       skilllists: Combat, Strength, Special
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
-      weapons: Axe, Axe
+      weapons: Dwarf Axe, Axe, Dagger
       rules: Deathwish, Two-Weapon Master
       # Skill wishlist:
       # * Fated (reroll serious injuries)
@@ -57,10 +57,9 @@ henchmen:
 
     - group: The Enforcers (3 Beardling) [4XP]
       stats: M3, WS4, BS2, S3, T4, W1, I2, A2, Ld8, Sv-
-      weapons: Dagger, Dagger
+      weapons: Axe, Dagger
 
 # Next stuff to buy:
-# * Dwarf Axes (main hand) for Bjorn and Ivar (15 GC, Rare 8) * 2 = 30 GC
 # * Dwarf Axes (main hand) for Mob (15 GC, Rare 8) * 4 = 60 GC
 # * Light armour for Mob (20 GC, common) * 4 = 80 GC
 #
@@ -68,6 +67,8 @@ henchmen:
 # Wagon (70 GC, Rare 7)
 # Horse (40 GC, Rare 8)
 
+achievments: |
+  Land Train
 
 notes: |
   Roll for runes before battle (1D6 -> Rune, (2x) 2D6 -> Difficulty (2=damaged, <=no effect, >==profit!)
