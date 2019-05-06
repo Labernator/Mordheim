@@ -60,6 +60,5 @@ Das Szenario wird aus folgender Liste ermittelt:
 - Aaron, Fabian, Kai: Earthquake (Tempest)
 
 ## Termine
-
-* Samstag, 28.04.2019 10:00 Uhr 
-* Samstag, 19.05.2019 10:00 Uhr 
+* Samstag, 19.05.2019 10:00 Uhr  
+* Sonntag, 02.06.2019 DOPPELTERMIN!
