@@ -1,12 +1,12 @@
 warband: The Revolting Dwarfs (Dwarf Rangers)
-campaign: 4
+campaign: 5
 objective: The Lure of Fortune
-gc: 0
-shards: 0
+gc: 20
+shards: 1
 equipment:
 
 heros:
-    - hero: Ragnar (Runesmith) [24XP]
+    - hero: Ragnar (Runesmith) [26XP]
       stats: M3, WS5, BS4, S3, T4, W1, I2, A1, Ld10, Sv-
       # Racial maximums (Dwarfs):
       #      M3, WS7, BS6, S4, T5, W3, I5, A4, Ld10
@@ -15,35 +15,33 @@ heros:
       armour: Helmet, Light Armour
       rules: Leader, Blackblood, Expert Axeman
       # Skill wishlist:
-      # * Haggle (-2D6 GC from a item on buy, 1x per post battle sequence)
       # * Two-Weapon Master (ignore -2 to hit for offhand)
       warbandaddition: 5
 
-    - hero: Floki (Apprentice Runesmith) [3XP]
+    - hero: Floki (Apprentice Runesmith) [4XP]
       skilllists: Combat, Academic, Strength, Special
       stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld9, Sv-
-      weapons: Axe, Dagger, Dagger
+      weapons: Dwarf Axe, Dagger, Dagger
       armour: Helmet
-      rules: Extra Set Of Hands
+      rules: Extra Set Of Hands, Skilled Driver, Haggle
 
-      # Miss next game (injury roll)
     - hero: Bjorn (Troll Slayer) [9XP]
       skilllists: Combat, Academic, Strength, Special
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
-      weapons:
-      rules: Deathwish, MISS NEXT GAME
+      weapons: Dwarf Axe, Dagger, Dagger
+      rules: Deathwish
 
-    - hero: Ivar (Troll Slayer) [12XP]
+    - hero: Ivar (Troll Slayer) [13XP]
       skilllists: Combat, Strength, Special
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
-      weapons: Axe, Axe, Axe
+      weapons: Dwarf Axe, Axe, Dagger
       rules: Deathwish, Two-Weapon Master
       # Skill wishlist:
       # * Fated (reroll serious injuries)
       # * Berserker (+1 to hit)
       # * Sweeping strike (+1 attack for all models in base contact)
 
-    - hero: Gordon (Halfling Scout) [0XP]
+    - hero: Gordon (Halfling Scout) [1XP]
       skilllists: Shooting, Speed, Special
       stats: M4, WS2, BS4, S2, T2, W1, I4, A1, Ld8, Sv-
       weapons: Bow, Dagger
@@ -52,17 +50,16 @@ heros:
       hiredsword: true
 
 henchmen:
-    - group: Beard Mob (4 Beardling) [6XP]
+    - group: Beard Mob (4 Beardling) [7XP]
       stats: M3, WS4, BS2, S3, T4, W1, I2, A2, Ld8, Sv-
       weapons: Dagger, Dagger
       armour: Helmet
 
-    - group: The Enforcers (3 Beardling) [4XP]
-      stats: M3, WS4, BS2, S3, T4, W1, I2, A1, Ld8, Sv-
-      weapons: Dagger, Dagger
+    - group: The Enforcers (3 Beardling) [6XP]
+      stats: M3, WS4, BS2, S3, T4, W1, I2, A2, Ld8, Sv-
+      weapons: Axe, Dagger
 
 # Next stuff to buy:
-# * Dwarf Axes (main hand) for Bjorn and Ivar (15 GC, Rare 8) * 2 = 30 GC
 # * Dwarf Axes (main hand) for Mob (15 GC, Rare 8) * 4 = 60 GC
 # * Light armour for Mob (20 GC, common) * 4 = 80 GC
 #
@@ -70,11 +67,14 @@ henchmen:
 # Wagon (70 GC, Rare 7)
 # Horse (40 GC, Rare 8)
 
+achievments: |
+  Land Train
 
 notes: |
   Roll for runes before battle (1D6 -> Rune, (2x) 2D6 -> Difficulty (2=damaged, <=no effect, >==profit!)
   Blackblood (Ragnar) = Anyone in base contact got S3 hit if wounded
   Expert Axeman (Ragnar) = Reroll all failed hits when charging (axe only)
+  Haggle = -2D6 GC from a item on buy, 1x per post battle sequence
   Helmet (Ragnar, Floki, Mob, Cook) = 4+ save against stunned
   Two-Weapon Master (Ivar) = hit on 3 and 3, not 3 and 5
   Cutting Edge (Axe) = -1 save modifier

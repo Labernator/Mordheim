@@ -1,7 +1,7 @@
 ## Warbands & Objectives   
  - Stefan: Pit Fighter (Celestial Protectorate)
  - Fabian: Beastmen (Scion of Darkness)
- - Marius: Sisters of Sigmar (Celestial Protectorate)
+ - Marius: Sisters of Sigmar (The damned shall burn)
  - Aaron: Dwarf Rangers (The Lure of Fortune) 
  - Kai: Orcs & Goblins (Scourge of the Realm) 
  
@@ -32,13 +32,13 @@ Das Szenario wird aus folgender Liste ermittelt:
   - Unlocking the tomb (**Runde 2**)  
   - Vampire Hunters
   - Don't wake the giant
-  - Round-Up At The Mordheim Corral 
+  - Round-Up At The Mordheim Corral (**Runde 4**)
   
 **Multiplayer Scenarios**   
   - Man Hunt  
   - Last Orders!  
   - The Enemy of my Enemy  
-  - The Great Library
+  - The Great Library (**Runde 4**)
   - The Raven Barracks
   - Night Of The Dead (**Runde 1**) 
   - The Game (**Runde 2**)
@@ -59,7 +59,10 @@ Das Szenario wird aus folgender Liste ermittelt:
 - Stefan, Marius: Tainted Corpse (Gale)
 - Aaron, Fabian, Kai: Earthquake (Tempest)
 
-## Termine
+4. Szenario Runde (08.05.2019):   
+- Stefan, Aaron, Fabian: The Great Library (Gale)
+- Marius, Kai: Round-Up At The Mordheim Corral (Gale)
 
-* Samstag, 28.04.2019 10:00 Uhr 
-* Samstag, 19.05.2019 10:00 Uhr 
+## Termine
+* Samstag, 19.05.2019 10:00 Uhr  
+* Sonntag, 02.06.2019 DOPPELTERMIN!
