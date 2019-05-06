@@ -59,7 +59,7 @@ Das Szenario wird aus folgender Liste ermittelt:
 - Stefan, Marius: Tainted Corpse (Gale)
 - Aaron, Fabian, Kai: Earthquake (Tempest)
 
-3. Szenario Runde (08.05.2019):   
+4. Szenario Runde (08.05.2019):   
 - Stefan, Aaron, Fabian: The Great Library (Gale)
 - Marius, Kai: Round-Up At The Mordheim Corral (Gale)
 
