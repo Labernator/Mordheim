@@ -1,8 +1,8 @@
 warband: The Revolting Dwarfs (Dwarf Rangers)
-campaign: 4
+campaign: 5
 objective: The Lure of Fortune
-gc: 0
-shards: 0
+gc: 60
+shards: 1
 equipment:
 
 heros:
@@ -13,30 +13,28 @@ heros:
       skilllists: Combat, Shooting, Academic, Strength, Special
       weapons: Axe, Axe
       armour: Helmet, Light Armour
-      rules: Leader, Blackblood, Expert Axeman
+      rules: Leader, Blackblood, Expert Axeman, Haggle
       # Skill wishlist:
-      # * Haggle (-2D6 GC from a item on buy, 1x per post battle sequence)
       # * Two-Weapon Master (ignore -2 to hit for offhand)
       warbandaddition: 5
 
     - hero: Floki (Apprentice Runesmith) [3XP]
       skilllists: Combat, Academic, Strength, Special
       stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld9, Sv-
-      weapons: Axe, Dagger, Dagger
+      weapons: Axe, Dagger
       armour: Helmet
-      rules: Extra Set Of Hands
+      rules: Extra Set Of Hands, Skilled Driver
 
-      # Miss next game (injury roll)
     - hero: Bjorn (Troll Slayer) [9XP]
       skilllists: Combat, Academic, Strength, Special
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
-      weapons:
-      rules: Deathwish, MISS NEXT GAME
+      weapons: Axe, Dagger
+      rules: Deathwish
 
     - hero: Ivar (Troll Slayer) [12XP]
       skilllists: Combat, Strength, Special
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
-      weapons: Axe, Axe, Axe
+      weapons: Axe, Axe
       rules: Deathwish, Two-Weapon Master
       # Skill wishlist:
       # * Fated (reroll serious injuries)
@@ -58,7 +56,7 @@ henchmen:
       armour: Helmet
 
     - group: The Enforcers (3 Beardling) [4XP]
-      stats: M3, WS4, BS2, S3, T4, W1, I2, A1, Ld8, Sv-
+      stats: M3, WS4, BS2, S3, T4, W1, I2, A2, Ld8, Sv-
       weapons: Dagger, Dagger
 
 # Next stuff to buy:
@@ -75,6 +73,7 @@ notes: |
   Roll for runes before battle (1D6 -> Rune, (2x) 2D6 -> Difficulty (2=damaged, <=no effect, >==profit!)
   Blackblood (Ragnar) = Anyone in base contact got S3 hit if wounded
   Expert Axeman (Ragnar) = Reroll all failed hits when charging (axe only)
+  Haggle = -2D6 GC from a item on buy, 1x per post battle sequence
   Helmet (Ragnar, Floki, Mob, Cook) = 4+ save against stunned
   Two-Weapon Master (Ivar) = hit on 3 and 3, not 3 and 5
   Cutting Edge (Axe) = -1 save modifier
