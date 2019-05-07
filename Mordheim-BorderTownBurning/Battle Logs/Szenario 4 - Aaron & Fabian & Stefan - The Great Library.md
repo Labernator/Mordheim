@@ -59,7 +59,7 @@ Alchemist produziert D3 Firebombs:
 **Henchmen XP:**
   
 
-**Trading:**
+**Trading:**  
 *Aaron*  
 
 *Fabian*  
