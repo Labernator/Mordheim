@@ -84,12 +84,14 @@ Floki +2 (Skill)
 Alle +1 ausser Bestigor  
 
 *Stefan*  
-Alle +1 ausser:
+Alle +1 ausser:  
 Dimiona +2 (+1A)  
 Arzuch +3  
-Bard +3 (+1 BS, +1 BS)
+Bard +3 (+1 BS, +1 BS)  
 Skrechu +4 (Skill: Resilient, Skill)  
-Haffax +2 (Skill)  
+Haffax +3 (Skill)  
+Blutige Äxte +0  
+Galotta Advance ()  
 
 **Exploration:**  
 *Aaron*  
