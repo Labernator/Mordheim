@@ -15,49 +15,96 @@ Stefan:186
 
 **Pre-Game Rolls**  
 *Aaron*  
-Runesmith & Apprentice zaubern zwei Runen:  
+Runesmith & Apprentice zaubern zwei Runen:
+Ivar: Rune of Speed (ini *2)
 
 *Stefan*  
-Alchemist produziert D3 Firebombs:  
+Alchemist produziert D3 Firebombs:
+2 Firebombs
 
 **Battle Log:**  
+Aufstellung: Aaron, Stefan, Fabian
 
+Random Happening: Screaming Trees  
+Random Happening: Belandish  
+Aaron 4* S1 Hit from the Tree  
+Aaron 4* S1 hit from tree  
+Ivar killt dog  
+Enforcer killt dog  
+Ivar killt dog  
+Bestigor ohne Axt stirbt am Baum  
+Belandish killed Blutige Äxte
+Dimiona killed Belandisch!1111
+Björn picked up thome
+Floki got tome  
+mob got tome  
+Arzuch got 2 tome  
+Bard got 2 tome  
 
 
 **Injuries:**  
 *Aaron*  
+nope  
 
 *Fabian*  
+Hunde recovern  
+Bestigor hat chest wound (-1t)  
 
 *Stefan*  
-
+axt recovered  
 
 **Campagne Points:**  
 *Aaron*  
++1  
 
 *Fabian*  
++1  TEILNAHME  
+-2 prophecy foiled  
 
 *Stefan*  
++1 teilnahme
++3 sieg  
++3 Chaos artefact found  
+
+**Rewards:**  
+*Aaron:* Verkauft 3 fuer 91GC  
+*Stefan:* Skrechu liest (Pawnbroker), liest nochmal (Haggle), liest nochmal (misses next game), liest nochmal (3 XP)  
+
 
 **Experience:**  
 *Aaron*  
+alle +1 ausser:  
+Ivar +3 (Skill)  
+Enforcer +2  
+Mob +2 (+1 BS)  
+Bjoern +2 (+1Ld)   
+Floki +2 (Skill)   
 
 *Fabian*  
+Alle +1 ausser Bestigor  
 
 *Stefan*  
+Alle +1 ausser:
+Dimiona +2 (+1A)  
+Arzuch +3  
+Bard +3 (+1 BS, +1 BS)
+Skrechu +4 (Skill: Resilient, Skill)  
 
 **Exploration:**  
 *Aaron*  
+4 Wyrdstones, doppel 5: Axe + Luxky Charm  
 
 *Fabian*  
+4 Wyrdstones  
 
 *Stefan*  
+4 Wyrdstones, doopel 2 6GC, Wheelbarrow, Moneymaker 4  
 
 **Hired Swords Blood Pact:**
-
+nope  
 
 **Henchmen XP:**
-  
+6  
 
 **Trading:**  
 *Aaron*  
