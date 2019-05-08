@@ -8,6 +8,8 @@ import copy
 
 from simu_unit import *
 
+#from fight_declaration_kai import * # enable to debug only
+
 try:
   from fight_declaration_kai import *
 except:
@@ -61,7 +63,7 @@ def getMinWoundRoll(s, t):
 
 def printChar(u):
     print u.name + " characteristics"
-    print "T S WS AS W A I  St  CW CooA"
+    print "WS S T W I A AS St  CW CooA"
     state = ""
     if u.state == 0:
         state = "-"
@@ -72,7 +74,7 @@ def printChar(u):
     else:
         state = "ooa"
 
-    out = str(u.t) + " " + str(u.s) + "  " + str(u.ws) + "  " + str(u._as) + " " + str(u.w) + " " + str(u.a) + " " + str(u.i)
+    out = str(u.ws) + "  " + str(u.s) + " " + str(u.t) + " " + str(u.w) + " " + str(u.i) + " " + str(u.a) + " " + str(u._as)
     if u.i > 0:
       out = out + "  "
     else:
@@ -102,11 +104,11 @@ def attack(u1, u2, wn, first_round = False):
     else: # u2 is not in state normal
         if u2.pre_state == 0:
                 # try to hit the target because it was not > normal in the last round
-        	hit_granted = tryToHit(u1, u2, wn, first_round)
-	else:
+                hit_granted = tryToHit(u1, u2, wn, first_round)
+        else:
                 # autohit because the target is knocked down
-        	print "\tauto hit"
-        	hit_granted = True
+                print "\tauto hit"
+                hit_granted = True
 
     if hit_granted == True:
         # WOUND
@@ -307,7 +309,7 @@ def tryToInjure(u1, u2, wn, u2_w_old):
     injury_addition = 0
 
     if u2.w > 0:
-	u1.causedWounds = u1.causedWounds + 1
+        u1.causedWounds = u1.causedWounds + 1
         u2.w = u2.w - 1;
     if u2_w_old == 0:
         injury_addition = 1
@@ -360,10 +362,10 @@ def doInjuryRoll(u1, u2, wn, injury_addition):
 
                 print "\t\t\tstunned save roll: " + str(roll)
                 if roll >= tmp_stnSv:
-			print "\t\t\tgranted, knocked down instead"
-			u2.state = 1
-			u2.i = -9 # strike last
-			return True
+                    print "\t\t\tgranted, knocked down instead"
+                    u2.state = 1
+                    u2.i = -9 # strike last
+                    return True
 
             print "\t\t\tstunned"
 
@@ -375,7 +377,7 @@ def doInjuryRoll(u1, u2, wn, injury_addition):
 
             if u2.state < 3:
                 u2.state = 3
-	        u1.causedOOA = u1.causedOOA + 1
+                u1.causedOOA = u1.causedOOA + 1
 
 
 def doAllAttacks(u1, u2, first_round = False):
@@ -402,6 +404,7 @@ def doAllAttacks(u1, u2, first_round = False):
                 main_weapon = i
         i = i + 1
 
+    # TODO if there are more than two weapon set only the last off hand weapon in the list will be used to process the off hand attacks
     if main_weapon > -1:
         for w in range(0, a_main):
             attack(u1, u2, main_weapon, first_round) # do the w'th attack
@@ -437,7 +440,7 @@ def doFight(attacker, target, first_round = False):
             print "\t\tauto ooa\n"
 
             target.state = 3 # out of action
-	    attacker.causedOOA = attacker.causedOOA + 1
+            attacker.causedOOA = attacker.causedOOA + 1
 
             printChar(attacker)
             printChar(target)
@@ -470,17 +473,19 @@ def fightTilOOA(fighters):
 
     first_round = True
 
-    all_fighters = attackers + [ target ]
+    all_fighters = tmp_att + [ tmp_tgt ]
 
     rounds = 0
 
     while allAttackersDead(tmp_att) == False and tmp_tgt.state < 3:
 
-	if tmp_tgt.inconsistency == True:
+        if tmp_tgt.inconsistency == True:
             tmp_tgt.ws = random.randint(1,6)
             tmp_tgt.s = random.randint(1,6)
             tmp_tgt.t = random.randint(1,6)
             tmp_tgt.a = random.randint(2,4)
+            if tmp_tgt.i > 0:
+                tmp_tgt.i = random.randint(1,6)
 
             #enablePrint()
             print "\n---- " + tmp_tgt.name + " stats for this round"
@@ -495,9 +500,11 @@ def fightTilOOA(fighters):
                 a.s = random.randint(1,6)
                 a.t = random.randint(1,6)
                 a.a = random.randint(2,4)
+                if a.i > 0:
+                    a.i = random.randint(1,6)
 
                 print "\n---- " + tmp_tgt.name + " stats for this round"
-                printChar(tmp_tgt)
+                printChar(a)
                 print "---"
 
         if first_round == True:
@@ -528,7 +535,11 @@ def fightTilOOA(fighters):
                             if tmp_doNotUseOffhand == False:
                                 foes[k][0].doNotUseOffhand = True if random.randint(0,1) else False
                                 tmp_doNotUseOffhand = True
-                                print "\t" + tmp_att[j].name + " St = " + getStrState(tmp_att[j].state) + " off hand attack"
+                                if tmp_tgt.weapon[0]["offhand"] == True or \
+                                   (len(tmp_tgt.weapon) > 1 and \
+                                    tmp_tgt.weapon[1]["offhand"] == True):
+
+                                  print "\t" + tmp_att[j].name + " St = " + getStrState(tmp_att[j].state) + " off hand attack"
 
                             foes[k][1] = foes[k][1] + 1
                             tmp_inc = True
@@ -539,7 +550,11 @@ def fightTilOOA(fighters):
                         if tmp_doNotUseOffhand == False:
                             foes[-1][0].doNotUseOffhand = True if random.randint(0,1) else False
                             tmp_doNotUseOffhand = True
-                            print "\t" + tmp_att[j].name + " St = " + getStrState(tmp_att[j].state) + " off hand attack"
+                            if tmp_tgt.weapon[0]["offhand"] == True or \
+                               (len(tmp_tgt.weapon) > 1 and \
+                                tmp_tgt.weapon[1]["offhand"] == True):
+
+                              print "\t" + tmp_att[j].name + " St = " + getStrState(tmp_att[j].state) + " off hand attack"
 
                 for ff in foes:
                     # generate a new temporary attacker unit object
@@ -619,7 +634,12 @@ def fightTilOOA(fighters):
 
             fights_ini_ordered = []
             # 1. liste fer kampfenden nach ini sortieren
-	    fights_ini_ordered = sorted(all_fighters, key=lambda x: x.i, reverse=True)
+            fights_ini_ordered = sorted(all_fighters, key=lambda x: x.i, reverse=True)
+
+            print "\nfight order:"
+            for t in fights_ini_ordered:
+                print "\t" + t.name + " " + str(t.i)
+            print
 
             #for fo in fights_ini_ordered:
             #    print fo.name + " " + str(fo.i)
@@ -670,7 +690,11 @@ def fightTilOOA(fighters):
                                     if tmp_doNotUseOffhand == False:
                                         foes[k][0].doNotUseOffhand = True if random.randint(0,1) else False
                                         tmp_doNotUseOffhand = True
-                                        print "\t" + tmp_att[j].name + " St = " + getStrState(tmp_att[j].state) + " off hand attack"
+                                        if tmp_tgt.weapon[0]["offhand"] == True or \
+                                           (len(tmp_tgt.weapon) > 1 and \
+                                            tmp_tgt.weapon[1]["offhand"] == True):
+                                          print "\t" + tmp_att[j].name + " St = " + getStrState(tmp_att[j].state) + " off hand attack"
+
                                     foes[k][1] = foes[k][1] + 1
                                     tmp_inc = True
                                     break
@@ -680,7 +704,10 @@ def fightTilOOA(fighters):
                                 if tmp_doNotUseOffhand == False:
                                     foes[-1][0].doNotUseOffhand = True if random.randint(0,1) else False
                                     tmp_doNotUseOffhand = True
-                                    print "\t" + tmp_att[j].name + " St = " + getStrState(tmp_att[j].state) + " off hand attack"
+                                    if tmp_tgt.weapon[0]["offhand"] == True or \
+                                       (len(tmp_tgt.weapon) > 1 and \
+                                        tmp_tgt.weapon[1]["offhand"] == True):
+                                      print "\t" + tmp_att[j].name + " St = " + getStrState(tmp_att[j].state) + " off hand attack"
 
                         for ff in foes:
                             # generate a new temporary attacker unit object
