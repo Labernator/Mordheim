@@ -84,22 +84,24 @@ Floki +2 (Skill)
 Alle +1 ausser Bestigor  
 
 *Stefan*  
-Alle +1 ausser:
+Alle +1 ausser:  
 Dimiona +2 (+1A)  
 Arzuch +3  
-Bard +3 (+1 BS, +1 BS)
+Bard +3 (+1 BS, +1 BS)  
 Skrechu +4 (Skill: Resilient, Skill)  
-Haffax +2 (Skill)  
+Haffax +3 (Skill)  
+Blutige Äxte +0  
+Galotta Advance (Skill)  
 
 **Exploration:**  
 *Aaron*  
-4 Wyrdstones, doppel 5: Axe + Luxky Charm  
+4 Wyrdstones, doppel 5: Axe + Lucky Charm  
 
 *Fabian*  
 4 Wyrdstones  
 
 *Stefan*  
-4 Wyrdstones, doopel 2 6GC, Wheelbarrow, Moneymaker 4  
+4 Wyrdstones, doppel 2 6GC, Wheelbarrow, Moneymaker 4 GC  
 
 **Hired Swords Blood Pact:**
 nope  
@@ -113,3 +115,19 @@ nope
 *Fabian*  
 
 *Stefan*   
+Verkaufe 3 Wyrdstones für 60 GC   
+Verkaufe 2 Firebombs für 50 GC  
+Moneymaker & Exploration 10 GC  
+Verkaufe Wheelbarrow (mit Pawnbroker) 5GC  
+Verkaufe 2 Dagger (mit Pawnbroker) 4GC  
+=> 129 GC +1 Wyrdstone  
+
+Kaufe 2 Pursuer mit je 2 XP (für Blutige Äxte) 58 GC  
+Bezahle Upkeep Alchemist (nicht Barde) 15 GC  
+Kaufe Barde 20 GC  
+Kaufe Kislev Ranger 30 GC  
+Kaufe Halberd (mit Haggle) 1 GC  
+Kaufe Lyre 5 GC  
+=> 129 GC
+
+Nix mehr übrig, alles bestens :)
