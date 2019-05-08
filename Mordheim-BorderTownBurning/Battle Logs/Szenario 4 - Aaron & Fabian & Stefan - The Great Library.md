@@ -89,6 +89,7 @@ Dimiona +2 (+1A)
 Arzuch +3  
 Bard +3 (+1 BS, +1 BS)
 Skrechu +4 (Skill: Resilient, Skill)  
+Haffax +2 (Skill)  
 
 **Exploration:**  
 *Aaron*  
