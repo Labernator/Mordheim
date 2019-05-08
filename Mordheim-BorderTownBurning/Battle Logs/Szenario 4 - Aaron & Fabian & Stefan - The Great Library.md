@@ -118,7 +118,7 @@ nope
 Verkaufe 3 Wyrdstones für 60 GC   
 Verkaufe 2 Firebombs für 50 GC  
 Moneymaker & Exploration 10 GC  
-Verkaufe Wheelbarrow (mit Pawnbroker) 5GC
+Verkaufe Wheelbarrow (mit Pawnbroker) 5GC  
 Verkaufe 2 Dagger (mit Pawnbroker) 4GC  
 => 129 GC +1 Wyrdstone  
 
@@ -127,8 +127,7 @@ Bezahle Upkeep Alchemist (nicht Barde) 15 GC
 Kaufe Barde 20 GC  
 Kaufe Kislev Ranger 30 GC  
 Kaufe Halberd (mit Haggle) 1 GC  
-Kaufe Lyre 5 GC
-
+Kaufe Lyre 5 GC  
 => 129 GC
 
 Nix mehr übrig, alles bestens :)
