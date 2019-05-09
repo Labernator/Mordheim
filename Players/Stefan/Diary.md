@@ -386,7 +386,7 @@ Für meine Warband habe ich einen ungefähren Plan, wie ich dafür sorgen will, 
 In diesem Sinne:  
 [![GELD](https://img.youtube.com/vi/PGWTcIoBMuE/0.jpg)](https://www.youtube.com/watch?v=PGWTcIoBMuE)
 
-## Debriefeing BTB Game 3  
+## Debriefing BTB Game 3  
 **16.04.19**  
 Sooo, das Spiel von Marius und mir in den bewegungsfreudigen Wäldern ist durch und ich kann nur sagen: Holy hell, das ist ein krasses Szenario!
 
@@ -426,3 +426,44 @@ Meine ToDo Liste Stand jetzt nach Absteigender Priorität
  - 20+ CP erreichen bevor Fabian das tut und dann "The Horde Approaches" gegen ihn gewinnen (Kampagne)
 
 Ich bin auf jeden Fall extrem froh, dass ich nicht mehr nur an der Seitenlinie zuschaue, sondern jetzt auch in der Lage bin wieder kräftig in den Szenarios mitzumischen. Game on!
+
+## Debriefing BTB Game 4  
+**09.05.2019**  
+In Magic (meinem anderen großen Nerd-Hobby) gibt es einen geflügelten Ausdruck: "Better lucky than good!". Und alter Schwede beschreibt der das letzte Spiel gut.
+
+Der erste große Glücksfall für mich war, dass ich das Szenario auswählen durfte. The Great Library ist im Moment für mich das ideale Szenario:
+
+- Möglichkeit Academic Skills zu erhalten (durch Bücher) die ich sonst realistisch nicht habe und dadurch mein Einkommen zu steigern
+- Möglichkeit gefahrlos und schnell XP auf meinen Barden zu bekommen (durch Bücher) und dadurch mein Einkommen zu steigern
+- Beste Möglichkeit für Fabian Belandysh zu spawnen (durch unbeschränkte Random Happenings) und so für mich an das Chaos Artefakt zu kommen
+
+Der zweite große Glücksfall war, dass ich als Zweiter dran war mit dem Aufstellen. Aaron hatte sich an die Seite gestellt, an der man am leichtesten an die Bücher kommt. Ich hatte die Wahl mich aggressiv neben Aaron zu platzieren und ihm die Bücher streitig zu mach, oder mich ans andere Tischende zu verziehen und auf ein paar Bücher zu verzichten.
+Dafür war ich mir ziemlich sicher, dass Fabian dann die Position neben Aaron nehmen würde. Sie war einfach zu offensichtlich gut.
+
+Das war tatsächlich auch meine einzige wirklich spielrelevante Entscheidung die ich in gestern hatte. Da ich Überleben höher priorisiere als Gold habe ich mich Aaron gegenüber aufgestellt und abgewartet wie sich Aaron und Kai die Schädel einschlagen.
+
+Der dritte Glücksfall war, dass Fabian direkt in seiner ersten Runde Belandysh spawnen konnte und das auch tat. Und natürlich kam er direkt in meiner Ecke ins Spiel. 
+
+Ich habe dann mit meinem Oger die beiden Bücher abgegriffen die weiter entfernt waren (M6 ist mächtig!), dem Barden die beiden Bücher überlassen die nahe lagen, einen Henchmen als Kanonenfutter vor Belandysh gestellt und den Rest meiner Warband in Charge-Range gebracht mit potenziellen Fear Rerolls vom Barden.
+
+Der vierte und letzte riesige Glücksfall waren die Stat Rolls von Belandysh. Einmal T2 und einmal T3. Alles klar, mit sowas kann ich arbeiten =)
+
+Der Kampf hat mich ganz schön Nerven gekostet (Fabian hat die ersten fünf Wunden direkt alle regeneriert), aber am Ende habe ich nur einen Henchmen verloren. Gehyped bin ich natürlich ohne Ende. Der Zwischenboss ist tot!!
+
+Also ja, zusammenfassend gilt auch in diesem Spiel: Better lucky than good!
+
+Einziger Wertmutstropfen ist mein Barde, der es in drei Advances nicht hingekriegt hat einen Skill zu erwürfeln. Der wird durch einen neuen unverbrauchten ersetzt, aber das sind 35 GC und zwei Bücher-XP die ich in den Wind geschossen habe. Ist natürlich Jammern auch sehr hohem Niveau…
+
+CP-mäßig hat mich dieser Sieg deutlich nach vorne gebracht und auch was das Powerlevel der Warband angeht fühle ich mich einigermaßen gut.
+
+Nur das nächste Spiel wird übel, weil zwei meiner Helden aussetzen müssen. Das ist auch für die Exploration irgendwie ganz ungeschickt…
+
+Meine ToDo Liste Stand jetzt nach Absteigender Priorität
+ - Das nächste Szenario gewinnen (CP)
+ - Den sechsten Hero bekommen (GC)
+ - Skills auf den Barden bekommen (GC)
+ - Das "Chaos Dragon Hunt" Szenario freischalten (Kampagne)
+ - Besseres Equipment (Warband)
+ - Rout Limit 5 erreichen (Warband)
+ - ~~Das Chaos Schwert erbeuten (Kampagne)
+ - 20+ CP erreichen bevor Fabian das tut und dann "The Horde Approaches" gegen ihn gewinnen (Kampagne)
