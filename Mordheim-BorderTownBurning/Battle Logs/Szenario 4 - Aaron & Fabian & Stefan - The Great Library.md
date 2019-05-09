@@ -88,10 +88,10 @@ Alle +1 ausser:
 Dimiona +2 (+1A)  
 Arzuch +3  
 Bard +3 (+1 BS, +1 BS)  
-Skrechu +4 (Skill: Resilient, Skill)  
-Haffax +3 (Skill)  
+Skrechu +4 (Skill: Resilient, Skill: Bulging Biceps)  
+Haffax +3 (Skill: Bulging Biceps)  
 Blutige Äxte +0  
-Galotta Advance (Skill)  
+Galotta Advance (Skill: Resilient)  
 
 **Exploration:**  
 *Aaron*  
