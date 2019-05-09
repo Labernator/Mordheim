@@ -465,5 +465,5 @@ Meine ToDo Liste Stand jetzt nach Absteigender Priorität
  - Das "Chaos Dragon Hunt" Szenario freischalten (Kampagne)
  - Besseres Equipment (Warband)
  - Rout Limit 5 erreichen (Warband)
- - ~~Das Chaos Schwert erbeuten (Kampagne)
+ - ~~Das Chaos Schwert erbeuten (Kampagne)~~
  - 20+ CP erreichen bevor Fabian das tut und dann "The Horde Approaches" gegen ihn gewinnen (Kampagne)
