@@ -19,7 +19,7 @@ heros:
       stats: M4, WS3, BS2, S3, T3, W1, I3, A1, Ld6, Sv-
       weapons: 2x Dagger
       armour: Chaos Sword
-      rules: Money Maker, Fearsome, Resilient
+      rules: Money Maker, Fearsome, Grizzled Veteran
 
     - hero: Dimiona von Zorgan (Initiate) [8XP]
       skilllists: Combat, Strength, Special

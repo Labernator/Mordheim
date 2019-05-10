@@ -91,7 +91,7 @@ Bard +3 (+1 BS, +1 BS)
 Skrechu +4 (Skill: Resilient, Skill: Bulging Biceps)  
 Haffax +3 (Skill: Bulging Biceps)  
 Blutige Äxte +0  
-Galotta Advance (Skill: Resilient)  
+Galotta Advance (Skill: Grizzled Veteran)  
 
 **Exploration:**  
 *Aaron*  
