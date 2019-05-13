@@ -1,6 +1,5 @@
 # Mordheim
 
-* [House rules scenario](/Mordheim-Scenarios/Dokumente/Houserules.md)
 * [House rules BTB campaign](/Mordheim-BorderTownBurning/Houserules.md)
 * [Mordheim:Border Town Burning](/Mordheim-BorderTownBurning/README.md)
 * [Alte Mordheim Scenarios](/Mordheim-Scenarios/README.md)
