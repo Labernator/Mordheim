@@ -62,3 +62,4 @@ NEU: In its saddlebags, you find a rain coat, a net, 2 garlic cloves and 2D6 gol
 
 23.) Serious injuries wie smashed leg, leg wound, hand wound, chest wound, nervous condition, blinded in one eye führen dazu das auf der betroffenen Stat keine verbesserungen mehr aufaddiert werden können, bis sie geheilt wurden. Siehe 22.
 
+24.) Hired Swords können jedes Equipment tragen, dass  die Seltenheit "Common" hat. 
