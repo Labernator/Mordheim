@@ -112,7 +112,7 @@ gruppe4 +1
 Sells 7 => 100 gc  
 
 *Marius*  
-6 Würfel +1 (gewinnen) + 2 (augur) + => 5 ws + doppel 6 => 2 garlic gloves, rain coat, net, 8 gc  
+6 Würfel +1 (gewinnen) (augur 2 discarded 1) wyrdstone hunter re-roll one + => 26 => 5 ws + doppel 6 => 2 garlic gloves, rain coat, net, 8 gc  
 Sells 7 => 100 gc  
 
 **Hired Swords Blood Pact:**
