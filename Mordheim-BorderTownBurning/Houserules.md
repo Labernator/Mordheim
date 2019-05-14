@@ -90,7 +90,7 @@ Troll Vomit
 
 29.) Der Combat Skill "Shield smash" funktioniert nicht bei einer reitenden Einheit. Das Schild gewährt aber weiterhin den AS Bonus.
 
-30.) Der Augur (Sisters of Sigmar und andere) hat den Skill "Ignore Blind in one Eye". Er kann nicht erblinden, er ist schon blind.
+30.) Die Augur (Sisters of Sigmar und andere) hat den Skill "Ignore Blind in one Eye". Er kann nicht erblinden, er ist schon blind.
 
 31.) Einheiten können von einem Szenario freiwillig ausgesetzt werden.
 
@@ -125,4 +125,5 @@ NEU: In its saddlebags, you find a rain coat, a net, 2 garlic cloves and 2D6 gol
 
 43.) Serious injuries wie smashed leg, leg wound, hand wound, chest wound, nervous condition, blinded in one eye führen dazu das auf der betroffenen Stat keine verbesserungen mehr aufaddiert werden können, bis sie geheilt wurden. Siehe 22.
 
-44.) Hired Swords können jedes Equipment tragen, dass  die Seltenheit "Common" hat. 
+44.) Hired Swords können jedes Equipment tragen, dass die Seltenheit "Common" hat. 
+
