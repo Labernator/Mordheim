@@ -19,7 +19,7 @@ Round 2:  16:42 Uhr
 
 Round 3: 17:08 Uhr
 * No random happening (3)
-* Squig killed replacement Boss (Schaman)
+* Squig killed replacement Boss (Schaman) => Kai +1CP
 * Fabian routed voluntarely
 * Aaron opened treasure: Giant skorpion spawned
 * Aaron opened treasure: Giant skorpion spawned
@@ -41,7 +41,7 @@ Round 6:
 
 Game ends (all tokens are found)
 
-Winner: Kai (5 tokens)
+Winner: Kai (5 tokens) +1CP
 
 Post Game Sequence:
 

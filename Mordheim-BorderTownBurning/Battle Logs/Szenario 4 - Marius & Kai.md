@@ -51,16 +51,17 @@ Marius 2 Boar 2D6 + 3 = 11 => +2 Wyrdstones
 *Kai*  
 
 Squig herder alive
-Golm dead
 Granak alive
 Norog alive
 Oggrot alive
 squig alive
+
+Golm dead
 Goblins dead
 
 *Marius*  
 
-Gruppe 2 stays
+Gruppe 2 alive
 Gruppe 4 dead
 
 **Campagne Points:**  
@@ -81,25 +82,25 @@ Gruppe 4 dead
 
 **Experience:**  
 *Kai*  
-Grumlok +1
-Grommok +1
-Kharhak +1 +1 attack
-Wogga +1
-Ug'lash +1 +1ws
-Rog'Rogg +1
-Granak 0
-Norog, golm, gmorkor +2
-Ogrot 0
-SquigHerder 0
+Grumlok +1  
+Grommok +1  
+Kharhag +1 +1 attack  
+Wogga +1  
+Ug'lash +1 +1WS  
+Rog'Rogg +1  
+Granak 0  
+Norog, golm, gmorkor +2  
+Ogrot 0  
+SquigHerder 0  
  
 *Marius*  
 
 johanna +2  
-teresa (augur) +3 (advance: 10 +skill, advance: 5 +skill)
+teresa (augur) +3 (advance: 10 +skill, advance: 5 +skill) => Two-Weapon Master & Strike to Injure
 rosa +2 (advance: 9 +1T)
 augustina +1
 emilia +1
-marie +1 (advance: 2 + skill)
+marie +1 (advance: 2 + skill) => Fearsome
 grombald +1
 gruppe1 +2
 gruppe2 +1
@@ -110,20 +111,36 @@ gruppe4 +1
 *Kai*  
 6 würfel => 27 => 5 ws + doppel 6 => 2 garlic gloves, rain coat, net, 10 gc  
 Sells 7 => 100 gc  
+MoneyMaker: 1D6=6+2gc => 8gc
 
 *Marius*  
-6 Würfel +1 (gewinnen) + 2 (augur) + => 5 ws + doppel 6 => 2 garlic gloves, rain coat, net, 8 gc  
+6 Würfel +1 (gewinnen) (augur 2 discarded 1) wyrdstone hunter re-roll one + => 26 => 5 ws + doppel 6 => 2 garlic gloves, rain coat, net, 8 gc  
 Sells 7 => 100 gc  
+
+=> 14 gc in Treasury: 122 GC after this exploration. 
+Sell Rain Coat & Garlics & Net for 5 + 2 + 3 = 10 gc => 132 gc
+Buy Sigmarite Hammer for 25 => 107gc
+Buy Helmet for 1 => 106gc
+Buy Sigmarite Sister for 25 => 81gc
+Buy Sigmarite Sister for 25 => 56gc
+Hire Alchemist(Glue Bombs) => 16gc
+Pay Upkeep Grombald => 1gc
+
 
 **Hired Swords Blood Pact:**
 nope 
 
 **Henchmen XP:**
-  
+6  
 
 **Trading:**  
 *Kai*  
-
+sell: 2 garlic gloves = 2gc, net = 3gc, rain coat = 5gc => +10gc  
+tresure chest before: 100+10+8+10+15(from last game) => 143 gc  
+buy: rabbits foot 15gc, crossbow 25gc, 2 hand weapon 2x3gc, 2 Bow (2x10gc), 2 light armour (2x20gc)  
+hired: cartographer 30gc+5gc (evil warband addition) 
+treasure chest after: 2gc  
+  
 *Marius*  
 
 
