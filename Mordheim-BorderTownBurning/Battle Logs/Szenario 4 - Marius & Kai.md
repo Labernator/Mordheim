@@ -119,6 +119,7 @@ Sells 7 => 100 gc
 Sell Garlics & Net for 2 + 3 = 5 gc => 127 gc
 Buy Sigmarite Hammer for 25 => 102gc
 Buy Sigmarite Sister for 25 => 77gc
+Hire Alchemist(Glue Bombs) => 37gc
 
 **Hired Swords Blood Pact:**
 nope 
