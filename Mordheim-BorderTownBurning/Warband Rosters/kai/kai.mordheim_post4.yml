@@ -1,6 +1,6 @@
 warband: Orks, Goblins and Squigs (Orks)
 campaign: 12
-gc: 2
+gc: 7
 shards: 2
 equipment: 3x Dagger
 objective: Scrooge of the realm
@@ -9,22 +9,22 @@ alignment: chaotic
 heros:
     - hero: Grumlok & Gazbag (Ork leader) [30XP]
       stats: M4, WS4, BS4, S4, T4, W1, I3, A2, Ld8, Sv4
-      weapons: Axe, Sword, Crossbow
-      armour: Steel Cloth, Helmet, Light armour, Lucky charm, Rabbits foot
+      weapons: Axe, Sword, Rabbits foot
+      armour: Steel Cloth, Helmet, Light armour, Lucky charm
       rules: Leader, I am the scougre, Remarkable duellist, Step Aside
       warbandaddition: 5
       skilllists: Strength, Shooting, Combat, Speed, Special
 
     - hero: Grommok (Big'Un) [20XP]
       stats: M4, WS4, BS3, S4, T4, W1, I3, A1, Ld7, Sv5
-      weapons: Axe, Dagger, Bow
+      weapons: Axe, Dagger
       armour: Light armour
       rules: Money maker
       skilllists: Strength, Shooting, Combat, Special
 
     - hero: Karhag (Big'Un) [17XP]
       stats: M4, WS4, BS3, S3, T3, W1, I3, A2, Ld7, Sv5
-      weapons: Hand weapon, Dagger, Bow
+      weapons: Hand weapon, Dagger
       armour: Light armour
       rules:
       injuries: Chest wound
@@ -39,14 +39,16 @@ heros:
       skilllists: Strength, Special
 
     - hero: Ug'Lash (Ork boy) [6XP]
-      stats: M4, WS4, BS3, S3, T4, W1, I4, A1, Ld7, Sv-
+      stats: M4, WS4, BS3, S3, T4, W1, I4, A1, Ld7, Sv5
       weapons: Hand weapon, Dagger
+      armour: Light armour
       rules: Animosity
       skilllists: Strength, Combat
 
     - hero: Rog'Rogg (Ork boy) [3XP]
-      stats: M4, WS4, BS3, S3, T4, W1, I2, A1, Ld7, Sv-
+      stats: M4, WS4, BS3, S3, T4, W1, I2, A1, Ld7, Sv5
       weapons: Hand weapon, Dagger
+      armour: Light armour
       rules: Animosity
       skilllists: Strength, Combat
 
