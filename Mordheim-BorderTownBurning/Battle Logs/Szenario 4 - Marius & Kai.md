@@ -137,9 +137,9 @@ nope
 *Kai*  
 sell: 2 garlic gloves = 2gc, net = 3gc, rain coat = 5gc => +10gc  
 tresure chest before: 100+10+8+10+15(from last game) => 143 gc  
-buy: rabbits foot 15gc, 2 hand weapon 2x3gc, 2 light armour (4x20gc)  
-hired: cartographer 30gc+5gc (evil warband addition) 
-treasure chest after: 7gc  
+buy: rabbits foot 15gc, hand weapon (2x3gc), light armour (20gc), helmet (10gc)  
+hire: Ogre Bodyguard (80gc)  
+treasure chest after: 12gc  
   
 *Marius*  
 
