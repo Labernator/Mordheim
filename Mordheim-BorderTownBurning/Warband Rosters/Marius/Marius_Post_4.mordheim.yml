@@ -1,6 +1,6 @@
 warband: Johannas Orphanage (Sisters of Sigmar)
 campaign: 4
-gc: 77
+gc: 37
 shards: 0
 equipment: 2x Dagger, Rain Coat
 objective: The Damned Shall Burn 
@@ -52,6 +52,13 @@ heros:
       armour: Heavy armour
       rules: Runesmith, Armour, Armourer, Hate Orcs and Goblins, Hard Head, Hard to Kill
       skilllists: Strength, Combat, Special
+      hiredsword: true
+      
+    - hero: Grombald (Alchemist) [15XP]
+      stats: M4, WS2, BS4, S3, T3, W1, I3, A1, Ld8
+      weapons: Staff, Dagger, Crossbow Pistol
+      rules: Glue Bombs, Just here for the work
+      skilllists: Academic, Alchemy
       hiredsword: true
       
 henchmen:
