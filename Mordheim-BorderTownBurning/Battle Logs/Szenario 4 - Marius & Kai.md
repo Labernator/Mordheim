@@ -116,11 +116,14 @@ Sells 7 => 100 gc
 Sells 7 => 100 gc  
 
 => 14 gc in Treasury: 122 GC after this exploration. 
-Sell Garlics & Net for 2 + 3 = 5 gc => 127 gc
-Buy Sigmarite Hammer for 25 => 102gc
-Buy Sigmarite Sister for 25 => 77gc
-Buy Sigmarite Sister for 25 => 52gc
-Hire Alchemist(Glue Bombs) => 12gc
+Sell Rain Coat & Garlics & Net for 5 + 2 + 3 = 10 gc => 132 gc
+Buy Sigmarite Hammer for 25 => 107gc
+Buy Helmet for 1 => 106gc
+Buy Sigmarite Sister for 25 => 81gc
+Buy Sigmarite Sister for 25 => 56gc
+Hire Alchemist(Glue Bombs) => 16gc
+Pay Upkeep Grombald => 1gc
+
 
 **Hired Swords Blood Pact:**
 nope 
