@@ -1,8 +1,8 @@
 warband: Johannas Orphanage (Sisters of Sigmar)
 campaign: 6
-gc: 12
+gc: 1
 shards: 0
-equipment: 2x Dagger, Rain Coat
+equipment: 2x Dagger
 objective: The Damned Shall Burn 
 alignment: lawful
 
@@ -25,7 +25,7 @@ heros:
       stats: M4, WS4, BS3, S3, T4, W1, I3, A1, Ld7, Sv4
       weapons: Sigmarite Warhammer, Dagger, Sling
       rules: Wyrdstone Hunter
-      armour: Heavy armor
+      armour: Heavy armor, Helmet
       skilllists: Strength, Academic, Combat, Speed, Special
 
     - hero: Agustina (Sister Superior) [12XP]
@@ -54,7 +54,7 @@ heros:
       skilllists: Strength, Combat, Special
       hiredsword: true
       
-    - hero: Grombald (Alchemist) [15XP]
+    - hero: Justus (Alchemist) [15XP]
       stats: M4, WS2, BS4, S3, T3, W1, I3, A1, Ld8
       weapons: Staff, Dagger, Crossbow Pistol
       rules: Glue Bombs, Just here for the work
