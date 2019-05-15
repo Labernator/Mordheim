@@ -247,3 +247,101 @@ Der Oger blieb stehen und betrachtete die Grubenkämpfer abschätzig. "Ihr Freun
 Arzuch sah kurzzeitig aus las wollte er es darauf ankommen lassen, setze dann aber Sulman unbeschadet auf die Erde. "Ausgezeichnet", meinte Haffax, "woher kennst du den Bethanier?" "Aus Stadt. Gardisten des Imperium mich jagen. Fliehen in tote Wälder" Arzuchs Stimme war leise geworden. "Sei nicht traurig, schließ dich uns an, wir zeigen den imperialen Speichelleckern was Freiheit bedeutet", sagte Galotta inbrünstig. " Ich nicht traurig", entgegnete Arzuch mit blitzenden Augen, "ich wütend!" 
 
 Unwillkürlich traten die Grubenkämpfer einen Schritt zurück. "Ich mit euch kämpfem" sagte Arzuch in einem Tonfall der keinen Widerspruch zuließ. "Na dann, willkommen an Bord", erwiderte Haffax grinsend. Einen Oger als Gefährten zu haben konnte keine schlechte Wendung für sie sein. Langsam nahm ihre Gruppe Gestalt an.
+
+# Kapitel 2: Das Breitschwert der Verdammnis  
+
+
+### Schlachtbericht  
+**Szenario/Mitspieler:** The Great Library mit Aaron und Fabian  
+
+**Ergebnis:** Sieg       
+
+**Gefallene Krieger:**   
+1 Mitglied der Blutigen Äxte (Recovery)  
+
+**Belohnungen:**   
+Skrechu liest vier Bücher: +3XP, Skills Pawnbroker & Haggle und muss eine Runde aussetzen  
+
+**CP:**  
++1 fürs Teilnehmen  
++3 fürs Gewinnen   
++3 fürs finden den Chaos Artefakts   
+=> +7  
+
+**Experience:**  
+ - Haffax: +3xp (advance: Bulging Biceps)  
+ - Galotta: +1xp (advance: Grizzled Veteran)  
+ - Dimiona: +2xp (advance: +1 A)  
+ - Skrechu: +4xp (advance: Bulging Biceps, Resilient)  
+ - Sulman: +1xp  
+ - Arzuch: +3xp
+ - Legion: +1xp  
+ - Äxte: +0xp    
+ - Horde: +1xp    
+ - Berserker: +1xp    
+ - Torxes: +3xp (advance: +2 BS)   
+ - Leonardo: +1xp
+
+**Sonstiges:** ich bezahle keinen Upkeep für den Barden (wegen zu schlechter Rolls) und kaufe ihn neu
+
+**Exploration:**  
+4 Wyrdstones + 6GC + Wheelbarrow: 3 verkaufen für 60 GC  
+
+**Trading:**  
+Verkaufe 3 Wyrdstones für 60 GC  
+Verkaufe 2 Firebombs für 50 GC  
+Moneymaker (4 GC) & Exploration 10 GC  
+Verkaufe Wheelbarrow (mit Pawnbroker) 5GC  
+Verkaufe 2 Dagger von Dimiona (mit Pawnbroker) 4GC  
+=> 129 GC +1 Wyrdstone   
+
+ - Upkeep Alchemist (15 GC)  
+ - 2 Pursuer mit je 2 XP (für Blutige Äxte), Dagger kommen von Haffax (58 GC)  
+ - Bard (20 GC)   
+ - Kislev Ranger (30 GC)  
+ - Halberd (mit Haggle) (1 GC)  
+ - Lyre für Barden (5 GC)  
+ => 0 GC übrig  
+
+**Reallocate equipment:**  
+ - Haffax gibt seine Dagger den beiden neuen Pursuern   
+ - Skrechu gibt einen Dagger dem Kislev Ranger   
+
+### Aktuelles Roster  
+*Heroes*  
+**Helme Haffax** (Pit King, 29 XP):    
+
+**Gaius Cordovan Eslam Galotta** (Initiate, 8 XP): 2x Dagger  
+
+**Dimiona von Zorgan** (Initiate, 8 XP): Halberd    
+
+**Skrechu** (Veteran, 14 XP): 1x Dagger  
+
+**Sulman al'Venish** (Dwarf Troll Slayer, 15 XP): 2x Dagger  
+
+*Henchmen*  
+**Arzuch** (1 Oger, 3 XP): 2x Dagger, Heavy Armour      
+
+**Unbesiegbare Legion von Yaq-Monnith** (2 Pursuer, 7 XP): 2x Dagger    
+
+**Blutige Äxte** (3 Pursuer, 2 XP): 2x Dagger  
+
+**Horde von Ghumai-Kal** (1 Pit Fighter, 3 XP): 2x Dagger  
+
+**Berserker des Belhalhar** (1 Pit Fighter, 3 XP): 2x Dagger  
+
+*Hired Swords*  
+**Torxes von Freigeist** (Bard, 3 XP): Sword, Dagger, Light Armour, Lyre  
+
+**Leonardo von Havena** (Alchemist, 15 XP): Staff, Dagger, Crossbow Pistol  
+
+**Azaril Scharlachkraut** (Kislev Ranger, 10 XP): Sword, Dagger, Bow    
+
+
+**Treasure Chest:** 0 GC, 1 Wyrdstone   
+**Alignment:** Lawful/Neutral  
+**Objective:** The Celestial Protectorate  
+**Campaign Points:** 9  
+**Warband Rating:** 232  
+ 
+### Nachspiel  
