@@ -95,11 +95,11 @@ SquigHerder 0
 *Marius*  
 
 johanna +2  
-teresa (augur) +3 (advance: 10 +skill, advance: 5 +skill)
+teresa (augur) +3 (advance: 10 +skill, advance: 5 +skill) => Two-Weapon Master & Strike to Injure
 rosa +2 (advance: 9 +1T)
 augustina +1
 emilia +1
-marie +1 (advance: 2 + skill)
+marie +1 (advance: 2 + skill) => Fearsome
 grombald +1
 gruppe1 +2
 gruppe2 +1
@@ -114,6 +114,11 @@ Sells 7 => 100 gc
 *Marius*  
 6 Würfel +1 (gewinnen) (augur 2 discarded 1) wyrdstone hunter re-roll one + => 26 => 5 ws + doppel 6 => 2 garlic gloves, rain coat, net, 8 gc  
 Sells 7 => 100 gc  
+
+=> 14 gc in Treasury: 122 GC after this exploration. 
+Sell Garlics & Net for 2 + 3 = 5 gc => 127 gc
+Buy Sigmarite Hammer for 25 => 102gc
+Buy Sigmarite Sister for 25 => 77gc
 
 **Hired Swords Blood Pact:**
 nope 
