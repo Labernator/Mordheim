@@ -2,7 +2,7 @@ warband: Orks, Goblins and Squigs (Orks)
 campaign: 12
 gc: 12
 shards: 2
-equipment: 3x Dagger
+equipment: 3x Dagger, Short bow
 objective: Scrooge of the realm
 alignment: chaotic
 
@@ -77,7 +77,7 @@ henchmen:
 
     - group: Squig herder (1 Goblin warrior) [3XP]
       stats: M4, WS2, BS4, S3, T3, W1, I3, A1, Ld5, Sv-
-      weapons: Squig prodder, Short Bow
+      weapons: Squig prodder
       rules: Animosity, Not orks, Runts
 
     - group: Squigs (2 Squig) [0XP]
@@ -91,7 +91,6 @@ notes: |
          - Grumlok hates Scion of darknes leader, he has to charge them if in reach
          - Grumlok 4+ stunned save & Parry on >= hit & 5+ wound save (no mod)
          - Grumlok Rabbits foot (reroll 1 dice during battle or if not ooA in exploration phase)
-         - If Cartographer not ooA, reroll one dice in exploration phase
 
 achievments: |
         5CP, 10CP, Leader 30xp
