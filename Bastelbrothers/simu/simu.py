@@ -641,6 +641,11 @@ def fightTilOOA(fighters):
                 print "\t" + t.name + " " + str(t.i)
             print
 
+            print "\nfight order:"
+            for t in fights_ini_ordered:
+            	print "\t" + t.name + " " + str(t.i)
+            print
+
             #for fo in fights_ini_ordered:
             #    print fo.name + " " + str(fo.i)
 

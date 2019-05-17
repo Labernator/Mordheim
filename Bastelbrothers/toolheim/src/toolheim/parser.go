@@ -12,32 +12,34 @@ import (
 )
 
 type Warband struct {
-	Warband             *WarbandName     `json:"warband"`
-	Rating              int              `json:"rating"`
-	CampaignPoints      int              `json:"campaign"`
-	GoldCrowns          int              `json:"gc"`
-	Shards              int              `json:"shards"`
-	Equipment           *ItemList        `json:"equipment"`
-	Heros               []*Hero          `json:"heros"`
-	HenchmenGroups      []*HenchmenGroup `json:"henchmen"`
-	Notes               string           `json:"notes"`
-	Objective           string           `json:"objective"`
-	Alignment           string           `json:"alignment"`
-	Achievments         string           `json:"achievments"`
-	dramatispersonae_sum_wbr	int
-	dramatispersonae_cnt		int
-	henchmen_sum_xp     int
-	henchmen_cnt        int
-	hero_sum_xp         int
-	hero_cnt            int
-	hiredsword_sum_xp   int
-	hiredsword_cnt      int
-	large_cnt           int
-	mount_cnt           int
-	attackanimal_cnt    int
-	member_cnt          int
-	routtest            int
-	wbAdd_sum           int
+	Warband                  *WarbandName     `json:"warband"`
+	Rating                   int              `json:"rating"`
+	CampaignPoints           int              `json:"campaign"`
+	GoldCrowns               int              `json:"gc"`
+	Shards                   int              `json:"shards"`
+	Equipment                *ItemList        `json:"equipment"`
+	Heros                    []*Hero          `json:"heros"`
+	HenchmenGroups           []*HenchmenGroup `json:"henchmen"`
+	Notes                    string           `json:"notes"`
+	Objective                string           `json:"objective"`
+	Alignment                string           `json:"alignment"`
+	Achievments              string           `json:"achievments"`
+	dramatispersonae_sum_wbr int
+	dramatispersonae_cnt     int
+	henchmen_sum_xp          int
+	henchmen_cnt             int
+	hero_sum_xp              int
+	hero_cnt                 int
+	hiredsword_sum_xp        int
+	hiredsword_cnt           int
+        large_hiredsword_cnt     int
+	large_cnt                int
+	attackanimal_cnt         int
+	large_mount_cnt          int
+	mount_cnt                int
+	member_cnt               int
+	routtest                 int
+	wbAdd_sum                int
 
 }
 
@@ -176,17 +178,25 @@ func ParseWarband(warbandDefinition []byte) Warband {
 			warband.Rating = warband.Rating + h.Experience + 5
 			warband.hero_sum_xp = warband.hero_sum_xp + h.Experience
 			warband.hero_cnt = warband.hero_cnt + 1
+
 		} else if h.DramatisPersonae {
 			warband.dramatispersonae_sum_wbr = warband.dramatispersonae_sum_wbr + h.WarbandAddition
 			warband.dramatispersonae_cnt = warband.dramatispersonae_cnt + 1
+
 		} else if h.Large { // even a large hired sword counts as large
 			warband.Rating = warband.Rating + h.Experience + 20
 			warband.hero_sum_xp = warband.hero_sum_xp + h.Experience
 			warband.large_cnt = warband.large_cnt + 1
+
+                        if h.HiredSword {
+                            warband.large_hiredsword_cnt = warband.large_hiredsword_cnt + 1
+                        }
+
 		} else if h.HiredSword {
 			warband.Rating = warband.Rating + h.Experience + 5
 			warband.hiredsword_sum_xp = warband.hiredsword_sum_xp + h.Experience
 			warband.hiredsword_cnt = warband.hiredsword_cnt + 1
+
 		} // TODO it is not possible that a large hired sword can be added
 
 		// hier text Skill listen-Name zu boolschen Wert umwandeln
@@ -240,7 +250,11 @@ func ParseWarband(warbandDefinition []byte) Warband {
 		} else {
 			// large mounts are possible but they do count as large
 			warband.henchmen_sum_xp = warband.henchmen_sum_xp + (hg.Experience * hg.Number)
-			warband.large_cnt = warband.large_cnt + 1
+                        if hg.Mount {
+                            warband.large_mount_cnt = warband.large_mount_cnt + 1
+                        } else {
+			    warband.large_cnt = warband.large_cnt + 1
+                        }
 			warband.Rating = warband.Rating + (hg.Experience + 20) * hg.Number
 		}
 

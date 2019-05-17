@@ -397,6 +397,15 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	pdf.Write(0, strconv.Itoa(warband.Rating))
 
 	pdf.SetFont("Arial", "", 10)
+	pdf.SetXY(72.5, float64(offsetY)+28.0)
+	pdf.SetTextColor(0, 0, 0)
+	pdf.Write(0, "Sell shard: ")
+	pdf.SetFont("Arial", "", 10)
+	pdf.SetTextColor(text_color_r, text_color_g, text_color_b)
+	pdf.SetXY(93, float64(offsetY)+28.0)
+	pdf.Write(0, strconv.Itoa(warband.member_cnt - warband.large_hiredsword_cnt - warband.dramatispersonae_cnt + warband.mount_cnt + warband.large_mount_cnt + warband.attackanimal_cnt ))
+
+	pdf.SetFont("Arial", "", 10)
 	pdf.SetXY(72.5, float64(offsetY)+32.0)
 	pdf.SetTextColor(0, 0, 0)
 	pdf.Write(0, "Routtest: ")
@@ -447,6 +456,9 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	}
 	if warband.mount_cnt > 0 {
 		mount_aanim_s = mount_aanim_s + "Mounts: (" + strconv.Itoa(warband.mount_cnt) + ")   " + strconv.Itoa(warband.mount_cnt * 10) + "   "
+	}
+	if warband.mount_cnt > 0 {
+		mount_aanim_s = mount_aanim_s + "Large mounts: (" + strconv.Itoa(warband.large_mount_cnt) + ")   " + strconv.Itoa(warband.large_mount_cnt * 20) + "   "
 	}
 	if len(mount_aanim_s) > 1 {
 		pdf.SetFont("Arial", "B", 10)
