@@ -249,7 +249,26 @@ Arzuch sah kurzzeitig aus las wollte er es darauf ankommen lassen, setze dann ab
 Unwillkürlich traten die Grubenkämpfer einen Schritt zurück. "Ich mit euch kämpfem" sagte Arzuch in einem Tonfall der keinen Widerspruch zuließ. "Na dann, willkommen an Bord", erwiderte Haffax grinsend. Einen Oger als Gefährten zu haben konnte keine schlechte Wendung für sie sein. Langsam nahm ihre Gruppe Gestalt an.
 
 # Kapitel 2: Das Breitschwert der Verdammnis  
+*"Ein Schwert, sie zu knechten, sie alle zu finden,*  
+*Ins Dunkel zu treiben und ewig zu binden…"*  
+ - Besudelte Inschrift an der Außenwand der Kathedrale von Brig-Lo  
 
+*"Belandysh geht um, Belandysh geht um,*  
+*es geht der schwarze Ritter herum,*  
+*der Dämon trampelt los!"*  
+ - Kinderlied der nördlichen Provinz Chenzu, neuzeitlich  
+
+Seit Wochen waren die Grubenkämpfer unterwegs nach Norden. Je näher sie dem chaotischen Ödland kamen umso unwirtlicher und verdrehter wurde die Natur. Gesplitterte Berge, verkrüppelte Bäume und tückische Sumpflöcher bildeten die Umgebung.
+
+"Sag' mir nochmal Haffax, warum genau drücken wir uns in diesem dreizehnmal verfluchen Landstrich herum?" Galotta konnte seinen Missmut nicht verhehlen. "Seit drei Tagen haben wir keine Menschenseele mehr gesehen und inzwischen scheinen auch Tiere unsere Gegenwart zu meiden." Haffax nickte langsam. "Da ist es ja ein Glück das wir weder Menschen noch Tiere suchen, oder? Die Nachricht des Bethaniers war unmissverständlich. Ein Teil der Waffe des Imperiums liegt in Brig-Lo."
+
+"Es macht natürlich schon Sinn eine so mächtige Waffe am Ende der Welt zu verstecken.", meinte Sulman. "Hier verirrt sich ja niemand zufällig her." "Vielleicht Land nicht schon immer Tod.", entgegnete Arzuch. "Vielleicht Waffe schuld." Und damit versanken die Grubenkämpfer wieder in brütendes Schweigen. Jeder hing seinen Gedanken nach was sie am Ende dieser Reise erwarten mochte.
+
+"Meine Herren", rief Dimiona die die Vorhut bildete nach eniger Zeit grimmig, "Zeit sich wieder auf's Hier und Jetzt zu besinnen. Wir sind am Ziel, ich präsentiere Birg-Lo." Mit ausgestrecktem Arm wies sie nach vorne während sie mit der anderen Hand ihr Schwert zog. Und tatsächlich aus dem Dunst des allgegenwertigen Nebels schälten sich langsam die Umrisse einer gigantischen Kathedrale. Einst mochte es ein beeindruckendes, ja prächtiges Gebäude gewesen sein, doch der Zahn der Zeit und schlimmeres hatten ihre Spuren an dem Gebäude hinterlassen. Die Türme und Giebel stachen wie Hörnen in den sich verdunkelnden Himmel. Das geborstene Tor wirkte wie der versteinerte Schlund eines urzeitlichen Ungeheuers und die zersplitterten Fenster wie seine erblindeten Augen.
+
+"Einladend…", setzte Dimiona gerade in spöttischem Ton an, als aus den Tiefen der Kathedrale ein unmenschliches Brüllen ertönte. Die Grubenkämpfer erstarrten. Sulman schluckte. "Naja, es hat doch wohl niemand gedacht, dass diese Waffe ungefährlich ist, oder?", sagte er mit einem schiefen Grinsen und zitternder Stimme.
+
+"Bei allen tanzenden Erzdämonen", presste Haffax zwischen zusammengebissenen Zähne hervor. "Wir sind doch nicht wochenlang hierher gewandert um jetzt wieder umzukehren, oder?" Und ohne eine Antwort abzuwarten ging er auf die Kathedrale zu.
 
 ### Schlachtbericht  
 **Szenario/Mitspieler:** The Great Library mit Aaron und Fabian  
@@ -282,7 +301,7 @@ Skrechu liest vier Bücher: +3XP, Skills Pawnbroker & Haggle und muss eine Runde
  - Torxes: +3xp (advance: +2 BS)   
  - Leonardo: +1xp
 
-**Sonstiges:** ich bezahle keinen Upkeep für den Barden (wegen zu schlechter Rolls) und kaufe ihn neu
+**Sonstiges:** ich bezahle keinen Upkeep für den Barden (wegen zu schlechter Rolls) und kaufe ihn neu, Ich erbeute das Broadsword of Damnation indem ich Belandysh töte. Galotta trägt es.
 
 **Exploration:**  
 4 Wyrdstones + 6GC + Wheelbarrow: 3 verkaufen für 60 GC  
@@ -306,6 +325,7 @@ Verkaufe 2 Dagger von Dimiona (mit Pawnbroker) 4GC
 **Reallocate equipment:**  
  - Haffax gibt seine Dagger den beiden neuen Pursuern   
  - Skrechu gibt einen Dagger dem Kislev Ranger   
+ - Torxes kriegt die Lyre  
 
 ### Aktuelles Roster  
 *Heroes*  
@@ -345,3 +365,17 @@ Verkaufe 2 Dagger von Dimiona (mit Pawnbroker) 4GC
 **Warband Rating:** 232  
  
 ### Nachspiel  
+*"The sanctity of this place has been fouled."*  
+ - GCE Galotta in der Kathedrale von Brig-Lo  
+
+"Wer bei allen götterverfluchten Niederhöllen war das?!?", Sulman starrte panisch auf den zerfallenden Leichnam des Chaoswesens. "WAS beim zwölfmal verdammten Dämonensultan war das?!?" "Chaos Ritter", erwiderte Arzuch lakonisch, aber auch seine Hände zitterten verdächtig. "War ist das entscheidende Wort", entgegnete Dimiona und wischte das Blut des Wesens von ihrer Klinge. Abschätzig trat sie gegen dessen Überreste, welche sich vor ihren Augen auflösten. "Der scheint keine Bedrohung mehr zu sein."
+
+"Was auch immer dieses Wesen war, es kann nicht die Waffe gewesen sein von der der Bethanier gesprochen hat", meinte Haffax. "Vielleicht war es deren Wächter." "Vielleicht nicht einziger…", brummte Arzuch grimmig. Den Grubenkämpfern schauderte. "Beim Thema Waffe", meinte Galotta, "das Schwert des Monsters scheint stabiler zu sein als sein Körper." Haffax bückte sich um das Schwert aufzuheben, aber sobald seine Finger das Metall berührten zuckte er zurück als hätte ihn ein Schlag getroffen. 
+
+"Bei allen Göttern…" Alle Farbe war aus seinem Gesicht gewichen. "Wir haben die Waffe gefunden.", sagte er mit brüchiger Stimme. "Aber dies ist keine Waffe des Imperiums. Dies ist überhaupt keine menschliche Waffe!" Alle sahen Haffax beunruhigt an. Ihr Anführer war stets beherrscht und eine derartige Reaktion hatten sie noch nie bei ihm gesehen. Dimiona fand als erste die Sprache wieder. "Alter Mann", sagte sie spöttisch, "lass mich das böse Schwert tragen" und bückte sich. Auch Dimiona berührte nur kurz die klinge bevor sie sie mit einem animalischen Schmerzensschrei von sich stieß. "Die Stimmen, diese STIMMEN", schrie sie.
+
+"Dies ist ein Artefakt der Chaosgötter", meinte Haffax nachdem er sich etwas erholt hatte. "Sie sprechen zu einem durch dieses Schwert. Es ist als würden rostige Nägel in deinem Kopf auf Schieferplatten kratzen." Er schüttelte sich. Dimiona nickte wortlos. "Was jetzt?", fragte Sulman. "Wir können das Schwert ja schlecht hier lassen. Aber wirklich transportieren können wir es auch nicht, oder?" Alle schüttelten zustimmend die Köpfe.
+
+"Lasst uns kurz nachdenken", sagte Haffax und setzte sich sichtbar erschöpft auf den Boden. Die anderen Grubenkämpfer taten es im gleich. Alle bis auf Galotta. Unbändige Neugierde blitze in seinen Augen auf als er langsam zum Schwert griff. "Galotta, bist du irre", schrie Sulman, aber da hatte Galotta schon seine Hand um den Griff des Schwerts gelegt und es hoch erhoben. Alle Grubenkämpfer erstarrten in der Erwartung eines weiteren Schreis. Doch Galotta schrie nicht. Ein befriedigtes Grinsen umspielte seine Lippen. "Faszinierend.", meinte er. "Kannst du sie nicht hören?", fragte Haffax ungläubig. "Oh ich höre sie. Aber sie belasten mich nicht. Ich kann sie ausblenden. Ignorieren. Ich bin stärker als sie!" Man konnte Galottas Genugtuung über diese Erkenntnis deutlich in seiner Stimme hören. Dimiona schüttelte ungläubig den Kopf. "Gut für uns, schätze ich."
+
+Haffax unterbrach die Grubenkämpfer: "Ich muss Tharsonius Bericht erstatten was wir gefunden haben. Das hier geht weit über unsere Rebellion gegen das Imperium hinaus. Ich nehme Skrechu mit und schlage mich zum Bethanier durch. Ihr geht zurück in die Grube und haltet die Stellung!"
