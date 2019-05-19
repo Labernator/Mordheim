@@ -441,7 +441,7 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	pdf.Write(0, "( "+strconv.Itoa(warband.hiredsword_cnt + warband.large_hiredsword_cnt)+" )")
 	pdf.SetFont("Arial", "", 10)
 	pdf.SetXY(55.0, float64(offsetY)+24.5)
-	pdf.Write(0, strconv.Itoa(warband.hiredsword_sum_xp) + " (+" + strconv.Itoa(warband.hiredsword_cnt * 5) + ")")
+	pdf.Write(0, strconv.Itoa(warband.hiredsword_sum_xp + warband.large_hiredsword_sum_xp) + " (+" + strconv.Itoa((warband.hiredsword_cnt) * 5) + ")")
 
 	pdf.SetFont("Arial", "B", 10)
 	pdf.SetXY(34.05, float64(offsetY)+28.0)

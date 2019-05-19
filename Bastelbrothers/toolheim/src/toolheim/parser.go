@@ -32,7 +32,8 @@ type Warband struct {
 	hero_cnt                 int
 	hiredsword_sum_xp        int
 	hiredsword_cnt           int
-        large_hiredsword_cnt     int
+	large_hiredsword_cnt     int
+	large_hiredsword_sum_xp  int
 	large_cnt                int
 	attackanimal_cnt         int
 	large_mount_cnt          int
@@ -185,12 +186,15 @@ func ParseWarband(warbandDefinition []byte) Warband {
 
 		} else if h.Large { // even a large hired sword counts as large
 			warband.Rating = warband.Rating + h.Experience + 20
-			warband.hero_sum_xp = warband.hero_sum_xp + h.Experience
+			
 			warband.large_cnt = warband.large_cnt + 1
 
-                        if h.HiredSword {
-                            warband.large_hiredsword_cnt = warband.large_hiredsword_cnt + 1
-                        }
+			if h.HiredSword {
+				warband.large_hiredsword_sum_xp = warband.large_hiredsword_sum_xp + h.Experience
+				warband.large_hiredsword_cnt = warband.large_hiredsword_cnt + 1
+			} else {
+				warband.hero_sum_xp = warband.hero_sum_xp + h.Experience
+			}
 
 		} else if h.HiredSword {
 			warband.Rating = warband.Rating + h.Experience + 5
