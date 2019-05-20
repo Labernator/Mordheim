@@ -55,6 +55,7 @@ heros:
       armour: Light armour, Helmet
       rules: Slow-Witted, Fear, Large Target
       skilllists: Strength, Combat
+      slowwitted: true
       hiredsword: true
       large: true
 

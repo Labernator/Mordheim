@@ -183,18 +183,33 @@ func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 		pdf.Write(20, strconv.Itoa(hero.Experience))
 		y := 0.0
 		reduce_x := 0
+                space_x := 3.43
+                tmp_off_y := 0.0
 		for x := 1; x <= hero.Experience; x++ {
-			pdf.SetFont("Arial", "B", 10)
 			xx := x
-			if reduce_x > 0 {
-				xx = xx - reduce_x*30
+			if hero.SlowWitted == false {
+			    pdf.SetFont("Arial", "B", 10)
+			} else {
+			    pdf.SetFont("Arial", "B", 5)
+                            space_x = 3.43 / 2.0
+                            tmp_off_y = -0.61
 			}
-			pdf.SetXY(float64(73+((float64(xx)-1.0)*3.43)), float64(offsetY)+float64(y)*15.0+34.0)
+			if reduce_x > 0 {
+                                if hero.SlowWitted == false {
+				    xx = xx - reduce_x*30
+                                } else {
+				    xx = xx - reduce_x*60
+                                }
+			}
+			pdf.SetXY(float64(73+((float64(xx)-1.0)*space_x)), float64(offsetY) + float64(tmp_off_y) + float64(y) * 15.0 + 34.0)
 			pdf.Write(0, marker_sign)
-			if x == 30 || x == 60 {
+			if hero.SlowWitted == false && (x == 30 || x == 60) {
 				y = y + 0.22
 				reduce_x = reduce_x + 1
-			}
+			} else if (hero.SlowWitted == true && (x == 60 || x == 120)) {
+				y = y + 0.22
+				reduce_x = reduce_x + 1
+                        }
 		}
 
 	}
@@ -342,7 +357,17 @@ func MakeHenchmenPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 		pdf.Write(20, strconv.Itoa(henchmen.Experience))
 		for x := 1; x <= henchmen.Experience; x++ {
 			pdf.SetFont("Arial", "B", 12)
-			pdf.SetXY(float64(137+((float64(x)-1.0)*3.45)), float64(offsetY)+30.5)
+
+                        space_x := 3.45
+                        tmp_off_y := 0.0
+
+                        if henchmen.SlowWitted == true {
+                            space_x = space_x / 2.0
+                            tmp_off_y = 0.3
+			    pdf.SetFont("Arial", "B", 5)
+                        }
+
+			pdf.SetXY(float64(137+((float64(x)-1.0)*space_x)), float64(offsetY) - float64(tmp_off_y) + 30.5)
 			pdf.Write(0, marker_sign)
 		}
 

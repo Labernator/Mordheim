@@ -60,6 +60,7 @@ type Hero struct {
 	Experience	int
 	WarbandAddition	int		`json:"warbandaddition,omitempty"`
 	Stats		*Stats		`json:"stats,omitempty"`
+	SlowWitted	bool		`json:"slowwitted"`
 	Large		bool		`json:"large"`
 	HiredSword	bool		`json:"hiredsword"`
 	DramatisPersonae	bool		`json:"dramatispersonae,omitempty"`
@@ -77,6 +78,7 @@ type HenchmenGroup struct {
 	Number       int
 	Type         string
 	Experience   int
+	SlowWitted   bool      `json:"slowwitted"`
 	Large        bool      `json:"large"`
 	Mount        bool      `json:"mount"`
 	AttackAnimal bool      `json:"attackanimal"`
@@ -186,7 +188,6 @@ func ParseWarband(warbandDefinition []byte) Warband {
 
 		} else if h.Large { // even a large hired sword counts as large
 			warband.Rating = warband.Rating + h.Experience + 20
-			
 			warband.large_cnt = warband.large_cnt + 1
 
 			if h.HiredSword {
