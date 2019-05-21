@@ -1,60 +1,60 @@
 warband: Clubsgiving (Beastmen)
-campaign: 4
-gc: 29
-shards: 0
+campaign: 3
+gc: 34
+shards: 1
 equipment: 
 objective: The Scion of Chaos
 alignment: chaotic
 
 heros:
-    - hero: a(Beastmen Chieftain) [22XP]
+    - hero: Ted(Beastmen Chieftain) [22XP]
       stats: M4, WS4, BS2, S4, T4, W1, I4, A1, Ld7, Sv-
       weapons: Club, Dagger
-      armour: 
+      armour: Heavy Armour
       rules: Leader
       large: false
       hiredsword: false
       skilllists: Strength, Combat, Speed, Special
       injuries: Blind in One Eye, Leg Wound
 
-    - hero: b (Beastmen Shaman) [14XP]
+    - hero: Barney (Beastmen Shaman) [15XP]
       stats: M5, WS4, BS3, S3, T4, W1, I4, A2, Ld7, Sv-
       weapons: Club, Club
       rules: Magic User, Eye of God 6''
       skilllists: Strength, Combat, Speed, Special
 
-    - hero:  c(Centigor) [12XP]
+    - hero:  Robin(Centigor) [13XP]
       stats: M8, WS4, BS3, S4, T4, W1, I2, A1, Ld7, Sv-
       weapons: Club, Club
       rules: Drunken,Woodland Dwelling, Trample, Quadruped, Sweeping Blow, Cathayan Map (Beylandish)
       skilllists: Strength, Combat, Special
 
-    - hero: d (Bestigors) [10XP]
+    - hero: Marshall (Bestigors) [10XP]
       stats: M5, WS4, BS3, S4, T4, W1, I3, A1, Ld7, Sv-
       weapons: Club, Club
       rules:
       skilllists: Strength, Combat, Special
 
-    - hero: e (Bestigors) [15XP]
+    - hero: Lilly (Bestigors) [16XP]
       stats: M5, WS4, BS3, S4, T4, W1, I4, A2, Ld7, Sv-
       weapons: Halberd
       armour: Light Armour
       rules:
       skilllists: Strength, Combat, Special
 
-    - hero: Super Toddy (Gor) [4XP]
+    - hero: Super Toddy (Gor) [5XP]
       stats: M5, WS5, BS3, S3, T4, W1, I4, A1, Ld6, Sv-
       weapons: Club, Club
       rules: Infighting
       skilllists: Combat, Special
 
 henchmen:
-    - group: Toddy (2 Gor) [2XP]
+    - group: Toddy (3 Gor) [2XP]
       stats: M5, WS4, BS3, S4, T4, W1, I3, A1, Ld6, Sv-
       weapons: Club, Dagger
       rules: Infighting
 
-    - group: Bobby (1 UnGor) [0XP]
+    - group: Bobby (1 UnGor) [1XP]
       stats: M5, WS3, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
       weapons: Club, Dagger
       rules: Lowest of the Low, Infighting
@@ -63,7 +63,7 @@ henchmen:
       stats: M7, WS4, BS0, S4, T3, W1, I3, A1, Ld5, Sv-
       rules: Animals
 
-    - group: Dagger (2 Gor) [5XP]
+    - group: Dagger (2 Gor) [6XP]
       stats: M5, WS5, BS3, S3, T4, W1, I4, A1, Ld6, Sv-
       weapons: Club, Sword
       rules: Infighting
