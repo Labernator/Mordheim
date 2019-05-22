@@ -113,6 +113,8 @@ nope
 *Aaron*  
 
 *Fabian*  
+Verkaufe 3 Wyrdstone für 55 GC
+Kaufe Heavy Armor für 50 GC
 
 *Stefan*   
 Verkaufe 3 Wyrdstones für 60 GC   
