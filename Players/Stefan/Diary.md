@@ -467,3 +467,41 @@ Meine ToDo Liste Stand jetzt nach Absteigender Priorität
  - Rout Limit 5 erreichen (Warband)
  - ~~Das Chaos Schwert erbeuten (Kampagne)~~
  - 20+ CP erreichen bevor Fabian das tut und dann "The Horde Approaches" gegen ihn gewinnen (Kampagne)
+
+## State of the Union: BTB Kampagne nach Spiel 4  
+**22.05.2019**  
+Die WhatsApp-Gruppe lief letzte Woche ziemlich heiß, weil Laber einige sehr interessante Metriken zum Thema Powerlevel der einzelnen Warbands gepostet hat.  
+Da das Thema mich persönlich sehr interessiert habe ich mich entschlossen einen kleinen Eintrag dazu zu verfassen. Menschen mögen schließlich Listen =)  
+
+Wir befinden in der BTB Kampagne und haben bisher vier Spiele gespielt. Mordheim selber hat zwei Messwerte für die Stärke einer Warband: Das Warband-Rating und die Campaign Points. Folgendermaßen sieht es hier im Moment aus:   
+
+ - Fabian: 3 CP, 173 Rating  
+ - Aaron: 6 CP, 192 Rating  
+ - Marius: 6 CP, 233 Rating  
+ - Stefan: 9 CP, 232 Rating  
+ - Kai: 12 CP, 201 Rating  
+
+Was hier natürlich völlig unberücksichtig bleibt ist Equipment, gespartes Gold, Stats, Art der Advances, interne Synergien,…  
+
+Alle Faktoren lassen sich natürlich unmöglich objektivieren (wie Vergleiche ich eine Heavy Armour mit einem Skill?), vom daher sind Powerlevel Einschätzungen notgedrungen subjektiv. Auch das Matchup spielt hier eine Rolle: Gegen manche Warbands spielt es sich leichter als gegen andere. Und am Ende sind Diskussionen über die Stärke einer Warband ja genau das: Die Frage gegen welche Warband man persönlich am schlechtesten dasteht.  
+
+Nachdem wir das aus dem Weg haben also meine völlig subjektive und unfundierte Einschätzung des aktuellen Status Quo. Zunächst einmal denke ich, dass tatsächlich alle fünf Warbands ziemlich eng beieinander liegen. Gefühlt kann jeder gegen jeden gewinnen. Und das ist doch schon mal eine gute Sache. Jetzt aber zur versprochenen Liste:  
+
+*Platz 1* Aaron mit seinen unzerstörbaren Zwergen der Unzerstörbarkeit  
+Ein Rout Limit von 4 und M3. Und damit haben wir die Nachteile dieser Warband auch schon vollumfänglich abgehandelt. Dagegen stehen 7 Henchmen mit 3 Attacken, T4 und der "Hard to Kill"-Regel. Teilweise in Rüstung. Richtig, das sind 21 Attacken.   
+Dazu sorgen die notwendigerweise geringe Warbandgröße zusammen mit der "Incomparable Miners"-Regel für eine gute Menge an Gold für die Zukunft.  
+Offensiv in die Zwerge rein zu rennen ist im Moment nur unter dem Risiko hoher Verluste möglich.  
+
+*Platz 2* Fabian mit seinen Beastmen der erhöhten Stats  
+Viel bis absurd viel Movement, (fast) durch die Bank T4, haufenweise S4. Die Stats die diese Warband hat sind einfach extrem überzeugend. Durch das (sehr) hohe Movement kriegt man immer die Charges, die man will. Dann sind die ganzen Typen hart zu töten und schlagen auch einigermaßen furchterregend zu. Fabian hat vergleichsweise wenig dazu bekommen in den letzten Spielen, aber das sagt nur wie stark Beastmen von Anfang an sind.
+
+*Platz 3* Stefan mit Menschen +X  
+Meine Stärke sehe ich im Moment in Haffax,  Dimiona, Arzuch und ganz besonders Alchemist Leonardo. Die ersten drei sind quasi mein komplettes Offensiv-Potential. Der letzte sorgt dafür, dass ich in Zukunft weiterhin Geld bekommen das ich in Hired Swords (und damit mehr Kampfkraft) stecken kann. Ohne den Alchemisten würde ich die Lage sehr viel weniger rosig sehen. So ein Oger in der Warband schadet auch nicht.
+
+*Platz 4* Marius mit Menschen ohne X  
+Marius hat den ziemlich furchterregenden Augur (wie schräg ist denn bitte, dass eine Blinde die krasseste Kämpferin ist?!?), gute Bewaffnung und ECHT viele schwere Rüstungen. Aber man sieht schon, dass ich von normalen Menschen einfach nicht so viel halte. Der Grund warum ich Marius unter mich einsortiere ist mein Alchemist und mein Oger. 
+
+*Platz 5* Kai mit nicht mehr so vielen Orks & Goblins
+Am Anfang der Kampagne hatte Kai für mich mit Abstand die stärkste Warband. Mit großem Abstand. Goblins sind zwar Mist, aber viele davon auch wieder nicht.  Inzwischen hat Kai seine Warband geschrumpft um mehr Gold zu bekommen. Ich verstehe den Wunsch nach mehr Gold auf jeden Fall, aber vor weniger Kriegern habe ich einfach auch weniger Angst. Auch wenn es schlimme T4 Orks sind =) Allerdings hat Kai sich nach dem letzten Spiel auch einen Oger organisiert. Und von dem wiederum halte ich einiges. Da bin ich gespannt wie sich meine Einschätzung entwickelt.
+
+Soweit meine Sicht der Dinge. Mal schauen wie es nach weiteren vier Spielen aussieht!
