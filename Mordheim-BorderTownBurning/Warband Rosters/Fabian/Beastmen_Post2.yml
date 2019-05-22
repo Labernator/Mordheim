@@ -49,7 +49,7 @@ heros:
       skilllists: Combat, Special
 
 henchmen:
-    - group: Toddy (3 Gor) [2XP]
+    - group: Toddy (2 Gor) [3XP]
       stats: M5, WS4, BS3, S4, T4, W1, I3, A1, Ld6, Sv-
       weapons: Club, Dagger
       rules: Infighting
