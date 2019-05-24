@@ -24,7 +24,7 @@ Das Szenario wird aus folgender Liste ermittelt:
 
 **2-Player Scenarios**  
   - Avalanche!  
-  - Horrors of the underground  
+  - Horrors of the underground (**Runde 5**)  
   - Blockade  
   - Wyrdstone Hunt (**Runde 1**)  
   - Traces to Emprise  
@@ -63,6 +63,10 @@ Das Szenario wird aus folgender Liste ermittelt:
 - Stefan, Aaron, Fabian: The Great Library (Gale)
 - Marius, Kai: Round-Up At The Mordheim Corral (Gale)
 
-## Termine
-* Samstag, 19.05.2019 10:00 Uhr  
+5. Szenario Runde:
+ 
+- Kai, Fabian, Stefan: The Raven Barracks  
+- Marius, Aaron: Horrors of the Underground  
+
+## Termine   
 * Sonntag, 02.06.2019 DOPPELTERMIN!
