@@ -3,7 +3,6 @@ package toolheim
 import (
 	"strconv"
 	//"fmt"
-
 	"github.com/jung-kurt/gofpdf"
 )
 
@@ -377,6 +376,8 @@ func MakeHenchmenPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 
 func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 
+	tr := pdf.UnicodeTranslatorFromDescriptor("")
+
 	// Statistic page
 	pdf.AddPage()
 
@@ -386,14 +387,14 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	// First page warband heading
 	pdf.SetFont("Arial", "B", 28)
 	pdf.SetXY(5, 5)
-	pdf.Write(11, warband.Warband.Name)
+	pdf.Write(11, tr(warband.Warband.Name))
 	pdf.SetFont("Arial", "B", 17)
 	pdf.SetXY(5, 13)
-	pdf.Write(11, warband.Warband.Race)
+	pdf.Write(11, tr(warband.Warband.Race))
 
 	pdf.SetFont("Arial", "B", 10)
 	pdf.SetXY(5, 20)
-	pdf.Write(10, "Alignment: " + warband.Alignment)
+	pdf.Write(10, "Alignment: " + tr(warband.Alignment))
 
 	offsetY = 23
 
@@ -409,7 +410,7 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	if warband.Equipment != nil {
 		for j, e := range warband.Equipment.List {
 			pdf.SetXY(123 + float64(oX), float64(offsetY + oY + 6 + (j * 5)))
-			pdf.Write(11, e)
+			pdf.Write(11, tr(e))
 			if j == 4 {
 				oX = 40
 				oY = -25
@@ -506,7 +507,7 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 
 	pdf.SetFont("Arial", "B", 10)
 	pdf.SetXY(22, float64(offsetY)+6.25)
-	pdf.Write(0, warband.Objective)
+	pdf.Write(0, tr(warband.Objective))
 
 	// achievments block 
 	pdf.SetFont("Arial", "", 10)
@@ -515,7 +516,7 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	oy := 0
 	for i := 0; i < len(lines); i++ {
 		pdf.SetXY(float64(7.0 + ox), float64(offsetY + 14 + i * 5) + float64(oy))
-		pdf.Write(0, string(lines[i]))
+		pdf.Write(0, tr(string(lines[i])))
 		if i == 2 {
 			oy = oy - 18
 			ox = ox + 55
@@ -550,7 +551,7 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	lines = pdf.SplitLines([]byte(warband.Notes), 195)
 	for i := 0; i < len(lines); i++ {
 		pdf.SetXY(7.0, float64(offsetY + 7 + i * 5))
-		pdf.Write(0, string(lines[i]))
+		pdf.Write(0, tr(string(lines[i])))
 	}
 
 	// the space after
@@ -560,7 +561,7 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 
 func MakePDF(warband Warband, multiPage bool) {
 	pdf := gofpdf.New("P", "mm", "A4", "")
-    pdf.SetMargins(0,0,0)
+	pdf.SetMargins(0,0,0)
 	pdf.SetTextColor(text_color_r, text_color_g, text_color_b)
 
 	MakeStatisticPage(warband, pdf)
