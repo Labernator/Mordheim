@@ -157,6 +157,20 @@ yaw = {
     "range" : False,
 }
 
+dark_steel_halberd = {
+    "type" : "dark steel halberd",
+    "s" : 1,
+    "firstRoundSAdd" : 0,
+    "offhand" : False,
+    "toHitOffhand" : 0,
+    "toHit" : 0,
+    "as" : 0,
+    "a" : 0,
+    "stunnedMin" : 2,
+    "stunnedMax" : 4,
+    "range" : False,
+}
+
 two_handed = {
     "type" : "two-handed",
     "s" : 2,
