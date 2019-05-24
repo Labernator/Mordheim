@@ -64,9 +64,9 @@ type Hero struct {
 	Large		bool		`json:"large"`
 	HiredSword	bool		`json:"hiredsword"`
 	DramatisPersonae	bool		`json:"dramatispersonae,omitempty"`
-	Weapons		*ItemList	`json:"weapons,omitempty"`
-	Armour		*ItemList	`json:"armour,omitempty"`
-	Rules		*ItemList	`json:"rules,omitempty"`
+	Weapons		string	`json:"weapons,omitempty"`
+	Armour		string	`json:"armour,omitempty"`
+	Rules		string	`json:"rules,omitempty"`
 	SkillLists	*ItemList	`json:"skilllists,omitempty"`
 	Injuries	string		`json:"injuries,omitempty"`
 	bSkillLists	Skilllist
@@ -83,9 +83,9 @@ type HenchmenGroup struct {
 	Mount        bool      `json:"mount"`
 	AttackAnimal bool      `json:"attackanimal"`
 	Stats        *Stats    `json:"stats"`
-	Weapons      *ItemList `json:"weapons"`
-	Armour       *ItemList `json:"armour"`
-	Rules        *ItemList `json:"rules"`
+	Weapons      string `json:"weapons"`
+	Armour       string `json:"armour"`
+	Rules        string `json:"rules"`
 }
 
 type Weapons struct {
