@@ -15,6 +15,7 @@ heros:
       warbandaddition: 5
       large: true
       hiredsword: false
+      slowwitted: true
       skilllists: Strength, Shooting, Combat, Speed, Special
       injuries: Blind in One Eye, Leg Wound, Misses next game
 
@@ -55,11 +56,12 @@ henchmen:
       stats: M2D6, WS4, BS0, S4, T3, W1, I4, A1, Ld5, Sv-
       rules: Movement, Minderz, Not orks, Animals
 
-    - group: Gor (1 Troll) [0XP]
+    - group: Gor (1 Troll) [5XP]
       stats: M6, WS3, BS1, S5, T4, W3, I1, A3, Ld4, Sv4
       weapons: Big club
       armour: Heavy armour
       large: true
+      slowwitted: true
       rules: Stupidity, Fear, Always hungry
 
     - group: Bear (1 Bear) [0XP]

@@ -183,7 +183,7 @@ func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 			if hero.SlowWitted == false {
 			    pdf.SetFont("Arial", "B", 10)
 			} else {
-			    pdf.SetFont("Arial", "B", 5)
+			    pdf.SetFont("Arial", "B", 6)
                             space_x = 3.43 / 2.0
                             tmp_off_y = -0.61
 			}
@@ -194,7 +194,7 @@ func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 				    xx = xx - reduce_x*60
                                 }
 			}
-			pdf.SetXY(float64(73+((float64(xx)-1.0)*space_x)), float64(offsetY) + float64(tmp_off_y) + float64(y) * 15.0 + 34.0)
+			pdf.SetXY(float64(72.5+((float64(xx)-1.0)*space_x)), float64(offsetY) + float64(tmp_off_y) + float64(y) * 15.0 + 34.2)
 			pdf.Write(0, marker_sign)
 			if hero.SlowWitted == false && (x == 30 || x == 60) {
 				y = y + 0.22
@@ -356,10 +356,10 @@ func MakeHenchmenPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
             if henchmen.SlowWitted == true {
                 space_x = space_x / 2.0
                 tmp_off_y = 0.3
-                pdf.SetFont("Arial", "B", 5)
+                pdf.SetFont("Arial", "B", 6)
             }
 
-            pdf.SetXY(float64(75+((float64(x)-1.0)*space_x)), float64(offsetY) - float64(tmp_off_y) + 30.5)
+            pdf.SetXY(float64(74.6+((float64(x)-1.0)*space_x)), float64(offsetY) - float64(tmp_off_y) + 30.5)
             pdf.Write(0, marker_sign)
 		}
 
