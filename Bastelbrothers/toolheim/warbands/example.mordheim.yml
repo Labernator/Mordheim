@@ -40,7 +40,7 @@ heros:
       stats: M5, WS6, BS2, S6, T5, W2, I5, A3, Ld8, Sv4
       weapons: Groril Axe, Gromril Axe
       armour: heavy armour, helmet
-      rules: Two-Handed master, Expertaxeman, Hates Orks, Hard head, Hard to kill, Grudgebearer
+      rules: Two-Handed master, Expertaxeman, Hates Orks, Hard head, Hard to kill, Grudgebearer, 1 2 3
       skilllists: Strength, Combat, Special, Academic, Shooting
       warbandaddition: 10
       dramatispersonae: true # large dramatis personae are not defined
