@@ -88,6 +88,7 @@ henchmen:
       armour: Heavy Armour
       rules: Pit Fighter, Fear, Large, Slow Witted, Tough
       large: true
+      slowwitted: true
       
 
 achievments: |

@@ -5,42 +5,40 @@ import (
 	"strconv"
 	"strings"
 	"math"
-	//"fmt"
 
-	//"github.com/davecgh/go-spew/spew"
 	"github.com/ghodss/yaml"
 )
 
 type Warband struct {
-	Warband                  *WarbandName     `json:"warband"`
-	Rating                   int              `json:"rating"`
-	CampaignPoints           int              `json:"campaign"`
-	GoldCrowns               int              `json:"gc"`
-	Shards                   int              `json:"shards"`
-	Equipment                *ItemList        `json:"equipment"`
-	Heros                    []*Hero          `json:"heros"`
-	HenchmenGroups           []*HenchmenGroup `json:"henchmen"`
-	Notes                    string           `json:"notes"`
-	Objective                string           `json:"objective"`
-	Alignment                string           `json:"alignment"`
-	Achievments              string           `json:"achievments"`
-	dramatispersonae_sum_wbr int
-	dramatispersonae_cnt     int
-	henchmen_sum_xp          int
-	henchmen_cnt             int
-	hero_sum_xp              int
-	hero_cnt                 int
-	hiredsword_sum_xp        int
-	hiredsword_cnt           int
-	large_hiredsword_cnt     int
-	large_hiredsword_sum_xp  int
-	large_cnt                int
-	attackanimal_cnt         int
-	large_mount_cnt          int
-	mount_cnt                int
-	member_cnt               int
-	routtest                 int
-	wbAdd_sum                int
+	Warband				*WarbandName		`json:"warband"`
+	Rating				int			`json:"rating"`
+	CampaignPoints			int			`json:"campaign"`
+	GoldCrowns			int			`json:"gc"`
+	Shards				int			`json:"shards"`
+	Equipment			*ItemList		`json:"equipment"`
+	Heros				[]*Hero			`json:"heros"`
+	HenchmenGroups			[]*HenchmenGroup	`json:"henchmen"`
+	Notes				string			`json:"notes"`
+	Objective			string			`json:"objective"`
+	Alignment			string			`json:"alignment"`
+	Achievments			string			`json:"achievments"`
+	dramatispersonae_sum_wbr	int
+	dramatispersonae_cnt		int
+	henchmen_sum_xp			int
+	henchmen_cnt			int
+	hero_sum_xp			int
+	hero_cnt			int
+	hiredsword_sum_xp		int
+	hiredsword_cnt			int
+	large_hiredsword_cnt		int
+	large_hiredsword_sum_xp		int
+	large_cnt			int
+	attackanimal_cnt		int
+	large_mount_cnt			int
+	mount_cnt			int
+	member_cnt			int
+	routtest			int
+	wbAdd_sum			int
 
 }
 
@@ -54,56 +52,56 @@ type ItemList struct {
 }
 
 type Hero struct {
-	Header		string		`json:"hero"`
-	Name		string
-	Type		string
-	Experience	int
-	WarbandAddition	int		`json:"warbandaddition,omitempty"`
-	Stats		*Stats		`json:"stats,omitempty"`
-	SlowWitted	bool		`json:"slowwitted"`
-	Large		bool		`json:"large"`
-	HiredSword	bool		`json:"hiredsword"`
+	Header			string		`json:"hero"`
+	Name			string
+	Type			string
+	Experience		int
+	WarbandAddition		int		`json:"warbandaddition,omitempty"`
+	Stats			*Stats		`json:"stats,omitempty"`
+	SlowWitted		bool		`json:"slowwitted"`
+	Large			bool		`json:"large"`
+	HiredSword		bool		`json:"hiredsword"`
 	DramatisPersonae	bool		`json:"dramatispersonae,omitempty"`
-	Weapons		string	`json:"weapons,omitempty"`
-	Armour		string	`json:"armour,omitempty"`
-	Rules		string	`json:"rules,omitempty"`
-	SkillLists	*ItemList	`json:"skilllists,omitempty"`
-	Injuries	string		`json:"injuries,omitempty"`
-	bSkillLists	Skilllist
+	Weapons			string		`json:"weapons,omitempty"`
+	Armour			string		`json:"armour,omitempty"`
+	Rules			string		`json:"rules,omitempty"`
+	SkillLists		*ItemList	`json:"skilllists,omitempty"`
+	Injuries		string		`json:"injuries,omitempty"`
+	bSkillLists		Skilllist
 }
 
 type HenchmenGroup struct {
-	Header       string `json:"group"`
-	Name         string
-	Number       int
-	Type         string
-	Experience   int
-	SlowWitted   bool      `json:"slowwitted"`
-	Large        bool      `json:"large"`
-	Mount        bool      `json:"mount"`
-	AttackAnimal bool      `json:"attackanimal"`
-	Stats        *Stats    `json:"stats"`
-	Weapons      string `json:"weapons"`
-	Armour       string `json:"armour"`
-	Rules        string `json:"rules"`
+	Header			string	`json:"group"`
+	Name			string
+	Number			int
+	Type			string
+	Experience		int
+	SlowWitted		bool	`json:"slowwitted"`
+	Large			bool	`json:"large"`
+	Mount			bool	`json:"mount"`
+	AttackAnimal		bool	`json:"attackanimal"`
+	Stats			*Stats	`json:"stats"`
+	Weapons			string	`json:"weapons"`
+	Armour			string	`json:"armour"`
+	Rules			string	`json:"rules"`
 }
 
 type Weapons struct {
 	MainHand string
-	OffHand  string
+	OffHand	string
 }
 
 type Stats struct {
-	Movement       string
-	WeaponSkill    int
-	BallisticSkill int
-	Strength       int
-	Toughness      int
-	Wounds         int
-	Initiative     int
-	Attacks        int
-	Leadership     int
-	Save           string
+	Movement	string
+	WeaponSkill	int
+	BallisticSkill	int
+	Strength	int
+	Toughness	int
+	Wounds		int
+	Initiative	int
+	Attacks		int
+	Leadership	int
+	Save		string
 }
 
 type Skilllist struct {
@@ -116,24 +114,24 @@ type Skilllist struct {
 }
 
 func (stats *Stats) UnmarshalJSON(b []byte) error {
-	regex   := regexp.MustCompile(`(?i)"\s*M([0-9]+[dD]*[6]*)\s*,\s*WS([0-9]+)\s*,\s*BS([0-9]+)\s*,\s*S([0-9]+)\s*,\s*T([0-9]+)\s*,\s*W([0-9]+)\s*,\s*I([0-9]+)\s*,\s*A([0-9]+)\s*,\s*Ld([0-9]+)\s*,\s*Sv([0-9\-\+]+)\s*"`)
+	regex	:= regexp.MustCompile(`(?i)"\s*M([0-9]+[dD]*[6]*)\s*,\s*WS([0-9]+)\s*,\s*BS([0-9]+)\s*,\s*S([0-9]+)\s*,\s*T([0-9]+)\s*,\s*W([0-9]+)\s*,\s*I([0-9]+)\s*,\s*A([0-9]+)\s*,\s*Ld([0-9]+)\s*,\s*Sv([0-9\-\+]+)\s*"`)
 	matches := regex.FindStringSubmatch(string(b))
-	stats.Movement          = matches[1]
-	stats.WeaponSkill, _    = strconv.Atoi(matches[2])
+	stats.Movement		= matches[1]
+	stats.WeaponSkill, _	= strconv.Atoi(matches[2])
 	stats.BallisticSkill, _ = strconv.Atoi(matches[3])
-	stats.Strength, _       = strconv.Atoi(matches[4])
-	stats.Toughness, _      = strconv.Atoi(matches[5])
-	stats.Wounds, _         = strconv.Atoi(matches[6])
-	stats.Initiative, _     = strconv.Atoi(matches[7])
-	stats.Attacks, _        = strconv.Atoi(matches[8])
-	stats.Leadership, _     = strconv.Atoi(matches[9])
-	stats.Save              = matches[10]
+	stats.Strength, _	= strconv.Atoi(matches[4])
+	stats.Toughness, _	= strconv.Atoi(matches[5])
+	stats.Wounds, _		= strconv.Atoi(matches[6])
+	stats.Initiative, _	= strconv.Atoi(matches[7])
+	stats.Attacks, _	= strconv.Atoi(matches[8])
+	stats.Leadership, _	= strconv.Atoi(matches[9])
+	stats.Save		= matches[10]
 
 	return nil
 }
 
 func (warband *WarbandName) UnmarshalJSON(b []byte) error {
-	regex   := regexp.MustCompile(`(?i)"([^\(]+)\(([^\)]+)\)"`)
+	regex := regexp.MustCompile(`(?i)"([^\(]+)\(([^\)]+)\)"`)
 	matches := regex.FindStringSubmatch(string(b))
 	warband.Name = strings.TrimSpace(matches[1])
 	warband.Race = strings.TrimSpace(matches[2])
@@ -141,7 +139,7 @@ func (warband *WarbandName) UnmarshalJSON(b []byte) error {
 }
 
 func (itemList *ItemList) UnmarshalJSON(b []byte) error {
-	items       := strings.Split(string(b[1:len(b)-1]), ",")
+	items := strings.Split(string(b[1:len(b)-1]), ",")
 	for _, item := range items {
 		itemList.List = append(itemList.List, strings.TrimSpace(item))
 	}
@@ -166,10 +164,10 @@ func ParseWarband(warbandDefinition []byte) Warband {
 	}
 
 	for _, h := range warband.Heros {
-		regex   := regexp.MustCompile(`([^\(]+)\(([^\)]+)\)\s*\[([0-9]+)XP\]\s*`)
+		regex := regexp.MustCompile(`([^\(]+)\(([^\)]+)\)\s*\[([0-9]+)XP\]\s*`)
 		matches := regex.FindStringSubmatch(string(h.Header))
-		h.Name          = strings.TrimSpace(matches[1])
-		h.Type          = strings.TrimSpace(matches[2])
+		h.Name = strings.TrimSpace(matches[1])
+		h.Type = strings.TrimSpace(matches[2])
 		h.Experience, _ = strconv.Atoi(strings.TrimSpace(matches[3]))
 
 		if h.WarbandAddition > 0 {
@@ -202,7 +200,7 @@ func ParseWarband(warbandDefinition []byte) Warband {
 			warband.hiredsword_sum_xp = warband.hiredsword_sum_xp + h.Experience
 			warband.hiredsword_cnt = warband.hiredsword_cnt + 1
 
-		} // TODO it is not possible that a large hired sword can be added
+		}
 
 		// hier text Skill listen-Name zu boolschen Wert umwandeln
 		h.bSkillLists.Speed = false
@@ -243,23 +241,23 @@ func ParseWarband(warbandDefinition []byte) Warband {
 		if !hg.Large {
 			warband.henchmen_sum_xp = warband.henchmen_sum_xp + (hg.Experience * hg.Number)
 			if !hg.Mount && !hg.AttackAnimal {
-			    warband.henchmen_cnt = warband.henchmen_cnt + hg.Number
-			    warband.Rating = warband.Rating + (hg.Experience + 5) * hg.Number
+				warband.henchmen_cnt = warband.henchmen_cnt + hg.Number
+				warband.Rating = warband.Rating + (hg.Experience + 5) * hg.Number
 			} else if hg.Mount { // mount wiegt mehr als attack animal
-			    warband.mount_cnt = warband.mount_cnt + hg.Number
-			    warband.Rating = warband.Rating + 10 * hg.Number
+				warband.mount_cnt = warband.mount_cnt + hg.Number
+				warband.Rating = warband.Rating + 10 * hg.Number
 			} else if hg.AttackAnimal {
-			    warband.attackanimal_cnt = warband.attackanimal_cnt + hg.Number
-			    warband.Rating = warband.Rating + 10 * hg.Number
+				warband.attackanimal_cnt = warband.attackanimal_cnt + hg.Number
+				warband.Rating = warband.Rating + 10 * hg.Number
 			}
 		} else {
 			// large mounts are possible but they do count as large
 			warband.henchmen_sum_xp = warband.henchmen_sum_xp + (hg.Experience * hg.Number)
-                        if hg.Mount {
-                            warband.large_mount_cnt = warband.large_mount_cnt + 1
-                        } else {
-			    warband.large_cnt = warband.large_cnt + 1
-                        }
+			if hg.Mount {
+				warband.large_mount_cnt = warband.large_mount_cnt + 1
+			} else {
+				warband.large_cnt = warband.large_cnt + 1
+			}
 			warband.Rating = warband.Rating + (hg.Experience + 20) * hg.Number
 		}
 
