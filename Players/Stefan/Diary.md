@@ -505,3 +505,29 @@ Marius hat den ziemlich furchterregenden Augur (wie schräg ist denn bitte, dass
 Am Anfang der Kampagne hatte Kai für mich mit Abstand die stärkste Warband. Mit großem Abstand. Goblins sind zwar Mist, aber viele davon auch wieder nicht.  Inzwischen hat Kai seine Warband geschrumpft um mehr Gold zu bekommen. Ich verstehe den Wunsch nach mehr Gold auf jeden Fall, aber vor weniger Kriegern habe ich einfach auch weniger Angst. Auch wenn es schlimme T4 Orks sind =) Allerdings hat Kai sich nach dem letzten Spiel auch einen Oger organisiert. Und von dem wiederum halte ich einiges. Da bin ich gespannt wie sich meine Einschätzung entwickelt.
 
 Soweit meine Sicht der Dinge. Mal schauen wie es nach weiteren vier Spielen aussieht!
+
+## BTB Game 5 – Ein Ausblick  
+**28.05.19**  
+Fünf Tage bis Game Day. Ich habe Urlaub, alle Minis sind bemalt, die Warband Liste und Labers Regelbuch ausgedruckt. Maßband, Würfel und Figürchen liegen bereit, Gelände ist verstaut. Und jetzt?
+
+Da ich sonst nichts mehr zu tun habe ist das jetzt eine gute Gelegenheit ein bisschen in die strategische Metaebene einzutauchen. Und dann kann ich das auch genauso gut in Schriftform tun um nächsten Montag mit dem tatsächlichen Spiel zu vergleichen.
+
+Ich spiele mit Kai und Fabian. Wer von uns hat welche Anreize in dem Spiel?
+
+*Motivationen*  
+ - Fabian will offensichtlich das Chaos Schwert. Das braucht er zum Gewinnen und deswegen hat er mich als Gegner ausgesucht.
+ - Kai will den Boss von Fabian ooA hauen. Dafür bekommt er CP. Außerdem will er den Boss schwächen, da er den irgendwann in einem epischen Endkampf besiegen muss.
+ - Ich will vor allem das Schwert nicht verlieren. Ansonsten bekomme ich ebenfalls CP für Fabians Boss und tote Beastmen Helden.
+ - Jeder von uns will die Kisten. Die bringen Geld und gewinnen ggf das Szenario.
+
+Von möglichen versteckten Motiven (die ich bestenfalls erahnen kann) abgesehen erscheinen die Fronten also ziemlich geklärt. Was ergibt sich daraus für mich als Plan?
+
+ - Prio 1: So schnell wie möglich meinen Schwertträger mit einer Kiste vom Feld schicken. Dann kann das Schwert von niemand mehr erobert werden und ich kann aggressiver spielen.
+ - Prio 2: Arzuch, Dimiona und Sulman so positionieren, dass sie am Anfang Haffax decken und später potenziell Fabian angreifen können. Die drei müssen viel Arbeit leisten.
+ - Prio 3: Kisten. Sind nice to have, allerdings hat der Schutz des Schwertes klaren Vorrang.
+
+Alles in allem erscheint es mir gut möglich Haffax mit dem Schwert und einer Kiste vom Feld laufen zu lassen. Das ist auch der Grund warum ich genau dieses Szenario ausgewählt habe.
+
+Sobald das passiert ist muss ich neu priorisieren, je nach Situation: Lohne es sich mehr die Kisten aufzusammeln, oder lohnt es sich mehr zu versuchen Fabians Helden ooA zu schlagen.
+
+Generell ist es natürlich auch immer der Plan die eigenen Helden zu schützen, damit die Exploration Phase besser wird. Da ich allerdings dieses Mal schon mit nur drei Helden in das Spiel starte wird die sowieso mies. Da kann ich auch ein bisschen mehr riskieren, denke ich. Und außer meinen Helden (und Arzuch) hat leider auch sonst niemand wirklich offensives Potenzial…
