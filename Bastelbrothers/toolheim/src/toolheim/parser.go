@@ -5,6 +5,8 @@ import (
 	"strconv"
 	"strings"
 	"math"
+	"fmt"
+	"os"
 
 	"github.com/ghodss/yaml"
 )
@@ -116,7 +118,13 @@ type Skilllist struct {
 func (stats *Stats) UnmarshalJSON(b []byte) error {
 	regex := regexp.MustCompile(`(?i)"\s*M([0-9]+[dD]*[6]*)\s*,\s*WS([0-9]+)\s*,\s*BS([0-9]+)\s*,\s*S([0-9]+)\s*,\s*T([0-9]+)\s*,\s*W([0-9]+)\s*,\s*I([0-9]+)\s*,\s*A([0-9]+)\s*,\s*Ld([0-9]+)\s*,\s*Sv([0-9\-\+]+)\s*"`)
 	matches := regex.FindStringSubmatch(string(b))
-	stats.Movement		= matches[1]
+
+	if len(matches) < 1 {
+		fmt.Println("ERROR: Stat line " + string(b) + " is erroneous.")
+		os.Exit(1000)
+	}
+
+	stats.Movement = matches[1]
 	stats.WeaponSkill, _	= strconv.Atoi(matches[2])
 	stats.BallisticSkill, _ = strconv.Atoi(matches[3])
 	stats.Strength, _	= strconv.Atoi(matches[4])
@@ -133,8 +141,15 @@ func (stats *Stats) UnmarshalJSON(b []byte) error {
 func (warband *WarbandName) UnmarshalJSON(b []byte) error {
 	regex := regexp.MustCompile(`(?i)"([^\(]+)\(([^\)]+)\)"`)
 	matches := regex.FindStringSubmatch(string(b))
+
+	if len(matches) < 1 {
+		fmt.Println("ERROR: Warband name " + string(b) + " is erroneous.")
+		os.Exit(2000)
+	}
+
 	warband.Name = strings.TrimSpace(matches[1])
 	warband.Race = strings.TrimSpace(matches[2])
+
 	return nil
 }
 
@@ -166,6 +181,12 @@ func ParseWarband(warbandDefinition []byte) Warband {
 	for _, h := range warband.Heros {
 		regex := regexp.MustCompile(`([^\(]+)\(([^\)]+)\)\s*\[([0-9]+)XP\]\s*`)
 		matches := regex.FindStringSubmatch(string(h.Header))
+
+		if len(matches) < 1 {
+			fmt.Println("ERROR: Hero header (name) line " + string(h.Header) + " is erroneous.")
+			os.Exit(3000)
+		}
+
 		h.Name = strings.TrimSpace(matches[1])
 		h.Type = strings.TrimSpace(matches[2])
 		h.Experience, _ = strconv.Atoi(strings.TrimSpace(matches[3]))
@@ -236,6 +257,12 @@ func ParseWarband(warbandDefinition []byte) Warband {
 	for _, hg := range warband.HenchmenGroups {
 		regex := regexp.MustCompile(`([^\(]+)\(([0-9]+)x?\s+([^\)]+)\)\s*\[([0-9]+)(?i)XP\]\s*`)
 		matches := regex.FindStringSubmatch(string(hg.Header))
+
+		if len(matches) < 1 {
+			fmt.Println("ERROR: Henchmen header (group name) line " + string(hg.Header) + " is erroneous.")
+			os.Exit(4000)
+		}
+
 		hg.Name = strings.TrimSpace(matches[1])
 		hg.Number, _ = strconv.Atoi(strings.TrimSpace(matches[2]))
 		hg.Type = strings.TrimSpace(matches[3])
