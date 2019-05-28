@@ -114,7 +114,7 @@ type Skilllist struct {
 }
 
 func (stats *Stats) UnmarshalJSON(b []byte) error {
-	regex	:= regexp.MustCompile(`(?i)"\s*M([0-9]+[dD]*[6]*)\s*,\s*WS([0-9]+)\s*,\s*BS([0-9]+)\s*,\s*S([0-9]+)\s*,\s*T([0-9]+)\s*,\s*W([0-9]+)\s*,\s*I([0-9]+)\s*,\s*A([0-9]+)\s*,\s*Ld([0-9]+)\s*,\s*Sv([0-9\-\+]+)\s*"`)
+	regex := regexp.MustCompile(`(?i)"\s*M([0-9]+[dD]*[6]*)\s*,\s*WS([0-9]+)\s*,\s*BS([0-9]+)\s*,\s*S([0-9]+)\s*,\s*T([0-9]+)\s*,\s*W([0-9]+)\s*,\s*I([0-9]+)\s*,\s*A([0-9]+)\s*,\s*Ld([0-9]+)\s*,\s*Sv([0-9\-\+]+)\s*"`)
 	matches := regex.FindStringSubmatch(string(b))
 	stats.Movement		= matches[1]
 	stats.WeaponSkill, _	= strconv.Atoi(matches[2])
@@ -209,24 +209,26 @@ func ParseWarband(warbandDefinition []byte) Warband {
 		h.bSkillLists.Combat = false
 		h.bSkillLists.Academic = false
 		h.bSkillLists.Strength = false
-		for _, s := range h.SkillLists.List {
-			if strings.EqualFold(s, "Speed") {
-				h.bSkillLists.Speed = true
-			}
-			if strings.EqualFold(s, "Shooting") {
-				h.bSkillLists.Shooting = true
-			}
-			if strings.EqualFold(s, "Special") {
-				h.bSkillLists.Special = true
-			}
-			if strings.EqualFold(s, "Combat") {
-				h.bSkillLists.Combat = true
-			}
-			if strings.EqualFold(s, "Academic") {
-				h.bSkillLists.Academic = true
-			}
-			if strings.EqualFold(s, "Strength") {
-				h.bSkillLists.Strength = true
+		if nil != h.SkillLists {
+			for _, s := range h.SkillLists.List {
+				if strings.EqualFold(s, "Speed") {
+					h.bSkillLists.Speed = true
+				}
+				if strings.EqualFold(s, "Shooting") {
+					h.bSkillLists.Shooting = true
+				}
+				if strings.EqualFold(s, "Special") {
+					h.bSkillLists.Special = true
+				}
+				if strings.EqualFold(s, "Combat") {
+					h.bSkillLists.Combat = true
+				}
+				if strings.EqualFold(s, "Academic") {
+					h.bSkillLists.Academic = true
+				}
+				if strings.EqualFold(s, "Strength") {
+					h.bSkillLists.Strength = true
+				}
 			}
 		}
 	}
