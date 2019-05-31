@@ -248,7 +248,7 @@ Arzuch sah kurzzeitig aus las wollte er es darauf ankommen lassen, setze dann ab
 
 Unwillkürlich traten die Grubenkämpfer einen Schritt zurück. "Ich mit euch kämpfem" sagte Arzuch in einem Tonfall der keinen Widerspruch zuließ. "Na dann, willkommen an Bord", erwiderte Haffax grinsend. Einen Oger als Gefährten zu haben konnte keine schlechte Wendung für sie sein. Langsam nahm ihre Gruppe Gestalt an.
 
-# Kapitel 2: Das Breitschwert der Verdammnis  
+# Kapitel 3: Das Breitschwert der Verdammnis  
 *"Ein Schwert, sie zu knechten, sie alle zu finden,*  
 *Ins Dunkel zu treiben und ewig zu binden…"*  
  - Besudelte Inschrift an der Außenwand der Kathedrale von Brig-Lo  
@@ -379,3 +379,15 @@ Verkaufe 2 Dagger von Dimiona (mit Pawnbroker) 4GC
 "Lasst uns kurz nachdenken", sagte Haffax und setzte sich sichtbar erschöpft auf den Boden. Die anderen Grubenkämpfer taten es im gleich. Alle bis auf Galotta. Unbändige Neugierde blitze in seinen Augen auf als er langsam zum Schwert griff. "Galotta, bist du irre", schrie Sulman, aber da hatte Galotta schon seine Hand um den Griff des Schwerts gelegt und es hoch erhoben. Alle Grubenkämpfer erstarrten in der Erwartung eines weiteren Schreis. Doch Galotta schrie nicht. Ein befriedigtes Grinsen umspielte seine Lippen. "Faszinierend.", meinte er. "Kannst du sie nicht hören?", fragte Haffax ungläubig. "Oh ich höre sie. Aber sie belasten mich nicht. Ich kann sie ausblenden. Ignorieren. Ich bin stärker als sie!" Man konnte Galottas Genugtuung über diese Erkenntnis deutlich in seiner Stimme hören. Dimiona schüttelte ungläubig den Kopf. "Gut für uns, schätze ich."
 
 Haffax unterbrach die Grubenkämpfer: "Ich muss Tharsonius Bericht erstatten was wir gefunden haben. Das hier geht weit über unsere Rebellion gegen das Imperium hinaus. Ich nehme Skrechu mit und schlage mich zum Bethanier durch. Ihr geht zurück in die Grube und haltet die Stellung!"
+
+# Kapitel 4: Grüne Häute und Gehörnte  
+*"Was würdet ihr tun ohne Freiheit?"*   
+ - Sulman zu den restlichen Grubenkämpfern
+
+So machten sich die verbleibenden Grubenkämpfer auf den Weg zurück in die Zivilisation. Sulman und Dimiona führten sie durch die verödete Landschaft gen Süden. Immer wieder warfen sie Galotta verstohlene Blicke zu, der das Chaosschwert an seiner Seite trug. Doch dieser schien von der dämonischen Präsenz des Artefakts völlig unbeeindruckt.
+
+Nach Wochen des ereignislosen Wanderns blieb Arzuch eines Nachmittags ruckartig stehen und hob seinen Arm. "Geräusche", grollte er. "Wir haben Gesellschaft!". Sulman sah den Oger fragend an, dann drang ein animalischer Kriegsschrei durch die Einöde. Alarmiert sahen sich die Grubenkämpfer an. Leise drang Galottas Stimme durch die plötzliche Stille: "Die Chaos Götter haben ihre Anhänger gerufen. Es scheint ihnen nicht zu gefallen, dass wir es besitzen." "Was?!?", schnappte Dimiona. "Wer bei allen Niederhöllen ist das? Und was besitzen wir?" Galotta tippte lakonisch an seine Seite, an der das Schwert aus Brig-Lo baumelte.
+
+Arzuch bedeckte seine Augen und spähte Richtung Horizont. "Grünhäute. Und Ziegenmenschen. Zusammen." Ein Grimmiger Ausdruck erschien auf Sulmans Gesicht: "Scheint als wären es alte Bekannte. Grumlok und Ted." Die anderen Grubenkämpfer sahen ihn fragend an. "Erinnert ihr euch nicht an die Säule des Belhalhar?" In kurzer Reihenfolge wechselten die Mienen der Grubenkämpfer. Erinnern, Erkenntnis und Entsetzen spielten auf ihren Gesichtern. Das Gemetzel an der Säule war ihnen nur allzu deutlich im Gedächtnis.
+
+"Was tun wir?", formulierte Torxes die Frage die allen ins Gesicht geschrieben stand. Sulman richtete sich auf, straffe die Schultern und sah seine Mitstreiter entschlossen an: "Wenn das Schwert die Chaosanhänger ruft, dann können wir nicht rennen. Wir können uns nicht verstecken. Wir können ihnen nicht aus dem Weg gehen." Dimiona lächelte grimmig: "Ich gebe es ja nur ungern zu, aber du hast recht. Auf der anderen Seite macht das die Sache ja schön simpel!" Damit zog sie ihr Schwert. Nach kurzem Zögern taten die übrigen Grubenkämpfer es ihr gleich. "Für Cathay", rief Sulman mit glühenden Augen. "Für Cathay", schallten die Stimmen der Grubenkämpfer zurück. 
