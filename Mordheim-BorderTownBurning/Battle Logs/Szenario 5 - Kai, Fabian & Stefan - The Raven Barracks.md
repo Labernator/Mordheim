@@ -161,7 +161,7 @@ Legion: +3 advance: +1S
 
 **Exploration:**  
 *Kai*  
-6 Wyrdstones  drippel 6 => Norog stibrt dafür 3 CP für Kai!!!  
+6 Wyrdstones  trippel 6 => Norog stibrt dafür 3 CP für Kai!!!  
 Verkaufe 5 Wyrdstones für 80 GC  
 Money maker: +3gc
 
@@ -170,7 +170,7 @@ Fabian: 3 Wyrdstones, verkauft 3 für 55GC
 
 *Stefan*  
 
-Tripple 4 "dragon monk"
+Tripple 4: "dragon monk"
 3 Wyrdstones
 Sell 3 shards = 60gc  
 Money Maker: 5gc
@@ -186,10 +186,33 @@ Minstrel: 14gc
 **Trading:**  
 *Kai*  
 
-Hire dark emissary -3 shards (bolt of dark light, betrayl in death, curse of the dark master, fog of death)
 Findet keine Hexe
+
+old shards: 2
++6 shards (exploration)
+new shard: 8
+
++3gc (kiste)  
++14gc (kiste)
++13gc  (kiste)
++80gc (sell 5 shards)  
++3gc 8money maker)
+
+old treasure chest: 12gc
+=> +113gc
+
+Hire dark emissary -3 shards (bolt of dark light, betrayl in death, curse of the dark master, fog of death)
+=> 0 shards
+
 Hasenpfote -15gc  
 Upkeep Ogre -30gc
+=> 80gc
+
+ork boy (free dagger) -(25gc -12gc xp cost) => 37gc
+ork boy (free dagger) -(25gc -4gc xp cost) => 29gc
+3x hand weapon -9gc
+
+new treasure chest: 8gc
 
 *Fabian*  
 
