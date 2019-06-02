@@ -116,6 +116,7 @@ Keine Verluste
 5. (16) 4D6gc=13gc  
 6. (13) 4D6gc=16gc  
 7. (18) 2D6gc=5gc D3 toughned leathers=2x  
+=> 104GC, 2x Superior Blackpowder, 2 Toughened Leathers  
 
 **Experience:**  
 *Kai*   
@@ -147,17 +148,17 @@ dagger: +1 advance:
 
 Helme Haffax hat nicht mitgespielt  
 Gallotta +2  
-Dimiona +1  
-Skrechu hat nicht mitgespielt  
-Sulaman +3 advance: +1WS
-Barde +1 advance: Skill= Minstrel
-Leonardo +1 advance: +1I
-Azrail: +2 advance: Skill= Animal Call
-Arzuch: +3 advance: +1I
-Berserker: +2 advance: +1S
-Horde: +2 advance: +1WS
-Äxte: +3 advance: +BS
-Legion: +3 advance: +1S
+Dimiona +1   
+Skrechu hat nicht mitgespielt   
+Sulaman +3 advance: +1WS  
+Barde +1 advance: Skill= Minstrel  
+Leonardo +1 advance: +1I  
+Azrail: +2 advance: Skill= Animal Call  
+Arzuch: +3 advance: +1I  
+Berserker: +2 advance: +1S  
+Horde: +2 advance: +1WS  
+Äxte: +3 advance: +BS  
+Legion: +3 advance: +1S  
 
 **Exploration:**  
 *Kai*  
@@ -170,17 +171,16 @@ Fabian: 3 Wyrdstones, verkauft 3 für 55GC
 
 *Stefan*  
 
-Tripple 4 "dragon monk"
-3 Wyrdstones
-Sell 3 shards = 60gc  
-Money Maker: 5gc
-Minstrel: 14gc
-+1 healing herb
+Tripple 4 "dragon monk"  
+3 Wyrdstones verkaufe alle für 60gc (dank Conclave achievement)    
+Money Maker: 5gc  
+Minstrel: 14gc  
++1 healing herb (von random happenings)
 
 **Hired Swords Blood Pact:**
+nix
 
 **Henchmen XP:**
-
 9xp
 
 **Trading:**  
@@ -194,3 +194,19 @@ Upkeep Ogre -30gc
 *Fabian*  
 
 *Stefan*   
+60 GC von Wyrdstones  
+104 GC von Reward  
+50 GC vom Alchemist  
+19 GC von Barde + Money Maker  
+ => 233 GC (!!)  
+
+10 GC Upkeep Barde  
+15 GC Upkeep Alchemist    
+15 GC Upkeep Ranger  
+30 GC 2 Flails  
+50 GC 2 Pursuer mit 0 XP    
+ 2 GC 1 Dagger  
+30 GC hire Thief  
+=> 152 GC
+
+Übrig: 81 GC, Healing Herbs, 2 Toughened Leathers, 2 Superior Blackpowder  
