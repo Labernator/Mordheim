@@ -127,3 +127,5 @@ NEU: In its saddlebags, you find a rain coat, a net, 2 garlic cloves and 2D6 gol
 
 44.) Hired Swords können jedes Equipment tragen, dass die Seltenheit "Common" hat. 
 
+45.) Fog of Death: Range of fog=sight 2D6+1"; the fog affects charging and shooting; 1xS2 hit on D6=5+ per enemy which is touched by the fog; no armour saves allowed; No friendly fire; The effect lasts until the start of the caster's next turn. Difficulty is 10 as before.
+
