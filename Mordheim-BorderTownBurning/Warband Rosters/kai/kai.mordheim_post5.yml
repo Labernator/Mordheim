@@ -23,8 +23,9 @@ heros:
       skilllists: Strength, Shooting, Combat, Special
 
     - hero: Karhag (Big'Un) [18XP]
-      stats: M4, WS4, BS3, S3, T3, W1, I3, A2, Ld7, Sv-
+      stats: M4, WS4, BS3, S3, T3, W1, I3, A2, Ld7, Sv6
       weapons: Hand weapon, Dagger
+      armour: toughened leather
       rules:
       injuries: Chest wound
       skilllists: Strength, Shooting, Combat, Special
@@ -38,8 +39,9 @@ heros:
       skilllists: Strength, Special
 
     - hero: Ug'Lash (Ork boy) [8XP]
-      stats: M4, WS4, BS3, S3, T4, W2, I4, A1, Ld7, Sv-
+      stats: M4, WS4, BS3, S3, T4, W2, I4, A1, Ld7, Sv6
       weapons: Hand weapon, Dagger
+      armour: toughened leather
       rules: Animosity
       skilllists: Strength, Combat
 
