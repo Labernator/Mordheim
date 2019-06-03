@@ -205,8 +205,10 @@ Upkeep Ogre -30gc
 15 GC Upkeep Ranger  
 30 GC 2 Flails  
 50 GC 2 Pursuer mit 0 XP    
- 2 GC 1 Dagger  
-30 GC hire Thief  
-=> 152 GC
+30 GC hire Thief   
+50 GC Heavy Armour  
+20 GC 4 Äxte
 
-Übrig: 81 GC, Healing Herbs, 2 Toughened Leathers, 2 Superior Blackpowder  
+=> 220 GC
+
+Übrig: 13 GC, Healing Herbs, 2 Toughened Leathers, 2 Superior Blackpowder  
