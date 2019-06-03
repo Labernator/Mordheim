@@ -3,7 +3,8 @@
 ##Heroes
 **Helme Haffax**  
 Pit King  
-![haffax](Bilder/Haffax.png  =100x)  
+![haffax](Bilder/Haffax.png  =100x20)  
+<img src="Bilder/Haffax.png" alt="drawing" width="100"/>
 
 **Gaius Cordovan Eslam Galotta**  
 Initiate  
