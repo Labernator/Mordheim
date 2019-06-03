@@ -208,11 +208,12 @@ Hasenpfote -15gc
 Upkeep Ogre -30gc
 => 80gc
 
-ork boy (free dagger) -(25gc -12gc xp cost) => 37gc
-ork boy (free dagger) -(25gc -4gc xp cost) => 29gc
-3x hand weapon -9gc
+ork boy (free dagger) -(25gc + 12gc xp cost) => -37gc
+goblin (free dagger) => -15gc
+1x hand weapon -3gc
+1x Axe -5gc
 
-new treasure chest: 8gc
+new treasure chest: 20gc
 
 *Fabian*  
 
@@ -228,9 +229,9 @@ new treasure chest: 8gc
 15 GC Upkeep Ranger  
 30 GC 2 Flails  
 50 GC 2 Pursuer mit 0 XP    
-30 GC hire Thief   
+30 GC hire Thief 
 50 GC Heavy Armour  
-20 GC 4 Äxte
+20 GC 4 Äxte  
 
 => 220 GC
 

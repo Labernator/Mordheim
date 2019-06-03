@@ -6,7 +6,7 @@ import (
 )
 
 var marker_sign = "X"
-var text_color_r = 170
+var text_color_r = 0
 var text_color_g = 0
 var text_color_b = 0
 
@@ -448,7 +448,7 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	pdf.SetFont("Arial", "", 10)
 	pdf.SetTextColor(text_color_r, text_color_g, text_color_b)
 	pdf.SetXY(93, float64(offsetY)+28.0)
-	pdf.Write(0, strconv.Itoa(warband.member_cnt - warband.large_hiredsword_cnt - warband.dramatispersonae_cnt + warband.mount_cnt + warband.large_mount_cnt + warband.attackanimal_cnt ))
+	pdf.Write(0, strconv.Itoa(warband.member_cnt - warband.large_hiredsword_cnt - warband.hiredsword_cnt - warband.dramatispersonae_cnt + warband.mount_cnt + warband.large_mount_cnt + warband.attackanimal_cnt ))
 
 	pdf.SetFont("Arial", "", 10)
 	pdf.SetXY(72.5, float64(offsetY)+32.0)

@@ -1,8 +1,8 @@
 warband: Orks, Goblins and Squigs (Orks)
 campaign: 16
-gc: 8
+gc: 20
 shards: 0
-equipment: 4x Dagger, Short bow
+equipment: 2x Dagger
 objective: Scrooge of the realm
 alignment: chaotic
 
@@ -24,7 +24,7 @@ heros:
 
     - hero: Karhag (Big'Un) [18XP]
       stats: M4, WS4, BS3, S3, T3, W1, I3, A2, Ld7, Sv6
-      weapons: Hand weapon, Dagger
+      weapons: Axe, Hand weapon
       armour: toughened leather
       rules:
       injuries: Chest wound
@@ -82,17 +82,17 @@ henchmen:
       weapons: Hand weapon, Dagger
       rules: Animosity
 
-    - group: Oggrot, Growl (2 Ork boy) [2XP]
+    - group: Oggrot (1 Ork boy) [2XP]
       stats: M4, WS3, BS3, S3, T4, W1, I2, A2, Ld7, Sv-
-      weapons: Hand weapon, Dagger
+      weapons: 2x Dagger
       rules: Animosity
 
-    #- group: Squig herder (1 Goblin warrior) [3XP]
-    #  stats: M4, WS2, BS4, S3, T3, W1, I3, A1, Ld5, Sv-
-    #  weapons: Squig prodder
-    #  rules: Animosity, Not orks, Runts
+    - group: Squig herder (1 Goblin warrior) [0XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld5, Sv-
+      weapons: 2x dagger, short bow
+      rules: Animosity, Not orks, Runts
 
-    - group: Squigs {Not allowed to use} (1 Squig) [0XP]
+    - group: Squigs (1 Squig) [0XP]
       stats: M2D6, WS4, BS0, S4, T3, W1, I4, A1, Ld5, Sv-
       rules: Movement, Minderz, Not orks, Animals
 
