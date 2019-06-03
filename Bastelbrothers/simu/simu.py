@@ -336,15 +336,18 @@ def doInjuryRoll(u1, u2, wn, injury_addition):
             roll = roll + u1.weapon[wn]["toInjuryRoll"]
 
         print "\t\t\tinjury roll: " + str(roll)
-        # TODO stunnedMax und stunnedMin von unit und waffen beachten
-        if roll < u1.weapon[wn]["stunnedMin"]:
+        # stunnedMax und stunnedMin von unit und waffen beachten
+        if (roll < u1.weapon[wn]["stunnedMin"] and u2.hardToKill == False) or \
+           (u2.hardToKill == True and roll < 3):
             print "\t\t\tknocked down"
 
             if u2.state == 0:
                 u2.state = 1
+                u2.i_orig = u2.i
                 u2.i = -9 # strike last
 
-        elif roll >= u1.weapon[wn]["stunnedMin"] and roll <= u2.stunnedMax:
+        elif (roll >= u1.weapon[wn]["stunnedMin"] and roll <= u2.stunnedMax and u2.hardToKill == False) or \
+             (u2.hardToKill == True and roll >=3 and roll <= 5):
             tmp_stnSv = 4
             if u2.helmet == True:
                 print "\t\t\tHelmet: stunned save on " + str(tmp_stnSv) + "+"
@@ -364,6 +367,7 @@ def doInjuryRoll(u1, u2, wn, injury_addition):
                 if roll >= tmp_stnSv:
                     print "\t\t\tgranted, knocked down instead"
                     u2.state = 1
+                    u2.i_orig = u2.i
                     u2.i = -9 # strike last
                     return True
 
@@ -371,6 +375,7 @@ def doInjuryRoll(u1, u2, wn, injury_addition):
 
             if u2.state < 2:
                 u2.state = 2
+                u2.i_orig = u2.i
                 u2.i = -9 # strike last
         else:
             print "\t\t\tooa"
@@ -587,10 +592,14 @@ def fightTilOOA(fighters):
                     ff[0].causedOOA = ff[0].causedOOA + tmp_ff.causedOOA
                     ff[0].state = tmp_ff.state
                     ff[0].w = tmp_ff.w
+                    ff[0].i_orig = tmp_ff.i_orig
+                    ff[0].i = tmp_ff.i
                     ff[0].luckyCharmUsed = tmp_ff.luckyCharmUsed
                     ff[0].luckyCharm = tmp_ff.luckyCharm
                     tmp_tgt.causedWounds = tmp_tgt.causedWounds + tmp_target.causedWounds
                     tmp_tgt.causedOOA = tmp_tgt.causedOOA + tmp_target.causedOOA
+                    tmp_tgt.i_orig = tmp_tgt.i_orig
+                    tmp_tgt.i = tmp_tgt.i
                     tmp_tgt.w = tmp_tgt.w
                     tmp_tgt.state = tmp_tgt.state
                     tmp_tgt.luckyCharmUsed = tmp_target.luckyCharmUsed
@@ -618,6 +627,7 @@ def fightTilOOA(fighters):
                         if tmp_first_line == True:
                             print "\n\n---"
                         u.state = 0
+                        u.i_orig = u.i
                         u.i = -9 # strike last
                         tmp_first_line = False
                         print "\t" + u.name + ": stand up"
@@ -625,6 +635,7 @@ def fightTilOOA(fighters):
                         if tmp_first_line == True:
                             print "\n\n---"
                         u.state = 1
+                        u.i_orig = u.i
                         u.i = -9 # strike last
                         tmp_first_line = False
                         print "\t" + u.name + ": stn -> knd"
@@ -648,6 +659,9 @@ def fightTilOOA(fighters):
             for f in fights_ini_ordered:
                 if tmp_tgt.state == 3:
                     break # the target is ooa, abort all fights
+
+		if f.i == -9:
+			f.i = f.i_orig
 
                 if f.name != target.name:
                     if f.state == 0:
@@ -740,6 +754,8 @@ def fightTilOOA(fighters):
                             ff[0].causedWounds = ff[0].causedWounds + tmp_ff.causedWounds
                             ff[0].causedOOA = ff[0].causedOOA + tmp_ff.causedOOA
                             ff[0].state = tmp_ff.state
+                            ff[0].i = tmp_ff.i
+                            ff[0].i_orig = tmp_ff.i_orig
                             ff[0].w = tmp_ff.w
                             ff[0].luckyCharmUsed = tmp_ff.luckyCharmUsed
                             ff[0].luckyCharm = tmp_ff.luckyCharm
@@ -749,6 +765,8 @@ def fightTilOOA(fighters):
                             tmp_tgt.state = tmp_target.state
                             tmp_tgt.luckyCharmUsed = tmp_target.luckyCharmUsed
                             tmp_tgt.luckyCharm = tmp_target.luckyCharm
+                            tmp_tgt.i = tmp_target.i
+                            tmp_tgt.i_orig = tmp_target.i_orig
                             if tmp_tgt.state == 3:
                                 break # the target is down, abort the fight
 

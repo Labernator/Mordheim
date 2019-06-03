@@ -17,6 +17,8 @@ club = {
 club_offhand = copy.deepcopy(club)
 club_offhand["offhand"] = True
 
+stone_hammer_offhand = copy.deepcopy(club_offhand)
+
 fist = {
         "type" : "fist",
         "s" : -1,

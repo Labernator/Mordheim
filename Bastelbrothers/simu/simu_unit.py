@@ -10,6 +10,7 @@ class Unit:
     w = 3
     a = 3
     i = 1
+    i_orig = 0
     state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
     pre_state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
     stunnedMin = 3
@@ -17,6 +18,7 @@ class Unit:
     causedWounds = 0
     causedOOA = 0
     firstRoundToHitAdd = 0
+    hardToKill = False
     toHitAdd = 0
     regeneration = False
     ardEad = False
