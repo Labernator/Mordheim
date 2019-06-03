@@ -3,67 +3,66 @@
 ##Heroes
 **Helme Haffax**  
 Pit King  
-![haffax](Bilder/Haffax.png  =100x20)  
-<img src="Bilder/Haffax.png" alt="drawing" width="100"/>
+<img src="Bilder/Haffax.png" alt="drawing" width="200"/>
 
 **Gaius Cordovan Eslam Galotta**  
 Initiate  
-![galotta](Bilder/Galotta.png)  
+<img src="Bilder/Galotta.png" alt="drawing" width="200"/>
 
 **Dimiona von Zorgan**  
 Initiate  
-![dimiona](Bilder/Dimiona.png)  
+<img src="Bilder/Dimiona.png" alt="drawing" width="200"/>
 
 **Skrechu**  
 Veteran  
-![skrechu](Bilder/Skrechu.png)  
+<img src="Bilder/Skrechu.png" alt="drawing" width="200"/>
 
 **Sulman al'Venish**  
 Dwarf Troll Slayer  
-![sulman](Bilder/Sulman.png)  
+<img src="Bilder/Sulman.png" alt="drawing" width="200"/>
 
 ##Hired Swords  
 **Torxes von Freigeist**  
 Bard  
-![torxes](Bilder/Torxes.png)  
+<img src="Bilder/Torxes.png" alt="drawing" width="200"/>
 
 **Leonardo von Havena**  
 Alchemist  
-![leonardo](Bilder/Leonardo.png)  
+<img src="Bilder/Leonardo.png" alt="drawing" width="200"/>
 
 **Azaril Scharlachkraut**  
 Kislev Ranger  
-![azaril](Bilder/Azaril.png)  
+<img src="Bilder/Azaril.png" alt="drawing" width="200"/>
 
 **Darion Paligan**  
 Thief  
-![darion](Bilder/Darion.png)  
+<img src="Bilder/Darion.png" alt="drawing" width="200"/>
 
 ##Henchmen  
 **Unbesiegbare Legion von Yaq~Monnith**  
 2 Pursuer  
-![legion](Bilder/Legion.png)  
+<img src="Bilder/Legion.png" alt="drawing" width="200"/>
 
 **Blutige Äxte**  
 3 Pursuer  
-![äxte](Bilder/Äxte.png)  
+<img src="Bilder/Äxte.png" alt="drawing" width="200"/>
 
 **Drachengarde**  
 1 Pursuer  
-![drachengarde](Bilder/Drachengarde.png)  
+<img src="Bilder/Drachengarde.png" alt="drawing" width="200"/>
 
 **Eisenkralle**  
 1 Pursuer  
-![eisenkralle](Bilder/Eisenkralle.png)  
+<img src="Bilder/Eisenkralle.png" alt="drawing" width="200"/>
 
 **Horde von Ghumai-Kal**  
-1 Pit Fighter    
-![horde](Bilder/Horde.png)  
+1 Pit Fighter  
+<img src="Bilder/Horde.png" alt="drawing" width="200"/>
 
 **Berserker des Belhalhar**  
 1 Pit Fighter  
-![berserker](Bilder/Berserker.png)  
+<img src="Bilder/Berserker.png" alt="drawing" width="200"/>
 
 **Arzuch**  
 Ogre Pit Fighter 
-![arzuch](Bilder/Arzuch.png)  
+<img src="Bilder/Arzuch.png" alt="drawing" width="200"/>
