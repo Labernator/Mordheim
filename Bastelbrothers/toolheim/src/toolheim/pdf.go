@@ -547,7 +547,7 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	}
 
 	pdf.SetFont("Arial", "", 10)
-	pdf.SetXY(147, float64(offsetY)+20.0)
+	pdf.SetXY(197.5, float64(offsetY) + 27.0)
 	pdf.Write(0, strconv.Itoa(warband.CampaignPoints))
 
 	row := 0
