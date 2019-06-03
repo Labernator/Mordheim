@@ -41,11 +41,11 @@ Thief
 ## Henchmen  
 **Unbesiegbare Legion von Yaq~Monnith**  
 2 Pursuer  
-<img src="Bilder/Legion.png" alt="drawing" width="200"/>
+<img src="Bilder/Legion.png" alt="drawing" width="300"/>
 
 **Blutige Äxte**  
 3 Pursuer  
-<img src="Bilder/Äxte.png" alt="drawing" width="200"/>
+<img src="Bilder/Äxte.png" alt="drawing" width="400"/>
 
 **Drachengarde**  
 1 Pursuer  
