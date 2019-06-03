@@ -391,3 +391,111 @@ Nach Wochen des ereignislosen Wanderns blieb Arzuch eines Nachmittags ruckartig 
 Arzuch bedeckte seine Augen und spähte Richtung Horizont. "Grünhäute. Und Ziegenmenschen. Zusammen." Ein Grimmiger Ausdruck erschien auf Sulmans Gesicht: "Scheint als wären es alte Bekannte. Grumlok und Ted." Die anderen Grubenkämpfer sahen ihn fragend an. "Erinnert ihr euch nicht an die Säule des Belhalhar?" In kurzer Reihenfolge wechselten die Mienen der Grubenkämpfer. Erinnern, Erkenntnis und Entsetzen spielten auf ihren Gesichtern. Das Gemetzel an der Säule war ihnen nur allzu deutlich im Gedächtnis.
 
 "Was tun wir?", formulierte Torxes die Frage die allen ins Gesicht geschrieben stand. Sulman richtete sich auf, straffe die Schultern und sah seine Mitstreiter entschlossen an: "Wenn das Schwert die Chaosanhänger ruft, dann können wir nicht rennen. Wir können uns nicht verstecken. Wir können ihnen nicht aus dem Weg gehen." Dimiona lächelte grimmig: "Ich gebe es ja nur ungern zu, aber du hast recht. Auf der anderen Seite macht das die Sache ja schön simpel!" Damit zog sie ihr Schwert. Nach kurzem Zögern taten die übrigen Grubenkämpfer es ihr gleich. "Für Cathay", rief Sulman mit glühenden Augen. "Für Cathay", schallten die Stimmen der Grubenkämpfer zurück. 
+
+### Schlachtbericht  
+**Szenario/Mitspieler:** The Raven Barracks mit Kai und Fabian  
+
+**Ergebnis:** Sieg       
+
+**Gefallene Krieger:** keiner   
+
+**Belohnungen:**   
+7 Kisten => 104GC, 2x Superior Blackpowder, 2 Toughened Leathers  
+
+**CP:**  
++1 fürs Teilnehmen  
++1 fürs Gewinnen   
+=> +2  
+
+**Experience:**  
+ - Haffax: +0xp (setzte aus)  
+ - Galotta: +2xp  
+ - Dimiona: +1xp  
+ - Skrechu: +0xp (setzte aus)  
+ - Sulman: +3xp (advance: +1 WS)  
+ - Arzuch: +3xp (advance: +1 I)  
+ - Legion: +3xp (advance: +1 S)  
+ - Äxte: +3xp (advance: +1 BS)  
+ - Horde: +2xp (advance: +1 WS)  
+ - Berserker: +2xp (advance: +1 S)  
+ - Torxes: +1xp (advance: Skill - Minstrel)  
+ - Leonardo: +1xp (advance: +1 I)  
+ - Azaril: +2xp (advance: Skill - Animal Call)  
+
+**Sonstiges:** Ich finde ein Healing Herbs in den random Happenings  
+
+**Exploration:**  
+3 Wyrdstones: 3 verkaufen für 60 GC (dank Conclave Achievement)  
+Drippel 4: Ich darf das nächste Szenario auswählen und anfangen  
+
+**Trading:**  
+Verkaufe 3 Wyrdstones für 60 GC  
+Verkaufe 2 Firebombs für 50 GC  
+Moneymaker (5 GC) & Minstrel (14 GC) 19 GC  
+Reward aus dem Szenario 104 GC   
+=> 233 GC :astonished:   
+
+ - Upkeep Alchemist (15 GC)  
+ - Upkeep Bard (10 GC)  
+ - Upkeep Ranger (15 GC)  
+ - 2 Pursuer mit je 0 XP (neue Gruppen), Dagger kommen von der Legion (50 GC)  
+ - Thief (30 GC)   
+ - 2 Flails (30 GC)  
+ - 4 Axes (20 GC)    
+ - Heavy Armour für Haffax (50 GC)   
+ => 13 GC übrig  
+
+**Reallocate equipment:**  
+ - Die Legion gibt 2 Dagger an die neuen Henchmen   
+ - Haffax erhält einen Flail, Healing Herbs und eine Heavy Armour   
+ - Skrechu erhält einen Flail und gibt seinen Dagger in den Stash  
+ - Arzuch erhält eine Axe und gibt einen Dagger in den Stash  
+ - Berserker erhält eine Axe und gibt einen Dagger in den Stash  
+ - Galotta erhält eine Toughened Leathers  
+ - Dimiona erhält eine Toughened Leathers  
+ - 2x Superior Blackpowder geht in den Stash
+
+### Aktuelles Roster  
+*Heroes*  
+**Helme Haffax** (Pit King, 29 XP): Flail, Heavy Armour, Healing Herbs  
+
+**Gaius Cordovan Eslam Galotta** (Initiate, 10 XP): 2x Dagger, Toughened Leathers  
+
+**Dimiona von Zorgan** (Initiate, 9 XP): Halberd, Toughened Leathers    
+
+**Skrechu** (Veteran, 14 XP): Flail  
+
+**Sulman al'Venish** (Dwarf Troll Slayer, 18 XP): 2x Dagger  
+
+*Henchmen*  
+**Arzuch** (1 Oger, 6 XP): Axe, Dagger, Heavy Armour      
+
+**Unbesiegbare Legion von Yaq-Monnith** (2 Pursuer, 10 XP): Axe, Dagger    
+
+**Blutige Äxte** (3 Pursuer, 5 XP): 2x Dagger  
+
+**Horde von Ghumai-Kal** (1 Pit Fighter, 5 XP): 2x Dagger  
+
+**Berserker des Belhalhar** (1 Pit Fighter, 5 XP): Axe, Dagger  
+
+**Drachengarde** (1 Pursuer, 0 XP): 2x Dagger  
+
+**Eisenkralle** (1 Pursuer, 0 XP): 2x Dagger  
+
+*Hired Swords*  
+**Torxes von Freigeist** (Bard, 4 XP): Sword, Dagger, Light Armour, Lyre  
+
+**Leonardo von Havena** (Alchemist, 17 XP): Staff, Dagger, Crossbow Pistol  
+
+**Azaril Scharlachkraut** (Kislev Ranger, 12 XP): Sword, Dagger, Bow    
+
+**Darion Paligan** (Thief, 17 XP): 2x Dagger, Thief's Cloak    
+
+
+**Treasure Chest:** 13 GC, 1 Wyrdstone, 2x Superior Blackpowder, 3x Dagger   
+**Alignment:** Lawful/Neutral  
+**Objective:** The Celestial Protectorate  
+**Campaign Points:** 11  
+**Warband Rating:**   
+ 
+### Nachspiel  
