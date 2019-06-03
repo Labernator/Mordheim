@@ -1,6 +1,6 @@
-#Pit Fighter Warband
+# Pit Fighter Warband
 
-##Heroes
+## Heroes
 **Helme Haffax**  
 Pit King  
 <img src="Bilder/Haffax.png" alt="drawing" width="200"/>
@@ -21,7 +21,7 @@ Veteran
 Dwarf Troll Slayer  
 <img src="Bilder/Sulman.png" alt="drawing" width="200"/>
 
-##Hired Swords  
+## Hired Swords  
 **Torxes von Freigeist**  
 Bard  
 <img src="Bilder/Torxes.png" alt="drawing" width="200"/>
@@ -38,7 +38,7 @@ Kislev Ranger
 Thief  
 <img src="Bilder/Darion.png" alt="drawing" width="200"/>
 
-##Henchmen  
+## Henchmen  
 **Unbesiegbare Legion von Yaq~Monnith**  
 2 Pursuer  
 <img src="Bilder/Legion.png" alt="drawing" width="200"/>
@@ -64,5 +64,5 @@ Thief
 <img src="Bilder/Berserker.png" alt="drawing" width="200"/>
 
 **Arzuch**  
-Ogre Pit Fighter 
+Ogre Pit Fighter  
 <img src="Bilder/Arzuch.png" alt="drawing" width="200"/>
