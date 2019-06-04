@@ -2,7 +2,7 @@ warband: Orks, Goblins and Squigs (Orks)
 campaign: 16
 gc: 20
 shards: 0
-equipment: 3x Dagger
+equipment: 3x Dagger, Short bow
 objective: Scrooge of the realm
 alignment: chaotic
 
@@ -89,7 +89,7 @@ henchmen:
 
     - group: Squig herder (1 Goblin warrior) [0XP]
       stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld5, Sv-
-      weapons: 2x dagger, short bow
+      weapons: 2x dagger
       rules: Animosity, Not orks, Runts
 
     - group: Squigs (1 Squig) [0XP]
