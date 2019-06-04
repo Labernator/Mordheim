@@ -113,6 +113,17 @@ henchmen:
       weapons: 2x Dagger
       rules: Animosity
 
+#    - group: Kankra (1 Gigantic spider) [0XP]
+#      stats: M6, WS3, BS0, S5, T5, W3, I4, A2, Ld4, Sv+1
+#      rules: Fear, Large monster, Poisonous, Native, Non-sentient, May ride, Tough
+#      large: true
+
+#    - group: Aragog (1 Giant spider) [0XP]
+#      stats: M7, WS3, BS0, S3(4), T3, W1, I4, A1, Ld5, Sv+1
+#      rules: Poisoned attack, Wall walk, No barding, No giant wolves
+#      mount: true
+
+
 notes: |
 
 achievments: |
