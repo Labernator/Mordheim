@@ -159,7 +159,7 @@ def tryToHit(u1, u2, wn, first_round = False):
         minHitRoll = minHitRoll + (u1.weapon[wn]["toHit"] * -1)
 
     print "\tto hit on " + str(minHitRoll)
-    print "\tHit roll: " + str(roll)
+    print "\thit roll: " + str(roll)
 
     if roll < minHitRoll:
       # no hit
@@ -225,17 +225,19 @@ def tryToWound(u1, u2, wn, first_round = False):
 
     minWoundRoll = getMinWoundRoll(u1.s + tmp_s, u2.t)
     roll = rollD6()
+    print "\t\twound roll: " + str(roll)
 
     if u1.mightyblow == True:
-        print "\t\t" + u1.name + " has skill mighty blow, +1 to wound roll"
+        print "\t\t" + u1.name + " has skill \"mighty blow\":\n\t\t\t +1 to wound roll"
         roll = roll + 1
+        print "\t\tnew wound roll: " + str(roll)
 
     if u2.resilient == True:
-        print "\t\t" + u2.name + " has skill resilient, -1 to wound roll"
+        print "\t\t" + u2.name + " has skill \"resilient\":\n\t\t\t-1 to wound roll"
         roll = roll - 1
+        print "\t\tnew wound roll: " + str(roll)
 
     print "\t\tto wound on " + str(minWoundRoll)
-    print "\t\twound roll: " + str(roll)
 
     if roll >= minWoundRoll:
         if roll == 6 and minWoundRoll < 6 and u1.mightyblow == False:
@@ -243,6 +245,7 @@ def tryToWound(u1, u2, wn, first_round = False):
             print "\t\tcrit: " + str(roll)
         return True
 
+    print "\t\tno wound"
     return False
 
 def tryArmorSave(u1, u2, wn):
@@ -251,13 +254,16 @@ def tryArmorSave(u1, u2, wn):
     if t_as == 0:
         t_as = 7
 
-    if u1.s > 3:
+    if u1.s > 3 and u2.noStrengthSaveMod == False:
         print "\t\t\tS" + str(u1.s) + " = -" + str(u1.s - 3) + "AS"
         t_as = t_as + (u1.s - 3)
 
-    if u1.weapon[wn]["s"] > 0:
+    if u1.weapon[wn]["s"] > 0 and u2.noStrengthSaveMod == False:
         print "\t\t\tweapon +" + str(u1.weapon[wn]["s"]) + "S " + str(u1.weapon[wn]["s"] * -1) + "AS"
         t_as = t_as + u1.weapon[wn]["s"]
+
+    if u2.noStrengthSaveMod == True:
+        print "\t\t\t" + u2.name + " has skill \"save\":\n\t\t\t\tno strength save mod is allowed"
 
     if u1.weapon[wn]["as"] != 0:
         tmp_as_mod_str = ""
@@ -311,6 +317,7 @@ def tryToInjure(u1, u2, wn, u2_w_old):
     if u2.w > 0:
         u1.causedWounds = u1.causedWounds + 1
         u2.w = u2.w - 1;
+
     if u2_w_old == 0:
         injury_addition = 1
         print "\t\t\tinjury roll +1"
@@ -327,15 +334,24 @@ def doInjuryRoll(u1, u2, wn, injury_addition):
     if u2.w == 0:
 
         roll = rollD6() + injury_addition
+        print "\t\t\tinjury roll: " + str(roll)
+        if injury_addition > 0:
+            roll = roll + injury_addition
+            print "\t\t\tnew injury roll: " + str(roll)
+
         if u1.striketoinjure == True:
-            print "\t\t\t" + u1.name + " has skill strike to injure, +1 to injury roll"
+            print "\t\t\t" + u1.name + " has skill \"strike to injure\":\n\t\t\t\t +1 to injury roll"
             roll = roll + 1
+            print "\t\t\tnew injury roll: " + str(roll)
 
         if "toInjuryRoll" in u1.weapon[wn] and u1.weapon[wn]["toInjuryRoll"] > 0:
             print "\t\t\t" + u1.name + " has +" + str(u1.weapon[wn]["toInjuryRoll"]) + " on injury roll on weapon " + u1.weapon[wn]["type"] + " (" + str(wn) + ")"
             roll = roll + u1.weapon[wn]["toInjuryRoll"]
+            print "\t\t\tnew injury roll: " + str(roll)
 
-        print "\t\t\tinjury roll: " + str(roll)
+        if u2.hardToKill == True:
+            print "\t\t\t" + u2.name + " has skill \"hard to kill\""
+
         # stunnedMax und stunnedMin von unit und waffen beachten
         if (roll < u1.weapon[wn]["stunnedMin"] and u2.hardToKill == False) or \
            (u2.hardToKill == True and roll < 3):
@@ -352,7 +368,7 @@ def doInjuryRoll(u1, u2, wn, injury_addition):
             if u2.helmet == True:
                 print "\t\t\tHelmet: stunned save on " + str(tmp_stnSv) + "+"
 
-            if u2.ardEad == True:
+            if u2.ardEad == True and u2.helmet == False:
                 tmp_stnSv = 3
                 print "\t\t\tOrk ard ead: stunned save on " + str(tmp_stnSv) + "+"
 
@@ -373,8 +389,13 @@ def doInjuryRoll(u1, u2, wn, injury_addition):
 
             print "\t\t\tstunned"
 
-            if u2.state < 2:
-                u2.state = 2
+            if u2.state < 2: # if not also ooA at the same time
+                if u2.skullOfIron == True:
+                   print "\t\t\t" + u2.name + " has skill \"skull of iron\":\n\t\t\t\tmodifies stunned result into knocked down"
+                   u2.state = 1 # knock down instead of stunned
+                else:
+                    u2.state = 2 # stunned
+                    
                 u2.i_orig = u2.i
                 u2.i = -9 # strike last
         else:

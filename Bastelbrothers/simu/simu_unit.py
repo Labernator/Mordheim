@@ -17,9 +17,11 @@ class Unit:
     stunnedMax = 4
     causedWounds = 0
     causedOOA = 0
+    toHitAdd = 0
+    noStrengthSaveMod = False
+    skullOfIron = False
     firstRoundToHitAdd = 0
     hardToKill = False
-    toHitAdd = 0
     regeneration = False
     ardEad = False
     helmet = False
