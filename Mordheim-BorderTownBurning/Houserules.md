@@ -127,6 +127,6 @@ NEU: In its saddlebags, you find a rain coat, a net, 2 garlic cloves and 2D6 gol
 
 44.) Hired Swords können jedes Equipment tragen, dass die Seltenheit "Common" hat. 
 
-45.) Fog of Death: Range 18"; sight inside fog 3D6"; the fog affects charging and shooting; 1xS2 hit on D6=5+ per enemy which is at least partly inside the fog; no armour saves allowed; No friendly fire; The effect lasts until the start of the caster's next turn. Difficulty is 10 as before.
+45.) Fog of Death: Range 12"; sight inside fog 2D6"; the fog affects charging and shooting; 1xS2 hit on D6=5+ per enemy which is at least partly inside the fog; no armour saves allowed; No friendly fire; The effect lasts until the start of the caster's next turn. Difficulty is 10 as before.
 
 46.) Der Skill "Animal Call" des Kislev Rangers hat nur eine Reichweite von 12".
