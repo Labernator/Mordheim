@@ -531,3 +531,33 @@ Alles in allem erscheint es mir gut möglich Haffax mit dem Schwert und einer Ki
 Sobald das passiert ist muss ich neu priorisieren, je nach Situation: Lohne es sich mehr die Kisten aufzusammeln, oder lohnt es sich mehr zu versuchen Fabians Helden ooA zu schlagen.
 
 Generell ist es natürlich auch immer der Plan die eigenen Helden zu schützen, damit die Exploration Phase besser wird. Da ich allerdings dieses Mal schon mit nur drei Helden in das Spiel starte wird die sowieso mies. Da kann ich auch ein bisschen mehr riskieren, denke ich. Und außer meinen Helden (und Arzuch) hat leider auch sonst niemand wirklich offensives Potenzial…
+
+## Debriefing BTB Game 5  
+**05.06.2019**  
+Mein viertes Spiel ist "in the books" wie man so schön sagt und das Ergebnis war besser als ich es mir auch nur erhoffen konnte! Aber der Reihe nach. Wir haben das absolute Maximum an Truhen aufs Feld gewürfelt was bedeutete, dass jede Seite vier gut erreichbare Truhen hatte und in der Mitte noch ein paar waren. Ich durfte/musste zuerst aufstellen was ok ist (Zweiter sein ist besser, Dritter ist schlechter) und habe mir eine Seite mit einem netten Häuschen für meinen Ranger gesucht.
+
+Ganz nach Plan Hatte Galotta eine Kiste die er im ersten Zug erreichen konnte um sie vom Board zu tragen. Sulman und Dimiona haben meine rechte (aus meiner Sicht offenere) Flanke gedeckt und Arzuch die Linke. Ansonsten habe ich alles zentral im Block gestellt um auf potenzielle Angriffe von der Seite gut reagieren zu können. Kai hat sich dann auch als Zweiter mir direkt gegenüber aufgebaut. Damit war von der Seite schon mal kein Angriff zu erwarten.
+
+Fabian hat sich dann zu meiner Linken aufgestellt, allerdings auch so breit, dass hier kein kompletter Angriff möglich schien. Entsprechend der Tradition hat Kai in der ersten Runde das Random Happening gezogen, passiert ist allerdings nichts. Kai hat sich dann auf seine naheliegenden Kisten zubewegt und ein paar Squigs Richtung Fabian gejagt. Ich verlagere Sulman und Dimiona nach links gen Beastmen, ziehe meine Henchmen in Richtung Kisten und benutze den Oger um grimmig den Zentauren und seine Wolf-Eskorte anzuschauen.
+
+Fabian orientiert sich mit seiner Warband Richtung Kai und hier finden dann auch die Kämpfe statt. Kai würfelt wie ein junger Gott und schafft es Fabian einige (überlegene) Minis raus zu hauen, während er seine wichtigen Modelle zurück hält und denn bei erster Gelegenheit freiwillig routet. Ich staube bei Fabian noch ein paar Wölfe ab und auch Fabian routet freiwillig so schnell er kann.
+
+Am Ende habe ich mir dann tatsächlich 7 von 12 Kisten gesichert und mit Exploration und zusätzlichen Einkommen damit 233GC zum Trading zur Verfügung. Krasse Sache!  
+Mit dem Geld kann ich dann auch die Setup-Phase meiner Warband endgültig beenden. Alle relevanten Checkboxen die ich haben wollte sind abgehakt:
+ - Maximale Warbandgröße erreicht
+ - Rout Limit von 5 erreicht
+ - Ein Alchemist der Gold generiert
+ - Ein Barde der sich selbst bezahlt
+ - Ein Dieb für mehr Rare Rolls
+ - Den "Animal Call" Skill auf dem Kislev Ranger. Wobei ich den aufgrund (für mich) offensichtlicher Brokeness nochmal zur Diskussion gestellt habe
+
+Sagte ich alle relevanten Checkboxen? So ganz stimmt das leider nicht, denn trotz inzwischen zehn Advances auf meinen Henchmen hat es keiner geschafft zum Helden aufzusteigen. Das steht also immer noch aus.
+
+Meine aktuelle ToDo Liste nach Absteigender Priorität
+ - Das "Chaos Dragon Hunt" Szenario freischalten (Kampagne) 
+ - Das nächste Szenario gewinnen (CP)
+ - Besseres Equipment (Warband) 
+ - Den sechsten Hero bekommen (GC) 
+ - 20+ CP erreichen bevor Fabian das tut und dann "The Horde Approaches" gegen ihn gewinnen (Kampagne)
+
+Netterweise habe ich bei der letzten Exploration (dank dem +/-1 des Rangers) die drippel 4 getroffen, so dass ich mir das nächste Szenario auswählen darf. Das sollte ein großer Vorteil sein!
