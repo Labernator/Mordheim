@@ -864,6 +864,8 @@ def printStatistic(statistic):
             if statistic[i][0][j].state == 3:
                 tmp_stat_attackers[j][5] = tmp_stat_attackers[j][5] + 1 / (max_run * 1.0) # count ooA
 
+    #print cnt_cooa
+    #print cnt_cw
     cnt_knd = cnt_knd   / (max_run * 1.0)
     cnt_stn = cnt_stn   / (max_run * 1.0)
     cnt_ooa = cnt_ooa   / (max_run * 1.0)
