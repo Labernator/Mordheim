@@ -496,6 +496,25 @@ Reward aus dem Szenario 104 GC
 **Alignment:** Lawful/Neutral  
 **Objective:** The Celestial Protectorate  
 **Campaign Points:** 11  
-**Warband Rating:**   
+**Warband Rating:** 296  
  
 ### Nachspiel  
+*"Wenn deine Feinde viele sind, treibe einen Keil zwischen sie. Oder besser ein Schwert!"*  
+ - Achtes Strategem des Helme Haffax  
+
+*"And I heard a voice in the midst of the four beasts*  
+*And I looked, and behold a pale horse*  
+*And his name that sat on him was death, and hell followed with him"*  
+ - Torxes von Freigeist - When the man comes around  
+
+"Für Cathay!" Die Grubenkämpfer nahmen grimmig Verteidigungsposition ein. "Zeigen wir diesen Chaos Anbetern was es heißt zu kämpfen!", zischte Sulman. Eine Schaar missgestalteter Ungeheuer kam auf die Gruppe zu gehetzt. "Hundchen", grollte Azuch verächtlich und rannte seinerseits los. Direkt auf die geifernden Bestien zu. Die anderen Grubenkämpfer starrten dem Oger einige Augenblicke ungläubig nach bevor auch sie mit markerschütternden Kampfschreinen vorbreschten.
+
+Dimiona hatte sich als erste wieder gefangen und stürmte so als erste voraus. Als sie Arzuch jedoch erreichte brach ihr Kampfschrei jäh ab. Auch die anderen eintreffenden Kämpfer verstummten. Eine unnatürliche Stille breitete sich aus, einzig unterbrochen durch das Geräusch des Ogers der seine blutbesudelten Klingen an seiner Hose sauber wischte.
+
+Die drei Chaoshunde lagen leblos am Boden. Die Klingen des Ogers hatten sie regelrecht zerteilt. "Wo ist der Rest?", fragte Dimiona in die Stille. "Wo ist der verdammte Rest der Schafsmenschen? Und die Grünhäute?!?" Arzuch deutete vage in die Richtung aus der die Horde herangestürmt war und entgegnete lakonisch: "Beschäftigt."
+
+Die Grubenkämpfer starrten in die angegebene Richtung. Sulman war der erste der das Schweigen brach: "Was bei allen Götterverlassenen tanzenden Niederhöllen?". Galotta brach in ein zynisches Lachen aus: "Oh ja, das ist die unbeständige Natur des Chaos!" Was aus der Ferne wie eine undurchdringliche vereinte Front aus Ziegenmenschen und Orks gewirkt hatte war das genaue Gegenteil. Es war ein Kampf. "Die spürbare Nähe des Artefakts weckt ihre Gier. Keine sehr beständige Allianz würde ich sagen", spottete Galotta weiter.
+
+Und tatsächlich, die Chaosanhänger gingen mit unmenschlicher Brutalität aufeinander los. Die Grubenkämpfer sahen dem Gemetzel eine Weile zu, ohne dass eine der beiden Gruppen die Oberhand zu gewinnen schien. "Lasst uns diesem Trauerspiel ein Ende setzen", meinte Dimiona schließlich. Die anderen Kämpfer nickten Stumm und stürmten dann wie ein Mann auf die Chaosanhänger zu.
+
+"Für Cathay", dröhnte es über das Schlachtfeld. Das schien auch die letzten Ziegenmenschen und Orks aus ihrem blindwütigen Blutrausch zu reißen. Grumlok und Ted fingen wild an zu brüllen und gestikulieren und die vormals so furchterregenden Kämpfer wandten sich überstürzt zur Flucht. 
