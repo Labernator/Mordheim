@@ -195,25 +195,26 @@ new shard: 8
 +3gc (kiste)  
 +14gc (kiste)
 +13gc  (kiste)
-+80gc (sell 5 shards)  
-+3gc 8money maker)
++110gc (sell 7 shards, 1 left)  
++3gc (money maker)
 
 old treasure chest: 12gc
-=> +113gc
+=> +155gc
 
-Hire dark emissary -3 shards (bolt of dark light, betrayl in death, curse of the dark master, fog of death)
-=> 0 shards
+Not hired Dark Emissary  
+Hired Black Ork -60gc
 
 Hasenpfote -15gc  
 Upkeep Ogre -30gc
-=> 80gc
 
-ork boy (free dagger) -(25gc + 12gc xp cost) => -37gc
-goblin (free dagger) => -15gc
-1x hand weapon -3gc
-1x Axe -5gc
+1x Axe -5gc   
+2x Hand weapon -6gc   
+1x Light armour -20gc
 
-new treasure chest: 20gc
+new treasure chest: 19 gc
+shards: 1
+
+Letzten Squig vom Roster gestrichen, ohne Goblins darf ich diese nicht verwenden.
 
 *Fabian*  
 
