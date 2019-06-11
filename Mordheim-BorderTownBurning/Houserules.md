@@ -129,4 +129,4 @@ NEU: In its saddlebags, you find a rain coat, a net, 2 garlic cloves and 2D6 gol
 
 45.) Fog of Death aus der Spell Liste Lore of Darkness wird gestrichen.
 
-46.) Der Skill "Animal Call" des Kislev Rangers hat nur eine Reichweite von 12".
+46.) Der Skill "Animal Call" des Kislev Rangers ist gebannt.
