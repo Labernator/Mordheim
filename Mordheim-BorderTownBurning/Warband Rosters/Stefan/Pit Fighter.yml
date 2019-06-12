@@ -2,7 +2,7 @@ warband: Splitterdämmerung (Pit Fighter)
 alignment: Lawful/Neutral
 objective: The Celestial Protectorate
 campaign: 11
-gc: 13
+gc: 19
 shards: 1
 equipment: 2x Superior Blackpowder, 3x Dagger
 
@@ -60,7 +60,7 @@ heros:
       stats: M4, WS3, BS4, S3, T3, W1, I4, A1, Ld7, Sv-
       weapons: Bow, Sword, Dagger
       armour: Hunter's Cloak
-      rules: Heart Strike, Loner, Seeker, Animal Call
+      rules: Heart Strike, Loner, Seeker, Haggle
       hiredsword: true
       
     - hero: Darion Paligan (Thief) [17XP]
