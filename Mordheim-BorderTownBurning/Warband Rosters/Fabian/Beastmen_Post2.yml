@@ -37,7 +37,7 @@ heros:
       rules:
       skilllists: Strength, Combat, Special
       injuries: Chestwound
-	  
+
     - hero: Lilly (Bestigors) [17XP]
       stats: M5, WS4, BS3, S4, T3, W1, I4, A2, Ld7, Sv-
       weapons: Halberd
@@ -64,7 +64,7 @@ henchmen:
       stats: M5, WS3, BS3, S3, T3, W1, I4, A1, Ld6, Sv-
       weapons: Club, Dagger
       rules: Lowest of the Low, Infighting
-	  
+ 
     - group: Lobby (1 UnGor) [0XP]
       stats: M5, WS3, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
       weapons: Club, Dagger
