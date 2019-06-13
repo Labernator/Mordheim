@@ -26,17 +26,17 @@ heros:
     - hero:  Robin(Centigor) [15XP]
       stats: M8, WS4, BS3, S4, T4, W2, I2, A1, Ld7, Sv-
       weapons: Club, Club
-	  armour: T. Leathers
+      armour: T. Leathers
       rules: Drunken,Woodland Dwelling, Trample, Quadruped, Sweeping Blow, Cathayan Map (Beylandish)
       skilllists: Strength, Combat, Special
 
     - hero: Marshall (Bestigors) [11XP]
       stats: M5, WS4, BS3, S4, T3, W1, I4, A1, Ld7, Sv-
       weapons: Club, Club
-	  armour: T. Leathers
+      armour: T. Leathers
       rules:
       skilllists: Strength, Combat, Special
-	  injuries: Chestwound
+      injuries: Chestwound
 	  
     - hero: Lilly (Bestigors) [17XP]
       stats: M5, WS4, BS3, S4, T3, W1, I4, A2, Ld7, Sv-
@@ -44,13 +44,13 @@ heros:
       armour: Light Armour
       rules:
       skilllists: Strength, Combat, Special
-	  injuries: Chestwound
+      injuries: Chestwound
 
     - hero: Super Toddy (Gor) [6XP]
       stats: M5, WS5, BS3, S3, T4, W1, I4, A1, Ld6, Sv-
       weapons: Club, Club
-	  rules: Horned (+1 A on Charge)
-	  armour: T. Leathers
+      rules: Horned (+1 A on Charge)
+      armour: T. Leathers
       rules: Infighting
       skilllists: Combat, Special
 
@@ -65,7 +65,7 @@ henchmen:
       weapons: Club, Dagger
       rules: Lowest of the Low, Infighting
 	  
-	- group: Lobby (1 UnGor) [0XP]
+    - group: Lobby (1 UnGor) [0XP]
       stats: M5, WS3, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
       weapons: Club, Dagger
       rules: Lowest of the Low, Infighting
