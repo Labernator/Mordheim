@@ -1,14 +1,14 @@
 warband: Clubsgiving (Beastmen)
-campaign: 3
-gc: 34
+campaign: 4
+gc: 48
 shards: 1
 equipment: 
 objective: The Scion of Chaos
 alignment: chaotic
 
 heros:
-    - hero: Ted(Beastmen Chieftain) [22XP]
-      stats: M4, WS4, BS2, S4, T4, W1, I4, A1, Ld7, Sv-
+    - hero: Ted(Beastmen Chieftain) [24XP]
+      stats: M4, WS4, BS2, S4, T4, W2, I4, A1, Ld7, Sv-
       weapons: Club, Dagger
       armour: Heavy Armour
       rules: Leader
@@ -23,47 +23,58 @@ heros:
       rules: Magic User, Eye of God 6''
       skilllists: Strength, Combat, Speed, Special
 
-    - hero:  Robin(Centigor) [13XP]
-      stats: M8, WS4, BS3, S4, T4, W1, I2, A1, Ld7, Sv-
+    - hero:  Robin(Centigor) [15XP]
+      stats: M8, WS4, BS3, S4, T4, W2, I2, A1, Ld7, Sv-
       weapons: Club, Club
+	  armour: T. Leathers
       rules: Drunken,Woodland Dwelling, Trample, Quadruped, Sweeping Blow, Cathayan Map (Beylandish)
       skilllists: Strength, Combat, Special
 
-    - hero: Marshall (Bestigors) [10XP]
-      stats: M5, WS4, BS3, S4, T4, W1, I3, A1, Ld7, Sv-
+    - hero: Marshall (Bestigors) [11XP]
+      stats: M5, WS4, BS3, S4, T3, W1, I4, A1, Ld7, Sv-
       weapons: Club, Club
+	  armour: T. Leathers
       rules:
       skilllists: Strength, Combat, Special
-
-    - hero: Lilly (Bestigors) [16XP]
-      stats: M5, WS4, BS3, S4, T4, W1, I4, A2, Ld7, Sv-
+	  injuries: Chestwound
+	  
+    - hero: Lilly (Bestigors) [17XP]
+      stats: M5, WS4, BS3, S4, T3, W1, I4, A2, Ld7, Sv-
       weapons: Halberd
       armour: Light Armour
       rules:
       skilllists: Strength, Combat, Special
+	  injuries: Chestwound
 
-    - hero: Super Toddy (Gor) [5XP]
+    - hero: Super Toddy (Gor) [6XP]
       stats: M5, WS5, BS3, S3, T4, W1, I4, A1, Ld6, Sv-
       weapons: Club, Club
+	  rules: Horned (+1 A on Charge)
+	  armour: T. Leathers
       rules: Infighting
       skilllists: Combat, Special
 
 henchmen:
-    - group: Toddy (2 Gor) [3XP]
-      stats: M5, WS4, BS3, S4, T4, W1, I3, A1, Ld6, Sv-
+    - group: Toddy (2 Gor) [7XP]
+      stats: M5, WS5, BS3, S4, T4, W1, I3, A1, Ld6, Sv-
       weapons: Club, Dagger
       rules: Infighting
 
-    - group: Bobby (1 UnGor) [1XP]
+    - group: Bobby (1 UnGor) [2XP]
+      stats: M5, WS3, BS3, S3, T3, W1, I4, A1, Ld6, Sv-
+      weapons: Club, Dagger
+      rules: Lowest of the Low, Infighting
+	  
+	- group: Lobby (1 UnGor) [0XP]
       stats: M5, WS3, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
       weapons: Club, Dagger
       rules: Lowest of the Low, Infighting
 
-    - group: Wuff (4 Warhounds of Chaos) [0XP]
+    - group: Wuff (3 Warhounds of Chaos) [0XP]
       stats: M7, WS4, BS0, S4, T3, W1, I3, A1, Ld5, Sv-
       rules: Animals
 
-    - group: Dagger (2 Gor) [6XP]
+    - group: Dagger (2 Gor) [7XP]
       stats: M5, WS5, BS3, S3, T4, W1, I4, A1, Ld6, Sv-
       weapons: Club, Sword
       rules: Infighting
