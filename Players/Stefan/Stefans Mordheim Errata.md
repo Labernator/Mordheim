@@ -50,3 +50,41 @@ Alles was ich über den Beggar gesagt habe gilt eins zu eins auch für diesen He
 ### Arabian Merchant  
 Auch der gute Mann bietet einfach zu viel um ihn nicht automatisch anzuheuern wenn man kann. Die beiden oben schon erwähnten Skills Haggle & Pawnbroker, leichten (teilweise extrem verbilligten) Zugriff auf Rare Items, später noch den "Stonecutter"-Skill für noch (ein kleines bisschen) mehr Gold. Autoinclude, yadda, yadda…  
 **=> bannen**  
+
+## Szenarios  
+Welche Szenarios schwerer und welche leichter sind hängt stark von der eigenen Warband ab und lässt sich daher schlecht objektivieren. Eine Sache lässt sich jedoch sehr gut vergleichen und das ist der Reward den ein Szenario bietet. Und hier variieren die Ergebnisse bei unseren Standardszenarios massiv. Auf der einen Seite haben wir die Great Library, wo um **durchschnittlich** mehr als 250GC gespielt wird. Und auf der anderen Seite haben wir Last Orders! wo es am Ende nicht mal für einen feuchten Händedruck reicht.  
+Hier ist ein Versuch den Payout etwas gerechter zu gestalten und die Spitzen deutlich runter zu fahren.
+
+### Zu viel Rewards  
+Die Hauptschuldigen hier sind die oben erwähnte Great Library und die Raven Barracks, gefolgt von Merchant Square, Night Of The Dead und Round-Up At The Mordheim Corral.  
+Folgendes wären meine Vorschläge:  
+* The Great Library: nur 1 Buch pro Warband  
+* Raven Barracks: nur 1 Kiste pro Warband  
+* Merchant Square: nur 1 Kiste in der Mitte  
+* Night of the Dead: D2 Kisten für den Gewinner, sonst nichts  
+* Round-Up At The Mordheim Corral: 1 Kiste für den Gewinner, sonst nichts  
+
+### Vernünftig viel Reward  
+Hier finden sich die mittel lukrativen Szenarios, die ich als Benchmark für Reward genommen habe. Die sind auch nicht alle perfekt balanciert, aber für den ersten Wurf sollte es reichen. An ihnen würde ich nichts ändern:
+* Horrors of the underground  
+* Blockade  
+* Wyrdstone Hunt  
+* Traces to Emprise  
+* Unlocking the tomb  
+* Vampire Hunters  
+* Don't wake the giant  
+* The Game  
+* Earthquake  
+* The lost Prince  
+
+### Kein Reward  
+Leider gibt es tatsächlich einige viele Szenarios bei denen man gar keinen Reward bekommt. Alle  aus der BTB Kampagne. Das sind die, die bis jetzt keiner spielen wollte…
+* Avalanche!  
+* Tainted Copse  
+* Man Hunt  
+* Last Orders!  
+* The Enemy of my Enemy  
+Ich würde hier pauschal für den Gewinner 1 (bei 2-Spieler Szenarien) und D2 (in drei Spieler Szenarien) Schatzkisten spendieren.
+
+Immer wenn man eine Schatzkiste erbeutet (und mit den obigen Anpassungen sollten das öfter passieren) ist sie gefüllt wie eine aus dem Raven Barracks Szenario mit dem Unterschied, dass das Ergebnis für 23 ein zufälliges Lesser Artifact ist.  
+Der Reward ist dadurch bei vielen Szenarios gleich, was auf der einen Seite natürlich weniger abgefahren ist, aber auf der anderen Seite nicht so hart bestraft, wenn man in den Szenarios nicht mitspielt. Und die Einzigartigkeit der Szenarios sollte ja nicht vom Reward kommen.
