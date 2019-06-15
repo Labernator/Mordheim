@@ -4,7 +4,7 @@ gc: 1
 shards: 0
 equipment: 4x Dagger
 objective: The Damned Shall Burn 
-alignment: lawful
+alignment: Lawful
 
 heros:
     - hero: Johanna von Marienburg (Sigmarite Matriarch) [27XP]
