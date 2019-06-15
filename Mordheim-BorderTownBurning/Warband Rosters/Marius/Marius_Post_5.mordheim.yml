@@ -1,8 +1,8 @@
 warband: Johannas Orphanage (Sisters of Sigmar)
 campaign: 7
-gc: 52
+gc: 12
 shards: 0
-equipment: 3x Dagger
+equipment: 4x Dagger
 objective: The Damned Shall Burn 
 alignment: lawful
 
@@ -58,7 +58,7 @@ heros:
 henchmen:
     - group: Novice Group 1 (2 Novice) [10XP] 
       stats: M4, WS3, BS2, S3, T3, W1, I3, A2, Ld7, Sv-
-      weapons: Dagger, Dagger
+      weapons: Steel Whip, Dagger
 
     - group: Novice Group 2 (1 Novice) [3XP] 
       stats: M4, WS3, BS2, S3, T3, W1, I3, A1, Ld6, Sv-
@@ -66,7 +66,7 @@ henchmen:
       
     - group: Novice Group 3 (2 Novice) [5XP] 
       stats: M4, WS2, BS2, S3, T3, W1, I4, A2, Ld6, Sv-
-      weapons: Dagger, Dagger
+      weapons: Steel Whip, Dagger
 
     - group: Novice Group 4 (1 Novice) [5XP] 
       stats: M4, WS3, BS2, S3, T3, W1, I3, A1, Ld7, Sv-
@@ -74,15 +74,15 @@ henchmen:
       
     - group: Sisters of the Orphanage (1 Sigmarite Sister) [1XP]
       stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
-      weapons: Dagger, Dagger
+      weapons: Dagger, Dagger, Sling
       
     - group: Asylum's Daughters (1 Sigmarite Sister) [1XP]
       stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
-      weapons: Dagger, Dagger
+      weapons: Dagger, Dagger, Sling
     
     - group: Women of the Shelter (1 Sigmarite Sister) [0XP]
       stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
-      weapons: Dagger, Dagger
+      weapons: Dagger, Dagger, Sling
     
     
 notes: |
