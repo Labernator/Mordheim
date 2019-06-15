@@ -64,15 +64,15 @@ henchmen:
 
     - group: Novice Group 2 (1 Novice) [3XP] 
       stats: M4, WS3, BS2, S3, T3, W1, I3, A1, Ld6, Sv-
-      weapons: Dagger, Dagger
+      weapons: Steel Whip, Dagger
       
     - group: Novice Group 3 (3 Novice) [5XP] 
       stats: M4, WS2, BS2, S3, T3, W1, I4, A2, Ld6, Sv-
-      weapons: Steel Whip, Dagger
+      weapons: Dagger, Dagger
 
     - group: Novice Group 4 (1 Novice) [5XP] 
       stats: M4, WS3, BS2, S3, T3, W1, I3, A1, Ld7, Sv-
-      weapons: Dagger, Dagger
+      weapons: Steel Whip, Dagger
       
     - group: Sisters of the Orphanage (1 Sigmarite Sister) [1XP]
       stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
