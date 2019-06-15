@@ -50,7 +50,7 @@ heros:
       hiredsword: true
       
     - hero: Wilhelm (Expert Marksman) [11XP]
-      stats: M4, WS2, BS4, S3, T3, W1, I3, A1, Ld7
+      stats: M4, WS3, BS4, S3, T3, W1, I3, A1, Ld7, Sv-
       weapons: Sword, Dagger, Crossbow
       armour: Light armour
       rules: Dead Eye Shot, Steady Hands
