@@ -29,7 +29,7 @@ heros:
       skilllists: Strength, Academic, Combat, Speed, Special
 
     - hero: Emilia (Sister Superior) [13XP]
-      stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld8, Sv-
+      stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld8, Sv5
       weapons: Sigmarite Warhammer, Dagger, Sling
       armour: Light armor
       skilllists: Strength, Academic, Combat, Speed, Special
@@ -50,7 +50,7 @@ heros:
       hiredsword: true
       
     - hero: Wilhelm (Expert Marksman) [11XP]
-      stats: M4, WS3, BS4, S3, T3, W1, I3, A1, Ld7, Sv-
+      stats: M4, WS3, BS4, S3, T3, W1, I3, A1, Ld7, Sv5
       weapons: Sword, Dagger, Crossbow
       armour: Light armour
       rules: Dead Eye Shot, Steady Hands
