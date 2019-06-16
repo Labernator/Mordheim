@@ -1,16 +1,21 @@
 warband: The Revolting Dwarfs (Dwarf Rangers)
-campaign: 6
+campaign: 8
 objective: The Lure of Fortune
 achievments: |
   Land Train
 
 gc: 1
-shards: 0
-equipment: 1x Dagger
+shards: 5
+equipment: 1x Dagger, 3x Powder Keg
+# Choosen Rune: Rune of Striding (+1 Movement), Replacement: 1GC
 
+# TODO: Powder Keg: 15 GC sell all 3?
+# TODO: Sell 3 WS for 55 GC?
+
+# Max 12 units, +1 because of Gordon
 heros:
-    - hero: Ragnar (Runesmith) [27XP]
-      stats: M3, WS5, BS4, S3, T4, W1, I2, A1, Ld10, Sv-
+    - hero: Ragnar (Runesmith) [29XP]
+      stats: M3, WS5, BS4, S3, T4, W1, I3, A1, Ld10, Sv-
       # Racial maximums (Dwarfs):
       #      M3, WS7, BS6, S4, T5, W3, I5, A4, Ld10
       skilllists: Combat, Shooting, Academic, Strength, Special
@@ -21,14 +26,14 @@ heros:
       # * Two-Weapon Master (ignore -2 to hit for offhand)
       warbandaddition: 5
 
-    - hero: Floki (Apprentice Runesmith) [6XP]
+    - hero: Floki (Apprentice Runesmith) [7XP]
       skilllists: Combat, Academic, Strength, Special
       stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld9, Sv-
       weapons: Dwarf Axe, Dagger, Dagger
       armour: Helmet, Light Armour
       rules: Extra Set Of Hands, Skilled Driver, Haggle, Fated
 
-    - hero: Bjorn (Troll Slayer) [11XP]
+    - hero: Bjorn (Troll Slayer) [13XP]
       skilllists: Combat, Academic, Strength, Special
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld10, Sv-
       weapons: Dwarf Axe, Dagger, Shiny Axe
@@ -40,9 +45,9 @@ heros:
       # * Sweeping Strike (hit it all!)
       # * Tattoos of Grimnir (armour)
 
-    - hero: Ivar (Troll Slayer) [16XP]
+    - hero: Ivar (Troll Slayer) [19XP]
       skilllists: Combat, Strength, Special
-      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
+      stats: M3, WS5, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       weapons: Dwarf Axe, Axe, Dagger
       armour: Lucky Charm
       rules: Deathwish, Two-Weapon Master, Extra Tough
@@ -51,26 +56,18 @@ heros:
       # * Sweeping Strike (+1 attack for all models in base contact)
       # * Tattoos of Grimnir (6+ ward save, can be stacked)
 
-    - hero: Gordon (Halfling Scout) [2XP]
-      skilllists: Shooting, Speed, Special
-      stats: M4, WS2, BS4, S2, T2, W2, I4, A1, Ld8, Sv-
-      weapons: Bow, Dagger
-      armour: Cooking Pot
-      rules: Cook
-      hiredsword: true
-
 henchmen:
-    - group: Beard Mob (4 Beardling) [9XP]
+    - group: Beard Mob (4 Beardling) [11XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A2, Ld8, Sv-
       weapons: Dagger, Dagger
       armour: Helmet
 
-    - group: The Enforcers (3 Beardling) [8XP]
-      stats: M3, WS4, BS2, S3, T4, W1, I2, A2, Ld8, Sv-
+    - group: The Enforcers (3 Beardling) [11XP]
+      stats: M3, WS4, BS2, S3, T4, W1, I3, A2, Ld8, Sv-
       weapons: Axe, Dagger
       armour: Light Armour
 
-    - group: Snipers (1 Dwarf Ranger) [0XP]
+    - group: Snipers (1 Dwarf Ranger) [1XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       weapons: Crossbow, Dagger
 
@@ -83,16 +80,16 @@ henchmen:
 # Horse (40 GC, Rare 8)
 
 notes: |
-  Roll for runes before battle (1D6 -> Rune, (2x) 2D6 -> Difficulty (2=damaged, <=no effect, >==profit!)
+  Inscribe rune before battle ((2x) 2D6 -> 8+ = M+1, 2 = 1GC replacement, no effect
   Blackblood (Ragnar) = Anyone in base contact got S3 hit if wounded
   Expert Axeman (Ragnar) = Reroll all failed hits when charging (axe only)
-  Haggle = -2D6 GC from a item on buy, 1x per post battle sequence
+  Hatred on Orcs/Goblins (Reroll missed hit on any fight in first round)
   Helmet (Ragnar, Floki, Mob, Cook) = 4+ save against stunned
+  Hard to kill (1,2 = knocked down, 3,4,5 = stunned, 6 = ooa)
   Two-Weapon Master (Ivar) = hit on 3 and 3, not 3 and 5
   Parry for Dwarf Axes
   Fated/Extra Tough =  Reroll serious injuries once
   Cutting Edge (Axe) = -1 save modifier
-  Hard to kill (1,2 = knocked down, 3,4,5 = stunned, 6 = ooa)
-  Hatred on Orcs/Goblins (Reroll missed hit on any fight in first round)
   Use Bow as much as possible (Range 24", S3)
   Incomarable Miners (+1 Wyrdstone at the end (3 heros + 1 = 4 WS))
+  Haggle = -2D6 GC from a item on buy, 1x per post battle sequence
