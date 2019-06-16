@@ -62,14 +62,6 @@ heros:
       armour: Hunter's Cloak
       rules: Heart Strike, Loner, Seeker, Haggle
       hiredsword: true
-      
-    - hero: Darion Paligan (Thief) [17XP]
-      skilllists: Combat, Speed, Special
-      stats: M4, WS3, BS3, S3, T3, W1, I4, A1, Ld7, Sv-
-      weapons: 2x Dagger
-      armour: Thief's Cloak
-      rules: Tea-Leaf!, Uneasy ally
-      hiredsword: true
 
 henchmen:
     - group: Unbesiegbare Legion von Yaq~Monnith (2 Pursuer) [10XP]
