@@ -229,8 +229,8 @@ Letzten Squig vom Roster gestrichen, ohne Goblins darf ich diese nicht verwenden
 15 GC Upkeep Ranger  
 24 GC 2 Flails (dank Haggle)  
 50 GC 2 Pursuer mit 0 XP    
-30 GC hire Thief 
-30 GC Hire Pit Fighter Hired Sword
+30 GC hire Thief  
+30 GC Hire Pit Fighter Hired Sword  
 50 GC Heavy Armour  
 20 GC 4 Äxte  
 
