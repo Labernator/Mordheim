@@ -36,7 +36,7 @@ Das Szenario wird aus folgender Liste ermittelt:
   
 **Multiplayer Scenarios**   
   - Man Hunt  
-  - Last Orders!  
+  - Last Orders! (**Runde 6**)  
   - The Enemy of my Enemy  
   - The Great Library (**Runde 4**)
   - The Raven Barracks (**Runde 5**)  
