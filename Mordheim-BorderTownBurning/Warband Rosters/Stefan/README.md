@@ -26,9 +26,9 @@ Dwarf Troll Slayer
 Bard  
 <img src="Bilder/Torxes.png" alt="drawing" width="200"/>
 
-**Leonardo von Havena**  
-Alchemist  
-<img src="Bilder/Leonardo.png" alt="drawing" width="200"/>
+**Liscom von Fasar**  
+Pit Fighter  
+<img src="Bilder/Liscom.png" alt="drawing" width="200"/>
 
 **Azaril Scharlachkraut**  
 Kislev Ranger  
