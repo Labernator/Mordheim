@@ -437,14 +437,13 @@ Reward aus dem Szenario 104 GC
  
  - Upkeep Bard (10 GC)  
  - Upkeep Ranger (15 GC)  
- - 2 Pursuer mit je 0 XP (neue Gruppen), Dagger kommen von der Legion (50 GC)  
- - Thief (30 GC)   
+ - 2 Pursuer mit je 0 XP (neue Gruppen), Dagger kommen von der Legion (50 GC) 
  - Pit Fighter Hired Sword (30 GC)
  - 1 Flail (9 GC), dank Haggle vom Ranger  
  - 1 Flail (15 GC)  
  - 4 Axes (20 GC)    
  - Heavy Armour für Haffax (50 GC)   
- => 4 GC übrig  
+ => 34 GC übrig  
 
 **Reallocate equipment:**  
  - Die Legion gibt 2 Dagger an die neuen Henchmen   
@@ -490,14 +489,12 @@ Reward aus dem Szenario 104 GC
 
 **Azaril Scharlachkraut** (Kislev Ranger, 12 XP): Sword, Dagger, Bow    
 
-**Darion Paligan** (Thief, 17 XP): 2x Dagger, Thief's Cloak    
-
 
 **Treasure Chest:** 19 GC, 1 Wyrdstone, 2x Superior Blackpowder, 3x Dagger   
 **Alignment:** Lawful/Neutral  
 **Objective:** The Celestial Protectorate  
 **Campaign Points:** 11  
-**Warband Rating:** 296  
+**Warband Rating:** 274  
  
 ### Nachspiel  
 *"Wenn deine Feinde viele sind, treibe einen Keil zwischen sie. Oder besser ein Schwert!"*  
