@@ -434,17 +434,17 @@ Verkaufe 2 Firebombs für 50 GC
 Moneymaker (5 GC) & Minstrel (14 GC) 19 GC  
 Reward aus dem Szenario 104 GC   
 => 233 GC :astonished:   
-
- - Upkeep Alchemist (15 GC)  
+ 
  - Upkeep Bard (10 GC)  
  - Upkeep Ranger (15 GC)  
  - 2 Pursuer mit je 0 XP (neue Gruppen), Dagger kommen von der Legion (50 GC)  
  - Thief (30 GC)   
+ - Pit Fighter Hired Sword (30 GC)
  - 1 Flail (9 GC), dank Haggle vom Ranger  
  - 1 Flail (15 GC)  
  - 4 Axes (20 GC)    
  - Heavy Armour für Haffax (50 GC)   
- => 19 GC übrig  
+ => 4 GC übrig  
 
 **Reallocate equipment:**  
  - Die Legion gibt 2 Dagger an die neuen Henchmen   
@@ -486,7 +486,7 @@ Reward aus dem Szenario 104 GC
 *Hired Swords*  
 **Torxes von Freigeist** (Bard, 4 XP): Sword, Dagger, Light Armour, Lyre  
 
-**Leonardo von Havena** (Alchemist, 17 XP): Staff, Dagger, Crossbow Pistol  
+**Liscom von Fasar** (Pit Fighter, 17 XP): Morning Star, Spiked Gauntlet, Helmet  
 
 **Azaril Scharlachkraut** (Kislev Ranger, 12 XP): Sword, Dagger, Bow    
 
