@@ -34,10 +34,6 @@ Pit Fighter
 Kislev Ranger  
 <img src="Bilder/Azaril.png" alt="drawing" width="200"/>
 
-**Darion Paligan**  
-Thief  
-<img src="Bilder/Darion.png" alt="drawing" width="200"/>
-
 ## Henchmen  
 **Unbesiegbare Legion von Yaq~Monnith**  
 2 Pursuer  
