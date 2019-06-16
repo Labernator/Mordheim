@@ -1,70 +1,90 @@
-warband: Clusgiving (Bestmen)
-campaign: 2
-gc: 12
-shards: 0
-equipment: none
+warband: Clubsgiving (Beastmen)
+campaign: 4
+gc: 48
+shards: 1
+equipment: 
 objective: The Scion of Chaos
 alignment: chaotic
 
 heros:
-    - hero: A (Beastmen Chieftain) [22XP]
-      stats: M5, WS4, BS3, S4, T4, W1, I4, A1, Ld7, Sv-
-      weapons: Halberd
-      armour: 
+    - hero: Ted(Beastmen Chieftain) [24XP]
+      stats: M4, WS4, BS2, S4, T4, W2, I4, A1, Ld7, Sv-
+      weapons: Club, Dagger
+      armour: Heavy Armour
       rules: Leader
       large: false
       hiredsword: false
-      skilllists: Strength, Combat, Speed
+      skilllists: Strength, Combat, Speed, Special
+      injuries: Blind in One Eye, Leg Wound
 
-    - hero: b (Beastmen Shaman) [13XP]
-      stats: M5, WS4, BS3, S4, T4, W1, I4, A1, Ld7, Sv-
-      weapons: Club, Dagger
+    - hero: Barney (Beastmen Shaman) [15XP]
+      stats: M5, WS4, BS3, S3, T4, W1, I4, A2, Ld7, Sv-
+      weapons: Club, Club
+      armour: T. Leathers
       rules: Magic User, Eye of God 6''
-      skilllists: Strength, Combat, Speed
+      skilllists: Strength, Combat, Speed, Special
 
-    - hero:  c(Centigor) [9XP]
-      stats: M8, WS4, BS3, S4, T4, W1, I2, A2, Ld7, Sv-
+    - hero:  Robin(Centigor) [15XP]
+      stats: M8, WS4, BS3, S4, T4, W2, I2, A1, Ld7, Sv-
       weapons: Club, Club
-      rules: Drunken,Woodland Dwelling,Trample,Quadruped
-      skilllists: Strength, Combat
+      rules: Drunken,Woodland Dwelling, Trample, Quadruped, Sweeping Blow, Cathayan Map (Beylandish)
+      skilllists: Strength, Combat, Special
 
-    - hero: d (Bestigors) [8XP]
-      stats: M5, WS4, BS3, S4, T4, W1, I3, A1, Ld7, Sv-
+    - hero: Marshall (Bestigors) [11XP]
+      stats: M5, WS4, BS3, S4, T3, W1, I4, A1, Ld7, Sv-
       weapons: Club, Club
+      armour: T. Leathers
       rules:
-      skilllists: Strength, Combat
+      skilllists: Strength, Combat, Special
+      injuries: Chestwound
 
-    - hero: e (Bestigors) [11XP]
-      stats: M5, WS4, BS3, S4, T4, W1, I3, A2, Ld7, Sv-
-      weapons: Club, Club
+    - hero: Lilly (Bestigors) [17XP]
+      stats: M5, WS4, BS3, S4, T3, W1, I4, A2, Ld7, Sv-
+      weapons: Halberd
+      armour: Light Armour
       rules:
-      skilllists: Strength, Combat
+      skilllists: Strength, Combat, Special
+      injuries: Chestwound
+
+    - hero: Super Toddy (Gor) [6XP]
+      stats: M5, WS5, BS3, S3, T4, W1, I4, A1, Ld6, Sv-
+      weapons: Club, Club
+      rules: Horned (+1 A on Charge)
+      armour: T. Leathers
+      rules: Infighting
+      skilllists: Combat, Special
 
 henchmen:
-    - group: Toddy (2 Gor) [1XP]
-      stats: M5, WS4, BS3, S3, T4, W1, I3, A1, Ld6, Sv-
-      weapons: Club, Club
+    - group: Toddy (2 Gor) [7XP]
+      stats: M5, WS5, BS3, S4, T4, W1, I3, A1, Ld6, Sv-
+      weapons: Club, Dagger
       rules: Infighting
 
-    - group: Wuff (5 Warhounds of Chaos) [0XP]
+    - group: Bobby (1 UnGor) [2XP]
+      stats: M5, WS3, BS3, S3, T3, W1, I4, A1, Ld6, Sv-
+      weapons: Club, Dagger
+      rules: Lowest of the Low, Infighting
+ 
+    - group: Lobby (1 UnGor) [0XP]
+      stats: M5, WS3, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
+      weapons: Club, Dagger
+      rules: Lowest of the Low, Infighting
+
+    - group: Wuff (3 Warhounds of Chaos) [0XP]
       stats: M7, WS4, BS0, S4, T3, W1, I3, A1, Ld5, Sv-
       rules: Animals
 
-    - group: Toddy (2 Gor) [1XP]
-      stats: M5, WS4, BS3, S3, T4, W1, I3, A1, Ld6, Sv-
-      weapons: Dagger, Club
+    - group: Dagger (2 Gor) [7XP]
+      stats: M5, WS5, BS3, S3, T4, W1, I4, A1, Ld6, Sv-
+      weapons: Club, Sword
       rules: Infighting
 
 
 notes: |
          - Roll for random happenings.
-         - Roll for Gor if they not see a emeny
+         - Roll for Gor if they dont see an emeny
+         - Roll for Centigor
          - If at the start of your movement phase any Gor or Ungor does not see any enemy,make a leaderhip test on 3D6 (roll three dices and choose the two lowest rolls). If the Gor or Ungor fails the test, he moves full allowed distance directly to the nearest fellow Gor or Ungor who is not in hand-to-hand combat (if there is any).
-- Drunken Centigor are inclined to drink vast quantities of noxious beer and looted wine and spirits before battle,
-working themselves up into a drunken frenzy. Roll 1D6 at thestart of each turn. On a roll of 1, they must test for stupidity
-that turn. On a roll of 2-5 nothing happens and on the roll of a 6 they become subject to frenzy for that turn. Whilst subject
-to both stupidity and frenzy they are immune to all other forms of psychology.
-- Woodland Dwelling Centigors are creatures of the deep, dark forests. They suffer no movement penalties for moving through wooded areas.
 
 achievments: |
         none

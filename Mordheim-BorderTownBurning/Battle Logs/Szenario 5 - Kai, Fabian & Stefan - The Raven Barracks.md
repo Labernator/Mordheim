@@ -217,6 +217,14 @@ shards: 1
 Letzten Squig vom Roster gestrichen, ohne Goblins darf ich diese nicht verwenden.
 
 *Fabian*  
+55 GC von Wyrdstones  
+16 GC von Reward  
+
+- 1 Ungor 25 gc
+- 2 Hunde 30 gc
+- Club    02 gc
+
+14 gc übrig 
 
 *Stefan*   
 60 GC von Wyrdstones  
