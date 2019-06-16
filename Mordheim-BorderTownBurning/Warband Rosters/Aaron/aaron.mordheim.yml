@@ -4,22 +4,19 @@ objective: The Lure of Fortune
 achievments: |
   Land Train
 
-gc: 1
-shards: 5
-equipment: 1x Dagger, 3x Powder Keg
+gc: 10
+shards: 2
+equipment:
 # Choosen Rune: Rune of Striding (+1 Movement), Replacement: 1GC
 
-# TODO: Powder Keg: 15 GC sell all 3?
-# TODO: Sell 3 WS for 55 GC?
-
-# Max 12 units, +1 because of Gordon
+# Max 12 units
 heros:
     - hero: Ragnar (Runesmith) [29XP]
       stats: M3, WS5, BS4, S3, T4, W1, I3, A1, Ld10, Sv-
       # Racial maximums (Dwarfs):
       #      M3, WS7, BS6, S4, T5, W3, I5, A4, Ld10
       skilllists: Combat, Shooting, Academic, Strength, Special
-      weapons: Axe, Axe
+      weapons: Dwarf Axe, Axe
       armour: Helmet, Heavy Armour
       rules: Leader, Blackblood, Expert Axeman
       # Skill wishlist:
@@ -29,17 +26,18 @@ heros:
     - hero: Floki (Apprentice Runesmith) [7XP]
       skilllists: Combat, Academic, Strength, Special
       stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld9, Sv-
-      weapons: Dwarf Axe, Dagger, Dagger
-      armour: Helmet, Light Armour
+      weapons: Dwarf Axe, Dagger
+      armour: Helmet, Heavy Armour
       rules: Extra Set Of Hands, Skilled Driver, Haggle, Fated
 
     - hero: Bjorn (Troll Slayer) [13XP]
       skilllists: Combat, Academic, Strength, Special
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld10, Sv-
-      weapons: Dwarf Axe, Dagger, Shiny Axe
+      weapons: Dwarf Axe, Dagger
       armour: Lucky Charm
       rules: Deathwish
       # Skill wishlist:
+      # * Two-Weapon Master (no offhand panelty)
       # * Fated (savety first)
       # * Berserker (hit it!)
       # * Sweeping Strike (hit it all!)
@@ -48,7 +46,7 @@ heros:
     - hero: Ivar (Troll Slayer) [19XP]
       skilllists: Combat, Strength, Special
       stats: M3, WS5, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
-      weapons: Dwarf Axe, Axe, Dagger
+      weapons: Dwarf Axe, Dwarf Axe
       armour: Lucky Charm
       rules: Deathwish, Two-Weapon Master, Extra Tough
       # Skill wishlist:
@@ -59,7 +57,7 @@ heros:
 henchmen:
     - group: Beard Mob (4 Beardling) [11XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A2, Ld8, Sv-
-      weapons: Dagger, Dagger
+      weapons: Axe, Dagger
       armour: Helmet
 
     - group: The Enforcers (3 Beardling) [11XP]
@@ -70,6 +68,7 @@ henchmen:
     - group: Snipers (1 Dwarf Ranger) [1XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       weapons: Crossbow, Dagger
+      armour: Light Armour
 
 # Next stuff to buy:
 # * Dwarf Axes (main hand) for Mob (15 GC, Rare 8) * 4 = 60 GC
@@ -91,5 +90,5 @@ notes: |
   Fated/Extra Tough =  Reroll serious injuries once
   Cutting Edge (Axe) = -1 save modifier
   Use Bow as much as possible (Range 24", S3)
-  Incomarable Miners (+1 Wyrdstone at the end (3 heros + 1 = 4 WS))
+  Incomarable Miners (+1 Wyrdstone at the end (roll for 4 heros))
   Haggle = -2D6 GC from a item on buy, 1x per post battle sequence
