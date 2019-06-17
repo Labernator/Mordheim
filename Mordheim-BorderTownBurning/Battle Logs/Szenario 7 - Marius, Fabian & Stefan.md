@@ -44,12 +44,19 @@ Gibt es keine :sob:
 **Experience:**  
 *Marius*   
 Alle Warrior erhalten +1XP.  
+
 Johanna Advance: Skill => Haggle
+
 Theresa Advance: Skill => Sprint
+
 Rosa Advance: +1 Wunde
-Emilia Advance: Skill => Fearsome 
+
+Emilia Advance: Skill => Fearsome
+ 
 Marie Advance: +1 Weaponskill 
+
 Sisters Advance: +1 Weaponskill 
+
 Daughters Advance: Lads got Talent => +1 ini  
 
 gute güte, jede Menge Upgrades hier :flushed:  
