@@ -57,7 +57,7 @@ Marie Advance: +1 Weaponskill
 
 Sisters Advance: +1 Weaponskill 
 
-Daughters Advance: Lads got Talent => +1 ini  
+Daughters Advance: Lads got Talent => +1 Initiative 
 
 gute güte, jede Menge Upgrades hier :flushed:  
 
@@ -78,6 +78,8 @@ gute güte, jede Menge Upgrades hier :flushed:
 
 
 **Hired Swords Blood Pact:**
+
+Marius: keine Pakte
 
 
 **Henchmen XP:**
