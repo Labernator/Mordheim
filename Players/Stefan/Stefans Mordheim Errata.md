@@ -30,6 +30,10 @@ Dieser Skill sorgt im Alleingang dafür, dass Warbands mit Ld < 9 nicht mehr mit
 Academic Skills sind sowieso schon sehr gut darin Gold zu generieren, siehe Haggle & Pawnbroker. Während die beiden aber noch einen überschaubaren Betrag liefen klotzt der Alchemist Skill gleich so richtig rein. Bis zu 75GC in pro Runde! Und auch hier wieder eine absurde Varianz. Der Durchschnittsertrag des besten Skills (Fire Bombs) ist schlappe fünf Mal so hoch wie der des Schlechtesten (Glue Bombs). Auch das ist kein Zeichen für eine gut balancierte Fähigkeit.  
 **=> bannen und das entsprechende Townsfolk gleich mit**  
 
+### Combat Skill: "Whip Master"  
+Der Skill funktioniert ganz ähnlich wie Expert Axe-/Swordsman. Mit einer kleinen Einschränkung: Er gilt immer. Rerolls sind extrem effektiv und Whips generell eher bessere Waffen (wegen der extra Attacken). Jeden to-hit Wurf wiederholen zu dürfen erscheint mit krass viel stärker als vergleichbare Skills. Es ist damit vermutlich der beste Combat Skill mit größerem Abstand. Das kaum jemand Zugriff auf vernünftige (!) Whips hat (die kein Stärke Malus haben) macht es nicht gerechter.  
+**=> Rerolls nur on the charge, analog zu Expert Axe-/Swordsman**  
+
 ### "Tea-Leaf! "-Skill des Thief  
 Und wieder einer dieser Skills mit wahnsinnig hoher Varianz. Aber das an sich ist nicht das Problem. Das Problem liegt in der wilden zusammenkopierten Equipment Liste. Ganz unauffällig rechts oben in dem Flickschusterwerk findet man Boote. Die braucht man für die Mutiny in Marieburg Kampagne. Wenn man den Skill so spielt wie er im Buche steht ist, dann kann man ganz locker und mit hoher Erfolgsaussicht jede Runde ein SailBoat (Rare 6, 100 GC) klauen und direkt wieder verkaufen. Jachten für alle!  
 **=> bannen oder vernünftig einschränken**  
