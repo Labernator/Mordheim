@@ -68,8 +68,10 @@ gute güte, jede Menge Upgrades hier :flushed:
 
 
 **Exploration:**  
-*Marius*  
-
+*Marius* 
+ 
+23 => 4 wyrdstones
+4 Dagger, 1 Sword, 1 war horn + 7gc
 
 *Fabian*  
 
