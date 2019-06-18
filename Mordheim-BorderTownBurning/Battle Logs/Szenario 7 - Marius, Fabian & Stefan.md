@@ -99,6 +99,9 @@ Upkeep zwerg 15
 Upkeep Wilhelm 15
 => 58
 
+Käufe Sigmarite Warhammer für 13
+=> 45
+
 *Fabian*  
 
 
