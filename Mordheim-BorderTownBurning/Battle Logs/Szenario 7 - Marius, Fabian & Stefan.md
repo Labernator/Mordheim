@@ -89,7 +89,15 @@ Marius: keine Pakte
 
 **Trading:**  
 *Marius*  
+Übertrag: 6gc
+Rewards: 7gc
+Verkaufe 3 Shards für 55gc = 68
+Verkaufe War Horn für 15gc = 83
+Verkaufe Sword für 5gc = 88
 
+Upkeep zwerg 15
+Upkeep Wilhelm 15
+=> 58
 
 *Fabian*  
 
