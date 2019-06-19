@@ -71,7 +71,7 @@ gute güte, jede Menge Upgrades hier :flushed:
 *Marius* 
  
 23 => 4 wyrdstones
-4 Dagger, 1 Sword, 1 war horn + 7gc
+drippel 5: 4 Dagger, 1 Sword, 1 war horn + 7gc
 
 *Fabian*  
 
@@ -106,3 +106,8 @@ Käufe Sigmarite Warhammer für 13
 
 
 *Stefan*   
+Money Maker Galotta:  
+Minstrel Torxes:  
+
+Haggle Skrechu:  
+Haggle Azaril:  
