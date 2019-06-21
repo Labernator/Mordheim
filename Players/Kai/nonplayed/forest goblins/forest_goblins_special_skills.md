@@ -34,7 +34,7 @@ On a result of
 Example: In case that the effect of a mixture last for D6=3 rounds, roll a D6 in recovery phase of the 4th round on the upper ruleset.
 
 ## Dive attack expert
-The hero is a expert in diving attacks, he does not need to take initiative tests for 2" height. The maximum heigt of a dive attack is increased to a macimum of 4“.
+The hero is a expert in diving attacks, he does not need to take initiative tests for 2" height. The maximum heigt of a dive attack is increased to a maximum of 4“.
 Even if he rides a giant spider.
 
 Example: The Hero stands in 4" height and wants to do a dive attack. There is no need to do two Initiative test, he has to do only one test.
@@ -63,7 +63,7 @@ The Goblin has been trained to fight in wodden terrain. If he is within 3" of a 
 - He gains +1I bacause he is highly motivated.
 - He jumps on the enemy from a upper position (lower than 2") in the first round he gains +1S. He uses the force of the nature - the gravity.
 - He also gains +1WS because he is trained to fight in the woods and knows how to use it's weapon in a wooded area.
-- Also counts if the Gobline rides a spider.
+- Also counts if the Goblin rides a spider.
 
 ## Spider web safety belt
 Forest goblins are gifted rider of spider mounts, in years the learned how to merge it's riding skills with the spiders skills in building fabled weaved webs.
@@ -88,7 +88,7 @@ In case the goblin rides a mount. Add D6" dice to the charge distance.
 The goblin will jump from the back of his mount and attack the enemy alone.
 The goblin is allowed to jump over the enemies standing in front of his target (not large).
 The Mount will stop at the distance of it's normal charge range M+D6+D3" and the Goblin will charge the further D6".
-The Goblin has to pass a initiative test before he can do that trick. And in case that the init test failes,
+The Goblin has to pass a initiative test before he can do that trick. And in case that the init test fail,
 he is allowed to do a normal charge.
 If the charge was successful, the mount counts as unlead and not in combat.
 It stays in place until the next turn.
