@@ -57,26 +57,34 @@
 * sind magic gugginz und giant spiders zum initialen start der wb „common“, ähnlich wie die gromril items bei den zwergen?
 => ja
 * Wieviele Spinnen kann ich ihn dichtem Gebiet reiten? Da sie über alles klettern können würde ich sagen "alle 6".
-=> es gibt kein dichtes gebiet, die anzahl wird für alle mounts einheitlich geregelt?
+=> es gibt keine eindeutige definition von dichtem gebiet, die anzahl wird für alle mounts einheitlich geregelt.
+* Wieviele mounts können im pro warband geritten werden?
+=> vorschlag: pro held ein mount. 
+* Die Definition von zwei stück in dichtem gebiet ist leider nirgends eindeutig beschrieben.
+=> indoor (häuser/höhlen) darf nicht geritten werden
 * Können die goblins auch "The silent thread" als Objective annehmen? Scourge of the realm erscheint mir mit dem goblin leader extrem schwierig.
-=> nein
+=> nein, stefan vermutet das der zugriff auf gifte zu stark ist.
+=> vorschlag: the silent thread bannen
 * Laut Giant Spider regeln können sie auch mit Reiter klettern, ohne testen zu müssen. Laut Forest goblin warband Beschreibung müssen sie testen können aber jeden Test re-rollen. Was gilt?
-* Wieso müssen giantic spider zum Klettern testen wenn die kleinen nicht?
-=> wird vereinheitlicht
+=> vorschlag: alle spinnen können gleichermaßen klettern, müssen auf den i-wert des reiters testen, und können diesen rerollen.
+* Haben Giant Spider ebenso wie Giantic Spider keine Probleme sich im bewaldeten Gebiet zu bewegen?
+=> vorschlag: ja spinnen können sich in bewaldetem gebiet gleichermaßen bewegen
 * Muss die Giantic spider auf Ld testen wenn der Boss auf ihr reitet und sie in base kontakt mit dem feind kommt (siehe reit regeln)? Sie ist ohne reiter auch in der Lage gegen Feinde zu kämpfen ohne testen zu müssen...
-=> ja es muss getestet werden
+=> ja, es muss getestet werden. damit sind alle mount regeln einheitlich sind.
 * Bekommen die Forest goblin eine eigene skill liste?
-=> nein
+=> nein, das wird zu kompliziert mit dem balancing
 * Auf was können die Spinnen alles klettern? Alles auf denen man das Modell abstellen kann, oder nur Wände?
 => alles wo das mini drauf stehen kann
+* Können Spinnen wände hoch rennen?
+=> nein
 * Kann ein angeheuerter Goblin herder (Stallmeister) sie als Attackanimal in den Kampf schicken, wenn reiten nicht erlaubt ist?
 => ja
 * muss der stallmeister gebannt werden? er kann theoretisch alle spinnen führen und sie als attack animal in den kampf schicken. und man bekommt +1 auf einen rare roll für ein mount, pro spiel.
 => nein
-* Antworten auf die Fragen in den Reitregeln?
 * Wenn ich neu anfange, bekomme ich wieviele CP abgezogen?
-=> quasi alle
+=> quasi alle => wechsel ausgeschlossen ohne weitere vorteile
 * Was ist mit den achievments des neuen Objective, erhalte ich diese von anfang an wenn ich die CP dafür habe?
 => ja
-* wie kisten/schätze tragen?
-
+* können goblins auf einer spinne schätze tragen? oder allgemein: können einheiten die reiten schätze tragen?
+=> Vorschlag: ja
+* Antworten auf die Fragen in den Reitregeln?
