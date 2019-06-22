@@ -56,10 +56,11 @@
 
 * sind magic gugginz und giant spiders zum initialen start der wb „common“, ähnlich wie die gromril items bei den zwergen?
 => ja
-* Wieviele Spinnen kann ich ihn dichtem Gebiet reiten? Da sie über alles klettern können würde ich sagen "alle 6".
+* Wieviele Spinnen kann ich in dichtem Gebiet reiten?
 => es gibt keine eindeutige definition von dichtem gebiet, die anzahl wird für alle mounts einheitlich geregelt.
+=> Da sie über alles klettern können würde ich sagen "alle".
 * Wieviele mounts können im pro warband geritten werden?
-=> vorschlag: pro held ein mount. 
+=> vorschlag: pro held ein mount
 * Die Definition von zwei stück in dichtem gebiet ist leider nirgends eindeutig beschrieben.
 => indoor (häuser/höhlen) darf nicht geritten werden
 * Können die goblins auch "The silent thread" als Objective annehmen? Scourge of the realm erscheint mir mit dem goblin leader extrem schwierig.
