@@ -89,3 +89,5 @@
 * können goblins auf einer spinne schätze tragen? oder allgemein: können einheiten die reiten schätze tragen?
 => Vorschlag: ja
 * Antworten auf die Fragen in den Reitregeln?
+* Darf der Goblin herder eine Giant spider reiten?
+

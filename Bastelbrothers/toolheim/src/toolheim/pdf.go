@@ -502,7 +502,7 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	if warband.mount_cnt > 0 {
 		mount_aanim_s = mount_aanim_s + "Mounts: (" + strconv.Itoa(warband.mount_cnt) + ")   " + strconv.Itoa(warband.mount_cnt * 10) + "   "
 	}
-	if warband.mount_cnt > 0 {
+	if warband.large_mount_cnt > 0 {
 		mount_aanim_s = mount_aanim_s + "Large mounts: (" + strconv.Itoa(warband.large_mount_cnt) + ")   " + strconv.Itoa(warband.large_mount_cnt * 20) + "   "
 	}
 	if len(mount_aanim_s) > 1 {

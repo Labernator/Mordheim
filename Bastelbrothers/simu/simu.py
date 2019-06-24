@@ -349,9 +349,6 @@ def doInjuryRoll(u1, u2, wn, injury_addition):
             roll = roll + u1.weapon[wn]["toInjuryRoll"]
             print "\t\t\tnew injury roll: " + str(roll)
 
-        if u2.hardToKill == True:
-            print "\t\t\t" + u2.name + " has skill \"hard to kill\""
-
         # stunnedMax und stunnedMin von unit und waffen beachten
         if (roll < u1.weapon[wn]["stunnedMin"] and u2.hardToKill == False) or \
            (u2.hardToKill == True and roll < 3):
@@ -364,6 +361,10 @@ def doInjuryRoll(u1, u2, wn, injury_addition):
 
         elif (roll >= u1.weapon[wn]["stunnedMin"] and roll <= u2.stunnedMax and u2.hardToKill == False) or \
              (u2.hardToKill == True and roll >=3 and roll <= 5):
+
+            if u2.hardToKill == True:
+                print "\t\t\t" + u2.name + " has skill \"hard to kill\""
+
             tmp_stnSv = 4
             if u2.helmet == True:
                 print "\t\t\tHelmet: stunned save on " + str(tmp_stnSv) + "+"
@@ -399,6 +400,10 @@ def doInjuryRoll(u1, u2, wn, injury_addition):
                 u2.i_orig = u2.i
                 u2.i = -9 # strike last
         else:
+
+            if u2.hardToKill == True:
+                print "\t\t\t" + u2.name + " has skill \"hard to kill\""
+
             print "\t\t\tooa"
 
             if u2.state < 3:
