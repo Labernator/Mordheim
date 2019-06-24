@@ -1,6 +1,6 @@
 warband: Goblins and spiders (Forest Goblins)
 campaign: 0
-gc: 300
+gc: 203
 shards: 0
 equipment: none
 objective: ???
@@ -21,20 +21,20 @@ heros:
       rules: Magic user, Gaze of Mork
       skilllists: Speed, Academic
 
-    - hero: Grlag (Goblin herder) [5XP]
-      stats: M4, WS2, BS2, S3, T3, W1, I4, A1, Ld6, Sv-
-      weapons: Whip, Hammer, Dagger
-      armour: Light armour, Shield
-      rules: Animal/Beast handler (Giant spider), Beast finder, Multiplies, Just here for the work
-      hiredsword: true
-      skilllists: Speed, Combat
+#    - hero: Grlag (Goblin herder) [5XP]
+#      stats: M4, WS2, BS2, S3, T3, W1, I4, A1, Ld6, Sv-
+#      weapons: Whip, Hammer, Dagger
+#      armour: Light armour, Shield
+#      rules: Animal/Beast handler (Giant spider), Beast finder, Multiplies, Just here for the work
+#      hiredsword: true
+#      skilllists: Speed, Combat
 
 henchmen:
 
     - group: Red (1 Slugga) [0XP]
       stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
-      weapons: Throwing weapon, Spear, Dagger
-      armour: Shield
+      weapons: Throwing weapon, 2x Dagger
+      armour:
       rules: Animosity
 
     - group: Spider (2 Giant spider) [0XP]
