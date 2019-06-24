@@ -45,6 +45,8 @@
 
 ## Allgemein
 * Jeder Held dem es nicht ausdrücklich verboten ist darf ein Mount erwerben und es reiten. Damit ist es kein Attack Animal.
+* P.293 Mordheim core pdf: In offenem Gebiet können soviele Reittiere geritten werden wie man sich leisten kann (also maximal 1 pro Held, Hired sword mounts zählen nicht dazu und können im Freien immer eingesetzt werden).
+* FRAGE: Wie ist die definition von dichtem Gebiet, welche Regelung sollte hier eingesetzt werden?
 * Wie auch das Attack Animal soll das Reittier durch ein Modell represäntiert werden.
 * Ist der Held auf dem Tier aufgesessen, soll es auch als Modell dargestellt werden. (Marker reicht vermutlich).
 * Mounts müssen mit einem Abstand von 3" zum Reiter/Besitzer in der Aufstellphase eines Szenario aufgestellt werden.
