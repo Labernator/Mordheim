@@ -10,8 +10,8 @@ var text_color_r = 0
 var text_color_g = 0
 var text_color_b = 0
 
-var startY	= 0
-var offsetY	= 0
+var startY  = 0
+var offsetY = 0
 
 func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 
@@ -62,7 +62,7 @@ func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 
 		// Stats
 		pdf.SetFillColor(255, 0, 0)
-		pdf.SetFont("Arial", "", 13)
+		pdf.SetFont("Arial", "", 12)
 		pdf.SetFontUnitSize(5)
 
 		// skills stats
@@ -79,7 +79,7 @@ func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 		pdf.SetX(20)
 		pdf.Write(11, strconv.Itoa(hero.Stats.BallisticSkill))
 		pdf.SetX(27)
-		pdf.Write(11, strconv.Itoa(hero.Stats.Strength))
+		pdf.Write(11, hero.Stats.Strength)
 		pdf.SetX(33)
 		pdf.Write(11, strconv.Itoa(hero.Stats.Toughness))
 		pdf.SetX(40)
@@ -314,16 +314,24 @@ func MakeHenchmenPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 
 		pdf.SetY(float64(offsetY) + 25.5)
 		pdf.SetX(7.5)
+		pdf.SetFont("Arial", "", 12)
 		if len(henchmen.Stats.Movement) > 1 {
-			pdf.SetX(3)
+			pdf.SetX(5.5)
+			pdf.SetFont("Arial", "", 10)
 		}
 		pdf.Write(11, henchmen.Stats.Movement)
+		pdf.SetFont("Arial", "", 12)
 		pdf.SetX(14)
 		pdf.Write(11, strconv.Itoa(henchmen.Stats.WeaponSkill))
 		pdf.SetX(20.5)
 		pdf.Write(11, strconv.Itoa(henchmen.Stats.BallisticSkill))
 		pdf.SetX(27.25)
-		pdf.Write(11, strconv.Itoa(henchmen.Stats.Strength))
+		if len(henchmen.Stats.Strength) > 1 {
+			pdf.SetX(25.25)
+			pdf.SetFont("Arial", "", 10)
+		}
+		pdf.Write(11, henchmen.Stats.Strength)
+		pdf.SetFont("Arial", "", 12)
 		pdf.SetX(33.5)
 		pdf.Write(11, strconv.Itoa(henchmen.Stats.Toughness))
 		pdf.SetX(40)

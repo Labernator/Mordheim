@@ -38,7 +38,7 @@ henchmen:
       rules: Animosity
 
     - group: Spider (2 Giant spider) [0XP]
-      stats: M7, WS3, BS0, S4, T3, W1, I4, A1, Ld5, Sv+1
+      stats: M7, WS3, BS0, S3(4), T3, W1, I4, A1, Ld5, Sv+1
       weapons:
       armour:
       rules: Poisoned attack, Wall walk, No barding, No giant wolves
