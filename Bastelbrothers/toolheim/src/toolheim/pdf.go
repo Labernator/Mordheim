@@ -56,7 +56,7 @@ func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 		pdf.Write(11, tr(hero.Name))
 
 		// Type
-		pdf.SetFont("Arial", "", 12)
+		pdf.SetFont("Arial", "", 10)
 		pdf.SetXY(6, float64(offsetY + 10))
 		pdf.Write(11, tr(hero.Type))
 
