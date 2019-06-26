@@ -10,8 +10,11 @@ var text_color_r = 0
 var text_color_g = 0
 var text_color_b = 0
 
-var startY	= 0
-var offsetY	= 0
+var startY  = 0
+var offsetY = 0
+
+var font_size = 12.0
+var font_size_equip = 10.0
 
 func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 
@@ -51,18 +54,18 @@ func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 		pdf.CellFormat(198, 6.0, "", "1", 0, "", false, 0, "")
 
 		// Name
-		pdf.SetFont("Arial", "B", 12)
+		pdf.SetFont("Arial", "B", font_size)
 		pdf.SetXY(6, float64(offsetY + 4))
 		pdf.Write(11, tr(hero.Name))
 
 		// Type
-		pdf.SetFont("Arial", "", 12)
+		pdf.SetFont("Arial", "", font_size - 2)
 		pdf.SetXY(6, float64(offsetY + 10))
 		pdf.Write(11, tr(hero.Type))
 
 		// Stats
 		pdf.SetFillColor(255, 0, 0)
-		pdf.SetFont("Arial", "", 13)
+		pdf.SetFont("Arial", "", font_size)
 		pdf.SetFontUnitSize(5)
 
 		// skills stats
@@ -79,7 +82,7 @@ func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 		pdf.SetX(20)
 		pdf.Write(11, strconv.Itoa(hero.Stats.BallisticSkill))
 		pdf.SetX(27)
-		pdf.Write(11, strconv.Itoa(hero.Stats.Strength))
+		pdf.Write(11, hero.Stats.Strength)
 		pdf.SetX(33)
 		pdf.Write(11, strconv.Itoa(hero.Stats.Toughness))
 		pdf.SetX(40)
@@ -96,37 +99,37 @@ func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 		// Skill lists
 		pdf.SetY(float64(offsetY) + 33.83)
 		if hero.bSkillLists.Combat == true {
-			pdf.SetFont("Arial", "B", 10)
+			pdf.SetFont("Arial", "B", font_size - 2)
 			pdf.SetX(6.5)
 			pdf.Write(0, marker_sign)
 		}
 		if hero.bSkillLists.Shooting == true {
-			pdf.SetFont("Arial", "B", 10)
+			pdf.SetFont("Arial", "B", font_size - 2)
 			pdf.SetX(17.75)
 			pdf.Write(0, marker_sign)
 		}
 		if hero.bSkillLists.Academic == true {
-			pdf.SetFont("Arial", "B", 10)
+			pdf.SetFont("Arial", "B", font_size - 2)
 			pdf.SetX(28.72)
 			pdf.Write(0, marker_sign)
 		}
 		if hero.bSkillLists.Strength == true {
-			pdf.SetFont("Arial", "B", 10)
+			pdf.SetFont("Arial", "B", font_size - 2)
 			pdf.SetX(40.5)
 			pdf.Write(0, marker_sign)
 		}
 		if hero.bSkillLists.Speed == true {
-			pdf.SetFont("Arial", "B", 10)
+			pdf.SetFont("Arial", "B", font_size - 2)
 			pdf.SetX(51.5)
 			pdf.Write(0, marker_sign)
 		}
 		if hero.bSkillLists.Special == true {
-			pdf.SetFont("Arial", "B", 10)
+			pdf.SetFont("Arial", "B", font_size - 2)
 			pdf.SetX(60.7)
 			pdf.Write(0, marker_sign)
 		}
 
-		pdf.SetFont("Arial", "", 10)
+		pdf.SetFont("Arial", "", font_size -2)
 
 		// Weapons
 		// Armour
@@ -145,7 +148,7 @@ func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 			tmp_str = tmp_str + "injuries: " + hero.Injuries
 		}
 
-		pdf.SetFont("Arial", "", 10)
+		pdf.SetFont("Arial", "", font_size - 2)
 		lines := pdf.SplitLines([]byte(tmp_str), 155)
 		for i := 0; i < len(lines); i++ {
 			pdf.SetXY(46.0, float64(offsetY + 14 + i * 5))
@@ -180,7 +183,7 @@ func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 		pdf.Image("images/hero_xp_bar.png", 75.0, 0, 1499*0.0695, 295*0.042, true, "", 0, "")
 
 		// XP
-		pdf.SetFont("Arial", "", 12)
+		pdf.SetFont("Arial", "", font_size -2)
 		pdf.SetXY(180, float64(offsetY+32))
 		pdf.Write(20, strconv.Itoa(hero.Experience) + " xp")
 		y := 0.0
@@ -190,9 +193,9 @@ func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 		for x := 1; x <= hero.Experience; x++ {
 			xx := x
 			if hero.SlowWitted == false {
-				pdf.SetFont("Arial", "B", 10)
+				pdf.SetFont("Arial", "B", font_size -2)
 			} else {
-				pdf.SetFont("Arial", "B", 6)
+				pdf.SetFont("Arial", "B", font_size / 2)
 				space_x = 3.43 / 2.0
 				tmp_off_y = -0.61
 			}
@@ -257,25 +260,25 @@ func MakeHenchmenPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 		pdf.SetXY(5.5,float64(offsetY)+6)
 		pdf.CellFormat(198, 6.0, "", "1", 0, "", false, 0, "")
 
-		pdf.SetFont("Arial", "B", 12)
+		pdf.SetFont("Arial", "B", font_size)
 		// Name
 		pdf.SetY(float64(offsetY + 4))
 		pdf.SetX(6)
 		pdf.Write(11, tr(henchmen.Name))
 
 		// Type
-		pdf.SetFont("Arial", "", 12)
+		pdf.SetFont("Arial", "", font_size)
 		pdf.SetY(float64(offsetY + 9))
 		pdf.SetX(6)
 		pdf.Write(11, tr(henchmen.Type))
 
 		// Number
-		pdf.SetFont("Arial", "", 12)
+		pdf.SetFont("Arial", "", font_size)
 		pdf.SetY(float64(offsetY + 14))
 		pdf.SetX(6)
 		pdf.Write(11, "x" + strconv.Itoa(henchmen.Number))
 
-		pdf.SetFont("Arial", "", 10)
+		pdf.SetFont("Arial", "", font_size - 2)
 		if henchmen.AttackAnimal && !henchmen.Mount  {
 			// show attack animal marker,
 			// if the henchmen unit s a attack animal and a mount,
@@ -309,21 +312,29 @@ func MakeHenchmenPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 
 		pdf.SetFillColor(255, 0, 0)
 
-		pdf.SetFont("Arial", "", 12)
+		pdf.SetFont("Arial", "", font_size)
 		pdf.SetFontUnitSize(5)
 
 		pdf.SetY(float64(offsetY) + 25.5)
 		pdf.SetX(7.5)
+		pdf.SetFont("Arial", "", font_size)
 		if len(henchmen.Stats.Movement) > 1 {
-			pdf.SetX(3)
+			pdf.SetX(5.5)
+			pdf.SetFont("Arial", "", font_size - 2)
 		}
 		pdf.Write(11, henchmen.Stats.Movement)
+		pdf.SetFont("Arial", "", font_size)
 		pdf.SetX(14)
 		pdf.Write(11, strconv.Itoa(henchmen.Stats.WeaponSkill))
 		pdf.SetX(20.5)
 		pdf.Write(11, strconv.Itoa(henchmen.Stats.BallisticSkill))
 		pdf.SetX(27.25)
-		pdf.Write(11, strconv.Itoa(henchmen.Stats.Strength))
+		if len(henchmen.Stats.Strength) > 1 {
+			pdf.SetX(25.25)
+			pdf.SetFont("Arial", "", font_size - 2)
+		}
+		pdf.Write(11, henchmen.Stats.Strength)
+		pdf.SetFont("Arial", "", font_size)
 		pdf.SetX(33.5)
 		pdf.Write(11, strconv.Itoa(henchmen.Stats.Toughness))
 		pdf.SetX(40)
@@ -355,7 +366,7 @@ func MakeHenchmenPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 			tmp_str = tmp_str + "rules: "  + henchmen.Rules
 		}
 
-		pdf.SetFont("Arial", "", 10)
+		pdf.SetFont("Arial", "", font_size - 2)
 		lines := pdf.SplitLines([]byte(tmp_str), 155)
 		for i := 0; i < len(lines); i++ {
 			pdf.SetXY(46.0, float64(offsetY + 14 + i * 5))
@@ -368,13 +379,13 @@ func MakeHenchmenPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 		pdf.Image("images/henchmen_xp_bar.png", 75, 0, 1499*0.033, 218*0.033, true, "", 0, "")
 
 		// XP
-		pdf.SetFont("Arial", "", 12)
+		pdf.SetFont("Arial", "", font_size)
 		pdf.SetXY(127, float64(offsetY + 22))
 		pdf.Write(20, strconv.Itoa(henchmen.Experience) + " xp")
 
 		for x := 1; x <= henchmen.Experience; x++ {
 
-			pdf.SetFont("Arial", "B", 12)
+			pdf.SetFont("Arial", "B", font_size)
 
 			space_x := 3.45
 			tmp_off_y := 0.0
@@ -382,7 +393,7 @@ func MakeHenchmenPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 			if henchmen.SlowWitted == true {
 				space_x = space_x / 2.0
 				tmp_off_y = 0.3
-				pdf.SetFont("Arial", "B", 6)
+				pdf.SetFont("Arial", "B", font_size / 2)
 			}
 
 			pdf.SetXY(float64(74.75 + ((float64(x) - 1.0) * space_x)), float64(offsetY) - float64(tmp_off_y) + 31.5)
@@ -423,7 +434,7 @@ func MakeStatisticPage(warband Warband, pdf *gofpdf.Fpdf) {
 	pdf.Image("images/wb_stats.png", 5, 0, 1499*0.133, 218*0.133, true, "", 0, "")
 
 	// Equipment
-	pdf.SetFont("Arial", "", 10)
+	pdf.SetFont("Arial", "", font_size_equip)
 	oX := 0
 	oY := 0
 	if warband.Equipment != nil {

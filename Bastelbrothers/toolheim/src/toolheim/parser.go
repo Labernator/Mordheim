@@ -97,7 +97,7 @@ type Stats struct {
 	Movement	string
 	WeaponSkill	int
 	BallisticSkill	int
-	Strength	int
+	Strength	string
 	Toughness	int
 	Wounds		int
 	Initiative	int
@@ -116,7 +116,7 @@ type Skilllist struct {
 }
 
 func (stats *Stats) UnmarshalJSON(b []byte) error {
-	regex := regexp.MustCompile(`(?i)"\s*M([0-9]+[dD]*[6]*)\s*,\s*WS([0-9]+)\s*,\s*BS([0-9]+)\s*,\s*S([0-9]+)\s*,\s*T([0-9]+)\s*,\s*W([0-9]+)\s*,\s*I([0-9]+)\s*,\s*A([0-9]+)\s*,\s*Ld([0-9]+)\s*,\s*Sv([0-9\-\+]+)\s*"`)
+	regex := regexp.MustCompile(`(?i)"\s*M([0-9]+[dD]*[6]*)\s*,\s*WS([0-9]+)\s*,\s*BS([0-9]+)\s*,\s*S([0-9]+[\(]*[0-9]*[\)]*)\s*,\s*T([0-9]+)\s*,\s*W([0-9]+)\s*,\s*I([0-9]+)\s*,\s*A([0-9]+)\s*,\s*Ld([0-9]+)\s*,\s*Sv([0-9\-\+]+)\s*"`)
 	matches := regex.FindStringSubmatch(string(b))
 
 	if len(matches) < 1 {
@@ -127,7 +127,7 @@ func (stats *Stats) UnmarshalJSON(b []byte) error {
 	stats.Movement = matches[1]
 	stats.WeaponSkill, _	= strconv.Atoi(matches[2])
 	stats.BallisticSkill, _ = strconv.Atoi(matches[3])
-	stats.Strength, _	= strconv.Atoi(matches[4])
+	stats.Strength		= matches[4]
 	stats.Toughness, _	= strconv.Atoi(matches[5])
 	stats.Wounds, _		= strconv.Atoi(matches[6])
 	stats.Initiative, _	= strconv.Atoi(matches[7])
