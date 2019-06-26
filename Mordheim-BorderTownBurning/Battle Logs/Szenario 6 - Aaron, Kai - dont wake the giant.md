@@ -1,113 +1,60 @@
-**Szenario:** Last Orders!
+**Szenario:** Don't wake the Giant  
 
 **Territorium:** The Cathayan Borderlands  
 
-**Wetter:** Egal  
+**Wetter:** tbd  
 
 **Spieler:** Marius, Fabian & Stefan
 
 **Warband Rating:**  
-Marius: 229    
-Fabian: 193    
-Stefan: 274     
+Aaron: 2011  
+Kai: 203    
 
 **Underdog:** kein Underdog Bonus   
 
 **Pre-Game Rolls**  
 
 **Battle Log:**  
-Marius routet direkt  
-Stefan darf anfangen (wegen Monk)  
 
 
 **Injuries:**  
-*Marius*  
-keine (weil gar nicht da :stuck_out_tongue:)  
+*Aaron*  
 
-*Fabian*  
 
-*Stefan*  
+*Kai*  
 
 **Campagne Points:**  
-*Marius*  
-+1
-
-*Fabian*  
+*Aaron*  
 
 
-*Stefan*  
+*Kai*  
 
 
 **Rewards:**  
-Gibt es keine :sob:  
 
 **Experience:**  
-*Marius*   
-Alle Warrior erhalten +1XP.  
-
-Johanna Advance: Skill => Haggle
-
-Theresa Advance: Skill => Sprint
-
-Rosa Advance: +1 Wunde
-
-Emilia Advance: Skill => Fearsome
- 
-Marie Advance: +1 Weaponskill 
-
-Sisters Advance: +1 Weaponskill 
-
-Daughters Advance: Lads got Talent => +1 Initiative 
-
-gute güte, jede Menge Upgrades hier :flushed:  
-
-*Fabian*   
+*Aaron*   
 
 
-*Stefan*   
+*Kai*   
 
 
 **Exploration:**  
-*Marius* 
+*Aaron* 
  
-23 => 4 wyrdstones
-drippel 5: 4 Dagger, 1 Sword, 1 war horn + 7gc
 
-*Fabian*  
-
-
-*Stefan*  
+*Kai*  
 
 
 **Hired Swords Blood Pact:**
-
-Marius: keine Pakte
 
 
 **Henchmen XP:**
 
 
 **Trading:**  
-*Marius*  
-Übertrag: 6gc
-Rewards: 7gc
-Verkaufe 3 Shards für 55gc = 68
-Verkaufe War Horn für 15gc = 83
-Verkaufe Sword für 5gc = 88
+*Aaron*  
 
-Upkeep zwerg 15
-Upkeep Wilhelm 15
-=> 58
-
-Käufe Sigmarite Warhammer für 13
-=> 45
-
-*Fabian*  
+*Kai*  
 
 
-*Stefan*   
-Money Maker Galotta:  
-Minstrel Torxes:  
-
-Haggle Skrechu:  
-Haggle Azaril:  
