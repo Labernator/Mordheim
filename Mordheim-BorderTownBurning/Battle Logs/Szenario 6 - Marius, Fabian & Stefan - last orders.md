@@ -37,18 +37,28 @@ Fabian routet
 keine (weil gar nicht da :stuck_out_tongue:)  
 
 *Fabian*  
+Bobby lebt  
+Lobby lebt  
+Dagger 1 lebt  
+Dagger 2 lebt  
+Toddy 1 lebt  
+Toddy 2 lebt  
+Centigor recovered  
+Super Toddy Old Battle Wound  
 
 *Stefan*  
+Drachngarde lebt  
+Berserker lebt  
 
 **Campagne Points:**  
 *Marius*  
 +1
 
 *Fabian*  
-
++1  
 
 *Stefan*  
-
++2 (Haffax setzt das nächste Spiel aus)  
 
 **Rewards:**  
 Gibt es keine :sob:  
@@ -74,10 +84,28 @@ Daughters Advance: Lads got Talent => +1 Initiative
 gute güte, jede Menge Upgrades hier :flushed:  
 
 *Fabian*   
-
+Chieftain +1  
+Barney +1  
+Centigor +2 (Advance: Skill)  
+Marshall +1  
+Lilly +1  
 
 *Stefan*   
-
+Haffax +3 (Advance: +1 Wunde)   
+Gaius +1 (advance: +1S)  
+Dimiona +2 (advance: +1WS)  
+Skrechu +1  
+Torxes +1  
+Liscom +3 (advance: +1WS)  
+Azaril +1  
+Legion +2  
+Äxte +1  
+Eisenkralle +2 (advance: +1S)  
+Horde +2  
+Arzuch +2  
+Drachengarde +0  
+Berserker +0  
+Sulman +0 (setzt aus)  
 
 **Exploration:**  
 *Marius* 
