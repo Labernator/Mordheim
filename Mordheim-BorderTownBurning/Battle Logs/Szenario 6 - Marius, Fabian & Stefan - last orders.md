@@ -71,7 +71,7 @@ gute güte, jede Menge Upgrades hier :flushed:
 *Marius* 
  
 23 => 4 wyrdstones
-drippel 5: 4 Dagger, 1 Sword, 1 war horn + 7gc
+Trippel 5: 4 Dagger, 1 Sword, 1 war horn + 7gc
 
 *Fabian*  
 
@@ -99,8 +99,10 @@ Upkeep zwerg 15
 Upkeep Wilhelm 15
 => 58
 
-Käufe Sigmarite Warhammer für 13
+Kaufe Sigmarite Warhammer für 13 (Haggle) 
 => 45
+Kaufe Helmet für 2 (Armourer) => 43
+Kaufe 3x Steel whip für 30 => 13
 
 *Fabian*  
 
