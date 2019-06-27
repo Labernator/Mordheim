@@ -103,6 +103,8 @@ Kaufe Sigmarite Warhammer für 13 (Haggle)
 => 45
 Kaufe Helmet für 2 (Armourer) => 43
 Kaufe 3x Steel whip für 30 => 13
+Verkaufe 7 Dagger für 7 => 20
+Kaufe Light Armor für 20 => 0
 
 *Fabian*  
 
