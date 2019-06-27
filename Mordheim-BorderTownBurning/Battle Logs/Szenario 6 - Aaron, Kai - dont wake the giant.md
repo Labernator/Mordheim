@@ -2,7 +2,7 @@
 
 **Territorium:** The Cathayan Borderlands  
 
-**Wetter:** tbd  
+**Wetter:** blizzard  
 
 **Spieler:** Marius, Fabian & Stefan
 
