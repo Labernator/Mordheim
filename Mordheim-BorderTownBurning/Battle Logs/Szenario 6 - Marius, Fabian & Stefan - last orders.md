@@ -19,6 +19,18 @@ Stefan: 274
 Marius routet direkt  
 Stefan darf anfangen (wegen Monk)  
 
+Legion killt Bobby  
+Horde tötet Dagger  
+Centigor tötet Drachengarde  
+Centigor killt Berserker  
+Eisenkralle killt Lobby  
+Pit Fighter Hired Sword killt Toddy  
+Pit Fighter Hired Sword killt Centigor  
+Haffax killt Toddy  
+Arzuch killt Dagger  
+Dimiona killt Super Toddy  
+Fabian routet  
+
 
 **Injuries:**  
 *Marius*  
