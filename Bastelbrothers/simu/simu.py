@@ -63,7 +63,7 @@ def getMinWoundRoll(s, t):
 
 def printChar(u):
     print u.name + " characteristics"
-    print "WS S T W I A AS St  CW CooA"
+    print "WS S T W I A AS St  CW CooA Cdead"
     state = ""
     if u.state == 0:
         state = "-"
@@ -71,8 +71,10 @@ def printChar(u):
         state = "knd"
     elif u.state == 2:
         state = "stn"
-    else:
+    elif u.state == 3:
         state = "ooa"
+    else:
+        state = "ded"
 
     out = str(u.ws) + "  " + str(u.s) + " " + str(u.t) + " " + str(u.w) + " " + str(u.i) + " " + str(u.a) + " " + str(u._as)
     if u.i > 0:
@@ -88,11 +90,46 @@ def printChar(u):
 
     out = out + "  " + str(u.causedOOA)
 
+    out = out + "    " + str(u.causedDead)
+
     print out
 
 def attack(u1, u2, wn, first_round = False):
 
     u2_w_old = u2.w
+
+    if u1.grabIt == True:
+        # the attacker has skill grab it
+        print "\t" + u1.name + " has skill grab-it!"
+
+        roll = rollD6()
+        print "\t\tuse on D6=1-2: " + str(roll)
+
+        if roll < 3:
+            print "\t\t" + u2.name + " has to ini test(I" + str(u2.i) + ")"
+
+            roll = rollD6()
+            print "\t\t\tini test roll: " + str(roll)
+
+            if u2.rabbitsFoot == True and u2.rabbitsFootUsed == False and roll > u2.i:
+                print "\t\ttest failed"
+                roll = rollD6()
+                print "\t\t" + u2.name + " owns a rabbit's foot"
+                print "\t\t\tnew test roll: " + str(roll)
+                u2.rabbitsFootUsed = True
+
+            if roll > u2.i:
+                print "\t\ttest failed, " + u2.name + " is dead"
+
+                u2.state = 4
+                u1.causedDead = u1.causedDead + 1
+            else:
+                print "\t\tpassed, not grabbed"
+        
+            return # no more hit to do, the target is dead
+        else:
+            print "\tOther attack is used\n"
+
     if u1.weapon[wn]["offhand"] == True:
         print "\toff hand (" + u1.weapon[wn]["type"] + "):"
     else:
@@ -112,26 +149,38 @@ def attack(u1, u2, wn, first_round = False):
 
     if hit_granted == True:
         # WOUND
-        wound_granted = tryToWound(u1, u2, wn, first_round)
+        # TODO implement tree strike
+        wound_num = 1 # be sure that at least one wound will be rolled
+        if u1.treeStrike == True:
+            print "\t\t" + u1.name + " has skill tree strike"
+            wound_num = rollD6()
+            print "\t\tNumber of wounds (D6): " + str(wound_num) + "\n"
 
-        if wound_granted == True:
-            if u2.pre_state == 1 and wound_granted == True:
-                # we have caused a wound and in the previois state the enemy was already knocked down
-                u2.w = 0
-                u2.state = 3
-                print "\t\twound & ooa"
-                return True
+        for twnum in range(wound_num):
+            # try to wound for every rolled
 
-            # ARMOR SAVE
-            as_granted = tryArmorSave(u1, u2, wn)
+            wound_granted = tryToWound(u1, u2, wn, first_round)
+     
+            if wound_granted == True:
+                if u2.pre_state == 1 and wound_granted == True:
+                    # we have caused a wound and in the previois state the enemy was already knocked down
+                    u2.w = 0
+                    u2.state = 3
+                    print "\t\twound & ooa"
+                    return True
+     
+                # ARMOR SAVE
+                as_granted = tryArmorSave(u1, u2, wn)
+     
+                if as_granted == False:
+                    print "\t\twound"
+     
+                    # INJURY
+                    tryToInjure(u1, u2, wn, u2_w_old)
+                else:
+                    print "\t\tno wound\n"
 
-            if as_granted == False:
-                print "\t\twound"
-
-                # INJURY
-                tryToInjure(u1, u2, wn, u2_w_old)
-            else:
-                print "\t\tno wound"
+            #print "\n"
 
 def tryToHit(u1, u2, wn, first_round = False):
 
@@ -245,7 +294,7 @@ def tryToWound(u1, u2, wn, first_round = False):
             print "\t\tcrit: " + str(roll)
         return True
 
-    print "\t\tno wound"
+    print "\t\tno wound\n"
     return False
 
 def tryArmorSave(u1, u2, wn):
@@ -323,6 +372,8 @@ def tryToInjure(u1, u2, wn, u2_w_old):
         print "\t\t\tinjury roll +1"
 
     doInjuryRoll(u1, u2, wn, injury_addition)
+    print ""
+
     # hier auch die injudies erwurfeln wenn u2.w = 0 ist und der angreifer u1 mehr als eine wunde in dieser runde verursacht hat
     # bedingungen:
     # u2.w == 0
@@ -495,6 +546,8 @@ def getStrState(s):
         return "stn"
     if s == 3:
         return "ooa"
+    if s == 4:
+        return "ded"
 
 @concurrent
 def fightTilOOA(fighters):
@@ -616,6 +669,7 @@ def fightTilOOA(fighters):
                     # summarize the result of the fight
                     ff[0].causedWounds = ff[0].causedWounds + tmp_ff.causedWounds
                     ff[0].causedOOA = ff[0].causedOOA + tmp_ff.causedOOA
+                    ff[0].causedDead = ff[0].causedDead + tmp_ff.causedDead
                     ff[0].state = tmp_ff.state
                     ff[0].w = tmp_ff.w
                     ff[0].i_orig = tmp_ff.i_orig
@@ -624,10 +678,12 @@ def fightTilOOA(fighters):
                     ff[0].luckyCharm = tmp_ff.luckyCharm
                     tmp_tgt.causedWounds = tmp_tgt.causedWounds + tmp_target.causedWounds
                     tmp_tgt.causedOOA = tmp_tgt.causedOOA + tmp_target.causedOOA
+                    tmp_tgt.causedDead = tmp_tgt.causedDead + tmp_target.causedDead
                     tmp_tgt.i_orig = tmp_tgt.i_orig
                     tmp_tgt.i = tmp_tgt.i
                     tmp_tgt.w = tmp_tgt.w
                     tmp_tgt.state = tmp_tgt.state
+                    tmp_tgt.rabbitsFootUsed = tmp_target.rabbitsFootUsed
                     tmp_tgt.luckyCharmUsed = tmp_target.luckyCharmUsed
                     tmp_tgt.luckyCharm = tmp_target.luckyCharm
 
@@ -779,16 +835,20 @@ def fightTilOOA(fighters):
                             # sumamrize the result of the fight
                             ff[0].causedWounds = ff[0].causedWounds + tmp_ff.causedWounds
                             ff[0].causedOOA = ff[0].causedOOA + tmp_ff.causedOOA
+                            ff[0].causedDead = ff[0].causedDead + tmp_ff.causedDead
                             ff[0].state = tmp_ff.state
                             ff[0].i = tmp_ff.i
                             ff[0].i_orig = tmp_ff.i_orig
                             ff[0].w = tmp_ff.w
+                            ff[0].rabbitsFootUsed = tmp_ff.rabbitsFootUsed
                             ff[0].luckyCharmUsed = tmp_ff.luckyCharmUsed
                             ff[0].luckyCharm = tmp_ff.luckyCharm
                             tmp_tgt.causedWounds = target.causedWounds + tmp_target.causedWounds
                             tmp_tgt.causedOOA = target.causedOOA + tmp_target.causedOOA
+                            tmp_tgt.causedDead = target.causedDead + tmp_target.causedDead
                             tmp_tgt.w = tmp_target.w
                             tmp_tgt.state = tmp_target.state
+                            tmp_tgt.rabbitsFootUsed = tmp_target.rabbitsFootUsed
                             tmp_tgt.luckyCharmUsed = tmp_target.luckyCharmUsed
                             tmp_tgt.luckyCharm = tmp_target.luckyCharm
                             tmp_tgt.i = tmp_target.i
@@ -833,6 +893,7 @@ def printStatistic(statistic):
     cnt_ooa = 0
     cnt_cw = 0
     cnt_cooa = 0
+    cnt_cdead = 0
     tmp_stat_attackers = []
     max_run = args.max_tries
     tmp_rounds = 0
@@ -841,7 +902,7 @@ def printStatistic(statistic):
         tmp_rounds = tmp_rounds + s[2]
 
     for j in range(len(attackers)):
-        tmp_stat_attackers.append([ 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ])
+        tmp_stat_attackers.append([ 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ])
 
     for i in range(max_run):
         if statistic[i][1].state == 1:
@@ -850,9 +911,12 @@ def printStatistic(statistic):
           cnt_stn = cnt_stn + 1
         if statistic[i][1].state == 3:
           cnt_ooa = cnt_ooa + 1
+        if statistic[i][1].state == 4:
+          cnt_dead = cnt_dead + 1
 
         cnt_cw = cnt_cw + statistic[i][1].causedWounds
         cnt_cooa = cnt_cooa + statistic[i][1].causedOOA
+        cnt_cdead = cnt_cdead + statistic[i][1].causedDead
 
         for j in range(len(attackers)):
 
@@ -869,19 +933,24 @@ def printStatistic(statistic):
             if statistic[i][0][j].state == 3:
                 tmp_stat_attackers[j][5] = tmp_stat_attackers[j][5] + 1 / (max_run * 1.0) # count ooA
 
+            if statistic[i][0][j].state == 4:
+                tmp_stat_attackers[j][6] = tmp_stat_attackers[j][6] + 1 / (max_run * 1.0) # count dead
+
     #print cnt_cooa
     #print cnt_cw
-    cnt_knd = cnt_knd   / (max_run * 1.0)
-    cnt_stn = cnt_stn   / (max_run * 1.0)
-    cnt_ooa = cnt_ooa   / (max_run * 1.0)
-    cnt_cw = cnt_cw     / (max_run * 1.0)
-    cnt_cooa = cnt_cooa / (max_run * 1.0)
+    cnt_knd = cnt_knd     / (max_run * 1.0)
+    cnt_stn = cnt_stn     / (max_run * 1.0)
+    cnt_ooa = cnt_ooa     / (max_run * 1.0)
+    cnt_cw = cnt_cw       / (max_run * 1.0)
+    cnt_cooa = cnt_cooa   / (max_run * 1.0)
+    cnt_cdead = cnt_cdead / (max_run * 1.0)
 
     enablePrint()
-    sum_state_norm   = 0
-    sum_state_knd    = 0
-    sum_state_stn    = 0
-    sum_state_ooa    = 0
+    sum_state_norm = 0
+    sum_state_knd  = 0
+    sum_state_stn  = 0
+    sum_state_ooa  = 0
+    sum_state_dead = 0
     for j in range(len(attackers)):
 
         print "\n" + attackers[j].name + "\n====="
@@ -891,11 +960,13 @@ def printStatistic(statistic):
         print "state knd    " + str(tmp_stat_attackers[j][3] * 100.0) + " %"
         print "state stn    " + str(tmp_stat_attackers[j][4] * 100.0) + " %"
         print "state ooA    " + str(tmp_stat_attackers[j][5] * 100.0) + " %"
+        print "state dead   " + str(tmp_stat_attackers[j][6] * 100.0) + " %"
 
-        sum_state_norm   = sum_state_norm   + tmp_stat_attackers[j][2] * 100.0
-        sum_state_knd    = sum_state_knd    + tmp_stat_attackers[j][3] * 100.0
-        sum_state_stn    = sum_state_stn    + tmp_stat_attackers[j][4] * 100.0
-        sum_state_ooa    = sum_state_ooa    + tmp_stat_attackers[j][5] * 100.0
+        sum_state_norm = sum_state_norm + tmp_stat_attackers[j][2] * 100.0
+        sum_state_knd  = sum_state_knd  + tmp_stat_attackers[j][3] * 100.0
+        sum_state_stn  = sum_state_stn  + tmp_stat_attackers[j][4] * 100.0
+        sum_state_ooa  = sum_state_ooa  + tmp_stat_attackers[j][5] * 100.0
+        sum_state_dead = sum_state_dead + tmp_stat_attackers[j][6] * 100.0
 
     print "\n=========="
     print "unit count (" + str(len(attackers)) + ") / state per warband"
@@ -903,6 +974,7 @@ def printStatistic(statistic):
     print "knd    " + str(sum_state_knd  / 100.0)
     print "stn    " + str(sum_state_stn  / 100.0)
     print "ooA    " + str(sum_state_ooa  / 100.0)
+    print "dead   " + str(sum_state_dead / 100.0)
 
     print "\n=========="
     print "average rounds " + str(tmp_rounds / (max_run * 1.0))
@@ -913,6 +985,7 @@ def printStatistic(statistic):
     print "OOA in about " + str(cnt_ooa * (100.0)) + " %"
     print "Caused a wound " + str(cnt_cw * 100.0) + " %"
     print "Caused ooA " + str(cnt_cooa * 100.0) + " %"
+    print "Caused dead " + str(cnt_cdead * 100.0) + " %"
     print
 
 # Disable

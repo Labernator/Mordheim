@@ -11,13 +11,15 @@ class Unit:
     a = 3
     i = 1
     i_orig = 0
-    state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
-    pre_state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa
+    state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa, 4 = dead
+    pre_state = 0 # 0 = normal, 1 = knocked down, 2 = stunned, 3 = ooa, 4 = dead
     stunnedMin = 3
     stunnedMax = 4
     causedWounds = 0
     causedOOA = 0
+    causedDead = 0
     toHitAdd = 0
+
     noStrengthSaveMod = False
     skullOfIron = False
     firstRoundToHitAdd = 0
@@ -39,6 +41,10 @@ class Unit:
     doNotUseOffhand = False
     luckyCharm = False
     luckyCharmUsed = False
+    grabIt = False
+    treeStrike = False
+    rabbitsFootUsed = False
+    rabbitsFoot = False
 
     weapon = [
         {
