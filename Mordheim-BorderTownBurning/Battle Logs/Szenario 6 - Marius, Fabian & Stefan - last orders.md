@@ -117,7 +117,7 @@ Trippel 5: 4 Dagger, 1 Sword, 1 war horn + 7gc
 3 Shards, verkaufe alle für 55GC  
 
 *Stefan*  
-4 Shards, doppel 4. Verkaufe 5 Shards für 90  
+4 Shards, doppel 4: 9GC und weniger upkeep. Verkaufe 5 Shards für 90  
 
 
 **Hired Swords Blood Pact:**  
@@ -151,10 +151,19 @@ Kaufe Light Armor für 20 => 0
 
 
 *Stefan*   
-Money Maker Galotta: 6  
-Minstrel Torxes: 9  
+Money Maker Galotta: 6GC  
+Minstrel Torxes: 9GC  
+Verkaufe Superior Blackpowder für 21GC (Pawnbroker)  
+Verkaufe Superior Blackpowder für 20GC (Pawnbroker)  
+Verkaufe 3 Dagger für 6GC (Pawnbroker)  
+In der Kasse vom letzten Mal: 34GC   
+Aus der Exploration: 99 GC  
+ => 195GC  
 
-Kaufe 1 Rabbits Foot  
+Finde 1 Rabbits Foot  
 
 Haggle Skrechu: Rabbits Foot -9 => 6GC  
 Haggle Azaril: Heavy Armour -6 => 44GC 
+Upkeep für 3 Hired Swords: 40GC
+Kaufe Heavy Armour: 50GC  
+ => Noch 55 GC übrig  
