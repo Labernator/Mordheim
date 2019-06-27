@@ -43,7 +43,7 @@ heros:
       skilllists: Strength, Combat
 
     - hero: Indira (Sigmarite Sister) [2XP]
-      stats: M4, WS3, BS3, S3, T3, W1, I4, A1, Ld7
+      stats: M4, WS3, BS3, S3, T3, W1, I4, A1, Ld7, Sv5
       weapons: Sigmarite Warhammer, Dagger, Sling
       armour: Light Armor
       skilllists: Strength, Combat
