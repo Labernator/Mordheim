@@ -2,7 +2,7 @@ warband: Johannas Orphanage (Sisters of Sigmar)
 campaign: 8
 gc: 13
 shards: 0
-equipment: 12x Dagger
+equipment: 5x Dagger
 objective: The Damned Shall Burn 
 alignment: Lawful
 
@@ -25,14 +25,14 @@ heros:
       stats: M4, WS4, BS3, S3, T4, W2, I3, A1, Ld7, Sv4
       weapons: Sigmarite Warhammer, Dagger, Sling
       rules: Wyrdstone Hunter
-      armour: Heavy armor, Helmet
+      armour: Heavy Armor, Helmet
       skilllists: Strength, Academic, Combat, Speed, Special
 
     - hero: Emilia (Sister Superior) [14XP]
       stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld8, Sv5
       weapons: Sigmarite Warhammer, Dagger, Sling
       rules: Fearsome
-      armour: Light armor
+      armour: Light Armour
       skilllists: Strength, Academic, Combat, Speed, Special
 
     - hero: Marie (Novice) [6XP]
@@ -45,13 +45,13 @@ heros:
     - hero: Indira (Sigmarite Sister) [2XP]
       stats: M4, WS3, BS3, S3, T3, W1, I4, A1, Ld7
       weapons: Sigmarite Warhammer, Dagger, Sling
-      armour:
+      armour: Light Armor
       skilllists: Strength, Combat
 
     - hero: Grombald (Dwarf Runesmith Journeyman) [16XP]
       stats: M3, WS4, BS3, S3, T4, W2, I2, A1, Ld10, Sv4
       weapons: Gromril Hammer, Dagger
-      armour: Heavy armour
+      armour: Heavy Armor
       rules: Runesmith, Armour, Armourer, Hate Orcs and Goblins, Hard Head, Hard to Kill
       skilllists: Strength, Combat, Special
       hiredsword: true
@@ -59,7 +59,7 @@ heros:
     - hero: Wilhelm (Expert Marksman) [12XP]
       stats: M4, WS3, BS4, S3, T3, W1, I3, A1, Ld7, Sv5
       weapons: Sword, Dagger, Crossbow
-      armour: Light armour
+      armour: Light Armor
       rules: Dead Eye Shot, Steady Hands
       skilllists: Shooting
       hiredsword: true
