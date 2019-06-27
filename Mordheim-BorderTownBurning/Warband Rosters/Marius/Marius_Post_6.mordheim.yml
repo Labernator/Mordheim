@@ -1,47 +1,54 @@
 warband: Johannas Orphanage (Sisters of Sigmar)
-campaign: 7
-gc: 1
+campaign: 8
+gc: 13
 shards: 0
-equipment: 4x Dagger
+equipment: 12x Dagger
 objective: The Damned Shall Burn 
 alignment: Lawful
 
 heros:
-    - hero: Johanna von Marienburg (Sigmarite Matriarch) [27XP]
+    - hero: Johanna von Marienburg (Sigmarite Matriarch) [28XP]
       stats: M4, WS4, BS4, S3, T3, W1, I4, A1, Ld8, Sv4
       weapons: Dagger, Sling, Sigmarite Warhammer
       armour: Heavy Armor, Helmet, Rosary
-      rules: Leader, Utter Determination, Pray User [Healing Hand], Vision
+      rules: Leader, Utter Determination, Pray User [Healing Hand], Vision, Haggle
       warbandaddition: 5
       skilllists: Strength, Academic, Combat, Speed, Special
 
-    - hero: Theresa (Augur) [7XP]
+    - hero: Theresa (Augur) [8XP]
       stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld7, Sv-
       weapons: Sigmarite Warhammer, Sigmarite Warhammer
-      rules: Blessed Sight, No Armor allowed, Step aside, Two-Weapon Master, Strike to Injure
+      rules: Blessed Sight, No Armor allowed, Step aside, Two-Weapon Master, Strike to Injure, Sprint
       skilllists: Academic, Combat, Speed, Special
 
-    - hero: Rosa (Sister Superior) [16XP]
-      stats: M4, WS4, BS3, S3, T4, W1, I3, A1, Ld7, Sv4
+    - hero: Rosa (Sister Superior) [17XP]
+      stats: M4, WS4, BS3, S3, T4, W2, I3, A1, Ld7, Sv4
       weapons: Sigmarite Warhammer, Dagger, Sling
       rules: Wyrdstone Hunter
       armour: Heavy armor, Helmet
       skilllists: Strength, Academic, Combat, Speed, Special
 
-    - hero: Emilia (Sister Superior) [13XP]
+    - hero: Emilia (Sister Superior) [14XP]
       stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld8, Sv5
       weapons: Sigmarite Warhammer, Dagger, Sling
+      rules: Fearsome
       armour: Light armor
       skilllists: Strength, Academic, Combat, Speed, Special
 
-    - hero: Marie (Novice) [5XP]
-      stats: M4, WS2, BS2, S3, T3, W2, I3, A1, Ld6, Sv4
+    - hero: Marie (Novice) [6XP]
+      stats: M4, WS3, BS2, S3, T3, W2, I3, A1, Ld6, Sv4
       weapons: Sigmarite Warhammer, Dagger, War Horn
       rules: Fearsome
-      armour: Heavy armor
+      armour: Heavy Armor, Helmet 
       skilllists: Strength, Combat
 
-    - hero: Grombald (Dwarf Runesmith Journeyman) [15XP]
+    - hero: Indira (Sigmarite Sister) [2XP]
+      stats: M4, WS3, BS3, S3, T3, W1, I4, A1, Ld7
+      weapons: Sigmarite Warhammer, Dagger, Sling
+      armour:
+      skilllists: Strength, Combat
+
+    - hero: Grombald (Dwarf Runesmith Journeyman) [16XP]
       stats: M3, WS4, BS3, S3, T4, W2, I2, A1, Ld10, Sv4
       weapons: Gromril Hammer, Dagger
       armour: Heavy armour
@@ -49,7 +56,7 @@ heros:
       skilllists: Strength, Combat, Special
       hiredsword: true
       
-    - hero: Wilhelm (Expert Marksman) [11XP]
+    - hero: Wilhelm (Expert Marksman) [12XP]
       stats: M4, WS3, BS4, S3, T3, W1, I3, A1, Ld7, Sv5
       weapons: Sword, Dagger, Crossbow
       armour: Light armour
@@ -58,33 +65,29 @@ heros:
       hiredsword: true
       
 henchmen:
-    - group: Novice Group 1 (2 Novice) [10XP] 
+    - group: Novice Group 1 (2 Novice) [11XP] 
       stats: M4, WS3, BS2, S3, T3, W1, I3, A2, Ld7, Sv-
-      weapons: Steel Whip, Dagger
+      weapons: Dagger, Dagger
 
-    - group: Novice Group 2 (1 Novice) [3XP] 
+    - group: Novice Group 2 (1 Novice) [4XP] 
       stats: M4, WS3, BS2, S3, T3, W1, I3, A1, Ld6, Sv-
       weapons: Steel Whip, Dagger
       
-    - group: Novice Group 3 (3 Novice) [5XP] 
+    - group: Novice Group 3 (3 Novice) [6XP] 
       stats: M4, WS2, BS2, S3, T3, W1, I4, A2, Ld6, Sv-
-      weapons: Dagger, Dagger
+      weapons: Steel Whip, Dagger
 
-    - group: Novice Group 4 (1 Novice) [5XP] 
+    - group: Novice Group 4 (1 Novice) [6XP] 
       stats: M4, WS3, BS2, S3, T3, W1, I3, A1, Ld7, Sv-
       weapons: Steel Whip, Dagger
       
-    - group: Sisters of the Orphanage (1 Sigmarite Sister) [1XP]
-      stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
-      weapons: Dagger, Dagger, Sling
+    - group: Sisters of the Orphanage (1 Sigmarite Sister) [2XP]
+      stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+      weapons: Steel Whip, Dagger, Sling
       
-    - group: Asylum's Daughters (1 Sigmarite Sister) [1XP]
+    - group: Shelter Women (1 Sigmarite Sister) [1XP]
       stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
-      weapons: Dagger, Dagger, Sling
-    
-    - group: Shelter Women (1 Sigmarite Sister) [0XP]
-      stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
-      weapons: Dagger, Dagger, Sling
+      weapons: Steel Whip, Dagger, Sling
     
     
 notes: |
