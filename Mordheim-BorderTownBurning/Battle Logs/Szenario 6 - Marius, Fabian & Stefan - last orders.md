@@ -114,17 +114,18 @@ Sulman +0 (setzt aus)
 Trippel 5: 4 Dagger, 1 Sword, 1 war horn + 7gc
 
 *Fabian*  
-
+3 Shards, verkaufe alle für 55GC  
 
 *Stefan*  
+4 Shards, doppel 4. Verkaufe 5 Shards für 90  
 
 
-**Hired Swords Blood Pact:**
+**Hired Swords Blood Pact:**  
+keine Pakte
 
-Marius: keine Pakte
 
-
-**Henchmen XP:**
+**Henchmen XP:**  
+10  
 
 
 **Trading:**  
@@ -150,8 +151,10 @@ Kaufe Light Armor für 20 => 0
 
 
 *Stefan*   
-Money Maker Galotta:  
-Minstrel Torxes:  
+Money Maker Galotta: 6  
+Minstrel Torxes: 9  
 
-Haggle Skrechu:  
-Haggle Azaril:  
+Kaufe 1 Rabbits Foot  
+
+Haggle Skrechu: Rabbits Foot -9 => 6GC  
+Haggle Azaril: Heavy Armour -6 => 44GC 
