@@ -2,7 +2,7 @@ warband: Orks, Goblins and Squigs (Orks)
 campaign: 17
 gc: 149
 shards: 0
-equipment: Axe, Short bow
+equipment: 6 Dagger, Axe, Short bow
 objective: Scrooge of the realm
 alignment: chaotic
 
@@ -47,7 +47,7 @@ heros:
       skilllists: Strength, Combat
 
     - hero: Rem'Buld (Ork boy) [5XP]
-      stats: M4, WS4, BS3, S3, T5, W1, I2, A1, Ld7, Sv-
+      stats: M4, WS4, BS3, S3, T5, W1, I2, A1, Ld7, Sv6
       weapons: Hand weapon, Dagger
       armour: Toughened leathers
       rules: Animosity
