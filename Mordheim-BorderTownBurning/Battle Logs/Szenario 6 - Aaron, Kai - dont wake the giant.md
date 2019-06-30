@@ -100,16 +100,14 @@ keine hexe für kai!!!
 
 *Kai*  
 
-old warband treasure chest: 19gc
-sell 6 shards: +100gc
-scenario treasure chest: +22gc
-money maker: +8gc
-=> 149gc
+old warband treasure chest: 19gc 
+sell 6 shards: +100gc 
+scenario treasure chest: +22gc 
+money maker: +8gc 
+=> 149gc 
 
-black ork upkeep: -25gc ?
-hrrlak upkeep: -30gc ?
+black ork upkeep: -25gc  
+hrrlak upkeep: -30gc  
 
-summe: -?
-
-=> ?gc übrig
+=> 94gc left  
 

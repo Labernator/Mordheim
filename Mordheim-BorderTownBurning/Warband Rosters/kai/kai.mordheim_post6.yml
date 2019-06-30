@@ -1,8 +1,8 @@
 warband: Orks, Goblins and Squigs (Orks)
 campaign: 17
-gc: 149
+gc: 94
 shards: 0
-equipment: 6 Dagger, Axe, Short bow
+equipment: Hand weapon, 6 Dagger, Short bow
 objective: Scrooge of the realm
 alignment: chaotic
 
@@ -40,7 +40,7 @@ heros:
 
     - hero: Ug'Lash (Ork boy) [8XP]
       stats: M4, WS4, BS3, S3, T4, W2, I4, A1, Ld7, Sv5
-      weapons: Hand weapon, Dagger
+      weapons: Axe, Dagger
       armour: Light armour
       rules: Animosity
       injuries: Old battle wound
@@ -73,11 +73,6 @@ heros:
 
 henchmen:
 
-#    - group: Orange (1 Ork boy) [0XP]
-#      stats: M4, WS3, BS3, S3, T4, W1, I2, A1, Ld7, Sv-
-#      weapons: Hand weapon, Dagger
-#      rules: Animosity
-
     - group: Blau (1 Ork boy) [7XP]
       stats: M4, WS4, BS3, S3, T4, W1, I2, A2, Ld7, Sv6
       weapons: Hand weapon, Dagger
@@ -89,12 +84,17 @@ henchmen:
       weapons: Hand weapon, Dagger
       rules: Animosity
 
-#    - group: Goblins (3 Goblin warrior) [0XP]
+#    - group: Orange (1 Ork boy) [0XP]
+#      stats: M4, WS3, BS3, S3, T4, W1, I2, A0, Ld7, Sv-
+#      weapons: Hand weapon, Dagger
+#      rules: Animosity
+
+#    - group: Goblins (1 Goblin warrior) [0XP]
 #      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld5, Sv-
 #      weapons: Dagger, Dagger
 #      rules: Animosity, Not orks, Runts
 
-#    - group: Squigs (3 Squig) [0XP]
+#    - group: Squigs (1 Squig) [0XP]
 #      stats: M2D6, WS4, BS0, S4, T3, W1, I4, A1, Ld5, Sv-
 #      rules: Movement, Minderz, Not orks, Animals
 
