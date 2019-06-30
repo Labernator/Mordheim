@@ -67,6 +67,7 @@ Folgendes wären meine Vorschläge:
 * Merchant Square: nur 1 Kiste in der Mitte  
 * Night of the Dead: D2 Kisten für den Gewinner, sonst nichts  
 * Round-Up At The Mordheim Corral: 1 Kiste für den Gewinner, sonst nichts  
+* Don't wake the giant: es gibt nur eine Kiste und keinen Beutel.  
 
 ### Vernünftig viel Reward  
 Hier finden sich die mittel lukrativen Szenarios, die ich als Benchmark für Reward genommen habe. Die sind auch nicht alle perfekt balanciert, aber für den ersten Wurf sollte es reichen. An ihnen würde ich nichts ändern:
@@ -76,7 +77,6 @@ Hier finden sich die mittel lukrativen Szenarios, die ich als Benchmark für Rew
 * Traces to Emprise  
 * Unlocking the tomb  
 * Vampire Hunters  
-* Don't wake the giant  
 * The Game  
 * Earthquake  
 * The lost Prince  
