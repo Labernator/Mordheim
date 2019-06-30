@@ -18,7 +18,7 @@ heros:
       skilllists: Combat, Strength, Special
       stats: M4, WS3, BS2, S4, T3, W1, I3, A1, Ld6, Sv-
       weapons: 2x Dagger
-      armour: Toughened Leathers, Chaos Sword, Rabbit's Foot
+      armour: Chaos Sword, Rabbit's Foot
       rules: Money Maker, Fearsome, Grizzled Veteran
 
     - hero: Dimiona von Zorgan (Initiate) [11XP]
