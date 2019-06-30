@@ -64,12 +64,9 @@ Das Szenario wird aus folgender Liste ermittelt:
 - Marius, Kai: Round-Up At The Mordheim Corral (Gale)
 
 5. Szenario Runde:
-- Kai, Fabian, Stefan: The Raven Barracks  
-- Marius, Aaron: Horrors of the Underground  
+- Kai, Fabian, Stefan: The Raven Barracks (normal weather)  
+- Marius, Aaron: Horrors of the Underground (-)  
 
 6. Szenario Runde :
-- Kai, Aaron: Don't wake the giant () 
-- Stefan, Fabian, Marius: () 
-
-## Termine   
-* Sonntag, 02.06.2019 DOPPELTERMIN!
+- Kai, Aaron: Don't wake the giant (Blizzard) 
+- Stefan, Fabian, Marius: Last Orders! (-)  
