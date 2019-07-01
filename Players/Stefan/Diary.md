@@ -561,3 +561,34 @@ Meine aktuelle ToDo Liste nach Absteigender Priorität
  - 20+ CP erreichen bevor Fabian das tut und dann "The Horde Approaches" gegen ihn gewinnen (Kampagne)
 
 Netterweise habe ich bei der letzten Exploration (dank dem +/-1 des Rangers) die drippel 4 getroffen, so dass ich mir das nächste Szenario auswählen darf. Das sollte ein großer Vorteil sein!
+
+## Debriefing BTB Game 6  
+**01.07.2019**  
+Eieieieiei… Das fünfte Spiel… Die Runde stand schon unter keinem guten Stern als Aaron auch einen Mönch in der Exploration-Phase der letzten Runde erwürfelt hat. Und auch direkt den Wurf wer denn Priorität bekommt gewonnen hat. Damit war es dann auch direkt vorbei mit meiner großen Chance meinem Kampagnenziel zumindest minimal näher zu kommen. Schade Schokolade.
+
+Stattdessen hatte ich nur noch die Wahl welches Multiplayer-Szenario ich gegen Fabian und Marius spielen wollte. Im Prinzip gab es für mich die Wahl zwischen Merchant Square (höchster Profit) und Last Orders! (höchste Gewinnchance). Da ich dringend das Szenario wählen können muss um in der Kampagne voran zu kommen habe ich mich dann für die höhere Siegchance entschieden.
+
+Marius hat (nachvollziehbarerweise) direkt gesagt, dass er hier keinen Stich sieht und so war es an Fabian und mir auszuramboen wer die Runde gewinnt. Fabian durfte zuerst aufstellen und platzierte sich direkt taktisch geschickt an den Treppen. Hier müssen wir auch noch was am Szenario schrauben. Die Treppen sind absolut gamebreaking als Chokepoints. Anyway. Ich stellte auch auf und wir schlagen auf uns ein. 
+
+Im Erdgeschoss rastet sein Zentaur völlig aus und schlägt mir zwei Henchmen raus. Mein Pit Fighter Hired Sword hat auch schon keine Wunde mehr. Ich hole mir auch irgendwo zwei leichte Opfer und Fabian bringt seinen Buff-Zauber mit der 6 durch, wodurch sein Gor meinen Oger schon ein bisschen einschüchtert. Ich charge trotzdem (da der Gor die Treppe dicht macht) und mein Oger verliert direkt zwei Wunden und der Gor nur eine. Richtig schlecht. Fabian macht noch Dinge und in meinem Zug muss ich echt hart überlegen.
+
+Der Oger ist immer noch im einigermaßen unvorteilhaften Kampf mit dem Über-Gor. Der Zentaur steht wieder frei. Haffax und Dimiona sind in einem Mexican Standoff im OG gefangen. Wir haben beide zwei Gefallene. Was tun? Wenn ich jetzt route dann minimiere ich meine Toten und stelle sicher, dass der Oger nicht noch stirbt. Reward gibt es ja sowieso keinen. Allerdings habe ich dann weniger Würfel in der Exploration Phase und ich **muss** ja das Szenario wählen können. 
+
+Also alles aggressiv vor gezogen, Augen zu und durch. Der Oger und der Gor tun sich nix und im EG räume ich noch einen Ungor ab. Dann ist Fabian dran und geht voll rein: Zwei Mann in Haffax (Dimiona intercepted einen), Zentaur in den Pit Fighter und ab geht’s. Unverdienterweise würfelt Fabian so schlecht, dass alle Einheiten an meinen einfach zerschellen. Der Oger killt auch noch den Super Gor und so sind das sechs tote Beastmen in einem Spielzug. Das hätte so nicht kommen sollen.  
+
+Ich bin einigermaßen unzufrieden mit meinem Spiel. Klar gewinne ich am Ende hoch, aber ich habe es stellenweise deutlich schlechter gespielt als Fabian. Ich hätte den Standoff im OG viel früher erkennen und auflösen müssen um meine guten Units ins Spiel zu bringen. Ich hätte im DG deutlich aggressiver chargen müssen im ersten Zug. Ich hatte im EG irgendwie überhaupt keinen Plan was ich eigentlich machen will.  
+
+Alles in allem eine schlechte Performance von mir die ich nur durch unglaubliches Pech auf Fabians Seite nicht hart verloren habe. Naja…
+
+Seit der letzten Runde wurde außerdem auch der „Animal Call“-Skill, der Alchemist UND der Dieb aus meiner Liste gebannt. Das ist zwar gerechtfertigt, aber toll fühlt es sich nicht unbedingt an. Und einen sechsten Held habe ich immer noch nicht. Jetzt habe ich sogar zwei erfahrene Henchmen entlassen und durch zwei Neulinge ersetzt. 70GC… puff. Fühlt sich auch einigermaßen verzweifelt an. Dass ich die letzten zwei Siege nur +1 (aus D3) CP bekommen habe und dafür nur mit vier Helden spiele macht das Problem nochmal deutlicher.
+
+Trotz allem bin ich wirklich sehr zufrieden mit dem Stand meiner Warband und jammere auf sehr hohem Niveau. Ich habe gute Hired Swords, extrem gute Heroes und zumindest einige brauchbare Henchmen. Soweit also alles gut.
+
+Meine aktuelle ToDo Liste nach Absteigender Priorität
+ - Das "Chaos Dragon Hunt" Szenario freischalten (Kampagne)  
+ - Den sechsten Hero bekommen (Kampagne)  
+ - Das nächste Szenario gewinnen (CP)  
+ - Besseres Equipment (Warband)  
+ - 20+ CP erreichen bevor Fabian das tut und dann "The Horde Approaches" gegen ihn gewinnen (Kampagne)  
+
+Mal schauen was die nächste Runde bringt um diesen Zielen näher zu kommen. Vor allem, da langsam alle lukratives Szenarios abgegrast sind und nur noch der Bodensatz übrig bleibt =).
