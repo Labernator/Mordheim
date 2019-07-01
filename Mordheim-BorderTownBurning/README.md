@@ -23,7 +23,6 @@ Die verbleibenden zwei oder drei Spieler wiederholen das ganze um das Szenario f
 Das Szenario wird aus folgender Liste ermittelt:  
 
 **2-Player Scenarios**  
-  - Avalanche!  
   - Horrors of the underground (**Runde 5**)  
   - Blockade  
   - Wyrdstone Hunt (**Runde 1**)  
@@ -35,7 +34,6 @@ Das Szenario wird aus folgender Liste ermittelt:
   - Round-Up At The Mordheim Corral (**Runde 4**)
   
 **Multiplayer Scenarios**   
-  - Man Hunt  
   - Last Orders! (**Runde 6**)  
   - The Enemy of my Enemy  
   - The Great Library (**Runde 4**)
