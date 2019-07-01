@@ -109,5 +109,7 @@ money maker: +8gc
 black ork upkeep: -25gc  
 hrrlak upkeep: -30gc  
 
-=> 94gc left  
+hired 1 ork boy + free dagger: -25gc  
+
+=> 69gc left  
 

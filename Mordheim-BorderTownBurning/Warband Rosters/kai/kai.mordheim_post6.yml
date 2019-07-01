@@ -1,8 +1,8 @@
 warband: Orks, Goblins and Squigs (Orks)
 campaign: 17
-gc: 94
+gc: 69
 shards: 0
-equipment: Hand weapon, 6 Dagger, Short bow
+equipment: 6 Dagger, Short bow
 objective: Scrooge of the realm
 alignment: chaotic
 
@@ -84,10 +84,10 @@ henchmen:
       weapons: Hand weapon, Dagger
       rules: Animosity
 
-#    - group: Orange (1 Ork boy) [0XP]
-#      stats: M4, WS3, BS3, S3, T4, W1, I2, A0, Ld7, Sv-
-#      weapons: Hand weapon, Dagger
-#      rules: Animosity
+    - group: Orange (1 Ork boy) [0XP]
+      stats: M4, WS3, BS3, S3, T4, W1, I2, A0, Ld7, Sv-
+      weapons: Hand weapon, Dagger
+      rules: Animosity
 
 #    - group: Goblins (1 Goblin warrior) [0XP]
 #      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld5, Sv-
