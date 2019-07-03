@@ -1,6 +1,6 @@
 warband: Goblins and spiders (Forest Goblins)
 campaign: 0
-gc: 47
+gc: 12
 shards: 0
 equipment: spider poison
 objective: ???
@@ -37,15 +37,15 @@ henchmen:
       armour: 
       rules: Animosity
 
-    - group: Big spider (1 Gigantic spider) [0XP]
+    - group: Kankra (1 Gigantic spider) [0XP]
       stats: M6, WS3, BS0, S5, T5, W3, I4, A2, Ld4, Sv-
       rules: Fear, Large monster, Poisonous, Native, Non-sentient, May ride, Tough
       mount: true
 
-    - group: Shaman spider (1 Giant spider) [0XP]
+    - group: Aragog (1 Giant spider) [0XP]
       stats: M7, WS3, BS0, S3(4), T3, W1, I4, A1, Ld5, Sv+1
       rules: Poisoned attack, Wall walk, No barding, No giant wolves
-      mount: true
+      large: true
 
 notes: |
 
