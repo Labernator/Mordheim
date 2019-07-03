@@ -1,15 +1,15 @@
 warband: Goblins and spiders (Forest Goblins)
 campaign: 0
-gc: 203
+gc: 47
 shards: 0
-equipment: none
+equipment: spider poison
 objective: ???
 alignment: chaotic
 
 heros:
     - hero: Skraag (Chieftain) [17XP]
       stats: M4, WS3, BS4, S3, T3, W1, I4, A1, Ld7, Sv4
-      weapons: Spear, Giant spider
+      weapons: Spear, Blow pipe, Giant spider
       armour: Light armour, Shield
       rules: Leader
       warbandaddition: 0
@@ -21,26 +21,24 @@ heros:
       rules: Magic user, Gaze of Mork
       skilllists: Speed, Academic
 
-#    - hero: Slag (Goblin herder) [5XP]
-#      stats: M4, WS2, BS2, S3, T3, W1, I4, A1, Ld6, Sv-
-#      weapons: Whip, Hammer, Dagger, Giant spider
-#      armour: Light armour, Shield
-#      rules: Animal/Beast handler (Giant spider), Beast finder, Multiplies, Just here for the work
-#      hiredsword: true
-#      skilllists: Speed, Combat
+    - hero: Slag (Goblin herder) [5XP]
+      stats: M4, WS2, BS2, S3, T3, W1, I4, A1, Ld6, Sv-
+      weapons: Whip, Hammer, Dagger
+      armour: Light armour, Shield
+      rules: Animal/Beast handler (Giant spider), Beast finder, Multiplies, Just here for the work
+      hiredsword: true
+      skilllists: Speed, Combat
 
 henchmen:
 
     - group: Red (1 Slugga) [0XP]
       stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
-      weapons: Throwing weapon, 2x Dagger
-      armour:
+      weapons: Throwing weapon, Hand weapon, Dagger
+      armour: 
       rules: Animosity
 
-    - group: Spider (2 Giant spider) [0XP]
+    - group: Spider (3 Giant spider) [0XP]
       stats: M7, WS3, BS0, S3(4), T3, W1, I4, A1, Ld5, Sv+1
-      weapons:
-      armour:
       rules: Poisoned attack, Wall walk, No barding, No giant wolves
       mount: true
 
