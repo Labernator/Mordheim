@@ -1,0 +1,119 @@
+warband: Goblins horde (Forest Goblins)
+campaign: 0
+gc: 9
+shards: 0
+equipment: none
+objective: Scrouge of the realm
+alignment: chaotic
+
+heros:
+    - hero: Skraag (Chieftain) [17XP]
+      stats: M4, WS3, BS4, S3, T3, W1, I4, A1, Ld7, Sv4
+      weapons: Bosspole, Dagger
+      armour: Light armour, Shield
+      rules: Leader
+      warbandaddition: 0
+      skilllists: Shooting, Combat, Speed, Academic
+
+    - hero: Zsnag (Shaman) [6XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I4, A1, Ld6, Sv-
+      weapons: Bosspole, Magic gugginz, Dagger
+      rules: Magic user, Gaze of Mork
+      skilllists: Speed, Academic
+
+henchmen:
+
+    - group: Goblin 01 (1 Forest goblin) [0XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
+      weapons: 2x Dagger
+      rules: Animosity
+
+    - group: Goblin 02 (1 Forest goblin) [0XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
+      weapons: 2x Dagger
+      rules: Animosity
+
+    - group: Goblin 03 (1 Forest goblin) [0XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
+      weapons: 2x Dagger
+      rules: Animosity
+
+    - group: Goblin 04 (1 Forest goblin) [0XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
+      weapons: 2x Dagger
+      rules: Animosity
+
+    - group: Goblin 05 (1 Forest goblin) [0XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
+      weapons: 2x Dagger
+      rules: Animosity
+
+    - group: Goblin 06 (1 Forest goblin) [0XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
+      weapons: 2x Dagger
+      rules: Animosity
+
+    - group: Goblin 07 (1 Forest goblin) [0XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
+      weapons: 2x Dagger
+      rules: Animosity
+
+    - group: Goblin 08 (1 Forest goblin) [0XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
+      weapons: 2x Dagger
+      rules: Animosity
+
+    - group: Goblin 09 (1 Forest goblin) [0XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
+      weapons: 2x Dagger
+      rules: Animosity
+
+    - group: Goblin 10 (1 Forest goblin) [0XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
+      weapons: 2x Dagger
+      rules: Animosity
+
+    - group: Goblin 11 (1 Forest goblin) [0XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
+      weapons: 2x Dagger
+      rules: Animosity
+
+    - group: Goblin 12 (1 Forest goblin) [0XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
+      weapons: 2x Dagger
+      rules: Animosity
+
+    - group: Goblin 13 (1 Forest goblin) [0XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
+      weapons: 2x Dagger
+      rules: Animosity
+
+    - group: Goblin 14 (1 Forest goblin) [0XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
+      weapons: 2x Dagger
+      rules: Animosity
+
+    - group: Goblin 15 (1 Forest goblin) [0XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
+      weapons: 2x Dagger
+      rules: Animosity
+
+    - group: Goblin 16 (1 Forest goblin) [0XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
+      weapons: 2x Dagger
+      rules: Animosity
+
+    - group: Goblin 17 (1 Forest goblin) [0XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
+      weapons: 2x Dagger
+      rules: Animosity
+
+    - group: Goblin 18 (1 Forest goblin) [0XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
+      weapons: 2x Dagger
+      rules: Animosity
+
+notes: |
+
+achievments: |
+        none

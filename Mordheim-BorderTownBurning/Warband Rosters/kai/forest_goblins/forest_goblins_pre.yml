@@ -31,7 +31,7 @@ heros:
 
 henchmen:
 
-    - group: Red (1 Slugga) [0XP]
+    - group: Goblin {Red} (1 Slugga) [0XP]
       stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
       weapons: Throwing weapon, Hand weapon, Dagger
       armour: 
