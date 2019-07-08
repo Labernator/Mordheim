@@ -53,7 +53,7 @@ Runen Marius:
 **Exploration:**  
 *Marius* 
 
-* Aaron *  
+*Aaron*  
 
 *Stefan*  
 
@@ -72,7 +72,7 @@ Azaril (11):
 **Trading:**  
 *Marius*  
 
-*Fabian*  
+*Aaron*  
 
 *Stefan*   
 Money Maker Galotta:  
