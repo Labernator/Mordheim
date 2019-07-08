@@ -15,7 +15,7 @@ Stefan: 287
 
 **Pre-Game Rolls:**  
 Runen Aaron:  
-Runen Marius:  
+Rune Marius:  
 
 **Battle Log:**  
 
@@ -70,7 +70,12 @@ Azaril (11):
 **Henchmen XP:**  
 
 **Trading:**  
-*Marius*  
+*Marius*
+Haggle Johanna:
+Armourer Grombald: 
+Upkeep Grombald: 15 gc
+Upkeep Wilhelm: 15 gc 
+
 
 *Aaron*  
 
