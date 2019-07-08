@@ -49,9 +49,8 @@ heros:
     - hero: Super Toddy (Gor) [6XP]
       stats: M5, WS5, BS3, S3, T4, W1, I4, A1, Ld6, Sv-
       weapons: Club, Club
-      rules: Horned (+1 A on Charge)
+      rules: Horned, Infighting
       armour: T. Leathers
-      rules: Infighting
       skilllists: Combat, Special
 
 henchmen:

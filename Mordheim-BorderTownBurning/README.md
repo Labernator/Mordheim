@@ -23,19 +23,17 @@ Die verbleibenden zwei oder drei Spieler wiederholen das ganze um das Szenario f
 Das Szenario wird aus folgender Liste ermittelt:  
 
 **2-Player Scenarios**  
-  - Avalanche!  
   - Horrors of the underground (**Runde 5**)  
   - Blockade  
   - Wyrdstone Hunt (**Runde 1**)  
   - Traces to Emprise  
   - Tainted Copse (**Runde 3**)  
   - Unlocking the tomb (**Runde 2**)  
-  - Vampire Hunters
+  - Vampire Hunters (**Runde 7**)
   - Don't wake the giant (**Runde 6**)
   - Round-Up At The Mordheim Corral (**Runde 4**)
   
 **Multiplayer Scenarios**   
-  - Man Hunt  
   - Last Orders! (**Runde 6**)  
   - The Enemy of my Enemy  
   - The Great Library (**Runde 4**)
@@ -43,7 +41,7 @@ Das Szenario wird aus folgender Liste ermittelt:
   - Night Of The Dead (**Runde 1**) 
   - The Game (**Runde 2**)
   - Earthquake (**Runde 3**)
-  - Merchant Square  
+  - Merchant Square (**Runde 7**)
   - The lost Prince
   
 ## Game Days  
@@ -64,12 +62,13 @@ Das Szenario wird aus folgender Liste ermittelt:
 - Marius, Kai: Round-Up At The Mordheim Corral (Gale)
 
 5. Szenario Runde:
-- Kai, Fabian, Stefan: The Raven Barracks  
-- Marius, Aaron: Horrors of the Underground  
+- Kai, Fabian, Stefan: The Raven Barracks (normal weather)  
+- Marius, Aaron: Horrors of the Underground (-)  
 
 6. Szenario Runde :
-- Kai, Aaron: Don't wake the giant () 
-- Stefan, Fabian, Marius: () 
+- Kai, Aaron: Don't wake the giant (Blizzard) 
+- Stefan, Fabian, Marius: Last Orders! (-)  
 
-## Termine   
-* Sonntag, 02.06.2019 DOPPELTERMIN!
+7. Szenario Runde :
+- Kai, Fabian: Vampire Hunters (normal Weather) 
+- Stefan, Aaron, Marius: Merchant Square (Tempest)  

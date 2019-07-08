@@ -1,39 +1,45 @@
 warband: The Revolting Dwarfs (Dwarf Rangers)
-campaign: 8
+campaign: 10
 objective: The Lure of Fortune
 alignment: Lawful/Neutral
 achievments: |
   Land Train
+  Silk Trader
 
-gc: 10
-shards: 2
+gc: 44
+shards: 0
 equipment:
 # Choosen Rune: Rune of Striding (+1 Movement), Replacement: 1GC
+# Straggler: Roll +1 dice in the exploration phase and remove an other.
 
 # Max 12 units
+# Racial maximums (Dwarfs):
+# M3, WS7, BS6, S4, T5, W3, I5, A4, Ld10
 heros:
-    - hero: Ragnar (Runesmith) [29XP]
+    - hero: Ragnar (Runesmith) [31XP]
       stats: M3, WS5, BS4, S3, T4, W1, I3, A1, Ld10, Sv-
-      # Racial maximums (Dwarfs):
-      #      M3, WS7, BS6, S4, T5, W3, I5, A4, Ld10
       skilllists: Combat, Shooting, Academic, Strength, Special
-      weapons: Dwarf Axe, Axe
-      armour: Helmet, Heavy Armour
+      weapons: Axe, Axe
+      armour: Helmet, Light Armour, Lucky Charm
       rules: Leader, Blackblood, Expert Axeman
-      # Skill wishlist:
-      # * Two-Weapon Master (ignore -2 to hit for offhand)
       warbandaddition: 5
+      # Skill wishlist:
+      # * Tactician (relocate Warband on start and 12" into the board)
+      # * Two-Weapon Master (ignore -2 to hit for offhand)
+      # * Money Maker (D6+2 GC after battle)
 
-    - hero: Floki (Apprentice Runesmith) [7XP]
+    - hero: Floki (Apprentice Runesmith) [8XP]
       skilllists: Combat, Academic, Strength, Special
       stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld9, Sv-
-      weapons: Dwarf Axe, Dagger
+      weapons: Axe, Dagger
       armour: Helmet, Heavy Armour
-      rules: Extra Set Of Hands, Skilled Driver, Haggle, Fated
+      rules: Extra Set Of Hands, Skilled Driver, Haggle, Fated, Money Maker
+      # Skill wishlist:
+      # ?
 
-    - hero: Bjorn (Troll Slayer) [13XP]
+    - hero: Bjorn (Troll Slayer) [15XP]
       skilllists: Combat, Academic, Strength, Special
-      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld10, Sv-
+      stats: M3, WS5, BS3, S3, T4, W1, I2, A1, Ld10, Sv-
       weapons: Dwarf Axe, Dagger
       armour: Lucky Charm
       rules: Deathwish
@@ -43,10 +49,12 @@ heros:
       # * Berserker (hit it!)
       # * Sweeping Strike (hit it all!)
       # * Tattoos of Grimnir (armour)
+      # * True Grit (1-3 Knocked down, 4-5 Stunned, 6 OOA)
+      # * Thick Skull (3+ Save against stunned)
 
-    - hero: Ivar (Troll Slayer) [19XP]
+    - hero: Ivar (Troll Slayer) [20XP]
       skilllists: Combat, Strength, Special
-      stats: M3, WS5, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
+      stats: M3, WS6, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       weapons: Dwarf Axe, Dwarf Axe
       armour: Lucky Charm
       rules: Deathwish, Two-Weapon Master, Extra Tough
@@ -54,33 +62,36 @@ heros:
       # * Berserker (+1 to hit)
       # * Sweeping Strike (+1 attack for all models in base contact)
       # * Tattoos of Grimnir (6+ ward save, can be stacked)
+      # * True Grit (1-3 Knocked down, 4-5 Stunned, 6 OOA)
+      # * Thick Skull (3+ Save against stunned)
 
 henchmen:
-    - group: Beard Mob (4 Beardling) [11XP]
+    - group: Beard Mob (4 Beardling) [12XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A2, Ld8, Sv-
       weapons: Axe, Dagger
       armour: Helmet
 
-    - group: The Enforcers (3 Beardling) [11XP]
+    - group: The Enforcers (3 Beardling) [12XP]
       stats: M3, WS4, BS2, S3, T4, W1, I3, A2, Ld8, Sv-
-      weapons: Axe, Dagger
-      armour: Light Armour
+      weapons: Dwarf Axe, Dagger
+      armour: Heavy Armour
 
-    - group: Snipers (1 Dwarf Ranger) [1XP]
-      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
-      weapons: Crossbow, Dagger
+    - group: Snipers (1 Dwarf Ranger) [2XP]
+      stats: M3, WS4, BS3, S3, T4, W1, I3, A1, Ld9, Sv-
+      weapons: Crossbow, Axe, Dagger
       armour: Light Armour
 
 # Next stuff to buy:
+# * 4x Pistol for Mob (15 GC) * 4 = 60 GC (Not sure if worth it, because 6" range ...)
 # * Dwarf Axes (main hand) for Mob (15 GC, Rare 8) * 4 = 60 GC
 # * Light armour for Mob (20 GC, common) * 4 = 80 GC
-#
+
 # Long term goal:
 # Wagon (70 GC, Rare 7)
 # Horse (40 GC, Rare 8)
 
 notes: |
-  Inscribe rune before battle ((2x) 2D6 -> 8+ = M+1, 2 = 1GC replacement, no effect
+  Inscribe rune before battle ((2x) 2D6 -> 8+ = M+1, 2 = 1GC replacement, no effect)
   Blackblood (Ragnar) = Anyone in base contact got S3 hit if wounded
   Expert Axeman (Ragnar) = Reroll all failed hits when charging (axe only)
   Hatred on Orcs/Goblins (Reroll missed hit on any fight in first round)

@@ -158,12 +158,13 @@ Verkaufe Superior Blackpowder für 20GC (Pawnbroker)
 Verkaufe 3 Dagger für 6GC (Pawnbroker)  
 In der Kasse vom letzten Mal: 34GC   
 Aus der Exploration: 99 GC  
- => 195GC  
+Verkaufe 2 Dagger (von 2 Mitgliedern der Äxte): 4 GC  
+ => 199GC  
 
 Finde 1 Rabbits Foot  
 
 Haggle Skrechu: Rabbits Foot -9 => 6GC   
 Haggle Azaril: Heavy Armour -6 => 44GC  
 Upkeep für 3 Hired Swords: 40GC  
-Kaufe Heavy Armour: 50GC   
- => Noch 55 GC übrig  
+Kaufe 2 Pit Fighter Henchmen, drücke ihnen zwei Dagger von Mitgliedern der Äxte in die Hand un feuere die Äxte: 70GC   
+ => Noch 39 GC übrig  

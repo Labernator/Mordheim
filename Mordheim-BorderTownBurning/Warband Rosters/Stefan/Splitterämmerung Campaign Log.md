@@ -420,7 +420,7 @@ Arzuch bedeckte seine Augen und spähte Richtung Horizont. "Grünhäute. Und Zie
  - Berserker: +2xp (advance: +1 S)  
  - Torxes: +1xp (advance: Skill - Minstrel)  
  - Leonardo: +1xp (advance: +1 I)  
- - Azaril: +2xp (advance: Skill - Animal Call)  
+ - Azaril: +2xp (advance: Skill - Haggle)  
 
 **Sonstiges:** Ich finde ein Healing Herbs in den random Happenings  
 
@@ -490,7 +490,7 @@ Reward aus dem Szenario 104 GC
 **Azaril Scharlachkraut** (Kislev Ranger, 12 XP): Sword, Dagger, Bow    
 
 
-**Treasure Chest:** 19 GC, 1 Wyrdstone, 2x Superior Blackpowder, 3x Dagger   
+**Treasure Chest:** 34 GC, 1 Wyrdstone, 2x Superior Blackpowder, 3x Dagger   
 **Alignment:** Lawful/Neutral  
 **Objective:** The Celestial Protectorate  
 **Campaign Points:** 11  
@@ -516,3 +516,134 @@ Die Grubenkämpfer starrten in die angegebene Richtung. Sulman war der erste der
 Und tatsächlich, die Chaosanhänger gingen mit unmenschlicher Brutalität aufeinander los. Die Grubenkämpfer sahen dem Gemetzel eine Weile zu, ohne dass eine der beiden Gruppen die Oberhand zu gewinnen schien. "Lasst uns diesem Trauerspiel ein Ende setzen", meinte Dimiona schließlich. Die anderen Kämpfer nickten Stumm und stürmten dann wie ein Mann auf die Chaosanhänger zu.
 
 "Für Cathay", dröhnte es über das Schlachtfeld. Das schien auch die letzten Ziegenmenschen und Orks aus ihrem blindwütigen Blutrausch zu reißen. Grumlok und Ted fingen wild an zu brüllen und gestikulieren und die vormals so furchterregenden Kämpfer wandten sich überstürzt zur Flucht. 
+
+# Kapitel 5: Ein Grubenkämpfer, eine Nonne und ein Ziegenmensch kommen in eine Bar  
+*"Das Gelände kann dein größter Verbündeter im Kampf sein, oder dein schlimmster Feind:"*  
+ - Drittes Strategem des Helme Haffax  
+  
+*"Du und welche Armee???"*  
+ - Ted zu Haffax im Last Hope Inn, bevor Arzuch den Schankraum betrat  
+
+"Dreizehnmal verfluchte Chaos Artefakte!", Sulman starrte Haffax zornig an. "Was sagt der Bethanier dazu?" "Wir finden sie. Wir vernichten sie. Nichts hat sich am Plan geändert.", entgegnete Haffax mit erzwungener Ruhe. "Ha", höhnte Sulman, "nichts hat sich geändert? Außer vielleicht der Tatsache das jetzt die verdammten Chaosgötter im Spiel sind? Vielleicht diese Kleinigkeit?!?" Man sah wie Haffax um Geduld rang: "Ich verstehe dich ja Sulman, aber der Plan ist immer noch gut, also halten wir uns weiter an den Plan." "Dieser Plan verdient nicht mal den Namen. Ein verdammtes niederhöllisches Himmelfahrtskommando mit Ansage ist das!", schrie Sulman und stürmte aus der Grube.
+
+Haffax wollte ihm nacheilen doch Dimiona hielt ihn zurück. "Lass ihn Haffax. Er braucht Zeit das zu schlucken.", sagte sie. "Wir alle brauchen die!" Haffax nickte nachdenklich. "Du hast Recht", entgegnete er. "Wir könnten..." "Trinken und Kämpfen", wurde er von Arzuch unterbrochen. Haffax zog eine Augenbraue hoch und sah den Oger fragend an. "Trinken. Und. Kämpfen!", wiederholte dieser mit grollender Stimme. Die übrigen Grubenkämpfer nickten entschlossen. 
+
+"Dann machen wir das so!", stimmt Haffax zu. Auch ihm würde ein Abend gut tun, an dem er den großen Plan in billigem Bier ertränken konnte. "Kennt ihr eigentlich das Last Hope Inn?"...  
+
+### Schlachtbericht  
+**Szenario/Mitspieler:** Last Orders! mit Marius und Fabian  
+
+**Ergebnis:** Sieg       
+
+**Gefallene Krieger:**  
+Drachngarde (Recovery)  
+Berserker (Recovery)  
+
+**Belohnungen:**   
+keine  
+
+**CP:**  
++1 fürs Teilnehmen  
++1 fürs Gewinnen   
+=> +2  
+
+**Experience:**  
+ - Haffax: +3xp (advance: +1 W)     
+ - Galotta: +1xp (advance: +1 S)    
+ - Dimiona: +2xp (advance: +1 WS)    
+ - Skrechu: +1xp  
+ - Sulman: +0xp  (setzte aus)  
+ - Torxes: +1xp   
+ - Liscom: +3xp (advance: +1 WS)  
+ - Azaril: +1xp   
+ - Legion: +2xp   
+ - Äxte: +1xp   
+ - Drachengarde: +0xp  
+ - Eisenkralle: +2xp (advance: +1 S)    
+ - Horde: +2xp   
+ - Berserker: +0xp   
+ - Arzuch: +2xp   
+
+**Sonstiges:** Ich entlasse zwei Blutige Äxte. Von ihrem Equipment verkaufe ich zwei Dagger und gebe die anderen Zwei an die neu rekrutierten Pit Fighter weiter.    
+
+**Exploration:**  
+4 Wyrdstones: 5 verkaufen für 90 GC (dank Conclave Achievement und doppel 4)  
+Doppel 4: 9GC und Größen Reduktion für die Exploration  
+
+**Trading:**  
+-	Money Maker Galotta: 6GC  
+-	Minstrel Torxes: 9GC  
+-	Verkaufe Superior Blackpowder (Stash) für 21GC (Pawnbroker)  
+-	Verkaufe Superior Blackpowder (Stash) für 20GC (Pawnbroker)  
+-	Verkaufe 5 Dagger (3x Stash, 2x Äxte) für 10GC (Pawnbroker)  
+-	In der Kasse vom letzten Mal: 34GC  
+-	Aus der Exploration: 99 GC   
+=> 199GC  
+
+ - Upkeep Bard (10 GC)  
+ - Upkeep Ranger (15 GC)  
+ - Upkeep Pit Fighter (15 GC)  
+ - 2 Pit Fighter mit je 0 XP (neue Gruppen), Dagger kommen von den Äxten (70 GC)   
+ - 1 Rabbit's Foot (6 GC), dank Haggle von Skrechu   
+ - Heavy Armour für Skrechu (44 GC), dank Haggle von Azaril   
+ => 39 GC übrig  
+
+**Reallocate equipment:**  
+ - Haffax gibt die Healing Herbs und die Heavy Armour an Dimiona ab   
+ - Galotta erhält den Rabbit's Foot  
+ - Legion erhalten Toughened Leathers von Galotta und Dimiona    
+
+### Aktuelles Roster  
+*Heroes*  
+**Helme Haffax** (Pit King, 32 XP): Flail    
+
+**Gaius Cordovan Eslam Galotta** (Initiate, 11 XP): 2x Dagger, Rabbit's Foot  
+
+**Dimiona von Zorgan** (Initiate, 11 XP): Halberd, Heavy Armour  
+
+**Skrechu** (Veteran, 15 XP): Flail, Heavy Armour    
+
+**Sulman al'Venish** (Dwarf Troll Slayer, 18 XP): 2x Dagger  
+
+*Hired Swords*  
+**Torxes von Freigeist** (Bard, 5 XP): Sword, Dagger, Light Armour, Lyre  
+
+**Liscom von Fasar** (Pit Fighter, 20 XP): Morning Star, Spiked Gauntlet, Helmet  
+
+**Azaril Scharlachkraut** (Kislev Ranger, 13 XP): Sword, Dagger, Bow    
+
+*Henchmen*  
+**Unbesiegbare Legion von Yaq-Monnith** (2 Pursuer, 12 XP): Axe, Dagger, Toughened Leathers        
+
+**Blutige Äxte** (1 Pursuer, 6 XP): 2x Dagger  
+
+**Drachengarde** (1 Pursuer, 0 XP): 2x Dagger  
+
+**Eisenkralle** (1 Pursuer, 2 XP): 2x Dagger  
+
+**Horde von Ghumai-Kal** (1 Pit Fighter, 7 XP): 2x Dagger  
+
+**Kholak-Kai** (1 Pit Fighter, 0 XP): 2x Dagger  
+
+**Rote Parder** (1 Pit Fighter, 0 XP): 2x Dagger  
+
+**Berserker des Belhalhar** (1 Pit Fighter, 5 XP): Axe, Dagger  
+
+**Arzuch** (1 Oger, 8 XP): Axe, Dagger, Heavy Armour      
+
+**Treasure Chest:** 39 GC  
+**Alignment:** Lawful/Neutral  
+**Objective:** The Celestial Protectorate  
+**Campaign Points:** 13  
+**Warband Rating:** 287  
+ 
+### Nachspiel  
+*"When the world is too dark and I need the light inside of me*  
+*I'll walk into a bar and drink fifteen pints of beer"*  
+ - Torxes von Freigeist - Streams of Whiskey  
+
+Am nächsten Tag erwacht Haffax mit schwerem Schädel. Eine undefinierte Flüssigkeit verklebte sein rechtes Auge und sein Magen rebellierte vehement gegen den gestrigen Konsum unakzeptabler Mengen Alkohols.
+
+Während er unter dem Tisch hervorkroch ließ er seinen Blick über die restlichen Mitglieder seiner Warband schweifen. Sie lagen verstreut im Schankraum, alle in unterschiedlichen Stadien des Katers. Teilweise nur notdürftig bedeckt in den Armen der Eroberung der letzten Nacht, teilweise besudelt mit eigenem und fremdem Blut. Teilweise beides. Von den Ziegenmenschen war keine Schwanzspitze mehr zu sehen.
+
+Ein Grinsen schlich sich auf Haffax Lippen und er sagte zufrieden zu sich: "Das können wir mal wieder machen!".

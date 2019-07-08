@@ -48,12 +48,6 @@
 16.) Items wie ein Banner werden von einem Hero getragen. Dieser kann im Kampf mit angesagten waffen kämpfen. Banner wird automatisch wieder angelegt. Das Banner wirkt nur im Umkreis von 6“ um den Bannerträger. Wenn der ooA ist wirkt es nicht.  
 
 17.) Der Black Ork Hired Sword (s.236 im PDF) trägt eine heavy armor (4+AS) und ist ein Black Ork (+1AS) daher hat er einen 3+AS
-
-18.) Equipment Listen für Hired Swords:  
- - Beggar: Ugor Liste (Beastmen)  
- - Merchant: Kislevite Hero Liste  
- - Black Orc: Black Orc Hero Liste  
- - Goblin Lantern Bearer: Forest Goblin Liste  
  
 19:) Ist es möglich Objectives (Kisten, Schätze, Wyrdstone, etc.) wieder abzulegen?  
  - Nein, wenn ein Warrior ein Objective aufgepickt hat darf er es nicht mehr freiwillig ablegen. Es wird nur wieder abgelegt,wenn der Warrior ooA geht. Dies soll verhindern, dass Warrior mit extrem hohem Movement Objectives aufpicken, in Sichherheit bringen und dann an andere Warrior übergeben. Außerdem soll es die Manipulatiosnmöglichkeiten von NPCs einschränken.  
@@ -82,9 +76,7 @@ Troll Vomit
 
 25.) Die optionalen Regeln "Reward of the Shadow Lord" (Core S. 292) dürfen benutzt werden. Wenn ein Held ein zweites Mal ein Ergebnis von 9 - 12 würfelt verfällt der Wurf.
 
-26.) Der Satz "Any model other than a Marauder, Beastman, Norseman, Mutant, Dark Elf, Undead or Chaos Dwarf Hero" wird um Magister ergänzt (direkt nach Mutant) (BTB S. 37)
-
-27.) Der Cathayan Merchant (BTB S. 171) und Arabian Merchant (Core S. 234) Goblin Lantern Bearer (S. 243), sowie Beggar (Corse S. 235) werden ersatzlos gestrichen und können nicht angeheuert werden. 
+27.) Der Cathayan Merchant (BTB S. 171) und Arabian Merchant (Core S. 234), Goblin Lantern Bearer (Core S. 243), Thief (Core S. 254), Alchemist (Core S. 270) sowie Beggar (Corse S. 235) werden ersatzlos gestrichen und können nicht angeheuert werden. 
 
 28.) Strength Skill "Strongman" gilt wie gehabt, nur für alle Waffen welche die Eigenschaft "Strike last" besitzen.
 
@@ -93,16 +85,11 @@ Troll Vomit
 30.) Die Augur (Sisters of Sigmar und andere) hat den Skill "Ignore Blind in one Eye". Er kann nicht erblinden, er ist schon blind.
 
 31.) Einheiten können von einem Szenario freiwillig ausgesetzt werden.
-
-32.) Aussetzende Einheiten zählen nicht zum Routtest-Limit in einem Szenario dazu.
-
-33.) Setzt eine Einheit freiwillig oder durch ein spielbedingt negativen Effekt aus die einen UpKeep erfordert, muss dieser trotzdem bezahlt werden.
-
-34.) Aussetzende Einheiten zählen in der Exploration phase normal zur Warband Größe.
-
-35.) Positive wie negative Effekte welche durch Einheiten ausgelöst werden, die aussetzen werden nicht angewendet.
-
-36.) Das Warband-Rating wird nicht neu berechnet wenn Einheiten aussetzen (kein künstlich erzeugter UnderDog-Bonus möglich).
+ - Aussetzende Einheiten zählen nicht zum Routtest-Limit in einem Szenario dazu.
+ - Setzt eine Einheit freiwillig oder durch ein spielbedingt negativen Effekt aus die einen UpKeep erfordert, muss dieser trotzdem bezahlt werden.
+ - Aussetzende Einheiten zählen in der Exploration phase normal zur Warband Größe.
+ - Positive wie negative Effekte welche durch Einheiten ausgelöst werden, die aussetzen werden nicht angewendet.
+ - Das Warband-Rating wird nicht neu berechnet wenn Einheiten aussetzen (kein künstlich erzeugter UnderDog-Bonus möglich).
 
 37.) Jeder Leader einer neutral/chaotic oder chaotic Warband kann, ohne Penality, Chaos Artefakte anlegen und verwenden.
 
@@ -110,20 +97,9 @@ Troll Vomit
 
 39.) Die Warband mit dem Objective "Tilean Merchant Caravan" darf sie in Ihrem Wagen befördern, der Wagen wird nicht stupid und ist nicht verflucht.
 
-40.) Der Text zu Double 6 (Runaway Horse) wird wie folgt geändert:
+40.) Exploration Double 6 (Runaway Horse) Errata: In its saddlebags, you find a rain coat, a net, 2 garlic cloves and 2D6 gold crowns.
 
-ALT: In its saddlebags, you find a rain coat, a net, a 
-couple of garlic cloves and D6 gold crowns. The 
-horse can be kept of course, if the 
-warband can find a use for it.
-
-NEU: In its saddlebags, you find a rain coat, a net, 2 garlic cloves and 2D6 gold crowns.
-
-41.) Serious injuries wie smashed leg, leg wound, hand wound, chest wound, nervous condition, blinded in one eye führen dazu das der betroffene Held vom Roster gestrichen wird wenn er das selbe Injury das zweite mal erhalten würde.
-
-42.) Serious injuries wie smashed leg, leg wound, hand wound, chest wound, nervous condition, blinded in one eye können geheilt werden wenn ein Advance auf die betroffene Stat erwürfelt wurde. Alternativ kann beim erwürfeln eines Skills die Injury gestrichen werden. Wird eine Injury geheilt wird auch die Stat wieder un den zuvor reduzierten Wert angehoben.
-
-43.) Serious injuries wie smashed leg, leg wound, hand wound, chest wound, nervous condition, blinded in one eye führen dazu das auf der betroffenen Stat keine verbesserungen mehr aufaddiert werden können, bis sie geheilt wurden. Siehe 22.
+41.) Serious injuries wie smashed leg, leg wound, hand wound, chest wound, nervous condition, blinded in one eye führen dazu das der betroffene Held vom Roster gestrichen wird wenn er das selbe Injury das zweite mal erhalten würde. Der betroffene Stat kann nicht vrbessert werden bis die Injury geheilt ist. Sie können geheilt werden wenn ein Advance auf die betroffene Stat erwürfelt wurde. Alternativ kann beim erwürfeln eines Skills die Injury gestrichen werden. Wird eine Injury geheilt wird auch die Stat wieder un den zuvor reduzierten Wert angehoben.
 
 44.) Hired Swords können jedes Equipment tragen, dass die Seltenheit "Common" hat. 
 
@@ -131,5 +107,8 @@ NEU: In its saddlebags, you find a rain coat, a net, 2 garlic cloves and 2D6 gol
 
 46.) Der Skill "Animal Call" des Kislev Rangers ist gebannt.
 
-47.) Es können keine Allianzen mit Monstern etc. geschlossen werden.
+47.) Der Skill "Alchemist" ist gebannt
 
+49.) Es können keine Allianzen mit Monstern etc. geschlossen werden.
+
+50.) Map of Cathay Errata: Ergebnis 6 macht nix mhr (Belandysh wurde schon gespawned), Ergebnis 4-5: In der nächsten Runde darf der Spieler mit dr Map auch bei 3-4 das Szenario bestimmen (statt Random). Danach ist die Map verbraucht und verschwindet.
