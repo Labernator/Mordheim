@@ -58,10 +58,9 @@ Rune Marius:
 *Stefan*  
 
 **Hired Swords Blood Pact:**  
-*Marius*  
+*Marius*   
 
-Grombald (11):  
-
+Grombald (11): 
 Wilhelm(12):  
 
 *Stefan*  
