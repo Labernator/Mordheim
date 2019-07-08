@@ -29,7 +29,7 @@ Das Szenario wird aus folgender Liste ermittelt:
   - Traces to Emprise  
   - Tainted Copse (**Runde 3**)  
   - Unlocking the tomb (**Runde 2**)  
-  - Vampire Hunters
+  - Vampire Hunters (**Runde 7**)
   - Don't wake the giant (**Runde 6**)
   - Round-Up At The Mordheim Corral (**Runde 4**)
   
@@ -41,7 +41,7 @@ Das Szenario wird aus folgender Liste ermittelt:
   - Night Of The Dead (**Runde 1**) 
   - The Game (**Runde 2**)
   - Earthquake (**Runde 3**)
-  - Merchant Square  
+  - Merchant Square (**Runde 7**)
   - The lost Prince
   
 ## Game Days  
@@ -68,3 +68,7 @@ Das Szenario wird aus folgender Liste ermittelt:
 6. Szenario Runde :
 - Kai, Aaron: Don't wake the giant (Blizzard) 
 - Stefan, Fabian, Marius: Last Orders! (-)  
+
+7. Szenario Runde :
+- Kai, Fabian: Vampire Hunters (normal Weather) 
+- Stefan, Aaron, Marius: Merchant Square (Tempest)  
