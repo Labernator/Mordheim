@@ -5,6 +5,7 @@ shards: 1
 equipment: 
 objective: The Scion of Chaos
 alignment: chaotic
+active: true
 
 heros:
     - hero: Ted(Beastmen Chieftain) [24XP]

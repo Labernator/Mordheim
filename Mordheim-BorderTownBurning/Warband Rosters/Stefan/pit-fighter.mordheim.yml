@@ -5,6 +5,7 @@ campaign: 13
 gc: 39
 shards: 0
 equipment: 
+active: true
 
 heros:
     - hero: Helme Haffax (Pit King) [32XP]
