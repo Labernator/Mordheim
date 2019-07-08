@@ -61,6 +61,7 @@ Rune Marius:
 *Marius*   
 
 Grombald (11): 
+
 Wilhelm(12):  
 
 *Stefan*  
@@ -71,8 +72,8 @@ Azaril (11):
 **Henchmen XP:**  
 
 **Trading:**  
-*Marius*
-Haggle Johanna:
+*Marius* 
+Haggle Johanna: 
 Armourer Grombald: 
 Upkeep Grombald: 15 gc
 Upkeep Wilhelm: 15 gc 
