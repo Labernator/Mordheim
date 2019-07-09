@@ -1,0 +1,53 @@
+warband: Goblins and spiders (Forest Goblins)
+campaign: 0
+gc: 12
+shards: 0
+equipment: spider poison
+objective: ???
+alignment: chaotic
+
+heros:
+    - hero: Skraag (Chieftain) [17XP]
+      stats: M4, WS3, BS4, S3, T3, W1, I4, A1, Ld7, Sv4
+      weapons: Bosspole, Dagger
+      armour: Light armour, Shield
+      rules: Leader
+      warbandaddition: 0
+      skilllists: Shooting, Combat, Speed, Academic
+
+    - hero: Zsnag (Shaman) [6XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I4, A1, Ld6, Sv-
+      weapons: Bosspole, Magic gugginz, Dagger, Giant spider
+      rules: Magic user, Gaze of Mork
+      skilllists: Speed, Academic
+
+    - hero: Slag (Goblin herder) [5XP]
+      stats: M4, WS2, BS2, S3, T3, W1, I4, A1, Ld6, Sv4
+      weapons: Whip, Hammer, Dagger
+      armour: 
+      rules: Animal/Beast handler (Giant spider), Beast finder, Multiplies, Just here for the work
+      skilllists: Speed, Combat
+      hiredsword: true
+
+henchmen:
+
+    - group: Goblin {Red} (1 Slugga) [0XP]
+      stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld6, Sv-
+      weapons: Throwing weapon, Hand weapon, Dagger
+      armour: 
+      rules: Animosity
+
+    - group: Kankra (1 Gigantic spider) [0XP]
+      stats: M6, WS3, BS0, S5, T5, W3, I4, A2, Ld4, Sv+1
+      rules: Fear, Large monster, Poisonous, Native, Non-sentient, May ride, Tough
+      large: true
+
+    - group: Aragog (1 Giant spider) [0XP]
+      stats: M7, WS3, BS0, S3(4), T3, W1, I4, A1, Ld5, Sv+1
+      rules: Poisoned attack, Wall walk, No barding, No giant wolves
+      mount: true
+
+notes: |
+
+achievments: |
+        none

@@ -1,0 +1,104 @@
+warband: Orks, Goblins and Squigs (Orks)
+campaign: 16
+gc: 19
+shards: 1
+equipment: 6x Dagger, Short bow
+objective: Scrooge of the realm
+alignment: chaotic
+
+heros:
+    - hero: Grumlok & Gazbag (Ork leader) [32XP]
+      stats: M4, WS4, BS4, S4, T4, W1, I4, A2, Ld8, Sv4
+      weapons: Axe, Sword, Rabbit's foot
+      armour: Helmet, Steel Cloth, Light armour, Lucky charm
+      rules: Leader, I am the scougre, Remarkable duellist, Step Aside, Irrepressible Hunger
+      warbandaddition: 5
+      skilllists: Strength, Shooting, Combat, Speed, Special
+
+    - hero: Grommok (Big'Un) [21XP]
+      stats: M4, WS4, BS3, S4, T4, W1, I3, A1, Ld7, Sv5
+      weapons: Axe, Dagger
+      armour: Light armour
+      rules: Money maker
+      skilllists: Strength, Shooting, Combat, Special
+
+    - hero: Karhag (Big'Un) [18XP]
+      stats: M4, WS4, BS3, S3, T3, W1, I3, A2, Ld7, Sv5
+      weapons: Axe, Hand weapon
+      armour: Light armour
+      rules:
+      injuries: Chest wound
+      skilllists: Strength, Shooting, Combat, Special
+
+    - hero: Wogga (Shaman) [17XP]
+      stats: M4, WS4, BS3, S3, T3, W2, I3, A1, Ld7, Sv-
+      weapons: Dagger, Rabbit's foot
+      armour: Lucky charm
+      rules: Clubba, Zzap!, Hardened
+      injuries: Chest wound
+      skilllists: Strength, Special
+
+    - hero: Ug'Lash (Ork boy) [8XP]
+      stats: M4, WS4, BS3, S3, T4, W2, I4, A1, Ld7, Sv6
+      weapons: Hand weapon, Dagger
+      armour: Toughened leather
+      rules: Animosity
+      skilllists: Strength, Combat
+
+    - hero: Rem'Buld {Rog'Rogg} (Ork boy) [4XP]
+      stats: M4, WS4, BS3, S3, T5, W1, I2, A1, Ld7, Sv6
+      weapons: Hand weapon, Dagger
+      armour: Toughened leather
+      rules: Animosity
+      skilllists: Strength, Combat
+
+    - hero: Black Ork (Black Ork) [10XP]
+      stats: M4, WS4, BS3, S4, T4, W1, I2, A1, Ld7, Sv3
+      weapons: Great Axe
+      armour: Heavy armour, Helmet
+      rules: I said shut it'!, Who's da Boss!, Whose Da Man?, Independent, Black Ork
+      skilllists: Strength, Combat, Special
+      hiredsword: true
+
+    - hero: Hrrlak (Ogre Bodyguard) [5XP]
+      stats: M6, WS3, BS2, S4, T4, W3, I3, A2, Ld7, Sv5
+      weapons: Axe, Sword
+      armour: Light armour, Helmet
+      rules: Slow-Witted, Fear, Large Target
+      skilllists: Strength, Combat
+      slowwitted: true
+      hiredsword: true
+      large: true
+
+henchmen:
+
+    - group: Orange (1 Ork boy) [4XP]
+      stats: M4, WS3, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
+      weapons: Hand weapon, Dagger
+      rules: Animosity
+
+    - group: Blau (1 Ork boy) [6XP]
+      stats: M4, WS4, BS3, S3, T4, W1, I2, A2, Ld7, Sv-
+      weapons: Hand weapon, Dagger
+      rules: Animosity
+
+    - group: Pink (1 Ork boy) [2XP]
+      stats: M4, WS3, BS3, S3, T4, W1, I2, A2, Ld7, Sv-
+      weapons: Hand weapon, Dagger
+      rules: Animosity
+
+notes: |
+         - If encounter beastmen: roll D6 "Traces to Chaos" (1-3 nothing happens, 4-5 Leader is frenzy, 6 add 1CP to your warband).
+         - Animosity: 1 charge henchmen/hired sword if the next unit is not a hero, 2-5 do nothing, 6 charge next foe or move 4". Move another 4" in movement phase in enemy direction.
+           Charge if a foe is in charge range.
+         - Lucky charm: D6 4+ first hit discard for Grumlok (on 6 it cant be used anymore after, it breaks)
+         - Grumlok:
+           hates Scion of darknes leader, he has to charge them if in reach
+           4+ stunned save
+           parry on >= hit
+           5+ wound save (no mod)
+         - Rabbits foot: reroll 1 dice during battle or if not ooA in exploration phase, roll D6, on 6 foot is destroyed
+
+achievments: |
+        5CP, 10CP, Leader 30xp, 15CP
+
