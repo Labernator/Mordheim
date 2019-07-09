@@ -1,14 +1,14 @@
 warband: Clubsgiving (Beastmen)
 campaign: 4
-gc: 48
+gc: 93
 shards: 1
-equipment: 
+equipment: Club, Club
 objective: The Scion of Chaos
 alignment: chaotic
 active: true
 
 heros:
-    - hero: Ted(Beastmen Chieftain) [24XP]
+    - hero: Ted(Beastmen Chieftain) [25XP]
       stats: M4, WS4, BS2, S4, T4, W2, I4, A1, Ld7, Sv-
       weapons: Club, Dagger
       armour: Heavy Armour
@@ -18,20 +18,20 @@ heros:
       skilllists: Strength, Combat, Speed, Special
       injuries: Blind in One Eye, Leg Wound
 
-    - hero: Barney (Beastmen Shaman) [15XP]
+    - hero: Barney (Beastmen Shaman) [16XP]
       stats: M5, WS4, BS3, S3, T4, W1, I4, A2, Ld7, Sv-
       weapons: Club, Club
       armour: T. Leathers
       rules: Magic User, Eye of God 6''
       skilllists: Strength, Combat, Speed, Special
 
-    - hero:  Robin(Centigor) [15XP]
+    - hero:  Robin(Centigor) [17XP]
       stats: M8, WS4, BS3, S4, T4, W2, I2, A1, Ld7, Sv-
-      weapons: Club, Club
-      rules: Drunken,Woodland Dwelling, Trample, Quadruped, Sweeping Blow, Cathayan Map (Beylandish)
+      weapons: Halberd
+      rules: Drunken,Woodland Dwelling, Trample, Quadruped, Sweeping Blow, Cathayan Map (Beylandish), Weapons Training
       skilllists: Strength, Combat, Special
 
-    - hero: Marshall (Bestigors) [11XP]
+    - hero: Marshall (Bestigors) [12XP]
       stats: M5, WS4, BS3, S4, T3, W1, I4, A1, Ld7, Sv-
       weapons: Club, Club
       armour: T. Leathers
@@ -39,7 +39,7 @@ heros:
       skilllists: Strength, Combat, Special
       injuries: Chestwound
 
-    - hero: Lilly (Bestigors) [17XP]
+    - hero: Lilly (Bestigors) [18XP]
       stats: M5, WS4, BS3, S4, T3, W1, I4, A2, Ld7, Sv-
       weapons: Halberd
       armour: Light Armour
@@ -53,6 +53,7 @@ heros:
       rules: Horned, Infighting
       armour: T. Leathers
       skilllists: Combat, Special
+      injuries: Old Battlewound
 
 henchmen:
     - group: Toddy (2 Gor) [7XP]

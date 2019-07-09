@@ -149,6 +149,15 @@ Kaufe Light Armor für 20 => 0
 
 *Fabian*  
 
+Verkaufe 3 Shards für 55gc
+Kaufe Halberd 10gc
+Skill Weapons Training für Robin
+
+48 gc in der Kasse
+
+48 + 55 - 10 = 93 gc
+
+Super Toddy würfelt eine 3 ist also nächste runde dabei
 
 *Stefan*   
 Money Maker Galotta: 6GC  
