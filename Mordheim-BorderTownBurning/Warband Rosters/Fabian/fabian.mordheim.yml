@@ -17,6 +17,7 @@ heros:
       hiredsword: false
       skilllists: Strength, Combat, Speed, Special
       injuries: Blind in One Eye, Leg Wound
+      warbandaddition: 5
 
     - hero: Barney (Beastmen Shaman) [16XP]
       stats: M5, WS4, BS3, S3, T4, W1, I4, A2, Ld7, Sv-
@@ -30,6 +31,7 @@ heros:
       weapons: Halberd
       rules: Drunken,Woodland Dwelling, Trample, Quadruped, Sweeping Blow, Cathayan Map (Beylandish), Weapons Training
       skilllists: Strength, Combat, Special
+      warbandaddition: 5
 
     - hero: Marshall (Bestigors) [12XP]
       stats: M5, WS4, BS3, S4, T3, W1, I4, A1, Ld7, Sv-
