@@ -647,3 +647,42 @@ Am nächsten Tag erwacht Haffax mit schwerem Schädel. Eine undefinierte Flüssi
 Während er unter dem Tisch hervorkroch ließ er seinen Blick über die restlichen Mitglieder seiner Warband schweifen. Sie lagen verstreut im Schankraum, alle in unterschiedlichen Stadien des Katers. Teilweise nur notdürftig bedeckt in den Armen der Eroberung der letzten Nacht, teilweise besudelt mit eigenem und fremdem Blut. Teilweise beides. Von den Ziegenmenschen war keine Schwanzspitze mehr zu sehen.
 
 Ein Grinsen schlich sich auf Haffax Lippen und er sagte zufrieden zu sich: "Das können wir mal wieder machen!".
+
+# Kapitel 6: Markttag  
+Als sich die Grubenkämpfer gerade bereit machten um das Last Hope Inn zu verlassen betrat Sulman den Schankraum. "Sulman", rief Galotta erfreut, "bist du wieder dabei?" "Selbstverständlich", antwortete Sulman ruhig. "Ich war nie wirklich weg. Ich brauchte nur Zeit um meine Gedanken zu ordnen." Mit diesen Worten wand er sich an Haffax: "Haffax, so wie es momentan läuft ist es schlecht! Schon unser Kampf gegen das Imperium kam einem Kampf gegen Windmühlen gleich. Aber die Chaos Götter? Wir brauchen einen Plan. Einen echten Plan!" "Wir haben Plan", entgegnete Arzuch überzeugt. "Wir zerstören Artefakte."
+
+"Und wie? Wie genau machen wir das? Und welche Artefakte? Wie viele? Und wo sind sie?", herausfordernd sah Sulman den Oger an. Der Blickte zu Haffax und Haffax sah zu Boden. "Genau das meine ich Haffax", sagte Sulman eindringlich. "Das hier ist kein Tag in der Arena bei dem man kämpft und kämpft und kämpft und irgendwann ist man am Boden oder hat gewonnen. Das hier ist riesig. Und komplex." Haffax nickte langsam. "Was also schlägst du vor Sulman?" 
+
+Erleichtert hob Sulman die Hand. "Erstens", zählte er auf, "brauchen wir mehr Informationen. Reite noch einmal zum Benthanier. Er weiß mehr als er uns sagt und das ist inakzeptabel!" Bei Sulmans Worten hatte sich Haffax Gesichtsausdruck verhärtet. "Wie kommst du dazu das zu behauptet?", fuhr er den Zwerg an. "Ich habe meine Zeit zum Nachdenken genutzt, während ihr euch hier besoffen habt", schnappte Sulman zurück. "War Thrasonius überrascht als du ihm von dem Schwert erzählt hast. Von den Stimmen? Den dunklen Göttern? Hatte er Angst? War er verzweifelt? Hat er geflucht? Das wären nämlich die normalen Reaktionen auf so eine Nachricht gewesen!" Grimmig starrte er Haffax an. Haffax starrte zurück, aber man sah deutlich wie es in seinem Kopf arbeitete.
+
+"Nein", sagte er schließlich mit gefährlicher Ruhe. "Das hat er nicht er. Nichts davon." Seine Augen funkelten vor mühsam unterdrückter Wut. "Verdammt, du hast Recht Sulman!" Kurz aber innig drückte der hünenhafte Grubenkämpfer den Zwerg an sich, dann stürmte er zur Tür. "Ich stelle den Bethanier zur Rede!", rief er im davoneilen. "Ihr hört auf Sulman Kommando!"
+
+Die Grubenkämpfer sahen ihrem Anführer erstaunt hinterher. "Ok", sagt Dimiona nach einem kurzen Moment des Schweigens, "das ist passiert. Was jetzt?" Alle wandten sich Sulman zu. Der Zwerg rieb sich das Kinn und entgegnete. "Ohne weitere Information können wir kaum vernünftige nächste Schritte planen. Aber eines ist klar, was auch immer uns erwartet, wir werden bessere Ausrüstung brauchen!" Die Grubenkämpfer sahen an ihren zerschlissenen Kleidern und schartigen Dolchen herab und nickten zustimmend. Torxes Gesicht hellte sich auf: "Gute Nachricht, Freunde, heute ist Markttag in Wei-jin"
+
+### Schlachtbericht  
+**Szenario/Mitspieler:** The Merchant Square mit Marius und Aaron  
+
+
+**Ergebnis:**        
+
+**Gefallene Krieger:**  
+ 
+
+**Belohnungen:**   
+ 
+
+**CP:**  
+
+
+**Experience:**  
+ 
+
+**Sonstiges:**     
+
+**Exploration:**  
+
+
+**Trading:**  
+
+
+**Reallocate equipment:**  
