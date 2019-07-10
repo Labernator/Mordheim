@@ -112,3 +112,6 @@ Troll Vomit
 49.) Es können keine Allianzen mit Monstern etc. geschlossen werden.
 
 50.) Map of Cathay Errata: Ergebnis 6 macht nix mhr (Belandysh wurde schon gespawned), Ergebnis 4-5: In der nächsten Runde darf der Spieler mit dr Map auch bei 3-4 das Szenario bestimmen (statt Random). Danach ist die Map verbraucht und verschwindet.
+
+51.) Neuer NPC only skill: Treasure guardian - Against shooting and magic attacks, the NPC has a 3+ save, as long as he is on its treasure chamber/area/housing. He will charge any enemy within its chamber/area/housing. He will only leave his chamber/area/housing if there are no treasure chest left.
+
