@@ -20,6 +20,7 @@ class Unit:
     causedDead = 0
     toHitAdd = 0
 
+    attackOnlyOneTarget = True
     noStrengthSaveMod = False
     skullOfIron = False
     firstRoundToHitAdd = 0

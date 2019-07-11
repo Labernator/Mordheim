@@ -625,12 +625,19 @@ def fightTilOOA(fighters):
 
                                   print "\t" + tmp_att[j].name + " St = " + getStrState(tmp_att[j].state) + " off hand attack"
 
-                            foes[k][1] = foes[k][1] + 1
+                            if tmp_tgt.attackOnlyOneTarget == False:
+                                foes[k][1] = foes[k][1] + 1
+                            else:
+                                foes[k][1] = tmp_tgt.a
+                                print foes[k][0] + " " + str(foes[k][1])
+
                             tmp_inc = True
                             break
 
                     if tmp_inc == False: # the attacker is not part of the list which defines the number of attacks
                         foes.append([tmp_att[j], 1])
+                        if tmp_tgt.attackOnlyOneTarget == True:
+                            foes[-1][1] = tmp_tgt.a
                         if tmp_doNotUseOffhand == False:
                             foes[-1][0].doNotUseOffhand = True if random.randint(0,1) else False
                             tmp_doNotUseOffhand = True
@@ -639,6 +646,10 @@ def fightTilOOA(fighters):
                                 tmp_tgt.weapon[1]["offhand"] == True):
 
                               print "\t" + tmp_att[j].name + " St = " + getStrState(tmp_att[j].state) + " off hand attack"
+
+                    if tmp_tgt.attackOnlyOneTarget == True:
+                        print "All attacks to one enemy"
+                        break
 
                 for ff in foes:
                     # generate a new temporary attacker unit object
@@ -758,7 +769,7 @@ def fightTilOOA(fighters):
                         foes = []
                         tmp_doNotUseOffhand = False
                         for i in range(f.a):
-                            j = random.randint(0, len(tmp_att)-1)
+                            j = random.randint(0, len(tmp_att)-1) # select an enemy
                             l = 0
                             while (tmp_att[j].state > 0 and l < 50) or tmp_att[j].cantBeAttacked == True:
                                 j = random.randint(0, len(tmp_att)-1)
@@ -791,12 +802,18 @@ def fightTilOOA(fighters):
                                             tmp_tgt.weapon[1]["offhand"] == True):
                                           print "\t" + tmp_att[j].name + " St = " + getStrState(tmp_att[j].state) + " off hand attack"
 
-                                    foes[k][1] = foes[k][1] + 1
+                                    if tmp_tgt.attackOnlyOneTarget == False:
+                                        foes[k][1] = foes[k][1] + 1 # increase the number of attacs for this enemy
+                                    else:
+                                        foes[k][1] = f.a # all attacks to one enemy
+                                        print foes[k][0] + " " + str(foes[k][1])
                                     tmp_inc = True
                                     break
 
                             if tmp_inc == False:
                                 foes.append([tmp_att[j], 1])
+                                if tmp_tgt.attackOnlyOneTarget == True:
+                                    foes[-1][1] = tmp_tgt.a
                                 if tmp_doNotUseOffhand == False:
                                     foes[-1][0].doNotUseOffhand = True if random.randint(0,1) else False
                                     tmp_doNotUseOffhand = True
@@ -804,6 +821,11 @@ def fightTilOOA(fighters):
                                        (len(tmp_tgt.weapon) > 1 and \
                                         tmp_tgt.weapon[1]["offhand"] == True):
                                       print "\t" + tmp_att[j].name + " St = " + getStrState(tmp_att[j].state) + " off hand attack"
+
+
+                            if tmp_tgt.attackOnlyOneTarget == True:
+                                print "All attacks to one enemy"
+                                break
 
                         for ff in foes:
                             # generate a new temporary attacker unit object
