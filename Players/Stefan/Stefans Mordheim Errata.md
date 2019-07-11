@@ -30,6 +30,11 @@ Dieser Skill sorgt im Alleingang dafür, dass Warbands mit Ld < 9 nicht mehr mit
 Academic Skills sind sowieso schon sehr gut darin Gold zu generieren, siehe Haggle & Pawnbroker. Während die beiden aber noch einen überschaubaren Betrag liefen klotzt der Alchemist Skill gleich so richtig rein. Bis zu 75GC in pro Runde! Und auch hier wieder eine absurde Varianz. Der Durchschnittsertrag des besten Skills (Fire Bombs) ist schlappe fünf Mal so hoch wie der des Schlechtesten (Glue Bombs). Auch das ist kein Zeichen für eine gut balancierte Fähigkeit.  
 **=> bannen und das entsprechende Townsfolk gleich mit**  
 
+### Academic Skill: "Wyrdstone Hunter"  
+Bester Academic Skill. Rerolls in der Exploration sind sehr mächtig. Wyrdstone hunter zu spammen ist sehr mächtig. 
+**=> entweder bannen oder auf einen Helden beschränken **  
+
+
 ### Combat Skill: "Whip Master"  
 Der Skill funktioniert ganz ähnlich wie Expert Axe-/Swordsman. Mit einer kleinen Einschränkung: Er gilt immer. Rerolls sind extrem effektiv und Whips generell eher bessere Waffen (wegen der extra Attacken). Jeden to-hit Wurf wiederholen zu dürfen erscheint mit krass viel stärker als vergleichbare Skills. Es ist damit vermutlich der beste Combat Skill mit größerem Abstand. Das kaum jemand Zugriff auf vernünftige (!) Whips hat (die kein Stärke Malus haben) macht es nicht gerechter.  
 **=> Rerolls nur on the charge, analog zu Expert Axe-/Swordsman**  
