@@ -1,5 +1,5 @@
 @echo off
-del warband-roaster.pdf
+del warband-roaster_20.pdf
 set TMP_DIR=%cd%
 echo %TMP_DIR%
 set GOPATH=c:\users\klaute\Dropbox\Privat\Mordheim\Bastelbrothers\toolheim\
