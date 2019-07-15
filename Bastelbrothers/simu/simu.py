@@ -913,6 +913,7 @@ def printStatistic(statistic):
     cnt_knd = 0
     cnt_stn = 0
     cnt_ooa = 0
+    cnt_dead = 0
     cnt_cw = 0
     cnt_cooa = 0
     cnt_cdead = 0
