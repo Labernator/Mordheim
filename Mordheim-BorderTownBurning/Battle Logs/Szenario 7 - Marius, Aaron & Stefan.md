@@ -66,6 +66,7 @@ Laber routet
 
 **Rewards:**  
 *Marius*   
+-
 
 *Aaron*
 -
@@ -74,6 +75,12 @@ Laber routet
 
 **Experience:**  
 *Marius*   
+Alle Helden +1
+Novice group 1 +1
+Novice group 3 +1
+Novice group 4 +1
+Shelter Women +1 => lvl up: +1 Strength 
+Daughters of the orphanage +1
 
 *Aaron* 
 Alle +1, Ragnar levelup (Skill)
@@ -106,9 +113,6 @@ Azaril (11):
 **Trading:**  
 *Marius* 
 Haggle Johanna: 
-Armourer Grombald: 
-Upkeep Grombald: 15 gc
-Upkeep Wilhelm: 15 gc 
 
 
 *Aaron*  
