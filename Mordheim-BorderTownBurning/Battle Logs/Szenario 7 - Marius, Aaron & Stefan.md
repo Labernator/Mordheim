@@ -14,10 +14,11 @@ Stefan: 287
 **Underdog:** kein Underdog Bonus   
 
 **Pre-Game Rolls:**  
-Runen Aaron:  
-Rune Marius:  
+Runen Aaron: beide klappen  
+Rune Marius: klappt nicht  
 
 **Battle Log:**  
+Stefan durchsucht Haus  
 
 **Injuries:**  
 *Marius*  
