@@ -19,6 +19,23 @@ Rune Marius: klappt nicht
 
 **Battle Log:**  
 Stefan durchsucht Haus  
+Liscom killt Björn  
+Pegasus killt Arzuch  
+Liscom killt Floki  
+Legion killt Ivar  
+Dimiona killt Enforcer  
+Legion killt Mob  
+Aaron routet  
+Pegasus killt Drachengarde  
+Pegasus killt Berserker  
+Dimiona killt Novice 1  
+Liscom killt Novice 1  
+Legion killt Grombald  
+Legion killt Novice 3  
+Dimiona killt Wilhelm  
+Legion killt Novice 2  
+Emilia killt Liscom  
+Laber routet  
 
 **Injuries:**  
 *Marius*  
