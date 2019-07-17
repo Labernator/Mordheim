@@ -38,9 +38,19 @@ Emilia killt Liscom
 Laber routet  
 
 **Injuries:**  
-*Marius*  
+*Marius*
+* Novice Group 1 (2x): 1 survives, 1 dead :(
+* Novice Group 2: dead :(
+* Novice Group 3: dead :(
+* Grombald: dead :(
+* Wilhelm: dead :(
 
-*Aaron*  
+*Aaron*
+* Ivar: -1T
+* Brørn: Horrible Scar (+Fearsome)
+* Floki: Hardened (+Immune to fear)
+* Enforcer: survives
+* Mob: survives
 
 *Stefan*  
 
@@ -57,14 +67,16 @@ Laber routet
 **Rewards:**  
 *Marius*   
 
-*Aaron*   
+*Aaron*
+-
 
 *Stefan*   
 
 **Experience:**  
 *Marius*   
 
-*Aaron*   
+*Aaron* 
+Alle +1, Ragnar levelup (Skill)
 
 *Stefan*   
 
@@ -72,6 +84,7 @@ Laber routet
 *Marius* 
 
 *Aaron*  
+* 4 WS, sell all for 60 ("Straggler" was useless)
 
 *Stefan*  
 
@@ -87,7 +100,8 @@ Torxes (11):
 Liscom (12):  
 Azaril (11):  
 
-**Henchmen XP:**  
+**Henchmen XP:** 
+7
 
 **Trading:**  
 *Marius* 
