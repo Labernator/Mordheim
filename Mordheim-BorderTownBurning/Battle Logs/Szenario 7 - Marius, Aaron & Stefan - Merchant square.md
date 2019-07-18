@@ -157,7 +157,7 @@ Kaufe 2 shelter women:
 Aus Exploration: 60 GC
 Money Maker Galotta: 6 GC  
 Minstrel Torxes: 13 GC   
-Verkaufe 4 Dagger (2x Arzuch, Kholak-Kai, Parder) mit Pawnbroker 4GC
+Verkaufe 3 Dagger (Arzuch, Kholak-Kai, Parder) mit Pawnbroker 6GC
 verkaufe die beiden Nets für 10 GC (dank Pawnbroker)  
 Verkaufe die sechs Repeater Crossbows mit Pawnbroker:  
 28 GC  
@@ -166,18 +166,19 @@ Verkaufe die sechs Repeater Crossbows mit Pawnbroker:
 27 GC  
 24 GC  
 28 GC  
-=> 289 GC  
+=> 287 GC  
 
 Finde 3 Rabbit's Foot
 
 Haggle Skrechu: 10 (Rabbit's Foot kostet noch 5 GC)   
 Haggle Azaril: 6 (Rabbit's Foot kostet noch 9 GC)  
 Kaufe Rabbit's Foot: 15 GC  
-Kaufe Toughened Leathers: 5 GC  
-Kaufe 2x Axe: 10 GC  
+Kaufe Toughened Leathers (Legion): 5 GC  
+Kaufe Heavy Armour (Haffax): 50 GC  
+Kaufe 3x Axe (Legion, Kholak-Kai, Parder): 15 GC  
 Upkeep Torxes: 10 GC  
 Rebuy Liscom: 30 GC  
 Upkeep Azaril: 15 GC  
-=> 99 GC  
+=> 154 GC  
 
-=> 190 GC übrig  
+=> 133 GC übrig  
