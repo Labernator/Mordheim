@@ -157,7 +157,7 @@ Kaufe 2 shelter women:
 Aus Exploration: 60 GC
 Money Maker Galotta: 6 GC  
 Minstrel Torxes: 13 GC   
-Verkaufe 3 Dagger (Arzuch, Kholak-Kai, Parder) mit Pawnbroker 6GC
+Verkaufe 5 Dagger (Arzuch, Kholak-Kai, Parder, 2x Äxte) mit Pawnbroker 10GC
 verkaufe die beiden Nets für 10 GC (dank Pawnbroker)  
 Verkaufe die sechs Repeater Crossbows mit Pawnbroker:  
 28 GC  
@@ -166,7 +166,7 @@ Verkaufe die sechs Repeater Crossbows mit Pawnbroker:
 27 GC  
 24 GC  
 28 GC  
-=> 287 GC  
+=> 291 GC  
 
 Finde 3 Rabbit's Foot
 
@@ -181,4 +181,4 @@ Rebuy Liscom: 30 GC
 Upkeep Azaril: 15 GC  
 => 154 GC  
 
-=> 133 GC übrig  
+=> 137 GC übrig  
