@@ -1,79 +1,76 @@
 warband: Splitterdämmerung (Pit Fighter)
 alignment: Lawful/Neutral
 objective: The Celestial Protectorate
-campaign: 13
-gc: 39
+campaign: 17
+gc: 140
 shards: 0
 equipment: 
 active: true
 
 heros:
     - hero: Helme Haffax (Pit King) [32XP]
-      stats: M4, WS4, BS3, S4, T4, W2, I4, A2, Ld8, Sv-
+      stats: M4, WS4, BS3, S4, T4, W2, I4, A2, Ld8, Sv4+
       skilllists: Combat, Academic, Strength, Speed, Special
       weapons: Flail
-      rules: MISSES NEXT GAME, Leader, Pit Fighter, Resilient, Bulging Biceps
+	  armour: Heavy Armour, Healing Herbs, Rabbit's Foot
+      rules: Leader, Pit Fighter, Resilient, Bulging Biceps
       warbandaddition: 5
 
-    - hero: Gaius Cordovan Eslam Galotta (Initiate) [11XP]
+    - hero: Gaius Cordovan Eslam Galotta (Initiate) [12XP]
       skilllists: Combat, Strength, Special
       stats: M4, WS3, BS2, S4, T3, W1, I3, A1, Ld6, Sv-
       weapons: 2x Dagger
       armour: Chaos Sword, Rabbit's Foot
       rules: Money Maker, Fearsome, Grizzled Veteran
 
-    - hero: Dimiona von Zorgan (Initiate) [11XP]
+    - hero: Dimiona von Zorgan (Initiate) [15XP]
       skilllists: Combat, Strength, Special
       stats: M4, WS3, BS2, S4, T3, W1, I4, A3, Ld6, Sv4+
-      weapons: Halberd
-      armour: Heavy Armour, Healing Herbs
+      weapons: Gromril Flail
+      armour: Heavy Armour, Rabbit's Foot
+	  rules: Bulging Biceps
 
-    - hero: Skrechu (Veteran) [15XP]
+    - hero: Skrechu (Veteran) [16XP]
       skilllists: Combat, Strength, Special
       stats: M4, WS4, BS3, S3, T3, W1, I4, A1, Ld7, Sv4+
       weapons: Flail
-      armour: Heavy Armour
+      armour: Heavy Armour, Rabbit's Foot
       rules: Pit Fighter, Resilient, Bulging Biceps, Haggle, Pawnbroker
 
-    - hero: Sulman al'Venish (Dwarf Troll Slayer) [18XP]
+    - hero: Sulman al'Venish (Dwarf Troll Slayer) [20XP]
       skilllists: Combat, Academic, Strength, Speed, Special
-      stats: M3, WS5, BS3, S3, T4, W1, I3, A1, Ld9, Sv-
+      stats: M3, WS5, BS3, S3, T4, W1, I3, A2, Ld9, Sv-
       weapons: 2x Dagger
-      rules: Pit Fighter, Hard to Kill, Hard Head, Hate Greenskins, Grudgebearer, Death Wish, Resilient
+      rules: MISSES NEXT GAME, Pit Fighter, Hard to Kill, Hard Head, Hate Greenskins, Grudgebearer, Death Wish, Resilient
 
-    - hero: Torxes von Freigeist (Bard) [5XP]
+    - hero: Torxes von Freigeist (Bard) [7XP]
       skilllists: Academic, Speed, Special
-      stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv5+
+      stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld8, Sv5+
       weapons: Sword, Dagger
       armour: Light Armour, Lyre
       rules: Musician, Songster, Minstrel
       hiredsword: true
       
-    - hero: Liscom von Fasar (Pit Fighter) [20XP]
+    - hero: Liscom von Fasar (Pit Fighter) [17XP]
       skilllists: Combat, Strength, Speed, Special
-      stats: M4, WS5, BS3, S4, T4, W1, I4, A2, Ld7, Sv-
+      stats: M4, WS4, BS3, S4, T4, W1, I4, A2, Ld7, Sv-
       weapons: Morning Star, Spiked Gauntlet
       armour: Helmet
       hiredsword: true
       
-    - hero: Azaril Scharlachkraut (Kislev Ranger) [13XP]
+    - hero: Azaril Scharlachkraut (Kislev Ranger) [14XP]
       skilllists: Combat, Shooting, Academic, Strength, Speed, Special
       stats: M4, WS3, BS4, S3, T3, W1, I4, A1, Ld7, Sv-
       weapons: Bow, Sword, Dagger
       armour: Hunter's Cloak
-      rules: Heart Strike, Loner, Seeker, Haggle
+      rules: Heart Strike, Loner, Seeker, Haggle, Far Sight: Foretold
       hiredsword: true
 
 henchmen:
-    - group: Unbesiegbare Legion von Yaq~Monnith (2 Pursuer) [12XP]
-      stats: M4, WS3, BS3, S4, T3, W1, I4, A2, Ld7, Sv6+
+    - group: Unbesiegbare Legion von Yaq~Monnith (3 Pursuer) [15XP]
+      stats: M4, WS4, BS3, S4, T3, W1, I4, A2, Ld7, Sv6+
       weapons: Axe, Dagger
       armour: Toughened Leathers
-      rules: Pit Fighter
-      
-    - group: Blutige Äxte (1 Pursuer) [6XP]
-      stats: M4, WS4, BS4, S3, T3, W1, I3, A1, Ld7, Sv-
-      weapons: 2x Dagger
       rules: Pit Fighter
       
     - group: Drachengarde (1 Pursuer) [0XP]
@@ -81,24 +78,24 @@ henchmen:
       weapons: 2x Dagger
       rules: Pit Fighter
       
-    - group: Eisenkralle (1 Pursuer) [2XP]
+    - group: Eisenkralle (1 Pursuer) [3XP]
       stats: M4, WS3, BS3, S4, T3, W1, I3, A1, Ld7, Sv-
       weapons: 2x Dagger
       rules: Pit Fighter
 
-    - group: Horde von Ghumai-Kal (1 Pit Fighter) [7XP]
+    - group: Horde von Ghumai-Kal (1 Pit Fighter) [8XP]
       stats: M4, WS5, BS3, S3, T3, W1, I4, A1, Ld7, Sv-
       weapons: 2x Dagger
       rules: Pit Fighter, Arms Master
 
-    - group: Kholak-Kai (1 Pit Fighter) [0XP]
-      stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
-      weapons: 2x Dagger
+    - group: Kholak-Kai (1 Pit Fighter) [2XP]
+      stats: M4, WS4, BS3, S4, T3, W1, I3, A1, Ld7, Sv-
+      weapons: Axe, Dagger
       rules: Pit Fighter, Arms Master
 
-    - group: Rote Parder (1 Pit Fighter) [0XP]
-      stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
-      weapons: 2x Dagger
+    - group: Rote Parder (1 Pit Fighter) [2XP]
+      stats: M4, WS4, BS3, S4, T3, W1, I3, A1, Ld7, Sv-
+      weapons: Axe, Dagger
       rules: Pit Fighter, Arms Master
 
     - group: Berserker des Belhalhar (1 Pit Fighter) [5XP]
@@ -108,14 +105,15 @@ henchmen:
 
     - group: Arzuch (1 Ogre Pit Fighter) [8XP]
       stats: M6, WS3, BS2, S4, T4, W3, I4, A2, Ld7, Sv4+
-      weapons: Axe, Dagger
+      weapons: Halberd
       armour: Heavy Armour
       rules: Pit Fighter, Fear, Large, Slow Witted, Tough
       large: true
       slowwitted: true
+	  injuries: Old Battle Wound
       
 
 achievments: |
   Zealous Belief: The warband's leader hates Grumlok & Ted. He must charge them when they are in reach.
   Conclave: After a scenario in the Cathayan borderlands the warband counts as one size category smaller.
-notes:
+  Reinforcements
