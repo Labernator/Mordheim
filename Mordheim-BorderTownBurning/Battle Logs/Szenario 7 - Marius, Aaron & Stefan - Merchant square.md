@@ -74,14 +74,14 @@ Kholak-Kai Kiste
 
 **Rewards:**  
 *Marius*   
--
+
 
 *Aaron*
--
+
 
 *Stefan*   
 Haus: 2 Nets  
-Crates: 6 Repeater Crossbows + Gromril Weapon meiner Equipment Liste.  
+Crates: 6 Repeater Crossbows + Gromril Weapon meiner Equipment Liste: Gromril Flail  
 
 **Experience:**  
 *Marius*   
@@ -96,6 +96,22 @@ Daughters of the orphanage +1
 Alle +1, Ragnar levelup (Skill)
 
 *Stefan*   
+Haffax +0 (aussetzen)  
+Galotta +1 (survive)  
+Dimiona + 4 (survive + kills): advance Skill (Bulging Biceps)   
+Skrechu +1 (survive)  
+Sulman +2 (survive + leader): advance +1A  
+Torxes +2 (survive + crate): advance +1Ld   
+Azaril +1 (survive): advance Skill (Far Sight: Foretold)  
+Legion +6 (survive + kills): gedeckelt bei 15XP, advance +1WS  
+Äxte +1 (survive)  
+Drachengarde +0 (ooA)   
+Eisenkralle +1 (survive)   
+Horde +1 (survive)   
+Kholak-Kai +2 (survive + crate): advance +1S  
+Parder +2 (survive + crate): advance +1S  
+Berserker +0 (ooA)   
+Arzuch +0 (ooA)  
 
 **Exploration:**  
 *Marius* 
