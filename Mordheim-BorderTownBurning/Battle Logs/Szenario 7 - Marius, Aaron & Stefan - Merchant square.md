@@ -36,6 +36,9 @@ Dimiona killt Wilhelm
 Legion killt Novice 2  
 Emilia killt Liscom  
 Laber routet  
+Parder Kiste  
+Torxes Kiste  
+Kholak-Kai Kiste  
 
 **Injuries:**  
 *Marius*
@@ -53,6 +56,10 @@ Laber routet
 * Mob: survives
 
 *Stefan*  
+* Drachengarde: recovery  
+* Berserker: recovery  
+* Liscom: dead  
+* Arzuch: Old Battle Wound  
 
 **Campagne Points:**  
 *Marius*  
@@ -63,6 +70,7 @@ Laber routet
 
 *Stefan*  
 +1 für Teilnahme  
++3 fürs Gewinnen (Sulman setzt aus)  
 
 **Rewards:**  
 *Marius*   
@@ -72,6 +80,8 @@ Laber routet
 -
 
 *Stefan*   
+Haus: 2 Nets  
+Crates: 6 Repeater Crossbows + Gromril Weapon meiner Equipment Liste.  
 
 **Experience:**  
 *Marius*   
