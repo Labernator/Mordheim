@@ -63,7 +63,7 @@ heros:
       stats: M4, WS3, BS4, S3, T3, W1, I4, A1, Ld7, Sv-
       weapons: Bow, Sword, Dagger
       armour: Hunter's Cloak
-      rules: Heart Strike, Loner, Seeker, Haggle, Far Sight: Foretold
+      rules: Heart Strike, Loner, Seeker, Haggle, Far Sight - Foretold
       hiredsword: true
 
 henchmen:
