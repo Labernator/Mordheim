@@ -67,7 +67,7 @@ heros:
       hiredsword: true
 
 henchmen:
-    - group: Unbesiegbare Legion von Yaq~Monnith (3 Pursuer) [15XP]
+    - group: Unbesiegbare Legion von Yaq~Monnith (3 Pursuer) [14XP]
       stats: M4, WS4, BS3, S4, T3, W1, I4, A2, Ld7, Sv6+
       weapons: Axe, Dagger
       armour: Toughened Leathers
