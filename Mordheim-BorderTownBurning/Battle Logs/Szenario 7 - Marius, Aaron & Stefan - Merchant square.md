@@ -85,12 +85,12 @@ Crates: 6 Repeater Crossbows + Gromril Weapon meiner Equipment Liste: Gromril Fl
 
 **Experience:**  
 *Marius*   
-Alle Helden +1
-Novice group 1 +1
-Novice group 3 +1
-Novice group 4 +1
-Shelter Women +1 => lvl up: +1 Strength 
-Daughters of the orphanage +1
+Alle Helden +1  
+Novice group 1 +1  
+Novice group 3 +1  
+Novice group 4 +1  
+Shelter Women +1 => lvl up: +1 Strength   
+Daughters of the orphanage +1  
 
 *Aaron* 
 Alle +1, Ragnar levelup (Skill)
@@ -130,15 +130,13 @@ Arzuch +0 (ooA)
 * 4 WS, sell all for 60 ("Straggler" was useless)
 
 *Stefan*  
+3 WS und 222: Neuer Henchmen wird Mitglied der Legion, dafür wird das letzte Mitglied der Äxte entlassen.  
+Verkaufe 3 WS für 60GC (dank Conclave)  
 
 **Hired Swords Blood Pact:**  
-*Marius*   
--
-
 *Stefan*  
-Torxes (11):  
-Liscom (12):  
-Azaril (11):  
+Torxes (11): -   
+Azaril (11): -  
 
 **Henchmen XP:** 
 7
@@ -155,11 +153,22 @@ Kaufe 2 shelter women:
 *Aaron*  
 
 *Stefan*   
-Money Maker Galotta:  
-Minstrel Torxes:   
+Money Maker Galotta: 6 GC  
+Minstrel Torxes: 13 GC   
+verkaufe die beiden Nets für 10 GC (dank Pawnbroker)  
+Verkaufe die sechs Repeater Crossbows mit Pawnbroker:  
+28 GC  
+22 GC  
+24 GC  
+27 GC  
+24 GC  
+28 GC  
 
-Haggle Skrechu:   
-Haggle Azaril:   
+Finde 3 Rabbit's Foot
+
+Haggle Skrechu: 10 (Rabbit's Foot kostet noch 5 GC)   
+Haggle Azaril: 6 (Rabbit's Foot kostet noch 9 GC)  
+Kaufe Rabbit's Foot: 15 GC  
 Upkeep Torxes: 10 GC  
-Upkeep Liscom: 15 GC  
+Rebuy Liscom: 30 GC  
 Upkeep Azaril: 15 GC  
