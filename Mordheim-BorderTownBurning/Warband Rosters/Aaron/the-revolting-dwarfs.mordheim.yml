@@ -7,7 +7,7 @@ achievments: |
   Land Train
   Silk Trader
 
-gc: 84
+gc: 78
 shards: 0
 equipment:
 # Choosen Rune: Rune of Striding (+1 Movement), Replacement: 1GC
@@ -78,7 +78,7 @@ henchmen:
     - group: Snipers (1 Dwarf Ranger) [3XP]
       stats: M3, WS4, BS3, S3, T4, W1, I3, A1, Ld9, Sv-
       weapons: Crossbow, Axe, Dagger
-      armour: Light Armour
+      armour: Light Armour, Lucky Charm
 
 # Next stuff to buy:
 # * Dwarf Axes (main hand) for Mob (15 GC, Rare 8) * 4 = 60 GC
@@ -102,4 +102,5 @@ notes: |
   Use Bow as much as possible (Range 24", S3)
   Incomarable Miners (+1 Wyrdstone at the end (roll for 4 heros))
   Haggle = -2D6 GC from a item on buy, 1x per post battle sequence
+  Money Maker = + D6+2 GC
   Tactician = Relocate Warband on start and 12" into the board
