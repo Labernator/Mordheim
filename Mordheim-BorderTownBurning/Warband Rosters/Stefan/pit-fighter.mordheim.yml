@@ -12,7 +12,7 @@ heros:
       stats: M4, WS4, BS3, S4, T4, W2, I4, A2, Ld8, Sv4+
       skilllists: Combat, Academic, Strength, Speed, Special
       weapons: Flail
-	  armour: Heavy Armour, Healing Herbs, Rabbit's Foot
+      armour: Heavy Armour, Healing Herbs, Rabbit's Foot
       rules: Leader, Pit Fighter, Resilient, Bulging Biceps
       warbandaddition: 5
 
@@ -28,7 +28,7 @@ heros:
       stats: M4, WS3, BS2, S4, T3, W1, I4, A3, Ld6, Sv4+
       weapons: Gromril Flail
       armour: Heavy Armour, Rabbit's Foot
-	  rules: Bulging Biceps
+      rules: Bulging Biceps
 
     - hero: Skrechu (Veteran) [16XP]
       skilllists: Combat, Strength, Special
@@ -110,7 +110,7 @@ henchmen:
       rules: Pit Fighter, Fear, Large, Slow Witted, Tough
       large: true
       slowwitted: true
-	  injuries: Old Battle Wound
+      injuries: Old Battle Wound
       
 
 achievments: |
