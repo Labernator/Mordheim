@@ -90,6 +90,16 @@ Alle +1, Ragnar levelup (Skill)
 **Exploration:**  
 *Marius* 
 
+5 ws
+7 gc 
+2 Dagger
+1 Sword
+1 War Horn 
+
+=> sell 5 WS für 80 gc
+=> 87 gc
+
+
 *Aaron*  
 * 4 WS, sell all for 60 ("Straggler" was useless)
 
@@ -97,10 +107,7 @@ Alle +1, Ragnar levelup (Skill)
 
 **Hired Swords Blood Pact:**  
 *Marius*   
-
-Grombald (11): 
-
-Wilhelm(12):  
+-
 
 *Stefan*  
 Torxes (11):  
@@ -112,8 +119,12 @@ Azaril (11):
 
 **Trading:**  
 *Marius* 
-Haggle Johanna: 
+Haggle Johanna: 9 (whip) 
 
+87 gc 
+Kaufe 2 shelter women:
+25gc + 4 gc (XP) + 10gc (whip) + 2gc (sling) = 41 gc ° 2 = 82 gc - 9 für Haggle => 73 gc
+=> 14gc
 
 *Aaron*  
 
