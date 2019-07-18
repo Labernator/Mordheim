@@ -1,10 +1,9 @@
-P
 Hier mal die sehr subjektive Bewertung meiner Warband (Dwarf Rangers) aus den
 nun vergangenen 7 Spielen. Ich bin kein pro-gamer und habe zugegebermaßen nicht
 exzessiv viel Zeit investiert, dennoch habe ich einige Beobachtungen und
 Erfahrungen gesammelt, die ich hier mal zusammentragen will.
 
-# Vorteile:
+# Vorteile
 
 * Zwerge sind schon extrem tough (alles T4). Das hat mir in den ersten Spielen
   einen extremen Vorteil verschafft, da ich so nur sehr schwer OOA genommen
@@ -21,7 +20,7 @@ Erfahrungen gesammelt, die ich hier mal zusammentragen will.
   lieber, doch mit den Zwergen habee ich mich denke ich ganz gut angefreundet.
 
 
-# Nachteile:
+# Nachteile
 
 * Die Warband kann maximal 12 Einheiten aufnehmen. Es gibt den Trick mit dem
   Halfling Cook, der das Limit um 1 erhöht. Das hebt das Rout Limit von 3 auf 4.
@@ -106,13 +105,13 @@ Erfahrungen gesammelt, die ich hier mal zusammentragen will.
   Oh und dazu kommt die lächerliche Initiative von durchgehende 2. An klettern
   zu denken, geschweige denn irgend wo herunterfallen ist erst gar keine Option.
 
-# Strategien:
+# Strategien
 
 Natürlich habe ich nicht nur mimimi zu berichten. Ich habe mir auch einige
 Gedanken gemacht, wie ich die meiner Meinung nach größten Probleme ausgleichen
 kann.
 
-## Wenig Einheiten:
+## Wenig Einheiten
 
   Wie schon oben geschrieben, kann mit dem Halfling Cook die max. 12 Units auf
   13 erhöht werden. Allerdings ist der Koch ne Lusche und muss gut ausgerüstet
@@ -185,7 +184,7 @@ kann.
     machbar. Das verschafft etwas Zeit um nachzurücken oder sich strategisch
     umzupositionieren.
 
-# Fehler:
+# Fehler
 
 * Warband aufsplitten. Diesen Fehler mache ich leider ständig, sonst wird das
   Spiel für mich zu langweilig.
