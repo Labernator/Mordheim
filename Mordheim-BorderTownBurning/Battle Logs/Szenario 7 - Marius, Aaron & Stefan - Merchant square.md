@@ -127,7 +127,7 @@ Arzuch +0 (ooA)
 
 
 *Aaron*  
-* 4 WS, sell all for 60 ("Straggler" was useless)
+* 2 WS, sell all for 45 ("Straggler" was useless)
 
 *Stefan*  
 3 WS und 222: Neuer Henchmen wird Mitglied der Legion, dafür wird das letzte Mitglied der Äxte entlassen.  
