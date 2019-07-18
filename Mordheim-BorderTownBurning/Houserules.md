@@ -59,8 +59,8 @@
 
 22.) Troll comp:
 
-M WSBS S T W I A Ld
-6 3 1 5 4 3 1 3 4
+M WS BS S T W I A Ld
+6 3  1  5 4 3 1 3 4
 
 Fear: Trolls are huge, bellowing monsters and cause fear. See Psychology section for details. 
 Stupidity:...   
