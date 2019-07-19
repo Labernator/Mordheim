@@ -107,7 +107,8 @@ orange: +1
 
 *Kai*  
 
-7d6=30 => 5 wyrdstone + dragon monk
+7d6=30 => 5 wyrdstone + double 5
+Statue: +Axe + Lucky charm
 
 Moneymaker:
 grommok: 2+2
