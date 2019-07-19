@@ -13,22 +13,52 @@ Kai: 208
 **Underdog:** kein Underdog Bonus   
 
 **Pre-Game Rolls:**  
-Kai - Traces of chaos: 
+Kai - Traces of chaos: 3 -> nothing happens
+Ug'Lash old battle wound: 5 -> spielt mit
 
 **Battle Log:**  
 
+Fabian sucht seine Seite vom Spielfeld aus
+Fabian stellt als erstes auf
+
+Fabian random happening: Maddened Sow, keine Regel trifft auf Eine Einheit zu
+
+Gruppe dagger findet Vampir (+1XP)
+
+Old vampire kills Super toddy
+
+Old vampire kills Beastmen shaman
+
+Old vampire kills Toddy group
+
+Centigor kills old Vampire (+1XP)
+
+Centigor nimmt Kiste auf (+1XP)
+
+Ork blau kills Lilly
+
+Fabian routet freiwillig
+
+Kai gewinnt +1CP
 
 
 ---
 
-Alten Vampir gefunden:  
-Alten Vampir ooA gesetzt: 
-Tresure chest erhalten:  
+Alten Vampir gefunden: gruppe dagger
+Alten Vampir ooA gesetzt: centigor
+Tresure chest erhalten: centigor
 
 **Injuries:**  
 *Fabian*  
 
+dagger: tot
+super toddy: tot
+beastygor: Bling in one eye BS-1
+shamane: full recovery
+
 *Kai*  
+
+keine
 
 **Campagne Points:**  
 *Fabian*  
@@ -36,30 +66,59 @@ Tresure chest erhalten:
 
 *Kai*  
 +1 für Teilnahme  
++1 gewinner
 
 **Rewards:**  
 *Fabian*   
 
+d6=5 => d6=2 => the golden comb
+
 *Kai*   
+
+nix
 
 **Experience:**  
 *Fabian*   
 
-*Kai*   
+boss: +1  
+centigor: +1 +1 +1 adcance: +1T  
+beastigor marshal (4): +1 advance: +1A
+gruppe toddy: +1
+gruppe bobby: +1
+gruppe lobby: +1
+gruppe dagger: +1
+
+*Kai*  
+
+grumlok: +1 +1 advande: +1Ld
+Grommok: +1
+Karhag: +1 advance: skill - Heal chest wound
+Ug'Lash: +1
+Rem'Buld: +1 advance: skill - moneymaker
+Hrrlak: +1 advance: skill - step aside
+blau: +1 +1 advance: +1BS
+pink: +1 
+orange: +1
 
 **Exploration:**  
 *Fabian* 
 
+3d6=8 => 2 wyrdstone
+
 *Kai*  
 
+7d6=30 => 5 wyrdstone + dragon monk
+
 Moneymaker:
+grommok: 2+2
+rem'buld: 2+2
 
 **Hired Swords Blood Pact:**  
 *Fabian*   
 
 *Kai*  
-Ogre (12):  
-Black Orc (11):  
+Ogre (11): nein  
+Black Orc (11): nein  
 
 **Henchmen XP:**  
 
@@ -67,6 +126,11 @@ Black Orc (11):
 *Fabian*   
 
 *Kai* 
+
+sell 5 wyrdstone: +80gc
+
 Upkeep Ogre: 30 gc
 Upkeep Black orc: 5 gc 
+
+Keine Hexe für Kai
 
