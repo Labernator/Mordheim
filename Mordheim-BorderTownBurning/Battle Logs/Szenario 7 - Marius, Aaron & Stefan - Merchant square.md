@@ -149,6 +149,9 @@ Haggle Johanna: 9 (whip)
 Kaufe 2 shelter women:
 25gc + 4 gc (XP) + 10gc (whip) + 2gc (sling) = 41 gc ° 2 = 82 gc - 9 für Haggle => 73 gc
 => 14gc
+Verkaufe Sword und war horn für 20gc => 34gc
+Heure einen neuen expert marksman an für 30
+=> 4gc übrig
 
 *Aaron*  
 
