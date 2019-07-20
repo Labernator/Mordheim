@@ -86,17 +86,19 @@ beastigor marshal (4): +1 advance: +1A
 gruppe toddy: +1
 gruppe bobby: +1
 gruppe lobby: +1
-gruppe dagger: +1
+gruppe dagger: +1 +1 advance: 
 
 *Kai*  
 
 grumlok: +1 +1 advande: +1Ld
 Grommok: +1
 Karhag: +1 advance: skill - Heal chest wound
+wogga: +1
 Ug'Lash: +1
 Rem'Buld: +1 advance: skill - moneymaker
 Hrrlak: +1 advance: skill - step aside
-blau: +1 +1 advance: +1BS
+Black Orc: +1
+blau: +1 +1 advance: +1WS
 pink: +1 
 orange: +1
 
