@@ -57,15 +57,31 @@ Klar muss man die Szenarien dann am besten Gewinnen oder zumindest ordentlich ob
 Als kleines Rechenexempel hat Cz in 6 Szenarien bisher 890gc eingenommen (Summe der Einnahmen minus Minstrel und Money Maker 64gc)
 Ich habe mit einem Szenario mehr bisher 640gc eingenommen.
 Die Differenz von 250 gc sind zb. 5! Heavy Armors.
-Davon kann man sehr viele Hired swords bezahlen.
+Davon kann man alternativ sehr viele Hired swords bezahlen.
+
+Hier muss sich etwas ändern. Vorschläge sind bei Stefan im Git. 
 
 4.	Hired Swords
 Ich brauche mehr Hired Swords die das Kämpfen übernehmen.
-Neben dem Expert Marksman werde ich mir einen PitFighter kaufen. Und Dann mal sehen wer sonst noch S4 hat
+Neben dem Expert Marksman werde ich mir einen PitFighter kaufen. 
+Und Dann mal sehen wer sonst noch S4 hat. 
+Mehr Fernkämpfer wären auch gut. 
 
 5.	Advances
-XP ist offensichtlich super gut. Aber wenn aus den Advances dann nichts wid
+XP ist offensichtlich super gut. 
+Aber wenn aus den Advances dann nichts gutes erwürfelt hat man ein echtes Problem. 
+Es ist sehr frustrierend wenn man die ersten 5 henchmen advances LD und ini bekommt und zusieht wie es beim Gegner Attacken und Strength ist. 
 
 6.	Strategie
-Bisher wollte ich meine Helden zu Kampfmaschinen hochleveln. Das dauert leider viel zu lange…
+
+Bisher wollte ich meine Helden zu Kampfmaschinen hochleveln. 
+Das dauert leider viel zu lange…
+Also werde ich sie nun zu Geld Druckern umrüsten und mir hired Swords kaufen die die drecksarbeit erledigen. 
+
+7. Taktik 
+
+Ich muss meine Taktik komplett überdenken. 
+Da ich mich nicht Boxen kann, muss ich nun maximal avoidance spielen und mit meinen Slings arbeiten. 
+Das ist zwar kein guter Plan weil die Slings echt schlecht sind aber ich habe keinen anderen. 
+Ich bin tatsächlich komplett ratlos wie ich spiele gegen Aaron oder Stefan gewinnen soll. 
 
