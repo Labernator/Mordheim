@@ -38,6 +38,7 @@ Ich habe das power gaming nicht strikt genug durchgezogen. Ich wollte mal hier w
 Richtig ist:
 a.	Nächster Skill geht in Pawnbroker. Dieser Skill macht schnell aus 20 GC die man für eine triple 5 bekommt 40. Das ist ein Haufen Geld. Bei so mancher Kiste ist es sogar deutlich mehr. In der nächsten Kampagne ist dieser Skill sicher gecompt, so dass man Ihn wie Haggle nur einmal benutzen darf, aber bis dahin ist er ein absolutes Muss und ein Autoinclude.
 „Shame on me!“ Dass ich ich ihn nicht früher genommen habe.
+Er macht einfach jede gute Exploration /reward Phase zu einer sehr guten 
 b.	Wyrdstone Hunter Spam. Ich habe Ihn bisher einmal genommen, weil er offensichtlich sehr gut ist. Nun werde Ich Ihn auf jeden Helden packen der Ihn nehmen kann.
 Re-rolls in der Exploration sind hinreichend bescheuert. Definitiv ein Kandidat für ein Banning in der nächsten Kampagne. Bis dahin: The more the merrier! 
 c.	Kislevit Ranger/ Elfen Ranger für den +1/-1 modifier in der Exploration. Für mich auch ein absolutes Autoinclude. Der Effekt ist einfach sehr mächtig (nicht ganz so gut wie der reroll vom Wyrdstone Hunter)
@@ -67,21 +68,40 @@ Neben dem Expert Marksman werde ich mir einen PitFighter kaufen.
 Und Dann mal sehen wer sonst noch S4 hat. 
 Mehr Fernkämpfer wären auch gut. 
 
+Voraussetzung ist dass ich genug Geld generiere. 
+
+Problem ist dass ich bisher schon 100gc in hired Swords gesteckt habe (ohne upkeep) und nun ohne einen da stehe 
 5.	Advances
 XP ist offensichtlich super gut. 
 Aber wenn aus den Advances dann nichts gutes erwürfelt hat man ein echtes Problem. 
 Es ist sehr frustrierend wenn man die ersten 5 henchmen advances LD und ini bekommt und zusieht wie es beim Gegner Attacken und Strength ist. 
+
+Ich brauche mehr s4 Typen und mehr Attacken 
 
 6.	Strategie
 
 Bisher wollte ich meine Helden zu Kampfmaschinen hochleveln. 
 Das dauert leider viel zu lange…
 Also werde ich sie nun zu Geld Druckern umrüsten und mir hired Swords kaufen die die drecksarbeit erledigen. 
+Meine henchmen werden alle auf sisters umgebaut damit ich keine novicen mehr dutchfüttern muss
+
+Rüstungen sind mist. Gegen Stefan sind rüstungen mittlerweile irrelevant. Alles hat s4/s5 und dann noch Äxte etc. Da ist eine heavy Armor dirrkt 6+.
+Schade dass ich soviel Geld investiert habe 
 
 7. Taktik 
 
 Ich muss meine Taktik komplett überdenken. 
 Da ich mich nicht Boxen kann, muss ich nun maximal avoidance spielen und mit meinen Slings arbeiten. 
 Das ist zwar kein guter Plan weil die Slings echt schlecht sind aber ich habe keinen anderen. 
-Ich bin tatsächlich komplett ratlos wie ich spiele gegen Aaron oder Stefan gewinnen soll. 
+Ich bin tatsächlich komplett ratlos wie ich Spiele gegen Aaron oder Stefan gewinnen soll. 
+Wahrscheinlich muss ich hier einfach die Niederlage so gering wie möglich halten. 
 
+Ich habe in den letzten beiden Spielen 2 schwere Fehler gemacht. 
+Beide aus dem selben Grund : ich dachte ich kann mit Masse gegen Klasse gewinnen. Nun weiß ich, dass ich das nicht kann. 
+2:1 Überzahl ist wertlos wenn die eigenen units Müll sind. 
+
+Gegen Aaron hätte ich einfach in meinem Gang weiter suchen müssen und ihn ignorieren. Wenn er in meine Richtung rollt muss ich henchmen feeden und dann routen. Gewinnen kann ich nicht. 
+Gegen Stefan hätte ich alles zusammenhalten müssen und dann genug henchmen opfern dass ich routen darf. 
+Evtl. hätte der marksman noch einen getötet 
+
+Das klingt jetzt sicher übertrieben und schwarzmalerisch aber ich rechne mir nur noch Chancen gegen Kai aus. Und gegen Fabian weil der nicht würfeln kann ;) 
