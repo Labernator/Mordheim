@@ -131,10 +131,17 @@ Black Orc (11): nein
 
 *Kai* 
 
-sell 5 wyrdstone: +80gc  
+treasure chest before: 69 gc  
 
-Upkeep Ogre: 30 gc  
-Upkeep Black orc: 25 gc  
+sell 5 wyrdstone: +80 gc  
+
+Upkeep Ogre: -30 gc  
+Upkeep Black orc: -25 gc  
+
+Buy 3x crossbow (3x25gc): -75 gc  
 
 Keine Hexe für Kai  
 
+Keine rare items gefunden  
+
+treasure chest new: 27 gc  
