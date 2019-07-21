@@ -90,10 +90,10 @@ gruppe dagger: +1 +1 advance:
 
 *Kai*  
 
-grumlok: +1 +1 advande: +1Ld  
+Grumlok: +1 +1 advance: +1Ld  
 Grommok: +1  
 Karhag: +1 advance: skill - Heal chest wound  
-wogga: +1  
+Wogga: +1  
 Ug'Lash: +1  
 Rem'Buld: +1 advance: skill - moneymaker  
 Hrrlak: +1 advance: skill - step aside  
