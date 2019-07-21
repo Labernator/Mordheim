@@ -72,3 +72,10 @@ Das Szenario wird aus folgender Liste ermittelt:
 7. Szenario Runde :
 - Kai, Fabian: Vampire Hunters (normal Weather) 
 - Stefan, Aaron, Marius: Merchant Square (Tempest)  
+
+## Kampagnenfortschritt 
+1. Kai (19) 
+2. Stefan (17) 
+3. Aaron (11) 
+4. Marius (9) 
+5. Fabian (5) 
