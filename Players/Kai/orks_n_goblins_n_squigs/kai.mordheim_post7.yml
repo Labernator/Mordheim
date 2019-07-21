@@ -1,6 +1,6 @@
 warband: Orks, Goblins and Squigs (Orks)
 campaign: 19
-gc: 27
+gc: 7
 shards: 0
 equipment: 6 Dagger, Short bow, Hand weapon
 objective: Scrooge of the realm
@@ -28,6 +28,7 @@ heros:
       armour: Light armour, Lucky charm
       rules:
       injuries:
+      # chestwound healed after scenario 7
       skilllists: Strength, Shooting, Combat, Special
 
     - hero: Wogga (Shaman) [19XP]
@@ -40,7 +41,7 @@ heros:
 
     - hero: Ug'Lash (Ork boy) [9XP]
       stats: M4, WS4, BS3, S3, T4, W2, I4, A1, Ld7, Sv5
-      weapons: Axe, Dagger
+      weapons: Axe, Dagger, Bow
       armour: Light armour, Lucky charm
       rules: Animosity
       injuries: Old battle wound
@@ -48,8 +49,8 @@ heros:
 
     - hero: Rem'Buld (Ork boy) [6XP]
       stats: M4, WS4, BS3, S3, T5, W1, I2, A1, Ld7, Sv6
-      weapons: Axe, Dagger
-      armour: Toughened leathers, Lucky charm
+      weapons: Axe, Dagger, Bow 
+      armour: Toughened leathers
       rules: Animosity, Moneymaker
       skilllists: Strength, Combat
 

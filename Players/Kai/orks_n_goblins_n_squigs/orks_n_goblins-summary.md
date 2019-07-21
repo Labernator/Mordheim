@@ -188,13 +188,13 @@ Und er bekommt auf halber Rate XP und zudem kann er Strength und Combat Skills l
 
 ### Witch
 
-Weiterhin halte ich die Witch noch durchaus für brauchbar.
+Weiterhin halte ich die Witch durchaus für brauchbar.
 Sie kann Academic Skills lernen, kommt mit zwei zufälligen Zaubersprüchen die die Warband gut supporten können.
 Und sie erzeugt vor dem Start eines Szenario eine Potion, mit zufälligem positiven Effekt, für einen Helden.
 Leider sind Ihre Spells ebenso wie Ihr verhalten sehr defensiv. Sie kann keinen Spell lernen der Schafen zufügen kann,
 und vom Kampf muss sie sich fernhalten, so dass ihre Erfahrungspunkte dementsprechend nur langsam voranschreiten werden.
 
-Man muss per D6=4+ nach einem Szenario versuchen sie anzuheuern. Das kann schon eine Weile dauern... mittlerweile auch schon mehr als Zwei-Drei Runden.
+Man muss per D6=4+ nach einem Szenario versuchen sie anzuheuern. Das kann schon eine Weile dauern. Mittlerweile auch schon mehr als Zwei-Drei Runden.
 
 ### Goblin Herder (Beast Handler)
 
@@ -206,6 +206,20 @@ Und er kann mehrere Animals eines bestimmten Typs gleichzeitig handeln, siehe Be
 Er kostet bei der Anschaffung nicht so viel (60gc), aber ein UpKeep beträgt 25gc pro Runde, das ist ein ganzer Ork Boy Henchmen.
 Dafür bekommt man aber sicheres Movement und keine Kloppereien zwischen den Henchmen (im Radios vom 6" um Ihn herum).
 Für Ld-Tests ist er zudem gut da er den Ld des Leaders (-1) oder seinen eigenen Ld-Stat weiterreicht.
+
+## Dramatis personae
+
+### Dark Emissary
+
+Leider wurde Ihm Zauber nummer 5 - Fog of Death - genommen. Damit ist der Zauberer zwar weiter echt gut.
+Leider aber fehlt Ihm nun genau der Zauber der die Kampagne zu meinen Gunsten hätte wenden können.
+Damit habe ich Ihn direkt wieder entlassen.
+
+### Alle anderen
+
+Wie auch der Dark Emissary sind sie alle teuer. Vermutlich macht es viel Spaß sie zu spielen, aber das Income reicht nicht unbedingt um alle einmal ausprobiert zu haben.
+Ich hoffe immernoch darauf sechs mal eine 1 in der Exploration zu würfeln - Kahn's Retinue. Man bekommt Maglah Kahn und zwei Hobgoblin Boyz zur Warband kostenlos hinzugefügt.
+Für eine Runde, danach muss man sie den UpKeep bezahlen, wenn man sie behalten möchte.
 
 ## BTB Objective - Scourge of the Realm
 
@@ -289,20 +303,33 @@ Zudem lässt das Income das nicht zu.
   Alleine nur um den Skill Wyrdstone Hunter auszugleichen können, müssen also pro Held 15gc für eine Hasenpfote ausgegeben werden.
   Das sind bei 6 Helden auch schon einmalig 6 Goblins weniger auf dem Feld die aber grundsätzlich zuvor neu gekauft werden "müssen" wenn die Warband groß gehalten werden soll.
   Mal davon abgesehen das die Hasenpfoten Rare 9 sind.
-  Von den anderen Academic Skills wie Haggle und Pawnbroker ganz zu schweigen. Hier könnte man noch nachsehen ob ein Hired sword die nehmen kann. Die Mühe mache ich mir schon garnicht mehr, da Chaotic Warbands in der Regel eh nichts zugestanden wird.
+  Von den anderen Academic Skills wie Haggle und Pawnbroker ganz zu schweigen. Hier könnte man noch nachsehen ob ein Hired sword die nehmen kann.
+  Die Mühe mache ich mir schon garnicht mehr, da Chaotic Warbands in der Regel eh nichts zugestanden wird.
 - Die Orks haben mit den halb zählenden super billigen T3-Einheiten einen guten Stand im Kampf, leider nur am Anfang der Kampagne.
-  Es sind schlicht viele Attacken, und braucht keine Scheu haben die Goblins vor zu hetzen.
+  Es sind schlicht viele Attacken, und man braucht keine Scheu haben die Goblins vor zu hetzen.
   Das ist jedoch auch Ihr Nachteil da die Henchmen wie die Fliegen ooA gehen und das "Dead" danach eine ~33% chance hat.
-- Die Orks sind keine T4 Warband. Alle T4 Einheiten dürfen nicht in den Kampf da sie entweder zu wertvoll sind oder einfach zu teuer. Die Ork Mob Warband ist eine Goblin Warband mit WS2 S3 T3 und Helden dahinter die nicht mitkämpfen dürfen, da sonst das Income vollständig versiegt.
-- Ork Boys sind zu teuer, und ihr T4 hilft leider auch nichts dagegen das sie schnell ooA gehen. T4 ist nicht mit dem Regenerationsskill gleichzusetzen. Meine Erfahrung: Wenn man durch mehrere Gegner angecharged wird sind die alle weg, egal wieviel T's da in den Stats stehen. Meine S4 Squigs töten T5 Mutanten beim ersten Versuch, ja das war Glück, aber bei hoher Initiative schlägt man eben immer zuerst zu.
+- Die Orks sind keine T4 Warband. Alle T4 Einheiten dürfen nicht in den Kampf da sie entweder zu wertvoll sind oder einfach zu teuer.
+  Die Ork Mob Warband ist eine Goblin Warband mit WS2 S3 T3 und Helden dahinter die nicht mitkämpfen dürfen, da sonst das Income vollständig versiegt.
+- Ork Boys sind zu teuer, und ihr T4 hilft leider auch nichts dagegen das sie schnell ooA gehen.
+  T4 ist nicht mit dem Regenerationsskill gleichzusetzen.
+  Meine Erfahrung: Wenn man durch mehrere Gegner angecharged wird sind die alle weg, egal wieviel T's da in den Stats stehen.
+  Meine S4 Squigs töten T5 Mutanten beim ersten Versuch, ja das war Glück, aber bei hoher Initiative schlägt man eben immer zuerst zu.
 - Mit dem Black Orc Hired Sword macht das Movement sehr viel Spaß, da kommt man ohne großes Animosity-Gewürfel deutlich angenehmer voran.
-- Die Anzahl der Attacken die man an den Gegner bringen kann ist hinter Movement der wichtigste Stat. 15 Goblins mit je zwei Attacken an einem Champion of Chaos richten mehr aus als 3 S4 Helden mit Äxten S4 und je zwei attacken.
-- Gewinnen ist nur wichtig für den extra CP, am wichtigstens sind die Schätze. Die braucht man, dann kann man machen was man möchte und gewinnt eh.
+- Die Anzahl der Attacken die man an den Gegner bringen kann, ist hinter Movement der wichtigste Stat.
+  15 Goblins mit je zwei Attacken an einem Champion of Chaos richten mehr aus als 3 S4 Helden mit Äxten S4 und je zwei attacken.
+- Gewinnen ist nur wichtig für den extra CP, am wichtigstens sind die Schätze. Die braucht man, dann kann man machen was man möchte und gewinnt weiter.
 - Einzelne kleine Grüppchen reißen nichts und sind automatisch ein (un)freiwilliges Opfer an den Gegner.
-- Goblins bringen langsam nichts mehr, jedenfalls nicht mit Daggern. Zudem lassen sie einen später routen, also weg mit denen.
+- Goblins bringen in der aktuellen Kampagne nichts mehr, jedenfalls nicht mit Daggern.
+  Zudem lassen sie einen später routen, also weg mit denen.
   Tatsächlich habe ich nur noch drei Ork Boys zum opfern, damit ich schnell in die Exploration komme.
-  Gold in der Exploration zu erwirtschaften zählt alles. Vielleicht komme ich in 5 bis 10 Runden dann auf ein Guthaben um die Warband mit Ork Boys und Crossbows aufzufüllen.
+  Gold in der Exploration zu erwirtschaften zählt am höchsten über allen anderen Zielen.
+  Vielleicht komme ich in 5 bis 10 Runden dann auf ein Guthaben um die Warband mit Ork Boys und Crossbows aufzufüllen.
   Vorher sehe ich gegen Marius und Stefan keine Chance mehr, die Kampangne ist so wie sie läuft längst entschieden.
-- Ich habe eine Alternative in der Hinterhand. Eine Forest Goblins Warband, die rein auf dem Underdog Bonus aufgebaut ist. Wenn der Wechsel meine 19 CP nicht komplett in Rauch aufgehen lassen würde und ich nicht nochmal das selbe Objective nehmen müsste (Scion of Darkness ist keine Alternative denn auch dieses Objective kann bereits nicht mehr abgeschlossen werden da Stefan ein Chaos Artefakt besitzt), dann hätte ich schon längts gewechselt.
-- Das Objective "SotR" ist meiner Meinung nach in unserer Gruppe zum verlieren verdammt, das liegt daran das man nicht aktiv mehr CP bekommen kann wenn man gegen einen beliebigen Gegner spielt. Scion of Darkness ist ebenfalls bereits entschieden, es sei denn Fabian bekommt seine Würfel-Würfe in den Griff. 
-- Es geht also nur noch um den Spaß, und das bekomme ich nicht durch Powergaming sondern nur noch durch Spannende Hired Swords und coole Items. Ich sehe aktuell keine Chancen die Kampagne zu gewinnen. Mein Vorsprung bei den CP ist quasi nicht mehr existent, und die Gegner übermächtig.
+- Ich habe eine Alternative in der Hinterhand. Eine Forest Goblins Warband, die rein auf dem Underdog Bonus aufgebaut ist.
+  Wenn der Wechsel meine 19 CP nicht komplett in Rauch aufgehen lassen würde und ich nicht nochmal das selbe Objective nehmen müsste
+  (Scion of Darkness ist keine Alternative denn auch dieses Objective kann bereits nicht mehr abgeschlossen werden da Stefan ein Chaos Artefakt besitzt),
+  dann hätte ich schon längts gewechselt.
+- Das Objective "SotR" ist meiner Meinung nach in unserer Gruppe zum verlieren verdammt, das liegt daran das man nicht aktiv mehr CP bekommen kann wenn man gegen einen beliebigen Gegner spielt.
+  Scion of Darkness ist ebenfalls bereits entschieden, es sei denn Fabian bekommt seine Würfel-Würfe in den Griff. 
+- Es geht also nur noch um den Spaß, und das bekomme ich nicht durch Powergaming sondern nur noch durch Spannende Hired Swords und coole Items.
+  Ich sehe aktuell keine Chancen die Kampagne zu gewinnen. Mein Vorsprung bei den CP ist quasi nicht mehr existent, und die Gegner übermächtig.
