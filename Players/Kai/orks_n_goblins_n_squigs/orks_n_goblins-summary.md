@@ -5,7 +5,7 @@ Zudem erscheint es so als ob die Henchmen insgesamt nicht sonderlich stark sind,
 
 Sieht man jedoch genauer hin ergibt sich ein differenzierteres Bild.
 
-Alleine die Maximale Größe von 20 Mitgliedern ist das Erste Anzaichen dafür das es hier Spannend werden kann.
+Alleine die Maximale Größe von 20 Mitgliedern ist das Erste Anzeichen dafür das es hier Spannend werden kann.
 
 ## Goblins:
 
