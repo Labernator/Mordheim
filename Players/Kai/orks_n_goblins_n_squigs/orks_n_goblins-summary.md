@@ -277,24 +277,32 @@ Zudem lässt das Income das nicht zu.
 
 # Mein Fazit
 
-- Man braucht keinen Troll, schon garnicht ohne Regenerationsfähigkeit. Hat man noch einen Platz in seiner Warband frei und zuviel Gold kann man den gerne nehmen.
-  Aber zuviel sollte man nicht davon erwarten, er ersetzt keine Goblins im Wert von 200gc. Vielleicht bringt er etwas in Kombination mit einem Chaos warrior oder Ogre.
-  Mehr große und starke Einheiten könnten die Gegner gut beschäftigen.
+- Man braucht keinen Troll, schon garnicht ohne Regeneration. Hat man noch einen Platz in seiner Warband frei und zuviel Gold kann man den gerne nehmen.
+  Aber zuviel sollte man nicht davon erwarten, er ersetzt keine Goblins im Wert von 200gc.
+- Vielleicht bringt er etwas in Kombination mit einem Chaos warrior oder Ogre. Mehr große und starke Einheiten könnten die Gegner gut beschäftigen.
 - Bläht man die Orks auf ein maximum an Einheiten auf, und setzt ihre Stärken ein, gewinnt man vermutlich häufiger ein Szenario, dafür hat man kein Income - aufgrund der Kosten zur Aufrechterhaltung der Stärke der Warband.
   Langfristig wird man so von den anderen Warband mit höheren Income und weniger Verlusten überholt und das Kräfteverhältnis kippt.
 - Belässt man es bei wenig Einheiten hat man keine Chance zu gewinnen aber dafür gutes Income umd kann vermutlich besser aufrüsten.
   Dafür sammelt man weniger CP und der Sieg der Kampagne rückt ebenfalls wieder in sehr weite Ferne.
-  So oder so ist gewinnen ausgeschlossen.
+  So oder so ist gewinnen in jedem Fall ausgeschlossen.
 - Um in der Exploration-Phase besser da zu stehen muss man als "böse" Warband viel Gold für Hasenpfoten ausgeben, sonst gibt es keine Chance in der Exploration die Würfel zu modifizieren.
-  Nur um den Skill Wyrdstone Hunter auszugleichen können, müssen also pro Held 15gc für eine Hasenpfote ausgegeben werden.
+  Alleine nur um den Skill Wyrdstone Hunter auszugleichen können, müssen also pro Held 15gc für eine Hasenpfote ausgegeben werden.
   Das sind bei 6 Helden auch schon einmalig 6 Goblins weniger auf dem Feld die aber grundsätzlich zuvor neu gekauft werden "müssen" wenn die Warband groß gehalten werden soll.
   Mal davon abgesehen das die Hasenpfoten Rare 9 sind.
-- Jede Warband hat ihre Vor- und Nachteile. Die Orks haben mit den halb zählenden billigen T3-Einheiten einen guten Stand im Kampf.
-  Es sind viele Attacken. Das ist jedoch auch Ihr Nachteil da die Henchmen wie die Fliegen ooA gehen und das "Dead" danach eine ~33% chance hat.
-- Die Orks sind keine T4 Warband. Alle T4 Einheiten dürfen nicht in den Kampf da sie entweder zu wertvoll sind, oder einfach zu teuer. Die Ork Mob Warband ist eine Goblin Warband mit WS2 S3 T3 und Helden dahinter die nicht mitkämpfen dürfen da sonst das Income vollständig versiegt.
-- Ork Boys sind zu teuer, und ihr T4 hilft leider auch nichts dagegen das sie schnell ooA gehen. T4 ist nicht mit dem Regenerationsskill gleichzusetzen. Meine Erfahrung: Wenn man angecharged wird sind die alle weg, egal wieviel T's da in den Stats stehen.
-- Mit dem Black Orc Hired Sword macht das Movement sehr viel Spaß, da kommt man ohne großes Gewürfel deutlich einfacher voran.
-- Die Anzahl der Attacken die man an den Gegner bringen kann ist hinter Movement der wichtigste Stat. 15 Goblins mit je zwei Attacken an einem Champion of Chaos richten mehr aus als 3 Helden mit Äxten S4 und je zwei attacken.
+  Von den anderen Academic Skills wie Haggle und Pawnbroker ganz zu schweigen. Hier könnte man noch nachsehen ob ein Hired sword die nehmen kann. Die Mühe mache ich mir schon garnicht mehr, da Chaotic Warbands in der Regel eh nichts zugestanden wird.
+- Die Orks haben mit den halb zählenden super billigen T3-Einheiten einen guten Stand im Kampf, leider nur am Anfang der Kampagne.
+  Es sind schlicht viele Attacken, und braucht keine Scheu haben die Goblins vor zu hetzen.
+  Das ist jedoch auch Ihr Nachteil da die Henchmen wie die Fliegen ooA gehen und das "Dead" danach eine ~33% chance hat.
+- Die Orks sind keine T4 Warband. Alle T4 Einheiten dürfen nicht in den Kampf da sie entweder zu wertvoll sind oder einfach zu teuer. Die Ork Mob Warband ist eine Goblin Warband mit WS2 S3 T3 und Helden dahinter die nicht mitkämpfen dürfen, da sonst das Income vollständig versiegt.
+- Ork Boys sind zu teuer, und ihr T4 hilft leider auch nichts dagegen das sie schnell ooA gehen. T4 ist nicht mit dem Regenerationsskill gleichzusetzen. Meine Erfahrung: Wenn man durch mehrere Gegner angecharged wird sind die alle weg, egal wieviel T's da in den Stats stehen. Meine S4 Squigs töten T5 Mutanten beim ersten Versuch, ja das war Glück, aber bei hoher Initiative schlägt man eben immer zuerst zu.
+- Mit dem Black Orc Hired Sword macht das Movement sehr viel Spaß, da kommt man ohne großes Animosity-Gewürfel deutlich angenehmer voran.
+- Die Anzahl der Attacken die man an den Gegner bringen kann ist hinter Movement der wichtigste Stat. 15 Goblins mit je zwei Attacken an einem Champion of Chaos richten mehr aus als 3 S4 Helden mit Äxten S4 und je zwei attacken.
 - Gewinnen ist nur wichtig für den extra CP, am wichtigstens sind die Schätze. Die braucht man, dann kann man machen was man möchte und gewinnt eh.
 - Einzelne kleine Grüppchen reißen nichts und sind automatisch ein (un)freiwilliges Opfer an den Gegner.
-- mir fällt sicher noch mehr ein...
+- Goblins bringen langsam nichts mehr, jedenfalls nicht mit Daggern. Zudem lassen sie einen später routen, also weg mit denen.
+  Tatsächlich habe ich nur noch drei Ork Boys zum opfern, damit ich schnell in die Exploration komme.
+  Gold in der Exploration zu erwirtschaften zählt alles. Vielleicht komme ich in 5 bis 10 Runden dann auf ein Guthaben um die Warband mit Ork Boys und Crossbows aufzufüllen.
+  Vorher sehe ich gegen Marius und Stefan keine Chance mehr, die Kampangne ist so wie sie läuft längst entschieden.
+- Ich habe eine Alternative in der Hinterhand. Eine Forest Goblins Warband, die rein auf dem Underdog Bonus aufgebaut ist. Wenn der Wechsel meine 19 CP nicht komplett in Rauch aufgehen lassen würde und ich nicht nochmal das selbe Objective nehmen müsste (Scion of Darkness ist keine Alternative denn auch dieses Objective kann bereits nicht mehr abgeschlossen werden da Stefan ein Chaos Artefakt besitzt), dann hätte ich schon längts gewechselt.
+- Das Objective "SotR" ist meiner Meinung nach in unserer Gruppe zum verlieren verdammt, das liegt daran das man nicht aktiv mehr CP bekommen kann wenn man gegen einen beliebigen Gegner spielt. Scion of Darkness ist ebenfalls bereits entschieden, es sei denn Fabian bekommt seine Würfel-Würfe in den Griff. 
+- Es geht also nur noch um den Spaß, und das bekomme ich nicht durch Powergaming sondern nur noch durch Spannende Hired Swords und coole Items. Ich sehe aktuell keine Chancen die Kampagne zu gewinnen. Mein Vorsprung bei den CP ist quasi nicht mehr existent, und die Gegner übermächtig.
