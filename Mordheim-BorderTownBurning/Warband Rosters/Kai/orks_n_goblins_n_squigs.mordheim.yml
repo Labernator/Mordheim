@@ -86,7 +86,7 @@ henchmen:
       rules: Animosity
 
     - group: Orange (1 Ork boy) [1XP]
-      stats: M4, WS3, BS3, S3, T4, W1, I2, A0, Ld7, Sv-
+      stats: M4, WS3, BS3, S3, T4, W1, I2, A1, Ld7, Sv-
       weapons: Hand weapon, Dagger, Bow
       rules: Animosity
 

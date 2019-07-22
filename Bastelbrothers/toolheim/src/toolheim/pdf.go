@@ -65,7 +65,7 @@ func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 
 		// Stats
 		pdf.SetFillColor(255, 0, 0)
-		pdf.SetFont("Arial", "", font_size)
+		pdf.SetFont("Arial", "", font_size+1)
 		pdf.SetFontUnitSize(5)
 
 		// skills stats
@@ -87,15 +87,16 @@ func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 			pdf.SetFont("Arial", "", font_size - 2)
 		}
 		pdf.Write(11, hero.Stats.Strength)
-			pdf.SetFont("Arial", "", font_size)
-		pdf.SetX(33)
+		pdf.SetFont("Arial", "", font_size+1)
+        pdf.SetFontUnitSize(5)
+		pdf.SetX(33.25)
 		pdf.Write(11, strconv.Itoa(hero.Stats.Toughness))
 		pdf.SetX(40)
 		pdf.Write(11, strconv.Itoa(hero.Stats.Wounds))
 		pdf.SetX(46.5)
 		pdf.Write(11, strconv.Itoa(hero.Stats.Initiative))
 		pdf.SetX(53)
-		pdf.Write(11, strconv.Itoa(hero.Stats.Attacks))
+		pdf.Write(11.15, strconv.Itoa(hero.Stats.Attacks))
 		pdf.SetX(59.5)
 		pdf.Write(11, strconv.Itoa(hero.Stats.Leadership))
 		pdf.SetX(66.0)

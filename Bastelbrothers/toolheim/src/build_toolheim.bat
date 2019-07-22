@@ -1,4 +1,4 @@
-set GOPATH=c:\users\klaute\Dropbox\Privat\Mordheim\Bastelbrothers\toolheim\
+set GOPATH=c:\users\klaute\Dropbox\Privat\tabletop\Mordheim\Bastelbrothers\toolheim\
 
 rem ***** linux 32bit binary *****
 
