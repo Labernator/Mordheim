@@ -660,29 +660,114 @@ Erleichtert hob Sulman die Hand. "Erstens", zählte er auf, "brauchen wir mehr I
 Die Grubenkämpfer sahen ihrem Anführer erstaunt hinterher. "Ok", sagt Dimiona nach einem kurzen Moment des Schweigens, "das ist passiert. Was jetzt?" Alle wandten sich Sulman zu. Der Zwerg rieb sich das Kinn und entgegnete. "Ohne weitere Information können wir kaum vernünftige nächste Schritte planen. Aber eines ist klar, was auch immer uns erwartet, wir werden bessere Ausrüstung brauchen!" Die Grubenkämpfer sahen an ihren zerschlissenen Kleidern und schartigen Dolchen herab und nickten zustimmend. Torxes Gesicht hellte sich auf: "Gute Nachricht, Freunde, heute ist Markttag in Wei-jin"
 
 ### Schlachtbericht  
-**Szenario/Mitspieler:** The Merchant Square mit Marius und Aaron  
+**Szenario/Mitspieler:** Merchant Square mit Marius und Aaron  
 
-
-**Ergebnis:**        
+**Ergebnis:** Sieg       
 
 **Gefallene Krieger:**  
- 
+Drachngarde (Recovery)  
+Berserker (Recovery)  
+Liscom (dead)  
+Arzuch (Old Battle Wound)  
 
 **Belohnungen:**   
- 
+2 Nets, 6 Repeater Crossbows und Gromril Flail  
 
 **CP:**  
-
++1 fürs Teilnehmen  
++3 fürs Gewinnen   
+=> +4  
 
 **Experience:**  
- 
+ - Haffax: +0 (aussetzen)
+ - Galotta +1 (survive)
+ - Dimiona + 4 (survive + kills): advance Skill (Bulging Biceps)
+ - Skrechu +1 (survive)
+ - Sulman +2 (survive + leader): advance +1A
+ - Torxes +2 (survive + crate): advance +1Ld
+ - Azaril +1 (survive): advance Skill (Far Sight: Foretold)
+ - Legion +6 (survive + kills): gedeckelt bei 14XP, advance +1WS
+ - Äxte +1 (survive)
+ - Drachengarde +0 (ooA)
+ - Eisenkralle +1 (survive)
+ - Horde +1 (survive)
+ - Kholak-Kai +2 (survive + crate): advance +1S
+ - Parder +2 (survive + crate): advance +1S
+ - Berserker +0 (ooA)
+ - Arzuch +0 (ooA)
 
-**Sonstiges:**     
+**Sonstiges:** Ich entlasse das letzte Mitglied der Blutige Äxte. Ich verkaufe die zwei Dagger.    
 
 **Exploration:**  
-
+3 Wyrdstones: 3 verkaufen für 60 GC (dank Conclave Achievement)  
+222: Neuer Henchmen wird Mitglied in der Unbesiegbaren Legion  
 
 **Trading:**  
+-	In der Kasse vom letzten Mal: 39GC  
+-	Aus der Exploration: 60 GC   
+-	Money Maker Galotta: 6GC  
+-	Minstrel Torxes: 13GC  
+-	Verkaufe Repeater Crossbow (Reward) für 28GC (Pawnbroker)  
+-	Verkaufe Repeater Crossbow (Reward) für 22GC (Pawnbroker)  
+-	Verkaufe Repeater Crossbow (Reward) für 24GC (Pawnbroker)  
+-	Verkaufe Repeater Crossbow (Reward) für 27GC (Pawnbroker)  
+-	Verkaufe Repeater Crossbow (Reward) für 24GC (Pawnbroker)  
+-	Verkaufe Repeater Crossbow (Reward) für 28GC (Pawnbroker)  
+-	Verkaufe 4 Dagger (Kholak-Kai, Parder, 2x Äxte) für 8GC (Pawnbroker)  
+-	Verkaufe 2 Nets (Reward) für 10GC (Pawnbroker)  
+=> 289GC  
 
+ - Upkeep Bard: 10 GC  
+ - Upkeep Ranger: 15 GC  
+ - Erneutes Anheuern Pit Fighter: 30 GC   
+ - Rabbit's Foot für Haffax: 5 GC, dank Haggle von Skrechu   
+ - Rabbit's Foot für Dimiona: 9 GC, dank Haggle von Azaril   
+ - Rabbit's Foot für Skrechu: 15 GC  
+ - Heavy Armour für Haffax: 50 GC
+ - Toughened Leathers für neuen Legionär: 5 GC  
+ - Kaufe 2x Axe für Kholak-Kai & Parder: 10 GC
+ => 149GC
+ 
+140 GC übrig in der Kasse  
 
 **Reallocate equipment:**  
+ - Dimiona gibt die Healing Herbs an Haffax ab   
+ - Skrechu erhält den Rabbit's Foot    
+ - Dimiona erhält den Rabbit's Foot    
+ - Haffax erhält den Rabbit's Foot  
+ - Kholak-Kai erhält Axt      
+ - Parder erhält Axt      
+ - Arzuch gibt seine Axt und seinen Dolch an den neuen Legionär  
+ - Arzuch erhält von Dimiona die Halberd  
+ - Dimiona erhält den Gromril Flail
+
+### Aktuelles Roster  
+*Heroes*  
+**Helme Haffax** (Pit King, 32 XP): Flail, Heavy Armour, Healing Herbs, Rabbit's Foot    
+**Gaius Cordovan Eslam Galotta** (Initiate, 12 XP): 2x Dagger, Rabbit's Foot  
+**Dimiona von Zorgan** (Initiate, 11 XP): Gromril Flail, Heavy Armour, Rabbit's Foot  
+**Skrechu** (Veteran, 16 XP): Flail, Heavy Armour, Rabbit's Foot    
+**Sulman al'Venish** (Dwarf Troll Slayer, 20 XP): 2x Dagger  
+
+*Hired Swords*  
+**Torxes von Freigeist** (Bard, 7 XP): Sword, Dagger, Light Armour, Lyre  
+**Liscom von Fasar** (Pit Fighter, 17 XP): Morning Star, Spiked Gauntlet, Helmet  
+**Azaril Scharlachkraut** (Kislev Ranger, 14 XP): Sword, Dagger, Bow    
+
+*Henchmen*  
+**Unbesiegbare Legion von Yaq-Monnith** (3 Pursuer, 14 XP): Axe, Dagger, Toughened Leathers  
+**Drachengarde** (1 Pursuer, 0 XP): 2x Dagger  
+**Eisenkralle** (1 Pursuer, 3 XP): 2x Dagger  
+**Horde von Ghumai-Kal** (1 Pit Fighter, 8 XP): 2x Dagger  
+**Kholak-Kai** (1 Pit Fighter, 2 XP): Axe, Dagger  
+**Rote Parder** (1 Pit Fighter, 2 XP): Axe, Dagger  
+**Berserker des Belhalhar** (1 Pit Fighter, 5 XP): Axe, Dagger  
+**Arzuch** (1 Oger, 8 XP): Halberd, Heavy Armour      
+
+**Treasure Chest:** 140 GC  
+**Alignment:** Lawful/Neutral  
+**Objective:** The Celestial Protectorate  
+**Campaign Points:** 17  
+**Warband Rating:** 313  
+ 
+### Nachspiel  
