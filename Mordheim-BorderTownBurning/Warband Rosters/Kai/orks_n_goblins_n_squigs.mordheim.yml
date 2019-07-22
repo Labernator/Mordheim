@@ -1,9 +1,9 @@
 warband: Orks, Goblins and Squigs (Orks)
 campaign: 19
-gc: 27
+gc: 0
 shards: 0
-equipment: 6 Dagger, Short bow, Hand weapon
-objective: Scrooge of the realm
+equipment: 6 Dagger, Hand weapon
+objective: Scougre of the realm
 alignment: chaotic
 
 heros:
@@ -12,8 +12,8 @@ heros:
       weapons: Axe, Sword, Rabbit's foot, Crossbow
       armour: Helmet, Steel Cloth, Light armour, Lucky charm
       rules: Leader, I am the scougre, Remarkable duellist, Step Aside, Irrepressible Hunger
-      warbandaddition: 5
       skilllists: Strength, Shooting, Combat, Speed, Special
+      warbandaddition: 5
 
     - hero: Grommok (Big'Un) [23XP]
       stats: M4, WS4, BS3, S4, T4, W1, I3, A1, Ld7, Sv5
@@ -28,6 +28,7 @@ heros:
       armour: Light armour, Lucky charm
       rules:
       injuries:
+      # chestwound healed at the end of scenario 7
       skilllists: Strength, Shooting, Combat, Special
 
     - hero: Wogga (Shaman) [19XP]
@@ -40,7 +41,7 @@ heros:
 
     - hero: Ug'Lash (Ork boy) [9XP]
       stats: M4, WS4, BS3, S3, T4, W2, I4, A1, Ld7, Sv5
-      weapons: Axe, Dagger
+      weapons: Axe, Dagger, Bow
       armour: Light armour, Lucky charm
       rules: Animosity
       injuries: Old battle wound
@@ -48,8 +49,8 @@ heros:
 
     - hero: Rem'Buld (Ork boy) [6XP]
       stats: M4, WS4, BS3, S3, T5, W1, I2, A1, Ld7, Sv6
-      weapons: Axe, Dagger
-      armour: Toughened leathers, Lucky charm
+      weapons: Axe, Dagger, Bow
+      armour: Toughened leathers
       rules: Animosity, Moneymaker
       skilllists: Strength, Combat
 
@@ -61,32 +62,32 @@ heros:
       skilllists: Strength, Combat, Special
       hiredsword: true
 
-    - hero: Hrrlak (Ogre Bodyguard) [8XP]
-      stats: M6, WS3, BS2, S4, T4, W3, I3, A2, Ld7, Sv5
-      weapons: Axe, Sword
-      armour: Light armour, Helmet
-      rules: Slow-Witted, Fear, Large Target, Step aside
-      skilllists: Strength, Combat
-      slowwitted: true
-      hiredsword: true
-      large: true
+    #- hero: Hrrlak (Ogre Bodyguard) [8XP]
+    #  stats: M6, WS3, BS2, S4, T4, W3, I3, A2, Ld7, Sv5
+    #  weapons: Axe, Sword
+    #  armour: Light armour, Helmet
+    #  rules: Slow-Witted, Fear, Large Target, Step aside
+    #  skilllists: Strength, Combat
+    #  slowwitted: true
+    #  hiredsword: true
+    #  large: true
 
 henchmen:
 
     - group: Blau (1 Ork boy) [9XP]
-      stats: M4, WS5, BS3, S3, T4, W1, I2, A2, Ld7, Sv6
-      weapons: Hand weapon, Dagger
+      stats: M4, WS4, BS4, S3, T4, W1, I2, A2, Ld7, Sv6
+      weapons: Hand weapon, Dagger, Bow
       armour: Toughened leathers
       rules: Animosity
 
     - group: Pink (1 Ork boy) [3XP]
       stats: M4, WS3, BS3, S3, T4, W1, I2, A2, Ld7, Sv-
-      weapons: Hand weapon, Dagger
+      weapons: Hand weapon, Dagger, Bow
       rules: Animosity
 
     - group: Orange (1 Ork boy) [1XP]
       stats: M4, WS3, BS3, S3, T4, W1, I2, A0, Ld7, Sv-
-      weapons: Hand weapon, Dagger
+      weapons: Hand weapon, Dagger, Bow
       rules: Animosity
 
 #    - group: Goblins (1 Goblin warrior) [0XP]
