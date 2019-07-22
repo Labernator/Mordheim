@@ -3,6 +3,7 @@ import copy
 
 class Unit:
     name = "troll"
+    bs = 3
     t = 4
     s = 5
     ws = 3
