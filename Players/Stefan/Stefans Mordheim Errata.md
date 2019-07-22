@@ -31,9 +31,12 @@ Academic Skills sind sowieso schon sehr gut darin Gold zu generieren, siehe Hagg
 **=> bannen und das entsprechende Townsfolk gleich mit**  
 
 ### Academic Skill: "Wyrdstone Hunter"  
-Bester Academic Skill. Rerolls in der Exploration sind sehr mächtig. Wyrdstone hunter zu spammen ist sehr mächtig. 
+Bester Academic Skill. Rerolls in der Exploration sind sehr mächtig. Wyrdstone Hunter zu spammen ist sehr mächtig.  
 **=> entweder bannen oder auf einen Helden beschränken **  
 
+### Academic Skill: "Pawnbroker"  
+Dadruch, dass man ihn auf jeden Verkauf anwenden kann ist das ein sehr potenter Multiplikator. Szenarios mit Schätzen oder eine unfassende Kontrolle über das Ergebnis der Exploration Phase (durch Rerolls oder +/-1) werden noch mehr verstärkt.  
+**=> Nur einmal pro Post-Game-Sequence benutzbar, analog zu Haggle**  
 
 ### Combat Skill: "Whip Master"  
 Der Skill funktioniert ganz ähnlich wie Expert Axe-/Swordsman. Mit einer kleinen Einschränkung: Er gilt immer. Rerolls sind extrem effektiv und Whips generell eher bessere Waffen (wegen der extra Attacken). Jeden to-hit Wurf wiederholen zu dürfen erscheint mit krass viel stärker als vergleichbare Skills. Es ist damit vermutlich der beste Combat Skill mit größerem Abstand. Das kaum jemand Zugriff auf vernünftige (!) Whips hat (die kein Stärke Malus haben) macht es nicht gerechter.  
