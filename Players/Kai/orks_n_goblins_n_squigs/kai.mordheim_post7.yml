@@ -3,7 +3,7 @@ campaign: 19
 gc: 7
 shards: 0
 equipment: 6 Dagger, Short bow, Hand weapon
-objective: Scrooge of the realm
+objective: Scougre of the realm
 alignment: chaotic
 
 heros:
@@ -12,8 +12,8 @@ heros:
       weapons: Axe, Sword, Rabbit's foot, Crossbow
       armour: Helmet, Steel Cloth, Light armour, Lucky charm
       rules: Leader, I am the scougre, Remarkable duellist, Step Aside, Irrepressible Hunger
-      warbandaddition: 5
       skilllists: Strength, Shooting, Combat, Speed, Special
+      warbandaddition: 5
 
     - hero: Grommok (Big'Un) [23XP]
       stats: M4, WS4, BS3, S4, T4, W1, I3, A1, Ld7, Sv5
@@ -28,7 +28,7 @@ heros:
       armour: Light armour, Lucky charm
       rules:
       injuries:
-      # chestwound healed after scenario 7
+      # chestwound healed at the end of scenario 7
       skilllists: Strength, Shooting, Combat, Special
 
     - hero: Wogga (Shaman) [19XP]
