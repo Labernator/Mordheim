@@ -9,7 +9,7 @@ alignment: chaotic
 heros:
     - hero: Skraag (Chieftain) [17XP]
       stats: M4, WS3, BS4, S3, T3, W1, I4, A1, Ld7, Sv4
-      weapons: Bosspole, Dagger, Giant spider
+      weapons: Bosspole, Dagger, Giant spider {Krankra}
       armour: Light armour, Shield
       rules: Leader
       warbandaddition: 0
@@ -17,7 +17,7 @@ heros:
 
     - hero: Zsnag (Shaman) [6XP]
       stats: M4, WS2, BS3, S3, T3, W1, I4, A1, Ld6, Sv-
-      weapons: Bosspole, Magic gugginz, Dagger, Giant spider
+      weapons: Bosspole, Magic gugginz, Dagger, Giant spider {Aragog}
       rules: Magic user, Gaze of Mork
       skilllists: Speed, Academic
 

@@ -325,7 +325,7 @@ Zudem lässt das Income das nicht zu.
   Gold in der Exploration zu erwirtschaften zählt am höchsten über allen anderen Zielen.
   Vielleicht komme ich in 5 bis 10 Runden dann auf ein Guthaben um die Warband mit Ork Boys und Crossbows aufzufüllen.
   Vorher sehe ich gegen Marius und Stefan keine Chance mehr, die Kampangne ist so wie sie läuft längst entschieden.
-- Ich habe eine Alternative in der Hinterhand. Eine Forest Goblins Warband, die rein auf dem Underdog Bonus aufgebaut ist.
+- Ich habe Alternativen in der Hinterhand. Eine Forest Goblins Warband in verschiedenen Ausführungen und eine Possessed Warband. Ich tendiere klar zu den Possessed.
   Wenn der Wechsel meine 19 CP nicht komplett in Rauch aufgehen lassen würde und ich nicht nochmal das selbe Objective nehmen müsste
   (Scion of Darkness ist keine Alternative denn auch dieses Objective kann bereits nicht mehr abgeschlossen werden da Stefan ein Chaos Artefakt besitzt),
   dann hätte ich schon längts gewechselt.

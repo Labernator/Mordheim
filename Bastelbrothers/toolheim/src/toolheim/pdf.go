@@ -82,7 +82,12 @@ func MakeHeroPage(warband Warband, pdf *gofpdf.Fpdf, newPage bool) {
 		pdf.SetX(20)
 		pdf.Write(11, strconv.Itoa(hero.Stats.BallisticSkill))
 		pdf.SetX(27)
+		if len(hero.Stats.Strength) > 1 {
+			pdf.SetX(25)
+			pdf.SetFont("Arial", "", font_size - 2)
+		}
 		pdf.Write(11, hero.Stats.Strength)
+			pdf.SetFont("Arial", "", font_size)
 		pdf.SetX(33)
 		pdf.Write(11, strconv.Itoa(hero.Stats.Toughness))
 		pdf.SetX(40)

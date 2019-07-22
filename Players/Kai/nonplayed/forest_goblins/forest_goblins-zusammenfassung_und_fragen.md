@@ -34,11 +34,12 @@
 * "Scrouge of the realm" objective
 * Schlechter fernkampf (S3 Short bow BS3)
 * Keine halb zählenden Einheiten wie bei den Orks
+* Für die reitenden: Erste Runde = zum Mount laufen um aufsitzen zu dürfen; 2. runde aufsitzen und sonst nichts tun. Ab der dritten Runde Movement mit dem Reittier.
 
 ## Pro spider mounts
 
 * Movement
-* Klettern ohne testen zu müssen, oder alle tests rerollen - jenachdem welche regel nun gilt
+* Klettern mit Reroll aller failed Tests
 * Shooting auf jeden Gegner frei zu wählen da auf sie auf dem reittier als in erhobener position zählen
 * AS: Spinne reiten (1+) shield (+1) und light armor (5+) = 3+AS
 * Wenn keine andere WB shooting hat bleiben die Goblins für immer auf Ihrer erhöhten Position und sterben nicht, können soch ja als hidden deklarieren
@@ -48,9 +49,10 @@
 * Ohne Ride skill kein HtH combat ohne Ld-Test
 * Keine Chance gegen andere Warbands im HtH
 * Kein Zugriff auf das Objective "The silent thread"
-* Wenn Häuser etc angezünget werden auf denen der Reiter steht, wird es brenzlig
+* Wenn Häuser etc. angezünget werden auf denen der Reiter steht, wird es brenzlig
 * Teuer wenn alle Einheiten reiten sollen/müssen (5-6x45gc)
 * Keine Compound Bows zum start
+* Ohne speziellen Skill braucht man eine Runde um mit dem Mount in Basecontact zu kommen, dann eine Runde in der man nichts tun darf um aufzusitzen, danach kann man erst los reiten.
 
 # Offene Fragen
 
@@ -90,4 +92,5 @@
 => Vorschlag: ja
 * Antworten auf die Fragen in den Reitregeln?
 * Darf der Goblin herder eine Giant spider reiten?
+=> Nein, die Spinne ist ein Rassengebundenes Item, und zudem rar.
 
