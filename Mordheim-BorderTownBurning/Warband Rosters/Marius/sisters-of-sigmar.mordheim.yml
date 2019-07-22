@@ -1,14 +1,14 @@
 warband: Johannas Orphanage (Sisters of Sigmar)
-campaign: 8
-gc: 0
+campaign: 9
+gc: 4
 shards: 0
-equipment: 5x Dagger
+equipment: 7x Dagger
 objective: The Damned Shall Burn 
 alignment: Lawful
 active: true
 
 heros:
-    - hero: Johanna von Marienburg (Sigmarite Matriarch) [28XP]
+    - hero: Johanna von Marienburg (Sigmarite Matriarch) [29XP]
       stats: M4, WS4, BS4, S3, T3, W1, I4, A1, Ld8, Sv4
       weapons: Dagger, Sling, Sigmarite Warhammer
       armour: Heavy Armor, Helmet, Rosary
@@ -16,46 +16,38 @@ heros:
       warbandaddition: 5
       skilllists: Strength, Academic, Combat, Speed, Special
 
-    - hero: Theresa (Augur) [8XP]
+    - hero: Theresa (Augur) [9XP]
       stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld7, Sv-
       weapons: Sigmarite Warhammer, Sigmarite Warhammer
       rules: Blessed Sight, No Armor allowed, Step aside, Two-Weapon Master, Strike to Injure, Sprint
       skilllists: Academic, Combat, Speed, Special
 
-    - hero: Rosa (Sister Superior) [17XP]
+    - hero: Rosa (Sister Superior) [18XP]
       stats: M4, WS4, BS3, S3, T4, W2, I3, A1, Ld7, Sv4
       weapons: Sigmarite Warhammer, Dagger, Sling
       rules: Wyrdstone Hunter
       armour: Heavy Armor, Helmet
       skilllists: Strength, Academic, Combat, Speed, Special
 
-    - hero: Emilia (Sister Superior) [14XP]
+    - hero: Emilia (Sister Superior) [15XP]
       stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld8, Sv5
       weapons: Sigmarite Warhammer, Dagger, Sling
       rules: Fearsome
       armour: Light Armour
       skilllists: Strength, Academic, Combat, Speed, Special
 
-    - hero: Marie (Novice) [6XP]
+    - hero: Marie (Novice) [7XP]
       stats: M4, WS3, BS2, S3, T3, W2, I3, A1, Ld6, Sv4
       weapons: Sigmarite Warhammer, Dagger, War Horn
       rules: Fearsome
       armour: Heavy Armor, Helmet 
       skilllists: Strength, Combat
 
-    - hero: Indira (Sigmarite Sister) [2XP]
+    - hero: Indira (Sigmarite Sister) [3XP]
       stats: M4, WS3, BS3, S3, T3, W1, I4, A1, Ld7, Sv5
       weapons: Sigmarite Warhammer, Dagger, Sling
       armour: Light Armor
       skilllists: Strength, Combat
-
-    - hero: Grombald (Dwarf Runesmith Journeyman) [16XP]
-      stats: M3, WS4, BS3, S3, T4, W2, I2, A1, Ld10, Sv4
-      weapons: Gromril Hammer, Dagger
-      armour: Heavy Armor
-      rules: Runesmith, Armour, Armourer, Hate Orcs and Goblins, Hard Head, Hard to Kill
-      skilllists: Strength, Combat, Special
-      hiredsword: true
       
     - hero: Wilhelm (Expert Marksman) [12XP]
       stats: M4, WS3, BS4, S3, T3, W1, I3, A1, Ld7, Sv5
@@ -66,28 +58,24 @@ heros:
       hiredsword: true
       
 henchmen:
-    - group: Novice Group 1 (2 Novice) [11XP] 
+    - group: Brothel Girls (1 Novice) [12XP] 
       stats: M4, WS3, BS2, S3, T3, W1, I3, A2, Ld7, Sv-
       weapons: Dagger, Dagger
-
-    - group: Novice Group 2 (1 Novice) [4XP] 
-      stats: M4, WS3, BS2, S3, T3, W1, I3, A1, Ld6, Sv-
-      weapons: Steel Whip, Dagger
       
-    - group: Novice Group 3 (3 Novice) [6XP] 
+    - group: Seamstresses (2 Novice) [7XP] 
       stats: M4, WS2, BS2, S3, T3, W1, I4, A2, Ld6, Sv-
       weapons: Steel Whip, Dagger
 
-    - group: Novice Group 4 (1 Novice) [6XP] 
+    - group: Laundry Lady (1 Novice) [7XP] 
       stats: M4, WS3, BS2, S3, T3, W1, I3, A1, Ld7, Sv-
       weapons: Steel Whip, Dagger
       
-    - group: Sisters of the Orphanage (1 Sigmarite Sister) [2XP]
+    - group: Sisters of the Orphanage (1 Sigmarite Sister) [3XP]
       stats: M4, WS4, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
       weapons: Steel Whip, Dagger, Sling
       
-    - group: Shelter Women (1 Sigmarite Sister) [1XP]
-      stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+    - group: Shelter Women (3 Sigmarite Sister) [2XP]
+      stats: M4, WS3, BS3, S4, T3, W1, I3, A1, Ld7, Sv-
       weapons: Steel Whip, Dagger, Sling
     
     
@@ -97,6 +85,5 @@ notes: |
   Sigmarite Warhammer: +1 Strength 
   Healing Hand (Complexity 5): Any one model within 2 inch of the Priest (including himself) may be healed. The warrior is restored to his full quota of Wounds. In addition, if any friendly models within 2 inch are stunned or knocked down, they immediately come to their senses, stand up, and continue fighting as normal.
   A war horn may be sounded once per battle at the beginning of any of the player's turn (just before a rout test). It allows the warband to increase its Leadership by +1. The effect will last until the start of the next turn. 
-
-achievments: |
+achievements: |
   Vision I
