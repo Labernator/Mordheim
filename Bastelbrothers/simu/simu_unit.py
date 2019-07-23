@@ -3,7 +3,7 @@ import copy
 
 class Unit:
     name = "troll"
-    bs = 3 # ballistic skill
+    bs = 0 # ballistic skill
     rs = 3 # range strength
     t = 4
     s = 5

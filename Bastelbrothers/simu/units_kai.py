@@ -474,6 +474,8 @@ goblins = []
 for i in range(11): # set the amount of goblins to create here
     goblins.append(copy.deepcopy(g1))
     goblins[i].name = "goblin " + str(i)
+    goblins[i].bs = 4
+    goblins[i].rs = 4
 
 goblin_hero1 = copy.deepcopy(goblins[0])
 goblin_hero1.name = "goblin hero 1"
@@ -515,12 +517,12 @@ beastmen_hound.weapon = [
 
 #####
 beastmen = Unit()
-beastmen.name = "beastmen leader"
+beastmen.name = "beastmen"
 beastmen.t = 4
 beastmen.s = 4
 beastmen.ws = 4
-beastmen._as = 4
-beastmen.w = 2
+beastmen._as = 0
+beastmen.w = 1
 beastmen.a = 1
 beastmen.i = 4
 # first weapon
@@ -528,6 +530,9 @@ beastmen.weapon = [
     copy.deepcopy(club),
     copy.deepcopy(dagger_offhand),
 ]
+
+beastmen_leader = copy.deepcopy(beastmen)
+beastmen_leader.w = 2
 
 #####
 mutant = Unit()
