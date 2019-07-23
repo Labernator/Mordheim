@@ -148,6 +148,15 @@ def doShooting(tmp_data):
 			tryToHit(a, ta)
 			print
 
+			if a.shooty == True:
+				print "\t" + a.name + " has skill \'shooty\'"
+				tryToHit(a, ta)
+				print
+
+				print "\t" + a.name + " has skill \'shooty\'"
+				tryToHit(a, ta)
+				print
+
 			if a.quickShot == True:
 				print "\t" + a.name + " has skill \'quick shot\'"
 				tryToHit(a, ta)

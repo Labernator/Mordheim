@@ -388,6 +388,13 @@ g5.weapon = [
 	copy.deepcopy(spear)
 ]
 
+ork_goblins = []
+for i in range(11): # set the amount of goblins to create here
+	ork_goblins.append(copy.deepcopy(g1))
+	ork_goblins[i].name = "goblin " + str(i)
+	ork_goblins[i].bs = 3
+	ork_goblins[i].rs = 3
+
 #####
 chaos_warr = Unit()
 chaos_warr.name = "Chaos warrior"
@@ -409,6 +416,8 @@ chaos_warr.weapon = [
 #####
 goblin_leader = Unit()
 goblin_leader.name="goblin leader"
+goblin_leader.bs=4
+goblin_leader.rs=3
 goblin_leader.ws=3
 goblin_leader.s=3
 goblin_leader.t=3
@@ -489,15 +498,30 @@ giant_spider.weapon = [
 
 #####
 
-goblins = []
-for i in range(11): # set the amount of goblins to create here
-    goblins.append(copy.deepcopy(g1))
-    goblins[i].name = "goblin " + str(i)
-    goblins[i].bs = 4
-    goblins[i].rs = 4
+shooty_goblins = []
+for i in range(5): # set the amount of goblins to create here
+	shooty_goblins.append(copy.deepcopy(g1))
+	shooty_goblins[i].name = "shooty goblin " + str(i)
+	shooty_goblins[i].bs = 3
+	shooty_goblins[i].rs = 3
+	shooty_goblins[i].shooty = True
 
-goblin_hero1 = copy.deepcopy(goblins[0])
+forest_goblins = []
+for i in range(18): # set the amount of goblins to create here
+	forest_goblins.append(copy.deepcopy(g1))
+	forest_goblins[i].name = "forest goblin " + str(i)
+	forest_goblins[i].bs = 3
+	forest_goblins[i].rs = 3
+
+goblin_herder = forest_goblins[0]
+goblin_herder.name = "goblin herder"
+goblin_herder.bs = 2
+
+goblin_hero1 = copy.deepcopy(forest_goblins[0])
 goblin_hero1.name = "goblin hero 1"
+goblin_hero1.bs = 3
+goblin_hero1.rs = 3
+
 # remove second weapon
 del goblin_hero1.weapon[-1] # remove the offhand
 goblin_hero2 = copy.deepcopy(goblin_hero1)

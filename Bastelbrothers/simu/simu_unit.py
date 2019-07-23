@@ -22,6 +22,7 @@ class Unit:
     causedDead = 0
     toHitAdd = 0
 
+    shooty = False
     quickShot = False
     magicUser = False
     attackOnlyOneTarget = True

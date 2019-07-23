@@ -3,42 +3,13 @@ from units import *
 from units_kai import *
 
 attackers = []
-#attackers += [ sq1, sq2, g1, g2, ob1, ob2 ]
-
-#attackers += [ sq1 ]
-#attackers += [ sq2 ]
-#attackers += [ g1 ]
-#attackers += [ g2 ]
-#attackers += [ g3 ]
-#attackers += [ g4 ]
-#attackers += [ sq1, g1, g2, ob2, ob2, ork_shaman ]
-#attackers += [ sq1, sq2, sq3, sq4, sq5 ]
-#attackers += [ sq3 ]
-#attackers += [ ob1, ob2 ]
-
-#attackers += [ g1, g5 ]
-#attackers += [ ork_hero1 ]
-#attackers += [ ork_hero1, ork_hero4 ]
 
 # ork & goblins warband
-#attackers += [ sq1 ]
-#attackers += [ g1, g2 ]
-#attackers += [ ob1, ob2, ob3, ob4 ]
-#attackers += [ ob1, ob2, ob3 ]
-#attackers += [ ob1, ob2 ]
 attackers += [ ork_hero1, ork_hero2, ork_hero3, ork_hero4 ]
-#attackers += [ ork_hero3, ork_hero4 ]
-#attackers += [ ork_hero2, ork_hero3 ]
-#attackers += [ ork_hero1 ]
-#attackers += [ ork_shaman ]
+attackers += [ ork_shaman ]
 attackers += [ grumlok ]
-#grumlok.bs=5
-#grumlok.rs=5
-#grumlok.quickShot = True
-#attackers += [ black_ork ]
-#attackers += goblins 
-#attackers += [ ogre_bodyguard ]
-#attackers += [ vampire_master ]
+attackers += [ black_ork ]
+attackers += ork_goblins
 
 #g1.weapon  = [ copy.deepcopy(fist) ]
 #g2.weapon  = [ copy.deepcopy(fist) ]
@@ -64,10 +35,12 @@ attackers += [ grumlok ]
 #attackers += [ giantic_spider ]
 
 # initial goblin warband
-#attackers += goblins
+#attackers += shooty_goblins
+#attackers += forest_goblins
 #attackers += [ goblin_hero1, goblin_hero2, goblin_hero3 ]
 #attackers += [ goblin_shaman ]
 #attackers += [ giant_spider ]
+#attackers += [ goblin_herder ]
 #attackers += [ goblin_leader ]
 #attackers += [ giant_spider ]
 #attackers += [ giant_spider, copy.deepcopy(giant_spider), copy.deepcopy(giant_spider), copy.deepcopy(giant_spider), copy.deepcopy(giant_spider) ]
@@ -84,12 +57,13 @@ attackers += [ grumlok ]
 #target = grumm_giant
 #target = black_pegasus
 #target = grumlok2
+#target = grumlok
 #target = chaos_warr
 #target = centigor
 #target = beastmen
-#target = beastmen_leader
+target = beastmen_leader
 #target = pit_ogre
-target = pit_king
+#target = pit_king
 #target = g1
 #target = beastmen_hound
 #target = troll

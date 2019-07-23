@@ -8,7 +8,7 @@ import copy
 
 from simu_unit import *
 
-#from fight_declaration_kai import * # enable to debug only
+from fight_declaration_kai import * # enable to debug only
 
 try:
   from fight_declaration_kai import *
