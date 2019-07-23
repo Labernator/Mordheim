@@ -134,19 +134,17 @@ Black Orc (11): nein
 treasure chest before: 69 gc  
 
 sell 5 wyrdstone: +80 gc  
-sell 1 short bow: +3 gc  
 
 moneymaker: 2x +4 = +8 gc
 
 Upkeep Ogre: entlassen  
 Upkeep Black orc: -25 gc  
 
-Buy 3x crossbow (25 gc): -75 gc  
-Buy 6x bow (10 gc): -60 gc  
+Buy 5x crossbow (25 gc): -125 gc  
 
 Keine Hexe für Kai  
 
 Keine rare items gefunden  
 
-treasure chest new: 0 gc  
+treasure chest new: 7 gc  
 

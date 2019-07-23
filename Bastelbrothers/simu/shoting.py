@@ -127,7 +127,7 @@ def doShooting(tmp_data):
 
 	at = tmp_data[0]
 	ta = tmp_data[1]
-	r = 1
+	r = 0
 	#print ta.state
 	while ta.state < 3:
 		print "Round " + str(r) + "\n====================\n"
@@ -142,8 +142,13 @@ def doShooting(tmp_data):
 			printChar(ta)
 			print
 
+			ta.pre_state = ta.state
 			tryToHit(a, ta)
 			print
+
+			if a.quickShot == True:
+				tryToHit(a, ta)
+				print
 
 			printChar(a)
 			printChar(ta)
