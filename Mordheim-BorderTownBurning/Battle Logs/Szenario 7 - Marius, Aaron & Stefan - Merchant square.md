@@ -152,6 +152,8 @@ Kaufe 2 shelter women:
 Verkaufe Sword und war horn für 20gc => 34gc
 Heure einen neuen expert marksman an für 30
 => 4gc übrig
+Verkaufe 8 Dagger => 12gc
+Kaufe 2 Dark Steel Dagger => 0gc
 
 *Aaron*  
 
