@@ -1,15 +1,15 @@
 warband: Johannas Orphanage (Sisters of Sigmar)
 campaign: 9
-gc: 4
+gc: 0
 shards: 0
-equipment: 7x Dagger
+equipment: 1x Dagger
 objective: The Damned Shall Burn 
 alignment: Lawful
 
 heros:
     - hero: Johanna von Marienburg (Sigmarite Matriarch) [29XP]
       stats: M4, WS4, BS4, S3, T3, W1, I4, A1, Ld8, Sv4
-      weapons: Dagger, Sling, Sigmarite Warhammer
+      weapons: Dark Steel Dagger, Sling, Sigmarite Warhammer
       armour: Heavy Armor, Helmet, Rosary
       rules: Leader, Utter Determination, Pray User [Healing Hand], Vision, Haggle
       warbandaddition: 5
@@ -37,14 +37,14 @@ heros:
 
     - hero: Marie (Novice) [7XP]
       stats: M4, WS3, BS2, S3, T3, W2, I3, A1, Ld6, Sv4
-      weapons: Sigmarite Warhammer, Dagger, War Horn
+      weapons: Sigmarite Warhammer, Dark Steel Dagger
       rules: Fearsome
       armour: Heavy Armor, Helmet 
       skilllists: Strength, Combat
 
     - hero: Indira (Sigmarite Sister) [3XP]
       stats: M4, WS3, BS3, S3, T3, W1, I4, A1, Ld7, Sv5
-      weapons: Sigmarite Warhammer, Dagger, Sling
+      weapons: Sigmarite Warhammer, Dagger, Sling, War Horn
       armour: Light Armor
       skilllists: Strength, Combat
       
