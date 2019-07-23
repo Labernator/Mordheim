@@ -40,7 +40,7 @@ def getToHit(bs):
 
 def tryToHit(attacker, target):
 
-	if target.state == 2: # stunned
+	if target.state == 2 and target.pre_state == 2: # stunned
 		print "\t\tauto hit & wound -> ooA"
 		target.state = 3
 		attacker.causedOOA = attacker.causedOOA + 1
@@ -51,7 +51,7 @@ def tryToHit(attacker, target):
 	print "\tto hit on: " + str(tohit)
 	print "\thit roll: " + str(roll)
 
-	if target.state == 1: # knocked down
+	if target.state == 1 and target.pre_state == 1: # knocked down
 		if roll >= tohit:
 			print "\thit"
 			print "\t\tauto wound -> ooA"
@@ -88,8 +88,10 @@ def armorSaveGranted(s, _as):
 def tryToWound(attacker, target):
 	roll = rollD6()
 	towound = getMinWoundRoll(attacker.rs, target.t)
+
         print "\t\tto wound on: " + str(towound)
 	print "\t\twound roll: " + str(roll)
+
         if roll >= towound:
 		if roll == 6:
 			print "\t\tcrit"
@@ -138,8 +140,8 @@ def doShooting(tmp_data):
 			if ta.state > 2: # ooA
 				break
 			#print a.name + " vs " + target.name
-			printChar(a)
-			printChar(ta)
+			printChar(a, True)
+			printChar(ta, True)
 			print
 
 			ta.pre_state = ta.state
@@ -147,11 +149,12 @@ def doShooting(tmp_data):
 			print
 
 			if a.quickShot == True:
+				print "\t" + a.name + " has skill \'quick shot\'"
 				tryToHit(a, ta)
 				print
 
-			printChar(a)
-			printChar(ta)
+			printChar(a, True)
+			printChar(ta, True)
 			print
 		r = r + 1
 

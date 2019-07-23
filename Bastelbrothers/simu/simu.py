@@ -68,9 +68,15 @@ def getMinWoundRoll(s, t):
     #print "r = " + str(r)
     return r
 
-def printChar(u):
+def printChar(u, showBS=False):
     print u.name + " characteristics"
+    out = ""
+    if showBS == True:
+        sys.stdout.write("BS RS ")
+        out = str(u.bs) + "  " + str(u.rs) + "  "
+
     print "WS S T W I A AS St  CW CooA Cdead"
+
     state = ""
     if u.state == 0:
         state = "-"
@@ -83,7 +89,7 @@ def printChar(u):
     else:
         state = "ded"
 
-    out = str(u.ws) + "  " + str(u.s) + " " + str(u.t) + " " + str(u.w) + " " + str(u.i) + " " + str(u.a) + " " + str(u._as)
+    out = out + str(u.ws) + "  " + str(u.s) + " " + str(u.t) + " " + str(u.w) + " " + str(u.i) + " " + str(u.a) + " " + str(u._as)
     if u.i > 0:
       out = out + "  "
     else:
