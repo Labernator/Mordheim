@@ -48,7 +48,7 @@ heros:
       armour: Light Armor
       skilllists: Strength, Combat
       
-    - hero: Wilhelm (Expert Marksman) [12XP]
+    - hero: Wilhelm (Expert Marksman) [11XP]
       stats: M4, WS3, BS4, S3, T3, W1, I3, A1, Ld7, Sv5
       weapons: Sword, Dagger, Crossbow
       armour: Light Armor
@@ -57,7 +57,7 @@ heros:
       hiredsword: true
       
 henchmen:
-    - group: Brothel Girls (1 Novice) [12XP] 
+    - group: Brothel Girls (1 Novice) [11XP] 
       stats: M4, WS3, BS2, S3, T3, W1, I3, A2, Ld7, Sv-
       weapons: Dagger, Dagger
       
