@@ -44,6 +44,13 @@ def rollD6():
 def getMinHitRoll(ws1, ws2):
     if ws1 > ws2:
         return 3
+    elif ws1 == ws2:
+	return 4
+    elif (ws1 == 1 and ws2 >= 3) or \
+         (ws1 == 2 and ws2 >= ws1 + 3) or \
+         (ws1 == 3 and ws2 >= ws1 + 4) or \
+         (ws1 == 4 and ws2 >= ws1 + 5):
+	return 5
     else:
         return 4
 
@@ -909,6 +916,9 @@ def runSimulation():
     return statistic
 
 def printStatistic(statistic):
+    printStatistic_(statistic, args.max_tries)
+
+def printStatistic_(statistic, tries):
 
     cnt_knd = 0
     cnt_stn = 0
@@ -918,7 +928,7 @@ def printStatistic(statistic):
     cnt_cooa = 0
     cnt_cdead = 0
     tmp_stat_attackers = []
-    max_run = args.max_tries
+    max_run = tries
     tmp_rounds = 0
 
     for s in statistic:

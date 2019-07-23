@@ -1,7 +1,39 @@
 
 from simu_unit import *
+from weapons import *
 
 #####
+black_pegasus = Unit()
+black_pegasus.name = "Black pegasus"
+black_pegasus.ws = 3
+black_pegasus.s = 4
+black_pegasus.t = 4
+black_pegasus.w = 5
+black_pegasus.i = 3
+black_pegasus.a = 5
+black_pegasus._as = 5
+black_pegasus.noStrengthSaveMod = True
+black_pegasus.skullOfIron = True
+black_pegasus.weapon = [
+    copy.deepcopy(yaw)
+]
+
+#####
+grumm_giant = Unit()
+grumm_giant.name = "Grumm the giant"
+grumm_giant.hardToKill = True
+grumm_giant.grabIt = True
+grumm_giant.treeStrike = True
+grumm_giant.ws = 3
+grumm_giant.s = 7
+grumm_giant.t = 6
+grumm_giant.w = 6
+grumm_giant.i = 3
+grumm_giant.a = 1
+grumm_giant._as = 0
+grumm_giant.weapon = [
+    copy.deepcopy(club)
+]#####
 belandysh = Unit()
 belandysh.name = "belandysh"
 belandysh.t = 6

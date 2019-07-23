@@ -3,7 +3,8 @@ import copy
 
 class Unit:
     name = "troll"
-    bs = 3
+    bs = 3 # ballistic skill
+    rs = 3 # range strength
     t = 4
     s = 5
     ws = 3
@@ -21,6 +22,7 @@ class Unit:
     causedDead = 0
     toHitAdd = 0
 
+    magicUser = False
     attackOnlyOneTarget = True
     noStrengthSaveMod = False
     skullOfIron = False
