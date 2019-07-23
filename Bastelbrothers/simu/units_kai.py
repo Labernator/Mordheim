@@ -624,3 +624,18 @@ vampire_minor.weapon = [
 	copy.deepcopy(yaw)
 ]
 
+initiate = Unit()
+initiate.name = "Gaius Cordovan Eslam Galotta"
+initiate.ws = 3
+initiate.s = 4
+initiate.t = 4
+initiate.w = 1
+initiate.i = 3
+initiate.a = 1
+initiate._as = 0
+initiate.rabbitsFoot = True
+initiate.weapon = [
+	copy.deepcopy(dagger),
+	copy.deepcopy(dagger_offhand)
+]
+
