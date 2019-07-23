@@ -38,6 +38,25 @@ pit_ogre.weapon = [
 ]
 
 #####
+pit_king = Unit()
+pit_king.name = "pit fighter king"
+pit_king.ws = 4
+pit_king.s  = 4
+pit_king.t  = 4
+pit_king.w  = 2
+pit_king.i  = 4
+pit_king.a  = 2
+pit_king._as = 4
+pit_king.rabbitsFoot = True
+pit_king.resilient = True
+pit_king.weapon = [
+	copy.deepcopy(flail),
+]
+# bulding beaceps
+pit_king.weapon[0]["firstRoundSAdd"] = 0
+pit_king.weapon[0]["s"] = 2
+
+#####
 ogre_bodyguard = Unit()
 ogre_bodyguard.name = "ogre bodyguard"
 ogre_bodyguard.ws = 3
@@ -612,6 +631,8 @@ vampire_minor.weapon = [
 
 vampire_master = Unit()
 vampire_master.name = "Buerghomeister vampire"
+vampire_master.bs = 3
+vampire_master.rs = 2
 vampire_master.ws = 4
 vampire_master.s = 4
 vampire_master.t = 4

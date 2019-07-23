@@ -38,6 +38,7 @@ attackers += [ grumlok ]
 #attackers += [ black_ork ]
 #attackers += goblins 
 #attackers += [ ogre_bodyguard ]
+#attackers += [ vampire_master ]
 
 #g1.weapon  = [ copy.deepcopy(fist) ]
 #g2.weapon  = [ copy.deepcopy(fist) ]
@@ -88,11 +89,12 @@ attackers += [ grumlok ]
 #target = beastmen
 #target = beastmen_leader
 #target = pit_ogre
+target = pit_king
 #target = g1
 #target = beastmen_hound
 #target = troll
 #target = sig_novice
 #target = vampire_minor
 #target = vampire_master
-target = initiate
+#target = initiate
 

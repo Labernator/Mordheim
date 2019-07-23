@@ -263,3 +263,18 @@ giant_spider_yaw = {
     "range" : False,
 }
 
+flail = {
+    "type" : "flail",
+    "s" : 0,
+    "firstRoundSAdd" : 2,
+    "offhand" : False,
+    "toHitOffhand" : 0,
+    "toHit" : 0,
+    "toInjuryRoll" : 0, # spider poison +1
+    "as" : 0,
+    "a" : 0,
+    "stunnedMin" : 3,
+    "stunnedMax" : 4,
+    "range" : False,
+}
+
