@@ -86,7 +86,7 @@ Crates: 6 Repeater Crossbows + Gromril Weapon meiner Equipment Liste: Gromril Fl
 **Experience:**  
 *Marius*   
 Alle Helden +1  
-Novice group 1 +1  
+Novice group 1 +0 
 Novice group 3 +1  
 Novice group 4 +1  
 Shelter Women +1 => lvl up: +1 Strength   
