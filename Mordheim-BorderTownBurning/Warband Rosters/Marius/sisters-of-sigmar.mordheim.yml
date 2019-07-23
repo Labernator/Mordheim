@@ -1,8 +1,8 @@
 warband: Johannas Orphanage (Sisters of Sigmar)
 campaign: 9
-gc: 4
+gc: 0
 shards: 0
-equipment: 7x Dagger
+equipment: 1x Dagger
 objective: The Damned Shall Burn 
 alignment: Lawful
 active: true
@@ -10,7 +10,7 @@ active: true
 heros:
     - hero: Johanna von Marienburg (Sigmarite Matriarch) [29XP]
       stats: M4, WS4, BS4, S3, T3, W1, I4, A1, Ld8, Sv4
-      weapons: Dagger, Sling, Sigmarite Warhammer
+      weapons: Dark Steel Dagger, Sling, Sigmarite Warhammer
       armour: Heavy Armor, Helmet, Rosary
       rules: Leader, Utter Determination, Pray User [Healing Hand], Vision, Haggle
       warbandaddition: 5
@@ -38,18 +38,18 @@ heros:
 
     - hero: Marie (Novice) [7XP]
       stats: M4, WS3, BS2, S3, T3, W2, I3, A1, Ld6, Sv4
-      weapons: Sigmarite Warhammer, Dagger, War Horn
+      weapons: Sigmarite Warhammer, Dark Steel Dagger
       rules: Fearsome
       armour: Heavy Armor, Helmet 
       skilllists: Strength, Combat
 
     - hero: Indira (Sigmarite Sister) [3XP]
       stats: M4, WS3, BS3, S3, T3, W1, I4, A1, Ld7, Sv5
-      weapons: Sigmarite Warhammer, Dagger, Sling
+      weapons: Sigmarite Warhammer, Dagger, Sling, War Horn
       armour: Light Armor
       skilllists: Strength, Combat
       
-    - hero: Wilhelm (Expert Marksman) [12XP]
+    - hero: Wilhelm (Expert Marksman) [11XP]
       stats: M4, WS3, BS4, S3, T3, W1, I3, A1, Ld7, Sv5
       weapons: Sword, Dagger, Crossbow
       armour: Light Armor
@@ -58,7 +58,7 @@ heros:
       hiredsword: true
       
 henchmen:
-    - group: Brothel Girls (1 Novice) [12XP] 
+    - group: Brothel Girls (1 Novice) [11XP] 
       stats: M4, WS3, BS2, S3, T3, W1, I3, A2, Ld7, Sv-
       weapons: Dagger, Dagger
       
@@ -82,8 +82,9 @@ henchmen:
 notes: |
   Rosary: A prayer user wearing a Rosary may re-roll a failed Difficulty test if he has not done anything that turn except moving (no running) or remaining stationary. A Rosary cannot be used in combat.
   No Armor allowed: The Model cannot wear any armor.
-  Sigmarite Warhammer: +1 Strength 
+  Sigmarite Warhammer: +1 Strength, Concussion 
   Healing Hand (Complexity 5): Any one model within 2 inch of the Priest (including himself) may be healed. The warrior is restored to his full quota of Wounds. In addition, if any friendly models within 2 inch are stunned or knocked down, they immediately come to their senses, stand up, and continue fighting as normal.
   A war horn may be sounded once per battle at the beginning of any of the player's turn (just before a rout test). It allows the warband to increase its Leadership by +1. The effect will last until the start of the next turn. 
+  Dark Steel: Concussion, Critical Damage (+1 Injury Rolls)
 achievements: |
   Vision I
