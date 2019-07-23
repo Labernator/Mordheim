@@ -771,3 +771,11 @@ Arzuch (Old Battle Wound)
 **Warband Rating:** 313  
  
 ### Nachspiel  
+Tja, Nachspiel…  
+Ich werde die Geschichte um meine Pit Fighter an diesem Punkt einstellen. Es macht leider keinen großen Spaß mehr. Generell habe ich mich (sehr schweren Herzens) dazu entschlossen Mordheim für mich deutlich nach unten zu priorisieren.  
+
+Ich bin immer ziemlich investiert, wenn es um Hobby Projekte geht. Sei es Pappkarten oder Plastikfigürchen. Damit wächst mit der Zeit unbewusst auch eine Erwartungshaltung. Jetzt ist es Im Moment so, dass Kai, Marius und Aaron nicht nur Nachwuchs ins Haus steht, sondern auch das Haus ansteht. Die Zeit mit Neugeborenen ist was ganz besonderes (und auch ziemlich anstrengend…) und von daher ist es ganz natürlich, dass da viele Ressourcen gebunden werden. Alles andere wäre auch weder gut noch wünschenswert. Und dann gibt es da ja auch noch diverse Hausbau-Projekte.  
+
+Der langen Rede kurzer Sinn: Das Hobby (und mehr ist es ja auch nicht) hat für mich gefühlt einen zu hohen Stellenwert vergleichen mit dem Rest der Gruppe. Das fühlt sich nicht gut an. Um für mich eine bessere Balance herzustellen ist folglich der offensichtliche Schritt meine Priorisierung anzupassen. Und daraus resultierend mein Engagement.  
+
+Ab sofort gibt es an dieser Stelle also die Battle Logs.
