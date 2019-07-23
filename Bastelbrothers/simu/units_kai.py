@@ -320,7 +320,7 @@ ob2.i = 2
 ob2.a = 2
 ob2._as = 0
 ####
-ob3 = copy.deepcopy(ob2)
+ob3 = copy.deepcopy(ob1)
 ob3.name = "Orange (Ork boy)"
 ob3.bs = 0
 ob3.ws = 3

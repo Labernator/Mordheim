@@ -130,7 +130,7 @@ def doShooting(tmp_data):
 	r = 0
 	#print ta.state
 	while ta.state < 3:
-		print "Round " + str(r) + "\n====================\n"
+		print "Round " + str(r+1) + "\n====================\n"
 
 		for a in at:
 			if a.bs == 0:
@@ -176,6 +176,20 @@ if __name__ == "__main__":
 
 	if args.quiet == True:
 		blockPrint()
+
+	# remove all non shooting attacker from the list
+	#print len(attackers)
+	tmp = []
+	for a in attackers:
+		#print a.name + " " + str(a.bs)
+		if a.bs == 0:
+			#print "will be removed"
+			tmp.append(a)
+	for a in tmp:
+		#print "removed " + a.name
+		attackers.remove(a)
+
+	#print len(attackers)
 
 	statistic = doAllTries()
 
