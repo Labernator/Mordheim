@@ -186,26 +186,26 @@ if __name__ == "__main__":
 
 	args = parser.parse_args()
 
-	if args.quiet == True:
-		blockPrint()
-
 	# remove all non shooting attacker from the list
-	#print len(attackers)
 	tmp = []
 	for a in attackers:
-		#print a.name + " " + str(a.bs)
 		if a.bs == 0:
-			#print "will be removed"
 			tmp.append(a)
 	for a in tmp:
-		#print "removed " + a.name
 		attackers.remove(a)
 
-	#print len(attackers)
+	for a in attackers:
+		printChar(a, True)
+	print " vs "
+	printChar(target)
+	#print
+
+	if args.quiet == True:
+		blockPrint()
 
 	statistic = doAllTries()
 
 	enablePrint()
 
-	printStatistic_(statistic, args.max_tries)
+	printStatistic_(statistic, args.max_tries, False)
 

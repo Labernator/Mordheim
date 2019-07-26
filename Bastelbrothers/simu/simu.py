@@ -69,7 +69,7 @@ def getMinWoundRoll(s, t):
     return r
 
 def printChar(u, showBS=False):
-    print u.name + " characteristics"
+    print u.name + " stats"
     out = ""
     if showBS == True:
         sys.stdout.write("BS RS ")
@@ -909,10 +909,11 @@ def runSimulation():
     statistic = []
 
     if args.quiet == True:
-        printChar(target)
         for a in attackers:
             printChar(a)
-        print
+        print " vs "
+        printChar(target)
+        #print
 
         blockPrint()
 
@@ -924,7 +925,7 @@ def runSimulation():
 def printStatistic(statistic):
     printStatistic_(statistic, args.max_tries)
 
-def printStatistic_(statistic, tries):
+def printStatistic_(statistic, tries, showDetailStats=True):
 
     cnt_knd = 0
     cnt_stn = 0
@@ -995,11 +996,12 @@ def printStatistic_(statistic, tries):
         print "\n" + attackers[j].name + "\n====="
         print "caused wound " + str(tmp_stat_attackers[j][0] * 100.0) + " %"
         print "caused ooA   " + str(tmp_stat_attackers[j][1] * 100.0) + " %"
-        print "state normal " + str(tmp_stat_attackers[j][2] * 100.0) + " %"
-        print "state knd    " + str(tmp_stat_attackers[j][3] * 100.0) + " %"
-        print "state stn    " + str(tmp_stat_attackers[j][4] * 100.0) + " %"
-        print "state ooA    " + str(tmp_stat_attackers[j][5] * 100.0) + " %"
-        print "state dead   " + str(tmp_stat_attackers[j][6] * 100.0) + " %"
+        if showDetailStats == True:
+            print "state normal " + str(tmp_stat_attackers[j][2] * 100.0) + " %"
+            print "state knd    " + str(tmp_stat_attackers[j][3] * 100.0) + " %"
+            print "state stn    " + str(tmp_stat_attackers[j][4] * 100.0) + " %"
+            print "state ooA    " + str(tmp_stat_attackers[j][5] * 100.0) + " %"
+            print "state dead   " + str(tmp_stat_attackers[j][6] * 100.0) + " %"
 
         sum_state_norm = sum_state_norm + tmp_stat_attackers[j][2] * 100.0
         sum_state_knd  = sum_state_knd  + tmp_stat_attackers[j][3] * 100.0
@@ -1007,13 +1009,14 @@ def printStatistic_(statistic, tries):
         sum_state_ooa  = sum_state_ooa  + tmp_stat_attackers[j][5] * 100.0
         sum_state_dead = sum_state_dead + tmp_stat_attackers[j][6] * 100.0
 
-    print "\n=========="
-    print "unit count (" + str(len(attackers)) + ") / state per warband"
-    print "normal " + str(sum_state_norm / 100.0)
-    print "knd    " + str(sum_state_knd  / 100.0)
-    print "stn    " + str(sum_state_stn  / 100.0)
-    print "ooA    " + str(sum_state_ooa  / 100.0)
-    print "dead   " + str(sum_state_dead / 100.0)
+    if showDetailStats == True:
+        print "\n=========="
+        print "unit count (" + str(len(attackers)) + ") / state per warband"
+        print "normal " + str(sum_state_norm / 100.0)
+        print "knd    " + str(sum_state_knd  / 100.0)
+        print "stn    " + str(sum_state_stn  / 100.0)
+        print "ooA    " + str(sum_state_ooa  / 100.0)
+        print "dead   " + str(sum_state_dead / 100.0)
 
     print "\n=========="
     print "average rounds " + str(tmp_rounds / (max_run * 1.0))
@@ -1022,9 +1025,12 @@ def printStatistic_(statistic, tries):
     print target.name + " (" + str(max_run) + " tries)"
     print "=========="
     print "OOA in about " + str(cnt_ooa * (100.0)) + " %"
-    print "Caused a wound " + str(cnt_cw * 100.0) + " %"
-    print "Caused ooA " + str(cnt_cooa * 100.0) + " %"
-    print "Caused dead " + str(cnt_cdead * 100.0) + " %"
+
+    if showDetailStats == True:
+        print "Caused a wound " + str(cnt_cw * 100.0) + " %"
+        print "Caused ooA " + str(cnt_cooa * 100.0) + " %"
+        print "Caused dead " + str(cnt_cdead * 100.0) + " %"
+
     print
 
 # Disable
