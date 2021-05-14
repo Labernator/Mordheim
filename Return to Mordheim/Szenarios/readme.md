@@ -9,6 +9,7 @@ Die Szenarios zur Erkundung von Mordheim.
 ## The East  
  - The Great Library (Fanatic Online #46)  
  - The Poor Quarter (Writing on the wall, Fanatic Online #75)  
+ - The Market Square (The Merchant Square, Fanatic Online #82)  
 
 ## The River
  - The Middle Bridge (Fanatic Online #54)  
