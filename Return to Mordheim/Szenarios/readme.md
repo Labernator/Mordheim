@@ -5,6 +5,10 @@ Die Szenarios zur Erkundung von Mordheim.
 
 ## The West
  - The Raven Barracks (Fanatic Online #59)  
+ - The Gaol (The Gaol and Executioner, Fanatic Online #56)  
+ - Executioner's Square (The Gaol and Executioner, Fanatic Online #56)  
+ - The Cemetery  (The Cemetery, Fanatic Online #56)  
+ - Temple of Morr (The Gaol and Executioner, Fanatic Online #60)  
 
 ## The East  
  - The Great Library (Fanatic Online #46)  
