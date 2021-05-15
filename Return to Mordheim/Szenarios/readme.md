@@ -11,6 +11,8 @@ Die Szenarios zur Erkundung von Mordheim.
  - Temple of Morr (The Gaol and Executioner, Fanatic Online #60)  
  - Memorial Gardens (The Garden, Town Cryer #23)  
  - Rich Quarters (The Lost Prince, Mordheim Annual 2002)  
+ - Dwarven District (Hidden Treasure, Core Rulebook)  
+ - Count Steinhardt's Palace (Wyrdstone Hunt, Core Rulebook)  
 
 ## The East  
  - The Great Library (Fanatic Online #46)  
