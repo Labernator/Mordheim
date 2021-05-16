@@ -10,6 +10,10 @@ Dazu Szenarios die entweder im Town Cryer oder in Fanatic Online veröffentlicht
 
 ![Mordheim%20Map%20Campaign%202021.jpg](Mordheim%20Map%20Campaign%202021.jpg)  
 
+Die Kampagne spielt in Mordheim kurz nach dem Einschlag des Meteoriten. Gespielt wird auf der obigen Karte nach den Regeln.  
+Szenarios zu den einzelnen Locations befinden sich [hier](https://github.com/Labernator/Mordheim/tree/master/Return%20to%20Mordheim/Szenarios).  
+Diejenige Warband, die zuerst 20 Wyrdstone Shards gespart hat (nicht ausgegeben!) gewinnt die Kampagne. 
+
 # Houserules
  - Charge: Statt 2x Movement chargt man Movement +D6 (Core S. 26) 
  - Armour: Light, Heavy und Gromril Armour haben +1AS (Core S. 32)  
