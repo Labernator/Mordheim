@@ -1,5 +1,5 @@
 # Regeln
-Gespielt werden die richtig offiziellen Mordheim Regeln. Erstmal ohne Houserules und alles, sprich:  
+Gespielt werden die richtig offiziellen Mordheim Regeln. Erstmal fast ohne Houserules und alles, sprich:  
  - Mordheim Core Rulbook
  - Mordheim Annula 2002
  - Empire in Flames
