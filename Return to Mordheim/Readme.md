@@ -6,6 +6,8 @@ Gespielt werden die richtig offiziellen Mordheim Regeln. Erstmal fast ohne House
 
 Dazu Szenarios die entweder im Town Cryer oder in Fanatic Online veröffentlicht wurden.
 
+Alle spielbaren Warbands findet sich [hier](https://github.com/Labernator/Mordheim/tree/master/Return%20to%20Mordheim/Warbands).
+
 # Campaign
 
 ![Mordheim%20Map%20Campaign%202021.jpg](Mordheim%20Map%20Campaign%202021.jpg)  
