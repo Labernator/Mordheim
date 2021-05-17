@@ -8,7 +8,7 @@ Die Szenarios zur Erkundung von Mordheim.
  - The Gaol (The Gaol and Executioner, Fanatic Online #56)  
  - Executioner's Square (The Gaol and Executioner, Fanatic Online #56)  
  - The Cemetery  (The Cemetery, Fanatic Online #56)  
- - Temple of Morr (The Gaol and Executioner, Fanatic Online #60)  
+ - Temple of Morr (The Temple of Morr, Fanatic Online #60)  
  - Memorial Gardens (The Garden, Town Cryer #23)  
  - Rich Quarters (The Lost Prince, Mordheim Annual 2002)  
  - Dwarven District (Hidden Treasure, Core Rulebook)  
