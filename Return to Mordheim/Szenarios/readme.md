@@ -4,7 +4,7 @@ Die Szenarios zur Erkundung von Mordheim.
  - Gate (The West Gatehouse, Fanatic Online #77)  
 
 ## The West
- - The Raven Barracks (The Raven Barracks,Fanatic Online #59)  
+ - The Raven Barracks (The Raven Barracks, Fanatic Online #59)  
  - The Gaol (The Gaol and Executioner, Fanatic Online #56)  
  - Executioner's Square (The Gaol and Executioner, Fanatic Online #56)  
  - The Cemetery  (The Cemetery, Fanatic Online #56)  
