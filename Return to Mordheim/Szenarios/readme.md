@@ -13,6 +13,7 @@ Die Szenarios zur Erkundung von Mordheim.
  - Rich Quarters (The Lost Prince, Mordheim Annual 2002)  
  - Dwarven District (Hidden Treasure, Core Rulebook)  
  - Count Steinhardt's Palace (Wyrdstone Hunt, Core Rulebook)  
+ - Artisan Quarters (The Pool, Mordheim Annual 2002)  
 
 ## The East  
  - The Great Library (Fanatic Online #46)  
@@ -20,10 +21,12 @@ Die Szenarios zur Erkundung von Mordheim.
  - The Market Square (The Merchant Square, Fanatic Online #82)  
  - Quayside (Down by the Docks, Town Cryer #25)  
  - Sage's Hall (The Wizard's Mansion, Mordheim Annual 2002)  
- - The Pit (Monster Hunt, Mordheim Annual 2002)  
+ - Fence Alley (Monster Hunt, Mordheim Annual 2002)  
+ - The Pit (The Shadowlords Doorstep, Fanatic Online #88)  
  - Merchant's Quarter (Roundup at the Mordheim Corral, Fanatic Online #15)  
  - Clock Tower (Happy Harpy Hunting Ground, Fanatic Online #15)  
  - Little Moot (The Recipe, Fanatic Online #15)  
+ - Amphitheater (The Watchers, Town Cryer #26)  
 
 ## The River
  - The Middle Bridge (Fanatic Online #54)  
