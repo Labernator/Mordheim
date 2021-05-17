@@ -1,7 +1,7 @@
 Die Szenarios zur Erkundung von Mordheim.  
 
 ## Einstieg
- - Gate (The West Gatehouse, Fanatic Online #77)  
+ - Gate (Wyrdstone Hunt, Core Rulebook)  
 
 ## The West
  - The Raven Barracks (The Raven Barracks, Fanatic Online #59)  
@@ -12,7 +12,7 @@ Die Szenarios zur Erkundung von Mordheim.
  - Memorial Gardens (The Garden, Town Cryer #23)  
  - Rich Quarters (The Lost Prince, Mordheim Annual 2002)  
  - Dwarven District (Hidden Treasure, Core Rulebook)  
- - Count Steinhardt's Palace (Wyrdstone Hunt, Core Rulebook)  
+ - Count Steinhardt's Palace (The West Gatehouse, Fanatic Online #77)  
  - Artisan Quarters (The Pool, Mordheim Annual 2002)  
  - Statue of Count Gottard (Chance Encounter, Core Rulebook)  
 
