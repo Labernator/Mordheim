@@ -14,7 +14,7 @@ Die Szenarios zur Erkundung von Mordheim.
  - Dwarven District (Hidden Treasure, Core Rulebook)  
  - Count Steinhardt's Palace (Wyrdstone Hunt, Core Rulebook)  
  - Artisan Quarters (The Pool, Mordheim Annual 2002)  
- - Statue of Count Gottard
+ - Statue of Count Gottard (Chance Encounter, Core Rulebook)  
 
 ## The East  
  - The Great Library (The Great Library, Fanatic Online #46)  
@@ -29,7 +29,7 @@ Die Szenarios zur Erkundung von Mordheim.
  - Clock Tower (Happy Harpy Hunting Ground, Fanatic Online #15)  
  - Little Moot (The Recipe, Fanatic Online #15)  
  - Amphitheater (The Watchers, Town Cryer #26)  
- - Temple of Sigmar
+ - Temple of Sigmar (Defend the Find, Core Rulebook)  
 
 ## The River
  - The Middle Bridge (Fanatic Online #54)  
