@@ -21,7 +21,7 @@ Ich bin an die Warbanderstellung ziemlich naiv herangegangen: Kaufe alle Helden,
 -	5x Dagger 10  
 => 495
 
-Dann habe ich mir überlegt, dass die Dire Wolves eigentlich ziemlich gut sein sollten: M9 und zwei S4 Attacken on the charge. Klingt nicht schlecht. Das Problem ist nur, dass sie keine XP bekommen, wobei das vielleicht noch ok gewesen wäre. Schwerer wiegt, dass ihre Ini so niedrig ist. Sie schlagen nach jedem Helden zu. Wenn es also ein Held und ein Wolf chargen, dann ist es relativ wahrscheinlich, dass der Held den Gegner zu Boden schlägt und der Wolf ihn dann OOA haut. Und damit ist die XP dann verloren. Das ist irgendwie sehr dusslig. Deswegen habe ich mich dann doch für die vielen Ghoule entschieden.  
+Dann habe ich mir überlegt, dass die Dire Wolves eigentlich ziemlich gut sein sollten: M9 und zwei S4 Attacken on the charge. Klingt nicht schlecht. Das Problem ist nur, dass sie keine XP bekommen, wobei das vielleicht noch ok gewesen wäre. Schwerer wiegt, dass ihre Ini so niedrig ist. Sie schlagen nach jedem Helden zu. Wenn also ein Held und ein Wolf chargen, dann ist es relativ wahrscheinlich, dass der Held den Gegner zu Boden schlägt und der Wolf ihn dann OOA haut. Und damit ist die XP verloren. Das ist irgendwie sehr dusslig. Deswegen habe ich mich dann doch für die vielen Ghoule entschieden.  
 
 Aus reiner Powergaming Sicht müsste man die sieben Ghoule in einzelne Henchmen Groups aufteilen. So maximiert man die Chance auf Lad's Got Talent. Aber in aller Ehrlichkeit ist mir das viel zu viel bookkeeping. Also gibt es nur (die klar schlechteren) zwei Gruppen.  
 
