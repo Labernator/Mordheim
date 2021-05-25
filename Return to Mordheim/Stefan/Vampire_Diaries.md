@@ -18,7 +18,7 @@ Ich bin an die Warbanderstellung ziemlich naiv herangegangen: Kaufe alle Helden,
 -	Necromancer 35
 -	3x Dregs 60
 -	7x Ghouls 280
--	5x Dagger 10
+-	5x Dagger 10  
 => 495
 
 Dann habe ich mir überlegt, dass die Dire Wolves eigentlich ziemlich gut sein sollten: M9 und zwei S4 Attacken on the charge. Klingt nicht schlecht. Das Problem ist nur, dass sie keine XP bekommen, wobei das vielleicht noch ok gewesen wäre. Schwerer wiegt, dass ihre Ini so niedrig ist. Sie schlagen nach jedem Helden zu. Wenn es also ein Held und ein Wolf chargen, dann ist es relativ wahrscheinlich, dass der Held den Gegner zu Boden schlägt und der Wolf ihn dann OOA haut. Und damit ist die XP dann verloren. Das ist irgendwie sehr dusslig. Deswegen habe ich mich dann doch für die vielen Ghoule entschieden.  
