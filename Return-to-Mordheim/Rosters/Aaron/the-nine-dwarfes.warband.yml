@@ -1,0 +1,34 @@
+warband: The Nine Dwarfes (Dwarf Treasure Hunters)
+active: true
+campaign: 0
+gc: 0
+shards: 0
+equipment:
+
+# Max 12 units
+# Racial maximums (Dwarfs):
+# M3, WS7, BS6, S4, T5, W3, I5, A4, Ld10
+heros:
+    - hero: Ragnar (Noble) [32XP]
+      stats: M3, WS5, BS4, S3, T4, W1, I2, A1, Ld9, Sv-
+      weapons: Dwarf Axe, Dagger
+      armour:
+      rules: Leader
+
+henchmen:
+    - group: Beard Mob (4 Beardling) [13XP]
+      stats: M3, WS4, BS3, S3, T4, W1, I2, A2, Ld8, Sv-
+      weapons: Axe, Dagger
+      armour: Helmet
+
+    - group: The Enforcers (3 Beardling) [13XP]
+      stats: M3, WS4, BS2, S3, T4, W1, I3, A2, Ld8, Sv-
+      weapons: Dwarf Axe, Dagger
+      armour: Heavy Armour
+
+    - group: Snipers (1 Dwarf Ranger) [3XP]
+      stats: M3, WS4, BS3, S3, T4, W1, I3, A1, Ld9, Sv-
+      weapons: Crossbow, Axe, Dagger
+      armour: Light Armour, Lucky Charm
+
+notes: |
