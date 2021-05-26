@@ -15,26 +15,27 @@ heros:
       skilllists: Combat, Shooting, Strength, Special
       armour:
       rules: Leader
-heros:
+
     - hero: Ragnar (Engineer) [10XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       skilllists: Combat, Shooting, Special
       weapons: Crossbow, Dagger
       rules: Expert Weaponsmith
-heros:
+
     - hero: Ragnar (Troll Slayer) [8XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       skilllists: Combat, Strength, Special, Slayer Skills
       weapons: Axe, Axe, Dagger
       rules: Deathwish
-heros:
+
     - hero: Ragnar (Troll Slayer) [8XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       skilllists: Combat, Strength, Special, Slayer Skills
       weapons: Axe, Axe, Dagger
       rules: Deathwish
+
 henchmen:
-    - hero: Ragnar (1 Thunderer) [0XP]
+    - group: Ragnar (1 Thunderer) [0XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       weapons: Crossbow, Dagger
 
@@ -42,4 +43,4 @@ henchmen:
       stats: M3, WS3, BS2, S3, T4, W1, I2, A2, Ld8, Sv-
       weapons: Hammer, Hammer, Dagger
 
-notes: |
+notes:
