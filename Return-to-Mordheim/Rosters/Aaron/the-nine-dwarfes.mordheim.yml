@@ -1,7 +1,7 @@
 warband: The Nine Dwarfes (Dwarf Treasure Hunters)
-active: true
-campaign: 0
 gc: 1
+objective:
+alignment:
 shards: 0
 equipment:
 
