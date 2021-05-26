@@ -1,7 +1,7 @@
 warband: The Nine Dwarfes (Dwarf Treasure Hunters)
 active: true
 campaign: 0
-gc: 0
+gc: 1
 shards: 0
 equipment:
 
@@ -9,26 +9,37 @@ equipment:
 # Racial maximums (Dwarfs):
 # M3, WS7, BS6, S4, T5, W3, I5, A4, Ld10
 heros:
-    - hero: Ragnar (Noble) [32XP]
+    - hero: Ragnar (Noble) [20XP]
       stats: M3, WS5, BS4, S3, T4, W1, I2, A1, Ld9, Sv-
       weapons: Dwarf Axe, Dagger
+      skilllists: Combat, Shooting, Strength, Special
       armour:
       rules: Leader
-
+heros:
+    - hero: Ragnar (Engineer) [10XP]
+      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
+      skilllists: Combat, Shooting, Special
+      weapons: Crossbow, Dagger
+      rules: Expert Weaponsmith
+heros:
+    - hero: Ragnar (Troll Slayer) [8XP]
+      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
+      skilllists: Combat, Strength, Special, Slayer Skills
+      weapons: Axe, Axe, Dagger
+      rules: Deathwish
+heros:
+    - hero: Ragnar (Troll Slayer) [8XP]
+      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
+      skilllists: Combat, Strength, Special, Slayer Skills
+      weapons: Axe, Axe, Dagger
+      rules: Deathwish
 henchmen:
-    - group: Beard Mob (4 Beardling) [13XP]
-      stats: M3, WS4, BS3, S3, T4, W1, I2, A2, Ld8, Sv-
-      weapons: Axe, Dagger
-      armour: Helmet
+    - hero: Ragnar (1 Thunderer) [0XP]
+      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
+      weapons: Crossbow, Dagger
 
-    - group: The Enforcers (3 Beardling) [13XP]
-      stats: M3, WS4, BS2, S3, T4, W1, I3, A2, Ld8, Sv-
-      weapons: Dwarf Axe, Dagger
-      armour: Heavy Armour
-
-    - group: Snipers (1 Dwarf Ranger) [3XP]
-      stats: M3, WS4, BS3, S3, T4, W1, I3, A1, Ld9, Sv-
-      weapons: Crossbow, Axe, Dagger
-      armour: Light Armour, Lucky Charm
+    - group: Beard Mob (4 Beardling) [0XP]
+      stats: M3, WS3, BS2, S3, T4, W1, I2, A2, Ld8, Sv-
+      weapons: Hammer, Hammer, Dagger
 
 notes: |
