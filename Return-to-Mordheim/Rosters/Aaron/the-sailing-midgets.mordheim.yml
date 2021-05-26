@@ -13,6 +13,7 @@ heros:
       skilllists: Combat, Shooting, Strength, Special
       armour:
       rules: Leader
+      # Weapons: 2 handed weapon, um den Vampir zur Strecke zu bringen
 
     - hero: Loki (Engineer) [10XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
