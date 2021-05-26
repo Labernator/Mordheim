@@ -1,4 +1,4 @@
-warband: The Nine Dwarfes (Dwarf Treasure Hunters)
+warband: The Sailing Midgets (Dwarf Treasure Hunters)
 gc: 1
 objective:
 alignment:
@@ -6,40 +6,38 @@ shards: 0
 equipment:
 
 # Max 12 units
-# Racial maximums (Dwarfs):
-# M3, WS7, BS6, S4, T5, W3, I5, A4, Ld10
 heros:
-    - hero: Ragnar (Noble) [20XP]
+    - hero: Gunner (Noble) [20XP]
       stats: M3, WS5, BS4, S3, T4, W1, I2, A1, Ld9, Sv-
-      weapons: Dwarf Axe, Dagger
+      weapons: Dwarf Axe, Dwarf Axe, Dagger
       skilllists: Combat, Shooting, Strength, Special
       armour:
       rules: Leader
 
-    - hero: Ragnar (Engineer) [10XP]
+    - hero: Loki (Engineer) [10XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       skilllists: Combat, Shooting, Special
       weapons: Crossbow, Dagger
       rules: Expert Weaponsmith
 
-    - hero: Ragnar (Troll Slayer) [8XP]
+    - hero: Bork (Troll Slayer) [8XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       skilllists: Combat, Strength, Special, Slayer Skills
       weapons: Axe, Axe, Dagger
       rules: Deathwish
 
-    - hero: Ragnar (Troll Slayer) [8XP]
+    - hero: Eric (Troll Slayer) [8XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       skilllists: Combat, Strength, Special, Slayer Skills
       weapons: Axe, Axe, Dagger
       rules: Deathwish
 
 henchmen:
-    - group: Ragnar (1 Thunderer) [0XP]
+    - group: Sigfast (1 Thunderer) [0XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       weapons: Crossbow, Dagger
 
-    - group: Beard Mob (4 Beardling) [0XP]
+    - group: Drunken Oarsmen (4 Beardling) [0XP]
       stats: M3, WS3, BS2, S3, T4, W1, I2, A2, Ld8, Sv-
       weapons: Hammer, Hammer, Dagger
 
