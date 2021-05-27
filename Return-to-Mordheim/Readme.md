@@ -17,6 +17,6 @@ Szenarios zu den einzelnen Locations befinden sich [hier](https://github.com/Lab
 Diejenige Warband, die zuerst 20 Wyrdstone Shards gespart hat (nicht ausgegeben!) gewinnt die Kampagne. 
 
 # Houserules
- - Charge: Statt 2x Movement chargt man Movement +D6 (Core S. 26) 
+ - Charge: Statt 2x Movement chargt man Movement +D6 (Core S. 26). Der Sprint Skills erhöht den Charge um weitere D6. (Core S. 84)  
  - Armour: Light, Heavy und Gromril Armour haben +1AS (Core S. 32)  
  - Dual Wielding: Wenn man mit zwei Nahkampfwaffen kämpft hat man -1 to hit mit beiden. (Core S. 35) 
