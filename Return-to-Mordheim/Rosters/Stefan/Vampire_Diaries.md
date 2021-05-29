@@ -50,4 +50,13 @@ Aus reiner Powergaming Sicht müsste man die sieben Ghoule in einzelne Henchmen 
 
 *Ein Dämon beherrschte die Stadt, die Architektur selbst erschien verdreht und wer weiß was jetzt in den Gassen und Kellern hauste. Außerdem gab er sich keiner Sekunde dem Glauben hin, dass der Komet nicht unzählige Glücksritter aller Schattierungen anlocken würde. Konkurrenz.*  
 
-*Mit funkelnden Augen schritt er auf das schwarze Tor zu das sich wie ein gigantisches Maul in der Düsternis öffnete. "Mordheim, wir kommen!"*
+*Mit funkelnden Augen schritt er auf das schwarze Tor zu das sich wie ein gigantisches Maul in der Düsternis öffnete. "Mordheim, wir kommen!"*  
+
+**31.05.21 Szenario 1 - Wyrdstone Hunt**  
+Sooooo, übermorgen geht es los. Zurück nach Mordheim und ich bin sehr gehyped! Nur die offiziellen Regeln diesmal (und ein paar kleine Hausregeln). Voll gut. Aaron führt wieder die Zwerge ins Feld und ich habe immer noch großen Respekt. Aber diesmal hat meine Warband auch größtenteils T4, das ist schon mal gut.  
+
+Ich werde versuchen meinen (marginalen) Geschwindigkeitsvorteil und vor allem meine zahlenmäßige Überlegenheit zu nutzen. Mehrere Ghoule auf einen Zwerg ist das Ziel. Die Dregs und der Necro sind leider ziemlich nutzlos am Anfang. Ich hoffe, dass ich ein paar Kills mit ihnen abstauben kann, nachdem die Ghoule die Zwerge zu Boden geschlagen haben, aber große Hoffnung mache ich mir ehrlich gesagt keine.  
+
+Ganz anders der Vampir. Der ist richtig gut. 3 Attacken, S4, M6. Da könnte was gehen. Vielleicht kriege ich mit dem Gelände einen Diving Charge hin? Aber so ganz alleine kann der vermutlich auch keinen Zwerg umhauen. Wir werden sehen :)  
+
+Kurzfristig sind die Ziele auf jedem Held einen Rabbits Foot zu kriegen (rerolls!), auf 15 Warrior zu kommen (mit mind. 2 Wölfen) und natürlich den sechsten Helden zu erwürfeln. Irgendwann brauchen die Helden dann auch vernünftiges Equipment, aber das hat auf jeden Fall länger Zeit. Masse vor Klasse!  
