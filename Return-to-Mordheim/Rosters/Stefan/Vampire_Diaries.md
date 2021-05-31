@@ -67,7 +67,7 @@ Ich charge mit 4 Ghoulen, dem Vampir und dem Necro hoch, leider kommen nur der V
 
 Am Ende entscheidet sich Aaron sogar eine Runde nicht freiwillig zu routen um den Vampir zu kassieren. Es klappt (zu meinem Glück) nicht und das Spiel endet mit 6 Zwergen und einem Skelett OOA.  
 
-Entscheident für mich war auf jeden Fall das bessere Movement um an die Wyrdstones zu kommen, die vielen Attacken der Ghouls, die höhere Ini meiner Warband, wodurch ich bei den langen Kämpfen immer zu erst dran war und natürlich meine Rolls. Diese Rolls...  
+Entscheident für mich war auf jeden Fall das bessere Movement um an die Wyrdstones zu kommen, die vielen Attacken der Ghouls, die höhere Ini meiner Warband, wodurch ich bei den langen Kämpfen immer zu erst dran war und natürlich meine Rolls. Diese Rolls... Zum Ausgleich haben wir auch keinen einzigen Fear Test gewürfelt. 
 
 **Ergebnis:** Sieg       
 
