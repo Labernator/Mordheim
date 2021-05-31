@@ -27,7 +27,7 @@ Stefan:
 * Volrath: survived
 * Tevesh Szat: survived, WS (level up => new skill)
 * Greven il-Vec: survived, WS (level up => +1WS)
-* Gelbe Goule: survived, 4 kills, (2 level ups!! => +1WS, +1WS)
+* Gelbe Goule: survived, 4 kills, (2 level ups!! => +1WS, +1Ld)
 * Rote gouls: survived, 1 kill, (1 level up => +1WS)
 
 Aaron:
