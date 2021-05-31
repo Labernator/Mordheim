@@ -110,7 +110,7 @@ Phyrexian Ghoul (dead)
  => 1GC, 1 Wyrdstone und 2 Dolche übrig in der Kasse  
 
 *Heroes*  
-**Crovax, the Cursed** (Vampire, 24XP: Strongman): Double-handed Weapon, Lucky Charm und einen Rabbit's Foot  
+**Crovax, the Cursed** (Vampire, 24XP: Strongman): Double-handed Weapon, Lucky Charm, Rabbit's Foot  
 **Lim-Dul** (Necromancer, 9XP): 2x Dagger, Rabbit's Foot  
 **Volrath** (Dreg, 1XP): 2x Dagger  
 **Tevesh Szat** (Dreg, 2XP: Resilient): 2x Dagger, Rabbit's Foot  
