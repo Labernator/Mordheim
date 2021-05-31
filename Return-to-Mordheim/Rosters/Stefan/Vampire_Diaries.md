@@ -86,7 +86,7 @@ Phyrexian Ghoul (dead)
  - Barrow Ghouls +5 (survive, 4 kills): advance +1Ld, +1WS (autsch)
  - Phyrexian Ghouls +2 (survive, 1 kill): advance +1WS
 
-**Sonstiges:** Ich entlasse das letzte Mitglied der Blutige Äxte. Ich verkaufe die zwei Dagger.    
+**Sonstiges:** -    
 
 **Exploration:**  
 3 Wyrdstones   
