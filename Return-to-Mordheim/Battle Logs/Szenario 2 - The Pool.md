@@ -1,7 +1,8 @@
 **Szenario:** The Pool (Artisan Quaters)
 **Warband Rating:**  
- - Stefan: 
- - Aaron: 
+ - Stefan: 122
+ - Aaron: 95
+
 **Underdog:** -  
  
 **Battle Log:**  
@@ -9,9 +10,8 @@
 **Injuries:**  
  
 **Experience:**  
-Stefan:
-
-Aaron:
+Stefan:  
+Aaron:  
  
 **Exploration:**  
 * Stefan: 
