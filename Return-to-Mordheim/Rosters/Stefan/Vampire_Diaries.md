@@ -52,7 +52,7 @@ Aus reiner Powergaming Sicht müsste man die sieben Ghoule in einzelne Henchmen 
 
 *Mit funkelnden Augen schritt er auf das schwarze Tor zu das sich wie ein gigantisches Maul in der Düsternis öffnete. "Mordheim, wir kommen!"*  
 
-**31.05.21 Szenario 1 - Wyrdstone Hunt**  
+**31.05.21 Szenario 1 – Wyrdstone Hunt**  
 Sooooo, übermorgen geht es los. Zurück nach Mordheim und ich bin sehr gehyped! Nur die offiziellen Regeln diesmal (und ein paar kleine Hausregeln). Voll gut. Aaron führt wieder die Zwerge ins Feld und ich habe immer noch großen Respekt. Aber diesmal hat meine Warband auch größtenteils T4, das ist schon mal gut.  
 
 Ich werde versuchen meinen (marginalen) Geschwindigkeitsvorteil und vor allem meine zahlenmäßige Überlegenheit zu nutzen. Mehrere Ghoule auf einen Zwerg ist das Ziel. Die Dregs und der Necro sind leider ziemlich nutzlos am Anfang. Ich hoffe, dass ich ein paar Kills mit ihnen abstauben kann, nachdem die Ghoule die Zwerge zu Boden geschlagen haben, aber große Hoffnung mache ich mir ehrlich gesagt keine.  
@@ -124,4 +124,25 @@ Phyrexian Ghoul (dead)
 **Treasure Chest** 1GC, 1 Wyrdstone und 2 Dolche  
 **Warband Rating** 122  
 
-Nach der Postgame Sequence muss ich einigermaßen erstaunt feststellen, dass ich trotz des hohen Sieges nicht wirklich viel stärker geworden bin. Der Vampir mit dem Strongman-Skill ist sick! Das ist aber auch alles. Die Ghoule haben alle Rolls komplett gewifft (Ld macht gar nix und WS nützt nur was gegen die Beardlings in der Defensive). Das Warband Rating ist jetzt zwar wahnsinnig hoch, aber die dussligen Barrow Ghouls mit ihren bescheidenen Advances blähen es ziemlich künstlich auf. Oh well... 
+Nach der Postgame Sequence muss ich einigermaßen erstaunt feststellen, dass ich trotz des hohen Sieges nicht wirklich viel stärker geworden bin. Der Vampir mit dem Strongman-Skill ist sick! Das ist aber auch alles. Die Ghoule haben alle Rolls komplett gewifft (Ld macht gar nix und WS nützt nur was gegen die Beardlings in der Defensive). Das Warband Rating ist jetzt zwar wahnsinnig hoch, aber die dussligen Barrow Ghouls mit ihren bescheidenen Advances blähen es ziemlich künstlich auf. Oh well...
+
+*Crovax sah befriedigt auf den Splitter Wyrdstone in seiner Hand. Es war also wahr. Jeder Teil der Prophezeiung hatte sich als wahr erwiesen! Die gefallene Stadt war voller Wyrdstone und er würde sich bedienen. Großzügig!*  
+
+*Natürlich war auch seine eigene Prophezeiung eingetroffen. Kaum hatten sie das Stadttor hinter sich gelassen waren sie in einen Hinterhalt raffgieriger Halblinge geraten. Bolzen hatte von den Dächern gepfiffen und Zwerge mit finsterem Blick und blinkenden Äxten waren auf sie zugestürmt.*  
+
+*Crovax schnaubte unwillkürlich verächtlich auf bei der Erinnerung an den Kampf. Mit Leichtigkeit hatte er die Attacken der ungestümen Angreifer pariert, während seine Ghoule die Zwerge in die Flucht schlugen. Es war fast schon zu leicht gewesen. Zeit tiefer in die Stadt einzudringen…*  
+
+
+## Artisan Quarters  
+*"Diese feigen Halblinge sind Hals sind Kopf in diese Gassen geflohen!", schrie Volrath. Crovax seufzte innerlich. Immer dieser minderbemittelte Drang seines Untergebenen das Offensichtliche zu wiederholen. "Die horten doch immer Schätze, wir sollten sie verfolgen!".*  
+
+*Bedächtig sah Crovax sich um. Seine Untergebenen starrten ihn erwartungsvoll an. Crovax war ein mächtiger Vampir. Und man wurde nicht zu einem mächtigen Vampir, wenn man unbedachte oder überstürzte Entscheidungen traf. Sie waren neu in Mordheim. Sie kannten die Stadt nicht. Es schien auch keine Möglichkeit zu geben direkt an weitere Informationen zu kommen. A priori waren also alle Wege gleich gut. Und von allen Märchen über Zwerge abgesehen mussten die Halblinge in dieser verfluchten Stadt einen Unterschlupf oder ein Lager haben. Und da sie ihm so offensichtlich unterlegen waren, würde es ihm ein leichtes sein, diesen zu erobern.*  
+
+*"Wir folgen den Halblingen.", entschied Crovax und deutete mit seinem Schwert auf die Gasse. Sofort hetzten die Ghoule los. Crovax und seine Untergebenen folgten in gebührendem Abstand. Die Gasse führt nach vielen Abzweigungen und Winkeln in ein Viertel, in dem zu besseren Zeiten wohl Künstler gewohnt haben mochten. Zerschmetterte Bühnen, Verbrannte Podeste und verlassene Schenken.*  
+
+*Inmitten all der Zerstörung lag ein Teich. Ein Teilstück des Kometen musste hier niedergegangen sein und alles im Umfeld pulverisiert haben, vermutete Crovax. Und tatsächlich sah er das verheißungsvolle Glimmen von Wyrdstone am Grunde des Teichs schimmern. Er wollte gerade in den Teich waten, als ihm ein Armbrustbolzen über den Kopf pfiff.*  
+
+*"Sieht so aus als hätten die immer noch nicht genug!", zischte Greven.
+
+**14.06.21 Szenario 2 – The Pool**  
+
