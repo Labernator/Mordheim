@@ -142,7 +142,7 @@ Nach der Postgame Sequence muss ich einigermaßen erstaunt feststellen, dass ich
 
 *Inmitten all der Zerstörung lag ein Teich. Ein Teilstück des Kometen musste hier niedergegangen sein und alles im Umfeld pulverisiert haben, vermutete Crovax. Und tatsächlich sah er das verheißungsvolle Glimmen von Wyrdstone am Grunde des Teichs schimmern. Er wollte gerade in den Teich waten, als ihm ein Armbrustbolzen über den Kopf pfiff.*  
 
-*"Sieht so aus als hätten die immer noch nicht genug!", zischte Greven.
+*"Sieht so aus als hätten die immer noch nicht genug!", zischte Greven.*
 
 **14.06.21 Szenario 2 – The Pool**  
 
