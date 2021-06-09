@@ -11,14 +11,13 @@
 * Thunderer killt ein roter goul
 * Gelber goul kill troll slayer 1
 * Gelber goul killt drunken oarsmen
-* Gelber gould killt drunken oarsmen
+* Gelber goul killt drunken oarsmen
  
 **Injuries:**  
 * Roter goul tot
 * 2x drunken oarsmen tot
 * Engineer lebt
 * Troll Slayer lebt
-
  
 **Experience:**  
 Stefan:

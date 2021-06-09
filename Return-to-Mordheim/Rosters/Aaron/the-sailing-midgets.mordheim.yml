@@ -1,13 +1,13 @@
 warband: The Sailing Midgets (Dwarf Treasure Hunters)
-gc: 1
 objective:
 alignment:
+gc: 46
 shards: 0
-equipment:
+equipment: Rabbit Foot
 
 # Max 12 units
 heros:
-    - hero: Gunner (Noble) [20XP]
+    - hero: Gunner (Noble) [21XP]
       stats: M3, WS5, BS4, S3, T4, W1, I2, A1, Ld9, Sv-
       weapons: Dwarf Axe, Dwarf Axe, Dagger
       skilllists: Combat, Shooting, Strength, Special
@@ -21,7 +21,7 @@ heros:
       weapons: Crossbow, Dagger
       rules: Expert Weaponsmith
 
-    - hero: Bork (Troll Slayer) [8XP]
+    - hero: Bork (Troll Slayer) [9XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       skilllists: Combat, Strength, Special, Slayer Skills
       weapons: Axe, Axe, Dagger
@@ -34,11 +34,11 @@ heros:
       rules: Deathwish
 
 henchmen:
-    - group: Sigfast (1 Thunderer) [0XP]
-      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
+    - group: Sigfast (1 Thunderer) [2XP]
+      stats: M3, WS4, BS3, S4, T4, W1, I2, A1, Ld9, Sv-
       weapons: Crossbow, Dagger
 
-    - group: Drunken Oarsmen (4 Beardling) [0XP]
+    - group: Drunken Oarsmen (2 Beardling) [0XP]
       stats: M3, WS3, BS2, S3, T4, W1, I2, A2, Ld8, Sv-
       weapons: Hammer, Hammer, Dagger
 
