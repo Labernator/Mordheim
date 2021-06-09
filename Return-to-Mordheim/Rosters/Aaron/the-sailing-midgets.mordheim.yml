@@ -1,36 +1,36 @@
 warband: The Sailing Midgets (Dwarf Treasure Hunters)
 objective:
 alignment:
-gc: 46
+gc: 0
 shards: 0
-equipment: Rabbit Foot
+equipment:
 
 # Max 12 units
 heros:
     - hero: Gunner (Noble) [21XP]
       stats: M3, WS5, BS4, S3, T4, W1, I2, A1, Ld9, Sv-
-      weapons: Dwarf Axe, Dwarf Axe, Dagger
+      weapons: Dwarf Axe, Dwarf Axe
       skilllists: Combat, Shooting, Strength, Special
-      armour:
+      armour: Rabbit Foot
       rules: Leader
       # Weapons: 2 handed weapon, um den Vampir zur Strecke zu bringen
 
     - hero: Loki (Engineer) [10XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       skilllists: Combat, Shooting, Special
-      weapons: Crossbow, Dagger
+      weapons: Crossbow
       rules: Expert Weaponsmith
 
     - hero: Bork (Troll Slayer) [9XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       skilllists: Combat, Strength, Special, Slayer Skills
-      weapons: Axe, Axe, Dagger
+      weapons: Axe, Axe
       rules: Deathwish
 
     - hero: Eric (Troll Slayer) [8XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       skilllists: Combat, Strength, Special, Slayer Skills
-      weapons: Axe, Axe, Dagger
+      weapons: Axe, Axe
       rules: Deathwish
 
 henchmen:
@@ -38,8 +38,8 @@ henchmen:
       stats: M3, WS4, BS3, S4, T4, W1, I2, A1, Ld9, Sv-
       weapons: Crossbow, Dagger
 
-    - group: Drunken Oarsmen (2 Beardling) [0XP]
+    - group: Drunken Oarsmen (4 Beardling) [0XP]
       stats: M3, WS3, BS2, S3, T4, W1, I2, A2, Ld8, Sv-
-      weapons: Hammer, Hammer, Dagger
+      weapons: Hammer, Dagger
 
 notes:
