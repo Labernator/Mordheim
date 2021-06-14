@@ -2,45 +2,64 @@ warband: The Sailing Midgets (Dwarf Treasure Hunters)
 objective:
 alignment:
 gc: 0
-shards: 4
-equipment: Dagger
-
-# Option für 3x Rabbit Foot (Rare item)
+shards: 1
+equipment:
 
 # Max 12 units
 heros:
     - hero: Gunner (Noble) [24XP]
-      stats: M3, WS5, BS5, S3, T4, W1, I2, A1, Ld9, Sv-
-      weapons: Dwarf Axe, Dwarf Axe
+      stats: M3, WS5, BS5, S3, T4, W1, I2, A1, Ld9, Sv6
+      weapons: Crossbow, Dagger, Dagger
       skilllists: Combat, Shooting, Strength, Special
-      armour: Rabbit Foot, Light Armour
+      armour: Light Armour, Helmet, Garlic
       rules: Leader
 
     - hero: Loki (Engineer) [13XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       skilllists: Combat, Shooting, Special
-      weapons: Crossbow
+      weapons: Crossbow, Axe, Dagger
+      armour: Helmet
       rules: Expert Weaponsmith, Quick Shoot
 
     - hero: Bork (Troll Slayer) [12XP]
       stats: M3, WS5, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       skilllists: Combat, Strength, Special, Slayer Skills
-      weapons: Axe, Dagger
+      weapons: Dwarf Axe, Dagger
+      armour: Rabbit Foot
       rules: Deathwish
 
     - hero: Eric (Troll Slayer) [10XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       skilllists: Combat, Strength, Special, Slayer Skills
-      weapons: Axe, Dagger
+      weapons: Dwarf Axe, Dagger
+      armour: Rabbit Foot
       rules: Deathwish
 
 henchmen:
     - group: Sigfast (1 Thunderer) [3XP]
       stats: M3, WS4, BS3, S4, T4, W1, I2, A1, Ld9, Sv-
-      weapons: Crossbow, Dagger
+      weapons: Axe, Dagger
 
     - group: Drunken Oarsmen (3 Beardling) [3XP]
       stats: M3, WS3, BS2, S3, T4, W1, I3, A1, Ld8, Sv-
       weapons: Hammer, Dagger
+      armour: Helmet
 
 notes:
+# Rare Items search:
+# * Lucky Charm (10GC, Rare 6, Ignore 1 hit on 4+)
+# * Rabbit Foot (10GC, Rare 5, ReRoll once, Injury von Stunned zu OOA verwandeln)
+# * Blessed Water (10GC+3D6GC, Rare 6)
+# * Horse (40GC, Rare 8, M8)
+
+# Equipment
+# * Helmets für alle (10GC, 4+ Save für Stunned)
+# * Rope & Hook (5GC, Reroll Ini-Tests beim Klettern)
+# * Garlic (1GC, Ld Test für Vampir, hält nur 1 Battle, ob benutzt oder nicht)
+
+# Skills
+# * Mighty Blow (+1S)
+# * Resilient (-1S from all Hits)
+# * Step Aside (Additional 5+ Save ohne penalty)
+# * Wyrdstone Hunter (1 ReRoll in der Exploration-Phase)
+# * Haggle (-2D6 vom Preis eines Items)
