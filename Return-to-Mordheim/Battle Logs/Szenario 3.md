@@ -50,7 +50,7 @@ Aaron:
 
 **Trading:**  
 * Stefan: 
-- 3 Shards verkauften (+ 60 GC)
+- 1 Shard verkauften (+ 30 GC) => 35GC und 4 Shards auf der hohen Kante. 
 - 
 * Aaron: 
 - 3 Shards verkaufen (+65 GC)
