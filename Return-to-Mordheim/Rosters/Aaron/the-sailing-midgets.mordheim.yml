@@ -2,12 +2,12 @@ warband: The Sailing Midgets (Dwarf Treasure Hunters)
 objective:
 alignment:
 gc: 0
-shards: 0
+shards: 2
 equipment:
 
 # Max 12 units
 heros:
-    - hero: Gunner (Noble) [21XP]
+    - hero: Gunner (Noble) [22XP]
       stats: M3, WS5, BS4, S3, T4, W1, I2, A1, Ld9, Sv-
       weapons: Dwarf Axe, Dwarf Axe
       skilllists: Combat, Shooting, Strength, Special
@@ -15,13 +15,13 @@ heros:
       rules: Leader
       # Weapons: 2 handed weapon, um den Vampir zur Strecke zu bringen
 
-    - hero: Loki (Engineer) [10XP]
+    - hero: Loki (Engineer) [11XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       skilllists: Combat, Shooting, Special
       weapons: Crossbow
-      rules: Expert Weaponsmith
+      rules: Expert Weaponsmith, Quick Shoot
 
-    - hero: Bork (Troll Slayer) [9XP]
+    - hero: Bork (Troll Slayer) [10XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       skilllists: Combat, Strength, Special, Slayer Skills
       weapons: Axe, Axe
@@ -34,12 +34,12 @@ heros:
       rules: Deathwish
 
 henchmen:
-    - group: Sigfast (1 Thunderer) [2XP]
+    - group: Sigfast (1 Thunderer) [3XP]
       stats: M3, WS4, BS3, S4, T4, W1, I2, A1, Ld9, Sv-
       weapons: Crossbow, Dagger
 
-    - group: Drunken Oarsmen (4 Beardling) [0XP]
-      stats: M3, WS3, BS2, S3, T4, W1, I2, A2, Ld8, Sv-
+    - group: Drunken Oarsmen (3 Beardling) [2XP]
+      stats: M3, WS3, BS2, S3, T4, W1, I3, A1, Ld8, Sv-
       weapons: Hammer, Dagger
 
 notes:
