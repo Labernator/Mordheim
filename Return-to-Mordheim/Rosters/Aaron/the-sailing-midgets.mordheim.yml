@@ -2,7 +2,7 @@ warband: The Sailing Midgets (Dwarf Treasure Hunters)
 objective:
 alignment:
 gc: 0
-shards: 2
+shards: 0
 equipment:
 
 # Max 12 units
@@ -11,7 +11,7 @@ heros:
       stats: M3, WS5, BS4, S3, T4, W1, I2, A1, Ld9, Sv-
       weapons: Dwarf Axe, Dwarf Axe
       skilllists: Combat, Shooting, Strength, Special
-      armour: Rabbit Foot
+      armour: Rabbit Foot, Light Armour
       rules: Leader
       # Weapons: 2 handed weapon, um den Vampir zur Strecke zu bringen
 
@@ -24,13 +24,13 @@ heros:
     - hero: Bork (Troll Slayer) [10XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       skilllists: Combat, Strength, Special, Slayer Skills
-      weapons: Axe, Axe
+      weapons: Axe, Dagger
       rules: Deathwish
 
     - hero: Eric (Troll Slayer) [8XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
       skilllists: Combat, Strength, Special, Slayer Skills
-      weapons: Axe, Axe
+      weapons: Axe, Dagger
       rules: Deathwish
 
 henchmen:
@@ -38,7 +38,7 @@ henchmen:
       stats: M3, WS4, BS3, S4, T4, W1, I2, A1, Ld9, Sv-
       weapons: Crossbow, Dagger
 
-    - group: Drunken Oarsmen (3 Beardling) [2XP]
+    - group: Drunken Oarsmen (4 Beardling) [2XP]
       stats: M3, WS3, BS2, S3, T4, W1, I3, A1, Ld8, Sv-
       weapons: Hammer, Dagger
 
