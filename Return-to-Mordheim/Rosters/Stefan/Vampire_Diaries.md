@@ -82,7 +82,7 @@ Phyrexian Ghoul (dead)
  - Lim-Dul +1 (survive)
  - Volrath +1 (survive)
  - Tevesh Szat +2 (survive, wyrdstone): advance Skill (Resilient)
- - Greven il-Vec (survive, wyrdstone): advance +1WS
+ - Greven il-Vec +2 (survive, wyrdstone): advance +1WS
  - Barrow Ghouls +5 (survive, 4 kills): advance +1Ld, +1WS (autsch)
  - Phyrexian Ghouls +2 (survive, 1 kill): advance +1WS
 
@@ -145,4 +145,68 @@ Nach der Postgame Sequence muss ich einigermaßen erstaunt feststellen, dass ich
 *"Sieht so aus als hätten die immer noch nicht genug!", zischte Greven und zog seine Dolche.*
 
 **14.06.21 Szenario 2 – The Pool**  
+Ich kriege den ersten Zug, was speziell in dem Szenario wirklich wichtig ist. So kann mein Vampir bereits in der zweiten Runde anfangen zu Suchen und alle anderen Helden in der Dritten. Leider finden sie erstmal nix. Meine Ghoule baue ich als Schutzschirm vor die Helden und dann kommt Aaron an.  
 
+Sieben Zwerge (höhöhö) sagen ihr Charges an, aber wegen niedriger Charge-Rolls und verwürfelter Fear Tests kommen nur 3 an! Der Boss charged meinen Necro. Hier habe ich einen kompletten Aussetzer und intercepte nicht mit einem Ghoul. Ein teurer Fehler… Meine Zuversicht schwindet, als mir Aaron mit seinen drei Mann direkt den necro und einen Ghoul raushaut. In meiner Runde fällt dann noch ein weiterer Ghoul und damit ist es schon alles andere als rosig.
+
+Jetzt müsste ich eigentlich Rout-Tests machen, aber irgendwie denke ich, dass die erst über 25% gelten. Das zieht sich auch durch, weil ich den ganzen Tag davon ausgehe, dass ich Aaron vier Zwerge rausschlagen muss (was ja völliger Quatsch ist, selbst mit >25%). Jedenfalls besinnen sich jetzt meine Jungs langsam darauf, dass sie ja auch kämpfen können und so schlage ich in den nächsten Runden drei Helden und zwei Henchmen ooA. Und in der letzten Runde kann ich tatsächlich die letzten beiden Wyrdstones rausfischen. Insgesamt 4 Stück. Sehr gut.
+
+In der Post-Game-Sequence bin ich schon ganz happy, dass beide Ghoule überleben und dann stirbt mein Necro… Mit einem Rabbit's Foot. Teurer Fehler… Also einen neuen Necro gekauft und schon auf einen sinnvollen Spell spekuliert, aber nein, auch der kann wieder Re-Animation. Großes Kino.
+
+**Ergebnis:** Sieg       
+
+**Gefallene Krieger:**  
+2x Barrow Ghoul (recovery)  
+Lim-Dul (dead)  
+
+**Belohnungen:**   
+4 Wyrdstones  
+
+**Experience:**  
+ - Crovax: +4 (survive, leader, kill, wyrdstone): advance Skill (Resilient)
+ - Volrath +1 (survive) : advance +1Ld
+ - Tevesh Szat +3 (survive, 2x wyrdstone): advance +1I
+ - Greven il-Vec +2 (survive, wyrdstone): advance +1S
+ - Barrow Ghouls +3 (survive, kill)
+ - Phyrexian Ghouls +3 (survive, 2x kill): advance +1Ld (genau)
+- Ashen Ghouls +2 (survive, kill): advance +1I (yes)
+
+**Sonstiges:** -    
+
+**Exploration:**  
+4 Wyrdstones   
+66: 3GC  
+
+**Trading:**  
+-	In der Kasse vom letzten Mal: 1GC  
+-	Verkaufe 7 Wyrdstones: 110 GC   
+-	Aus der Exploration: 3GC
+=> 114GC  
+
+ - 3x Rabbit's Foot: 30 GC 
+ - Neuer Ashen Ghoul (2XP): 44GC
+ - Neuer Necro: 35GC
+ => 109GC
+
+**Reallocate equipment:**  
+ - Volrath erhält einen Rabbit's Foot  
+ - Greven erhält einen Rabbit's Foot  
+ - Lim-Dul II. erhält einen Rabbit's Foot und einen Dolch  
+ => 5GC, 2 Wyrdstone und 1 Dolch übrig in der Kasse  
+
+*Heroes*  
+**Crovax, the Cursed** (Vampire, 28XP: Strongman, Resilient): Double-handed Weapon, Lucky Charm, Rabbit's Foot  
+**Lim-Dul II.** (Necromancer, 8XP): 2x Dagger, Rabbit's Foot  
+**Volrath** (Dreg, 2XP: +1I): 2x Dagger, Rabbit's Foot    
+**Tevesh Szat** (Dreg, 5XP: Resilient, +1S): 2x Dagger, Rabbit's Foot  
+**Greven il-Vec** (Dreg, 4XP: +1WS, +1S): 2x Dagger, Rabbit's Foot    
+
+*Henchmen*  
+**Barrow Ghouls** (4x Ghoul, 7XP: +1WS, +1Ld)  
+**Phyrexian Ghouls** (2x Ghoul, 2XP: +1WS, +1Ld)  
+**Ashen Ghouls** (2x Ghoul, 2XP: +1I)
+
+**Treasure Chest** 5GC, 2 Wyrdstone und 1 Dolch  
+**Warband Rating** 148  
+
+*So schnell die Zwerge gekommen waren, so schnell waren sie auch wieder verschwunden. Crovax und seine Untergebenen hatten sie in die Flucht geschlagen. Offensichtlich hatten sie ihr Lager doch nicht hier.*
