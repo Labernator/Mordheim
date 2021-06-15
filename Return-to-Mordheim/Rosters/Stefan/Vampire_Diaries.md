@@ -208,6 +208,7 @@ Lim-Dul (dead)
 
 **Treasure Chest** 5GC, 2 Wyrdstone und 1 Dolch  
 **Warband Rating** 154  
+
 *So schnell die Zwerge gekommen waren, so schnell waren sie auch wieder verschwunden. Crovax und seine Untergebenen hatten sie in die Flucht geschlagen. Offensichtlich hatten sie ihr Lager doch nicht hier. Crovax wollte sich gerade wieder dem Teich zuwenden, als er ein unterdrücktes Stöhnen vernahm.*  
 
 *Lim-Dul kniete im unheilig schimmernden Wasser des Teiches. Seine Augen waren verdreht so dass man nur noch das Weiße sehen konnte, die Hände verkrampft. Seine Fingernägel hatten sich bis auf's Blut in die Handflächen gebohrt und er stammelte unverständlich in einer Crovax unbekannten Sprache. Interessiert trat der Vampir näher.*  
@@ -222,7 +223,7 @@ Lim-Dul (dead)
 
 *"Was brauchen wir für dieses Ritual? Und wo müssen wir es durchführen? Und wann?", Crovax sah Lim-Dul ungeduldig an. "Als erstes brauchen wir eine armlange Wurzel eines lebenden Baumes, Meister. Die muss ich drei Tage lang auskochen. Dann…" "Genug!", befahl Crovax und verdrehte die Augen. Diese Magier mit ihren Ritualen. "Wo wachsen hier lebende Bäume? In dieser von den Göttern verlassenen Stadt?!"*
 
-*Volrath näherte sich gebeugt und deutete eine Straße entlang. "Herr, dort hinten liegt ein Park. Oder etwas das früher mal ein Park war.", sagte er unterwürfig. Der Vampir nickte bedächtig. "Nun gut. Schauen wir doch mal, was Mordheim noch so zu bieten hat."
+*Volrath näherte sich gebeugt und deutete eine Straße entlang. "Herr, dort hinten liegt ein Park. Oder etwas das früher mal ein Park war.", sagte er unterwürfig. Der Vampir nickte bedächtig. "Nun gut. Schauen wir doch mal, was Mordheim noch so zu bieten hat."*
 
 **14.06.21 Szenario 2 – A Stroll in the Garden**  
 Das Szenario hatte eine ziemlich interessante Dynamik: Jeder Held sollte einmal von den Pflanzen attackiert werden (das gibt extra XP). Aber am besten auch nicht mehr als einmal um nicht Schaden zu nehmen. Durch die reichlich Pflanzen auf dem Board und den sowieso schon verwinkelten Gassen war die Bewegung ziemlich kompliziert.  
@@ -288,5 +289,6 @@ Phyrexian Ghoul (dead)
 Puh, nach drei Spielen ist es an der Zeit meine Taktik zu überdenken. Ich habe sieben zusätzliche Wyrdstone aus den ersten beiden Szenarien bekommen. Trotzdem ist meine Warband nicht gewachsen. Ich habe Aaron insgesamt 6 Helden ooA geschlagen, aber nicht mal einen Kratzer an Injuries gemacht. Und trotz 6 Versuchen habe ich noch keinen sechsten Helden. Daraus folgen folgende Erkenntnis:  
  * Ich konnte Aarons Warband nicht nennenswert klein halten und jetzt hat er Quick Shot auf dem Engineer und BS 5 auf dem Lord. Das wird auf die Dauer zum Problem, da ich Fernkampf nichts entgegensetzen kann und immer rein rennen muss.
  * Aaron wird immer mehr Wyrdstone in der Exploration erwirtschaften als ich. Wenn ich also zuerst auf 20 kommen will muss ich anfangen zu sparen.
+ * Aufgrund meiner überlevelten Ghoule bekommt Aaron jetzt vermutlich den Underdog Bonus.
  * Die Kampagne wird im Laufe der Zeit vermutlich immer schwieriger für mich. Deswegen versuche ich jetzt so schnell wie (sinnvoll) möglich zu gewinnen. 
 Soweit der Plan nach drei Spielen. Mal schauen wie er aufgeht :)
