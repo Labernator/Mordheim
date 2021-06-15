@@ -292,7 +292,7 @@ Phyrexian Ghoul (dead)
 **Treasure Chest** 25GC, 4 Wyrdstone und 3 Dolche  
 **Warband Rating** 172  
 
-Puh, nach drei Spielen ist es an der Zeit meine Taktik zu überdenken. Ich habe sieben zusätzliche Wyrdstone aus den ersten beiden Szenarien bekommen. Trotzdem ist meine Warband nicht gewachsen. Ich habe Aaron insgesamt 6 Helden ooA geschlagen, aber nicht mal einen Kratzer an Injuries gemacht. Und trotz 6 Versuchen habe ich noch keinen sechsten Helden. Daraus folgen folgende Erkenntnis:  
+Puh, nach drei Spielen ist es an der Zeit meine Taktik zu überdenken. Ich habe sieben zusätzliche Wyrdstone aus den ersten beiden Szenarien bekommen. Trotzdem ist meine Warband nicht gewachsen. Ich habe Aaron insgesamt 6 Helden ooA geschlagen, aber nicht mal einen Kratzer an Injuries gemacht. Die Zwerge sind tough! Und trotz 6 Versuchen habe ich noch keinen sechsten Helden. Daraus folgen folgende Erkenntnis:  
  * Ich konnte Aarons Warband nicht nennenswert klein halten und jetzt hat er Quick Shot auf dem Engineer und BS 5 auf dem Lord. Das wird auf die Dauer zum Problem, da ich Fernkampf nichts entgegensetzen kann und immer rein rennen muss.
  * Aaron wird immer mehr Wyrdstone in der Exploration erwirtschaften als ich. Wenn ich also zuerst auf 20 kommen will muss ich anfangen zu sparen.
  * Aufgrund meiner überlevelten Ghoule bekommt Aaron jetzt vermutlich den Underdog Bonus.
