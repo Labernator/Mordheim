@@ -285,7 +285,7 @@ Phyrexian Ghoul (dead)
 **Greven il-Vec** (Dreg, 6XP: +1WS, +1S, +1A): Halberd, Rabbit's Foot    
 
 *Henchmen*  
-**Barrow Ghouls** (4x Ghoul, 9XP: +1WS, +1Ld)  
+**Barrow Ghouls** (4x Ghoul, 9XP: +1WS, +1Ld, +1S)  
 **Phyrexian Ghouls** (2x Ghoul, 6XP: +1WS, +1Ld)  
 **Ashen Ghouls** (1x Ghoul, 3XP: +1I)
 
