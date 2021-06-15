@@ -95,12 +95,14 @@ Phyrexian Ghoul (dead)
 **Trading:**  
 -	In der Kasse vom letzten Mal: 5GC  
 -	Verkaufe 5 Wyrdstones: 80 GC   
--	Aus der Exploration: 1GC
+-	Aus der Exploration: 1GC  
+
 => 86GC  
 
  - 3x Rabbit's Foot: 30 GC 
  - Double-handed Weapon: 15GC
  - Neuer Ghoul (ohne XP weil kein Geld...): 40GC
+ 
  => 85GC
 
 **Reallocate equipment:**  
@@ -181,11 +183,13 @@ Lim-Dul (dead)
 -	In der Kasse vom letzten Mal: 1GC  
 -	Verkaufe 7 Wyrdstones: 110 GC   
 -	Aus der Exploration: 3GC
+
 => 114GC  
 
  - 3x Rabbit's Foot: 30 GC 
  - Neuer Ashen Ghoul (2XP): 44GC
  - Neuer Necro: 35GC
+ 
  => 109GC
 
 **Reallocate equipment:**  
@@ -262,9 +266,11 @@ Phyrexian Ghoul (dead)
 -	In der Kasse vom letzten Mal: 5GC  
 -	Verkaufe 1 Wyrdstone: 30 GC   
 -	Aus der Exploration: 0GC
+
 => 35GC  
 
  - Halberd: 10 GC 
+ 
  => 10GC
 
 **Reallocate equipment:**  
