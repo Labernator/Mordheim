@@ -1,58 +1,60 @@
 warband: Vampires (Undead)
-gc: 1
+gc: 5
 objective:
 alignment:
-shards: 1
-equipment: 2 Dagger
+shards: 2
+equipment: 1 Dagger
 
 # Max 15 units
 heros:
-    - hero: Crovax, the Cursed (Vampire) [24XP]
+    - hero: Crovax, the Cursed (Vampire) [28XP]
       stats: M6, WS4, BS4, S4, T4, W2, I5, A2, Ld8, Sv-
       weapons: Double-handed weapon
       skilllists: Combat, Academic, Strength, Speed
       armour: Lucky Charm, Rabbit's Foot
-      rules: Leader, Cause Fear, Strongman, Immune to Psychology and Poison, No Pain
+      rules: Leader, Cause Fear, Strongman, Resilient, Immune to Psychology and Poison, No Pain
 
-    - hero: Lim-Dul (Necromancer) [9XP]
+    - hero: Lim-Dul II. (Necromancer) [8XP]
       stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
       skilllists: Academic, Speed
       weapons: Dagger, Dagger
       armour: Rabbit's Foot
-      rules: Wizard
+      rules: Wizard (Re-Animation)
 
-    - hero: Volrath (Dreg) [1XP]
-      stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld7, Sv-
+    - hero: Volrath (Dreg) [2XP]
+      stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld8, Sv-
       skilllists: Combat, Strength
       weapons: Dagger, Dagger
+      armour: Rabbit's Foot
       rules:
 
-    - hero: Tevesh Szat (Dreg) [2XP]
-      stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld7, Sv-
+    - hero: Tevesh Szat (Dreg) [5XP]
+      stats: M4, WS2, BS2, S3, T3, W1, I4, A1, Ld7, Sv-
       skilllists: Combat, Strength
       weapons: Dagger, Dagger
       armour: Rabbit's Foot
       rules: Resilient
 
-    - hero: Greven il-Vec (Dreg) [2XP]
-      stats: M4, WS3, BS2, S3, T3, W1, I3, A1, Ld7, Sv-
+    - hero: Greven il-Vec (Dreg) [4XP]
+      stats: M4, WS3, BS2, S4, T3, W1, I3, A1, Ld7, Sv-
       skilllists: Combat, Strength
       weapons: Dagger, Dagger
+      armour: Rabbit's Foot
       rules:
 
 henchmen:
-    - group: Barrow Ghouls (4 Ghoul) [5XP]
+    - group: Barrow Ghouls (4 Ghoul) [7XP]
       stats: M4, WS3, BS2, S3, T4, W1, I3, A2, Ld6, Sv-
       weapons:
       rules: Cause Fear
 
-    - group: Phyrexian Ghouls (2 Ghoul) [2XP]
-      stats: M4, WS3, BS2, S3, T4, W1, I3, A2, Ld5, Sv-
+    - group: Phyrexian Ghouls (2 Ghoul) [5XP]
+      stats: M4, WS3, BS2, S3, T4, W1, I3, A2, Ld6, Sv-
       weapons:
       rules: Cause Fear
 
-    - group: Ashen Ghouls (1 Ghoul) [0XP]
-      stats: M4, WS2, BS2, S3, T4, W1, I3, A2, Ld5, Sv-
+    - group: Ashen Ghouls (2 Ghoul) [2XP]
+      stats: M4, WS2, BS2, S3, T4, W1, I4, A2, Ld5, Sv-
       weapons:
       rules: Cause Fear
 
