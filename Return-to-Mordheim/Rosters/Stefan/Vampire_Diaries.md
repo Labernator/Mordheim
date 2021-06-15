@@ -167,7 +167,7 @@ Lim-Dul (dead)
  - Volrath +1 (survive) : advance +1Ld
  - Tevesh Szat +3 (survive, 2x wyrdstone): advance +1I
  - Greven il-Vec +2 (survive, wyrdstone): advance +1S
- - Barrow Ghouls +3 (survive, kill)
+ - Barrow Ghouls +2 (survive, kill)
  - Phyrexian Ghouls +3 (survive, 2x kill): advance +1Ld (genau)
 - Ashen Ghouls +2 (survive, kill): advance +1I (yes)
 
@@ -197,16 +197,96 @@ Lim-Dul (dead)
 *Heroes*  
 **Crovax, the Cursed** (Vampire, 28XP: Strongman, Resilient): Double-handed Weapon, Lucky Charm, Rabbit's Foot  
 **Lim-Dul II.** (Necromancer, 8XP): 2x Dagger, Rabbit's Foot  
-**Volrath** (Dreg, 2XP: +1I): 2x Dagger, Rabbit's Foot    
-**Tevesh Szat** (Dreg, 5XP: Resilient, +1S): 2x Dagger, Rabbit's Foot  
+**Volrath** (Dreg, 2XP: +1Ld): 2x Dagger, Rabbit's Foot    
+**Tevesh Szat** (Dreg, 5XP: Resilient, +1I): 2x Dagger, Rabbit's Foot  
 **Greven il-Vec** (Dreg, 4XP: +1WS, +1S): 2x Dagger, Rabbit's Foot    
 
 *Henchmen*  
 **Barrow Ghouls** (4x Ghoul, 7XP: +1WS, +1Ld)  
-**Phyrexian Ghouls** (2x Ghoul, 2XP: +1WS, +1Ld)  
+**Phyrexian Ghouls** (2x Ghoul, 5XP: +1WS, +1Ld)  
 **Ashen Ghouls** (2x Ghoul, 2XP: +1I)
 
 **Treasure Chest** 5GC, 2 Wyrdstone und 1 Dolch  
-**Warband Rating** 148  
+**Warband Rating** 154  
+*So schnell die Zwerge gekommen waren, so schnell waren sie auch wieder verschwunden. Crovax und seine Untergebenen hatten sie in die Flucht geschlagen. Offensichtlich hatten sie ihr Lager doch nicht hier. Crovax wollte sich gerade wieder dem Teich zuwenden, als er ein unterdrücktes Stöhnen vernahm.*  
 
-*So schnell die Zwerge gekommen waren, so schnell waren sie auch wieder verschwunden. Crovax und seine Untergebenen hatten sie in die Flucht geschlagen. Offensichtlich hatten sie ihr Lager doch nicht hier.*
+*Lim-Dul kniete im unheilig schimmernden Wasser des Teiches. Seine Augen waren verdreht so dass man nur noch das Weiße sehen konnte, die Hände verkrampft. Seine Fingernägel hatten sich bis auf's Blut in die Handflächen gebohrt und er stammelte unverständlich in einer Crovax unbekannten Sprache. Interessiert trat der Vampir näher.*  
+
+*Plötzlich, wie vom Schlag getroffen, kippte Lim-Dul zur Seite und wäre vermutlich im flachen Wasser des Teiches ertrunken, hätte Greven ihn nicht auf's Trockene gezogen. Mit weit aufgerissenen Augen zog Lim-Dul Grevens Ohr an seinen Mund und flüsterte: "Shadowlord."*  
+
+
+## Memorial Gardens  
+*Nachdem Lim-Dul wieder zu sich gekommen war berichtete er, immer noch sichtlich verstört, was geschehen war. Der Shadowlord, ein Dämon und selbsternannte Herrscher über die verdammte Stadt hatte ihr Eindringen bemerkt. Und er wollte ihnen einen Handel anbieten. Um sich vollständig in dieser Welt manifestieren zu können benötigte er ein Ritual. Und er demjenigen, der es für ihn vollzog ungeheure Macht.*  
+
+*Crovax war niemand sich der leichtfertig auf einen Handel einließ. Schon gar nicht mit Dämonen. Auf der anderen Seite hatte er schon vom Shadowlord gehört und der Gedanke an die Möglichkeiten die sich ihm mit einem Dämon als Partner bieten würden war verlockend. Und warum eigentlich Partner? Wenn er es richtig anstellte, dann würde der Dämon in dieser Welt nichts weiter sein als einer seiner Lakaien. Die Augen des Vampirs funkelten gierig.*  
+
+*"Was brauchen wir für dieses Ritual? Und wo müssen wir es durchführen? Und wann?", Crovax sah Lim-Dul ungeduldig an. "Als erstes brauchen wir eine armlange Wurzel eines lebenden Baumes, Meister. Die muss ich drei Tage lang auskochen. Dann…" "Genug!", befahl Crovax und verdrehte die Augen. Diese Magier mit ihren Ritualen. "Wo wachsen hier lebende Bäume? In dieser von den Göttern verlassenen Stadt?!"*
+
+*Volrath näherte sich gebeugt und deutete eine Straße entlang. "Herr, dort hinten liegt ein Park. Oder etwas das früher mal ein Park war.", sagte er unterwürfig. Der Vampir nickte bedächtig. "Nun gut. Schauen wir doch mal, was Mordheim noch so zu bieten hat."
+
+**14.06.21 Szenario 2 – A Stroll in the Garden**  
+Das Szenario hatte eine ziemlich interessante Dynamik: Jeder Held sollte einmal von den Pflanzen attackiert werden (das gibt extra XP). Aber am besten auch nicht mehr als einmal um nicht Schaden zu nehmen. Durch die reichlich Pflanzen auf dem Board und den sowieso schon verwinkelten Gassen war die Bewegung ziemlich kompliziert.  
+
+Wir haben beide unsere Warband aufgesplittet, was dazu führte, dass wir zwei Gruppen hatten. Auf der einen Seite 4 Zwerge (unter anderem der Boss) gegen 2 Ghoule, den Necro und einen Dreg. Bei dem Kräftverhältnis kann ich keinen Blumentopf gewinnen, also nutze ich hier meine besseres Movement und das Terrain um mich vor den Zwergen zu verstecken.  
+
+Auf der anderen Seite stehen dafür fünf Zwerge meinen neun Untoten inklusive Vampir gegenüber. Aaron versucht eine Brücke als Choke-Point zu benutzen, aber eine unglückliche Pflanzenattacke stunned einen der Zwerge. Dadurch wird eine defensive Positionierung ziemlich schwierig.
+
+So kann ich zahlenmäßig stark überlegen in den Combat kommen und mein Vampir rastet krass aus. Persönliches Highlight ist, als Aaron in den Kampf mit meinem Vampir schießt und seinen am Boden liegenden Kollegen trifft :)
+
+**Ergebnis:** Sieg       
+
+**Gefallene Krieger:**  
+Phyrexian Ghoul (dead)  
+
+**Belohnungen:**   
++1XP auf jeden Helden  
+
+**Experience:**  
+ - Crovax: +5 (survive, leader, 2x kill, plant): advance Skill (Sprint)
+ - Lim-Dul II.: +2 (survive, plant)  
+ - Volrath +3 (survive, kill, plant) : advance Skill (Sprint)
+ - Tevesh Szat +2 (survive, plant): advance +1S
+ - Greven il-Vec +2 (survive, plant): advance +1A
+ - Barrow Ghouls +2 (survive, kill) : advance +1S (endlich!)
+ - Phyrexian Ghouls +1 (survive)
+ - Ashen Ghouls +1 (survive)
+
+**Sonstiges:** -    
+
+**Exploration:**  
+3 Wyrdstones   
+11: Mein Necro muss das nächste Spiel aussetzen
+
+**Trading:**  
+-	In der Kasse vom letzten Mal: 5GC  
+-	Verkaufe 1 Wyrdstone: 30 GC   
+-	Aus der Exploration: 0GC
+=> 35GC  
+
+ - Halberd: 10 GC 
+ => 10GC
+
+**Reallocate equipment:**  
+ - Greven erhält die Halberd. Seine Dolche gehen in den Stash  
+ => 25GC, 4 Wyrdstone und 3 Dolche übrig in der Kasse  
+
+*Heroes*  
+**Crovax, the Cursed** (Vampire, 33XP: Strongman, Resilient, Sprint): Double-handed Weapon, Lucky Charm, Rabbit's Foot  
+**Lim-Dul II.** (Necromancer, 10XP): 2x Dagger, Rabbit's Foot  
+**Volrath** (Dreg, 5XP: Sprint, +1Ld): 2x Dagger, Rabbit's Foot    
+**Tevesh Szat** (Dreg, 7XP: Resilient, +1I, +1S): 2x Dagger, Rabbit's Foot  
+**Greven il-Vec** (Dreg, 6XP: +1WS, +1S, +1A): Halberd, Rabbit's Foot    
+
+*Henchmen*  
+**Barrow Ghouls** (4x Ghoul, 9XP: +1WS, +1Ld)  
+**Phyrexian Ghouls** (2x Ghoul, 6XP: +1WS, +1Ld)  
+**Ashen Ghouls** (1x Ghoul, 3XP: +1I)
+
+**Treasure Chest** 25GC, 4 Wyrdstone und 3 Dolche  
+**Warband Rating** 172  
+
+Puh, nach drei Spielen ist es an der Zeit meine Taktik zu überdenken. Ich habe sieben zusätzliche Wyrdstone aus den ersten beiden Szenarien bekommen. Trotzdem ist meine Warband nicht gewachsen. Ich habe Aaron insgesamt 6 Helden ooA geschlagen, aber nicht mal einen Kratzer an Injuries gemacht. Und trotz 6 Versuchen habe ich noch keinen sechsten Helden. Daraus folgen folgende Erkenntnis:  
+ * Ich konnte Aarons Warband nicht nennenswert klein halten und jetzt hat er Quick Shot auf dem Engineer und BS 5 auf dem Lord. Das wird auf die Dauer zum Problem, da ich Fernkampf nichts entgegensetzen kann und immer rein rennen muss.
+ * Aaron wird immer mehr Wyrdstone in der Exploration erwirtschaften als ich. Wenn ich also zuerst auf 20 kommen will muss ich anfangen zu sparen.
+ * Die Kampagne wird im Laufe der Zeit vermutlich immer schwieriger für mich. Deswegen versuche ich jetzt so schnell wie (sinnvoll) möglich zu gewinnen. 
+Soweit der Plan nach drei Spielen. Mal schauen wie er aufgeht :)
