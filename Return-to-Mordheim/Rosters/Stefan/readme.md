@@ -3,6 +3,7 @@
  - [Prolog](Vampire_Diaries.md#prolog)  
  - [West Gate](Vampire_Diaries.md#west-gate)  
  - [Artisan Quarters](Vampire_Diaries.md#artisan-quarters)  
+ - [Memorial Gardens](Vampire_Diaries.md#memorial-gardens)
 
 ## Heroes
 **Crovax, the Cursed**  
