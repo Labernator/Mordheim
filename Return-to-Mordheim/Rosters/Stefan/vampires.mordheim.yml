@@ -1,9 +1,9 @@
 warband: Vampires (Undead)
-gc: 5
+gc: 25
 objective:
 alignment:
-shards: 2
-equipment: 1 Dagger
+shards: 4
+equipment: 3 Dagger
 
 # Max 15 units
 heros:
