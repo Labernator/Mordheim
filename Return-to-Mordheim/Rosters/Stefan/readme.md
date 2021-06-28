@@ -4,6 +4,8 @@
  - [West Gate](Vampire_Diaries.md#west-gate)  
  - [Artisan Quarters](Vampire_Diaries.md#artisan-quarters)  
  - [Memorial Gardens](Vampire_Diaries.md#memorial-gardens)
+ - [Rich Quarters](Vampire_Diaries.md#rich-quarters)
+ - [Statue of Count Gottard](Vampire_Diaries.md#statue-of-count-gottard)
 
 ## Heroes
 **Crovax, the Cursed**  
