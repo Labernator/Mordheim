@@ -311,3 +311,64 @@ Soweit der Plan nach drei Spielen. Mal schauen wie er aufgeht :)
 *"Greven, wir müssen einen der Anhänger des Shadowlord finden. Und zwar keinen mitlaufenden Kultisten. Wir brauchen einen Magister. Jemanden, der mehr über den Dämon weiß!" "Wo sollen wir ihn denn suchen, Meister?", fragte Greven unsicher. Ein wissendes Lächeln umspielte die Lippen des Vampirs: "Greven, was denkst du, wo würde sich ein einflussreicher Anführer in einer verlassenen Stadt niederlassen? Auf dem Friedhof? Im Tempelbezirk? Nein, den mächtigsten Magister werden wir im Villenvirtel finden!"*
 
 **28.06.21 Szenario 4 – The Lost Prince**  
+Das Ziel des Szenarios ist schnell in die Mitte des Spielfelds zu kommen und dann schnell wieder zurück. Und mein Vampir hat nach dem letzten Spiel den Sprint-Skill bekommen. 
+
+Das klingt schon mal nach einem deutlichen Vorteil für mich. Und es läuft auch wie geschmiert: Ich kriege den ersten Zug, der Prinz läuft 1" In meine Richtung und der Vampir rennt 18" Und hat ihn direkt eingesammelt. Dann verstecke ich mich noch 4 Runden lang vor den Sniper Zwergen und habe gewonnen. 
+
+Das Spiel ging auch ungefähr so schnell wie sich das hier liest. 
+
+**Ergebnis:** Sieg       
+
+**Gefallene Krieger:**  
+
+**Belohnungen:**   
+1 Wyrdstone, 15GC, Heavy Armour, Helmet
+
+**Experience:**  
+ - Crovax: +2 (survive, leader)
+ - Lim-Dul II.: +0 (aussetzen)  
+ - Volrath +1 (survive) : advance +1BS
+ - Tevesh Szat +1 (survive): advance Skill (Strongman)  
+ - Greven il-Vec +1 (survive)
+ - Barrow Ghouls +1 (survive) 
+ - Phyrexian Ghouls +1 (survive)
+ - Ashen Ghouls +1 (survive)
+
+**Sonstiges:** -    
+
+**Exploration:**  
+3 Wyrdstones   
+33: Light Armour
+
+**Trading:**  
+-	In der Kasse vom letzten Mal: 25GC  
+-       Aus Szenario: 15GC
+-	Verkaufe 1 Wyrdstone: 30GC   
+-	Aus der Exploration: 0GC
+
+=> 70GC  
+
+ - Double-handed weapon 15 GC 
+ 
+ => 55GC
+
+**Reallocate equipment:**  
+ - Tevesh erhält die Double-handed Weapon. Seine Dolche gehen in den Stash.  
+ - Greven erhält eine Light Armour und den Helm. 
+ - Crovax kriegt die Heavy Armour. 
+ => 55GC, 7 Wyrdstone und 5 Dolche übrig in der Kasse  
+
+*Heroes*  
+**Crovax, the Cursed** (Vampire, 35XP: Strongman, Resilient, Sprint): Double-handed Weapon, Heavy Armour, Lucky Charm, Rabbit's Foot  
+**Lim-Dul II.** (Necromancer, 10XP): 2x Dagger, Rabbit's Foot  
+**Volrath** (Dreg, 6XP: Sprint, +1Ld, +1BS): 2x Dagger, Rabbit's Foot    
+**Tevesh Szat** (Dreg, 8XP: Resilient, Strongman, +1I, +1S): Double-handed Weapon, Rabbit's Foot  
+**Greven il-Vec** (Dreg, 7XP: +1WS, +1S, +1A): Halberd, Light Armour, Helmet, Rabbit's Foot    
+
+*Henchmen*  
+**Barrow Ghouls** (4x Ghoul, 10XP: +1WS, +1Ld, +1S)  
+**Phyrexian Ghouls** (2x Ghoul, 7XP: +1WS, +1Ld)  
+**Ashen Ghouls** (1x Ghoul, 4XP: +1I)
+
+**Treasure Chest** 55GC, 7 Wyrdstone und 5 Dolche  
+**Warband Rating** 184  
