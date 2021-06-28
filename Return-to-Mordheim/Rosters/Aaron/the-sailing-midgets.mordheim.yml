@@ -1,47 +1,51 @@
 warband: The Sailing Midgets (Dwarf Treasure Hunters)
 objective:
 alignment:
-gc: 0
-shards: 1
+gc: 14
+shards: 8
 equipment:
+  - Mordheim Map (Vague, ReRoll 1 Dice in Exploration Phase)
+
 
 # Max 12 units
+# Racial Max: M3, WS7, BS6, S4, T5, W3, I5, A4, Ld10
 heros:
-    - hero: Gunner (Noble) [24XP]
+    - hero: Gunner (Noble) [28XP]
       stats: M3, WS5, BS5, S3, T4, W1, I2, A1, Ld9, Sv6
       weapons: Crossbow, Dagger, Dagger
       skilllists: Combat, Shooting, Strength, Special
-      armour: Light Armour, Helmet, Garlic
-      rules: Leader
+      armour: Light Armour, Helmet, Garlic, Rope and Hook, Rabbit Foot
+      rules: Leader, Quick Shoot
 
-    - hero: Loki (Engineer) [13XP]
-      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
+    - hero: Loki (Engineer) [17XP]
+      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld10, Sv-
       skilllists: Combat, Shooting, Special
       weapons: Crossbow, Axe, Dagger
-      armour: Helmet
-      rules: Expert Weaponsmith, Quick Shoot
+      armour: Helmet, Rabbit Foot
+      rules: Expert Weaponsmith, Quick Shoot, True Grit
 
-    - hero: Bork (Troll Slayer) [12XP]
-      stats: M3, WS5, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
+    - hero: Bork (Troll Slayer) [14XP]
+      stats: M3, WS5, BS3, S4, T4, W1, I2, A1, Ld9, Sv-
       skilllists: Combat, Strength, Special, Slayer Skills
       weapons: Dwarf Axe, Dagger
       armour: Rabbit Foot
-      rules: Deathwish
+      rules: Deathwish, Mighty Blow
 
-    - hero: Eric (Troll Slayer) [10XP]
-      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
+    - hero: Eric (Troll Slayer) [14XP]
+      stats: M3, WS4, BS3, S4, T5, W1, I2, A1, Ld9, Sv-
       skilllists: Combat, Strength, Special, Slayer Skills
       weapons: Dwarf Axe, Dagger
       armour: Rabbit Foot
-      rules: Deathwish
+      rules: Deathwish, Mighty Blow
 
 henchmen:
-    - group: Sigfast (1 Thunderer) [3XP]
-      stats: M3, WS4, BS3, S4, T4, W1, I2, A1, Ld9, Sv-
+    - group: Sigfast (1 Thunderer) [5XP]
+      stats: M3, WS4, BS3, S4, T4, W1, I2, A2, Ld9, Sv-
+      armour: Helmet
       weapons: Axe, Dagger
 
-    - group: Drunken Oarsmen (3 Beardling) [3XP]
-      stats: M3, WS3, BS2, S3, T4, W1, I3, A1, Ld8, Sv-
+    - group: Drunken Oarsmen (2 Beardling) [7XP]
+      stats: M3, WS4, BS2, S3, T4, W1, I3, A1, Ld8, Sv-
       weapons: Hammer, Dagger
       armour: Helmet
 
@@ -49,12 +53,11 @@ notes:
 # Rare Items search:
 # * Lucky Charm (10GC, Rare 6, Ignore 1 hit on 4+)
 # * Rabbit Foot (10GC, Rare 5, ReRoll once, Injury von Stunned zu OOA verwandeln)
-# * Blessed Water (10GC+3D6GC, Rare 6)
+# * Blessed Water (10GC+3D6GC, Rare 6) -> Range: 2xS, To Hit: BS, 1 Wound automatically to undead
 # * Horse (40GC, Rare 8, M8)
 
 # Equipment
-# * Helmets für alle (10GC, 4+ Save für Stunned)
-# * Rope & Hook (5GC, Reroll Ini-Tests beim Klettern)
+# * Helme: 4+ Save für Stunned
 # * Garlic (1GC, Ld Test für Vampir, hält nur 1 Battle, ob benutzt oder nicht)
 # * Crossbow für Thunderer (25GC)
 
@@ -64,8 +67,8 @@ notes:
 #   -> Alternativ: 1 neuen Thunderer mit Crossbow: 40GC+25GC => 65GC
 
 # Skills
-# * Mighty Blow (+1S)
 # * Resilient (-1S from all Hits)
 # * Step Aside (Additional 5+ Save ohne penalty)
 # * Wyrdstone Hunter (1 ReRoll in der Exploration-Phase)
 # * Haggle (-2D6 vom Preis eines Items)
+# * True Grit (103 knocked down, 4-5 stunned, 6 OOA)
