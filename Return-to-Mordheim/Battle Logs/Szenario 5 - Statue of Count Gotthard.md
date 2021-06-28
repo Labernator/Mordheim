@@ -1,12 +1,12 @@
 **Szenario:**  
 **Warband Rating:**  
  - Stefan: 184  
- - Aaron: 
+ - Aaron: 127  
 
-**Underdog:** 
+**Underdog:** Aaron  
  
 **Battle Log:**  
-- 
+- STefan: 3 Shards, Aaron 1 SHard  
 - 
  
 **Injuries:**  
