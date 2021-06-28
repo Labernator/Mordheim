@@ -42,6 +42,6 @@ Exploration: 3WS, doppel 3 für Light Armour
 
 **Trading:**  
 * Stefan: Verkaufe 1 WS für 30GC , kaufe eine double-handed Weapon für 15  
-3 WS & 30 GC in Schatzkammer, HA auf Vampir, LA & Helm auf Greven.
+3 WS & 30 GC in Schatzkammer, HA auf Vampir, LA & Helm auf Greven, GW auf Tevesh.
 
 * Aaron: 
