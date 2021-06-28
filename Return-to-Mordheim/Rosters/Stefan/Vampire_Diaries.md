@@ -442,7 +442,7 @@ Jetzt kommen meine Kontercharges. 7 Ghoule und 2 Dregs gehen in die Zwerge => 3 
 *Henchmen*  
 **Barrow Ghouls** (4x Ghoul, 11XP: +1WS, +1Ld, +1S)  
 **Phyrexian Ghouls** (2x Ghoul, 8XP: +1WS, +1Ld)  
-**Ashen Ghouls** (1x Ghoul, 6XP: +1WS, +1I)
+**Ashen Ghouls** (1x Ghoul, 6XP: +1WS, +1I)  
 **Dauthi Ghouls** (3x Ghoul, 0XP)
 
 **Treasure Chest** 0GC, 13 Wyrdstone und 4 Dolche  
