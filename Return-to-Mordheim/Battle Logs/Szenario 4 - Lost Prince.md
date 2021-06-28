@@ -50,4 +50,4 @@ kaufe 2 Rabbit foots für 20
 kaufe helm 10  
 Kaufe rope & hook 5  
 4 Knoblauch für 4  
-=> 14 in die Bank  
+=> 14GC in die Bank, 4WS
