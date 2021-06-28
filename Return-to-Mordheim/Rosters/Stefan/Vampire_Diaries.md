@@ -229,7 +229,7 @@ Lim-Dul (dead)
 
 *Volrath näherte sich gebeugt und deutete eine Straße entlang. "Herr, dort hinten liegt ein Park. Oder etwas das früher mal ein Park war.", sagte er unterwürfig. Der Vampir nickte bedächtig. "Nun gut. Schauen wir doch mal, was Mordheim noch so zu bieten hat."*
 
-**14.06.21 Szenario 2 – A Stroll in the Garden**  
+**14.06.21 Szenario 3 – A Stroll in the Garden**  
 Das Szenario hatte eine ziemlich interessante Dynamik: Jeder Held sollte einmal von den Pflanzen attackiert werden (das gibt extra XP). Aber am besten auch nicht mehr als einmal um nicht Schaden zu nehmen. Durch die reichlich Pflanzen auf dem Board und den sowieso schon verwinkelten Gassen war die Bewegung ziemlich kompliziert.  
 
 Wir haben beide unsere Warband aufgesplittet, was dazu führte, dass wir zwei Gruppen hatten. Auf der einen Seite 4 Zwerge (unter anderem der Boss) gegen 2 Ghoule, den Necro und einen Dreg. Bei dem Kräftverhältnis kann ich keinen Blumentopf gewinnen, also nutze ich hier meine besseres Movement und das Terrain um mich vor den Zwergen zu verstecken.  
@@ -298,3 +298,16 @@ Puh, nach drei Spielen ist es an der Zeit meine Taktik zu überdenken. Ich habe 
  * Aufgrund meiner überlevelten Ghoule bekommt Aaron jetzt vermutlich den Underdog Bonus.
  * Die Kampagne wird im Laufe der Zeit vermutlich immer schwieriger für mich. Deswegen versuche ich jetzt so schnell wie (sinnvoll) möglich zu gewinnen. 
 Soweit der Plan nach drei Spielen. Mal schauen wie er aufgeht :)
+
+*Lim-Dul saß am Feuer und starrte in den kochenden Topf in dem die Wurzeln der dämonischen Bäume trieben. Er schüttelte sich. Als Nekromant war er es durchaus gewohnt, dass sich unbelebte Materie sich bewegte, aber die Bäume waren ihm zutiefst zuwider gewesen. Zombies waren loyal. Sie hatten keinen eigenen Willen und begehrten niemals gegen seine Befehle auf. Diese Bäume jedoch waren… bösartig gewesen. Als dürstete sie nach menschlichem Fleisch.*  
+*Den Zauberer schüttelt es. Insgeheim war er sehr froh, dass er die nächste Zeit das Kochen des Topfes bewachen würde und nicht weiter in die verdammte Stadt vordringen musste.*  
+
+
+## Rich Quarters  
+*Crovax sah zu ihrer Feuerstelle zurück. Der Nekromant kauert immer noch vor dem Kochtopf und schien die Stadt um sich herum komplett ausgeblendet zu haben. Crovax schüttelte den Kopf. Meschen waren wie Kinder, egal wie alt und weise sie sich vorkamen. Schrecken verschwanden nicht, nur weil man die Augen verschloss.*  
+
+*In diesem Sinne würde er auch nicht blind in den Pakt mit dem Shadowlord hineinstolpern. Er würde nicht darauf hoffen, dass seine Kräfte genug waren den Dämon zu binden. Er würde es sicherstellen. Aber dafür brauchte er mehr Informationen.*  
+
+*"Greven, wir müssen einen der Anhänger des Shadowlord finden. Und zwar keinen mitlaufenden Kultisten. Wir brauchen einen Magister. Jemanden, der mehr über den Dämon weiß!" "Wo sollen wir ihn denn suchen, Meister?", fragte Greven unsicher. Ein wissendes Lächeln umspielte die Lippen des Vampirs: "Greven, was denkst du, wo würde sich ein einflussreicher Anführer in einer verlassenen Stadt niederlassen? Auf dem Friedhof? Im Tempelbezirk? Nein, den mächtigsten Magister werden wir im Villenvirtel finden!"*
+
+**28.06.21 Szenario 4 – The Lost Prince**  
