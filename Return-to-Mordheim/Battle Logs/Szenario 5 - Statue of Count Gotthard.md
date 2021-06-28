@@ -7,36 +7,43 @@
  
 **Battle Log:**  
 - STefan: 3 Shards, Aaron 1 SHard  
+- Vampir killt Bork
+- Greven killt Oarsmen
+- Blauer Ghoul killt Oarsmen  
+- Greven killt Thunderer  
 - 
  
 **Injuries:**  
 * Aaron:
+2 Oarsmen (1 tot, 1 lebendig)  
+Thunderer (lebt)  
+Bork (lebt)  
 
 * Stefan:
  
 **Experience:**  
 * Stefan:  
-Crovax:  
-Lim-Dul:  
-Volrath:  
-Tevesh:  
-Greven:  
-Barrow Ghouls:  
-Phyrexian Ghouls:  
-Ashen Ghouls:  
+Crovax: +3 (survive, kill, leader) advance +1WS  
+Lim-Dul: +1 (survive) advance +1W  
+Volrath: +1 (survive)  
+Tevesh: +1 (survive)  
+Greven: +3 (survive, kills) advance +1T  
+Barrow Ghouls: +1 (survive)  
+Phyrexian Ghouls: +1 (survived)    
+Ashen Ghouls: +2 (survive, kill) advance +1WS  
 
 * Aaron:  
-Gunner:  
-Loki:  
-Bork:  
-Eric: 
-Sigfast:  
-Drunken Oarsmen:  
+Gunner: +2 (survive) advance Skill  
+Loki: +2 (survive) advance Skill  
+Bork: +0  
+Eric: +2 (survive) advance +1T 
+Sigfast: +0  
+Drunken Oarsmen: +2 (survive) 
 
 **Exploration:**  
-* Stefan: 
+* Stefan: 4Ws aus dem Szenario, Exploration: 5 WS, doppel 6 für 4 GC. 
 
-* Aaron: 
+* Aaron: 4WS, doppel 5 für Mordheim Map (mit einer 3)  
 
 **Trading:**  
 * Stefan: 
