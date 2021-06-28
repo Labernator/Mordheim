@@ -341,8 +341,8 @@ Das Spiel ging auch ungefähr so schnell wie sich das hier liest.
 33: Light Armour
 
 **Trading:**  
--	In der Kasse vom letzten Mal: 25GC  
--       Aus Szenario: 15GC
+- In der Kasse vom letzten Mal: 25GC  
+- Aus Szenario: 15GC
 -	Verkaufe 1 Wyrdstone: 30GC   
 -	Aus der Exploration: 0GC
 
@@ -356,6 +356,7 @@ Das Spiel ging auch ungefähr so schnell wie sich das hier liest.
  - Tevesh erhält die Double-handed Weapon. Seine Dolche gehen in den Stash.  
  - Greven erhält eine Light Armour und den Helm. 
  - Crovax kriegt die Heavy Armour. 
+
  => 55GC, 7 Wyrdstone und 5 Dolche übrig in der Kasse  
 
 *Heroes*  
