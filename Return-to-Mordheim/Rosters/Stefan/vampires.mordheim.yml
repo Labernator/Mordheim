@@ -11,7 +11,7 @@ heros:
       stats: M6, WS4, BS4, S4, T4, W2, I5, A2, Ld8, Sv-
       weapons: Double-handed weapon
       skilllists: Combat, Academic, Strength, Speed
-      armour: Lucky Charm, Rabbit's Foot
+      armour: Heavy Armour, Lucky Charm, Rabbit's Foot
       rules: Leader, Cause Fear, Strongman, Resilient, Sprint, Immune to Psychology and Poison, No Pain
 
     - hero: Lim-Dul II. (Necromancer) [10XP]
@@ -39,7 +39,7 @@ heros:
       stats: M4, WS3, BS2, S4, T3, W1, I3, A2, Ld7, Sv-
       skilllists: Combat, Strength
       weapons: Halberd
-      armour: Rabbit's Foot
+      armour: Light Armour, Helmet, Rabbit's Foot
       rules:
 
 henchmen:
