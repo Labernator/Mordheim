@@ -1,6 +1,6 @@
 **Szenario:**  
 **Warband Rating:**  
- - Stefan: 
+ - Stefan: 184  
  - Aaron: 
 
 **Underdog:** 
