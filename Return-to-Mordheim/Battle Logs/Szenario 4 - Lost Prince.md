@@ -16,29 +16,32 @@
  
 **Experience:**  
 * Stefan:  
-Crovax:  
+Crovax: +2  
 Lim-Dul: +0 (setzt aus)  
-Volrath:  
-Tevesh:  
-Greven:  
-Barrow Ghouls:  
-Phyrexian Ghouls:  
-Ashen Ghouls:  
+Volrath: +1 advance +1BS   
+Tevesh: +1 advance Skill: Strongman   
+Greven: +1  
+Barrow Ghouls: +1  
+Phyrexian Ghouls: +1  
+Ashen Ghouls: +1  
 
 * Aaron:  
-Gunner:  
-Loki:  
-Bork:  
-Eric: 
-Sigfast:  
-Drunken Oarsmen:  
+Gunner: +2   
+Loki: +2 advance +1Ld  
+Bork: +2 advance Skill: Mighty Blow   
+Eric: +2 advance Skill: Mightzy Blow  
+Sigfast: +2 advance +1A  
+Drunken Oarsmen: +2 advance +1WS  
 
 **Exploration:**  
 * Stefan: 
+Szenario: 1WS, 15GC, HEavy Armour, Helm  
+Exploration: 3WS, doppel 3 für Light Armour
 
-* Aaron: 
+* Aaron: 5WS, doppel 6 für 3 Gold  
 
 **Trading:**  
-* Stefan: 
+* Stefan: Verkaufe 1 WS für 30GC , kaufe eine double-handed Weapon für 15  
+3 WS & 30 GC in Schatzkammer, HA auf Vampir, LA & Helm auf Greven.
 
 * Aaron: 
