@@ -373,3 +373,77 @@ Das Spiel ging auch ungefähr so schnell wie sich das hier liest.
 
 **Treasure Chest** 55GC, 7 Wyrdstone und 5 Dolche  
 **Warband Rating** 184  
+
+*Greven zerrte den zerlumpten Kultistenführer vor den Vampir. Crovax musste dem Magister unwillkürlich Respekt zollen. Er war von seinen Dregs und einer Horde Ghoule entführt worden und trotzdem stand er da, aufrecht und sah Crovax ungebrochen in die Augen. Nicht viele Menschen vermochten das, selbst unter viel besseren Umständen! Der Glaube dieses Lakaien an den Shadowlord schien stark zu sein. Ein Grinsen spielte um die Mundwinkel des Vampirs. Dies war ihr Informant.*  
+
+*Tevesh sah, wie der Vampir aus dem zerfallenen Haus trat in dem er den Kultist verhört hatte. Vom Kultisten selbst war keine Spur zu sehen. Wenn man mal von einem kleinen roten Rinnsal in Crovax Mundwinkel absah. Tevesh verbeugte sich tief. Wenn sein Meister gespeist hatte war er für gewöhnlich in guter Stimmung. Aber wer vermochte das bei einem Untoten schon genau vorhersagen. "Meister, wisst ihr wie wir den Dämonen bannen können?", fragte er vorsichtig. Die Mine des Vampirs verhärtete sich unmerklich. "Tevesh, mein treuer Diener", entgegnete er. "Es ist keineswegs meine Absicht diesen Dämonen zu bannen. Ich plane ihn zu binden!" Teveshs Augen weiteten sich bei diesen Worten angstvoll. "Wir brauchen das Schwert eines Sigmarkriechers!"* 
+
+
+## Statue of Count Gottard  
+*"Wir ziehen auf den Marktplatz. Dort soll die Statue des Sigmarhochpriesters Count Gotthard stehen. Wir brauchen das Schwert, dass diese Statue hält." Seine Untergeben sahen Crovax mit aufgerissenen Augen an. Er sah es förmlich in ihren Gesichtern arbeiten, als sie versuchten seinen Gedanken zu folgen.*  
+
+*"Herr", brachte schließlich Lim-Dul hervor, "wofür brauchen wir eine geweihte Waffe? Ihr könnt sie nicht führen. Sie könnte euch Schaden. In meinen Visionen sah ich nichts von einem Schwert und " "Es geht nicht um deine Visionen", unterbrach ihn der Vampir abrupt. "Hier geht es um meine Version! Greven wird das Schwer führen. Wir gehen!" Greven sah sich unbehaglich um. Der Gedanke eine Waffe zu besitzen die seinen Herren töten konnte bereitete ihm Übelkeit. Dennoch verbeugte er sich ergeben: "Wie ihr es wünscht, mein Gebieter."*
+
+**28.06.21 Szenario 5 – Chance Encounter**  
+Durch die speziellen Deployment Regeln in dem Szenario stehen wir direkt relativ nahe beieinander, was ich gut finde, da so weniger Zeit zum Schießen ist. Meine Helden tragen 3 Shards, die von Aaron nur eine. Ich darf anfangen (die Regeln hierzu sind für Zwerge gegen den Vampir ziemlich einseitig!) und ziehe meine Vampir in der ersten Runde direkt bis auf 8" an Aarons Zwerge ran, um sie am Rennen zu hindern. 18" Movement ist hart broken!  
+
+Aaron zieht mit seinem Sniper in erhöhte Position und mit allen Zwergen an meinen Vampir ran. Von zwei Charges kommt einer an, allerdings zerschellt der am Vampir. Ich ziehe meine Warband nach und in meiner Runde haue ich Aarons Helden ooA. Jetzt will Aaron auf einmal gar nicht mehr so richtig angreifen und zieht sich außer Line-of-Sight von meinem Vampir zurück. Sein Chef klettert (!) in ein kaputtes Haus und bezieht dort seinen Sniper-Posten. Der Engineer verfehlt konsequent jeden Schuss den er abgibt. Trotz Quickshot! Mein Vampir sieht jetzt nur noch dem Boss und sagt den Charge an. Der Ld8-test gegen den Knoblauch wird bestanden und die 5 (mit zwei Würfeln wegen Sprint) und den Charge zu vollenden schaffe ich auch. Aaron intercepted. Inzwischen haben auf meiner rechten Flanke meine fighty Degs die Zwerge umgangen und chargen jetzt die Seite. 
+
+Ich haue zwei Zwerge zu Boden, aber dann ist Aaron dran und sie stehen wieder auf. Aaron gibt die rechte Flanke komplett auf. Vier Zwerge chargen meinen Vampir. Der Plan ist hier, dass mein Vampir stirb, in der Post-game-Sequence wirklich stirbt und ich so viel von meinem ersparten Gold aufwenden muss um ihn wieder zu beschaffen. Einigermaßen verzweifelt der Plan, denn mit WS4, T4, Resilient und Heavy Armour ist der Vampir schon sehr tanky. An irgendeiner Stelle hat Aaron ihm schon eine Wunde rausgeschossen, aber die vier Zwerge machen nichts.
+
+Jetzt kommen meine Kontercharges. 7 Ghoule und 2 Dregs gehen in die Zwerge => 3 Zwerge fallen um. Die restlichen beiden können den vampir nicht ankratzen (auch wenn es zweimal mein Armour Save retten muss) und ich gewinne das Scharmützel deutlich, mit allen Shards und ohne Verluste.
+
+**Ergebnis:** Sieg       
+
+**Gefallene Krieger:**  
+
+**Belohnungen:**   
+4 Wyrdstone
+
+**Experience:**  
+ - Crovax: +3 (survive, leader, kill): advance +1WS
+ - Lim-Dul II. +1 (survive): advance +1W
+ - Volrath +1 (survive)
+ - Tevesh Szat +1 (survive)
+ - Greven il-Vec +3 (survive, 2 kill): advance +1T
+ - Barrow Ghouls +1 (survive) 
+ - Phyrexian Ghouls +1 (survive)
+ - Ashen Ghouls +2 (survive, kill): advance +1WS
+
+**Sonstiges:** -    
+
+**Exploration:**  
+5 Wyrdstones   
+66: 4GC
+
+**Trading:**  
+- In der Kasse vom letzten Mal: 55GC  
+- Aus Szenario: 0GC
+- Verkaufe 3 Wyrdstone: 60GC   
+- Verkaufe 1 Dagger: 1GC   
+- Aus der Exploration: 4GC
+
+=> 120GC  
+
+ - 3 Ghoule ohne XP 120 GC 
+ 
+ => 0GC
+
+**Reallocate equipment:**   
+ => 0GC, 13 Wyrdstone und 4 Dolche übrig in der Kasse  
+
+*Heroes*  
+**Crovax, the Cursed** (Vampire, 38XP: Strongman, Resilient, Sprint, +1WS): Double-handed Weapon, Heavy Armour, Lucky Charm, Rabbit's Foot  
+**Lim-Dul II.** (Necromancer, 11XP: +1T): 2x Dagger, Rabbit's Foot  
+**Volrath** (Dreg, 7XP: Sprint, +1Ld, +1BS): 2x Dagger, Rabbit's Foot    
+**Tevesh Szat** (Dreg, 9XP: Resilient, Strongman, +1I, +1S): Double-handed Weapon, Rabbit's Foot  
+**Greven il-Vec** (Dreg, 10XP: +1WS, +1S, +1T, +1A): Halberd, Light Armour, Helmet, Rabbit's Foot    
+
+*Henchmen*  
+**Barrow Ghouls** (4x Ghoul, 11XP: +1WS, +1Ld, +1S)  
+**Phyrexian Ghouls** (2x Ghoul, 8XP: +1WS, +1Ld)  
+**Ashen Ghouls** (1x Ghoul, 6XP: +1WS, +1I)
+**Dauthi Ghouls** (3x Ghoul, 0XP)
+
+**Treasure Chest** 0GC, 13 Wyrdstone und 4 Dolche  
+**Warband Rating** 184  
