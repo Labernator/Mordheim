@@ -446,4 +446,4 @@ Jetzt kommen meine Kontercharges. 7 Ghoule und 2 Dregs gehen in die Zwerge => 3 
 **Dauthi Ghouls** (3x Ghoul, 0XP)
 
 **Treasure Chest** 0GC, 13 Wyrdstone und 4 Dolche  
-**Warband Rating** 184  
+**Warband Rating** 216  
