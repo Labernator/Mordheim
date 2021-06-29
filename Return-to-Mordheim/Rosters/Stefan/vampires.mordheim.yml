@@ -26,7 +26,7 @@ heros:
       skilllists: Combat, Strength
       weapons: Dagger, Dagger
       armour: Rabbit's Foot
-      rules: Sprint
+      rules: Resilient
 
     - hero: Tevesh Szat (Dreg) [9XP]
       stats: M4, WS2, BS2, S4, T3, W1, I4, A1, Ld7, Sv-
