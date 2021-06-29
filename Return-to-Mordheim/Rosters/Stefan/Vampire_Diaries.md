@@ -447,3 +447,7 @@ Jetzt kommen meine Kontercharges. 7 Ghoule und 2 Dregs gehen in die Zwerge => 3 
 
 **Treasure Chest** 0GC, 13 Wyrdstone und 4 Dolche  
 **Warband Rating** 216  
+
+Ha, ich habe nach der Post-Game-Sequence gerade festgestellt, dass ich Volrath (ein Dreg) nach Spiel 3 den Sprint Skill gegeben habe. Der darf aber keine Speed Skills auswählen. Schade das. ich habe es jetzt zu Resilient geretconned. Geändert hätte es in den Spielen nichts (Volrath hat sich immer nur versteckt).
+
+Desweiteren habe ich nochmal ein paar Wyrdstones ausgegeben um meine Warband auf das 15er Limit zu bringen. Play to win wäre es vermutlich besser gewesen einfach alle 13 Shards der letzten beiden Spiele zu sparen, aber ich will gerne am Ende der Kampagne eine vollständige (ausgemaxte) Warband auf dem Tisch stehen haben. Das fühlt sich einfach runder an für mich. Also gibt es jetzt drei neue Ghoule. Und Aaron kriegt bis in alle Ewigkeit den Underdog Bonus. Vielleicht sogar +2. Eh. Was soll's.
