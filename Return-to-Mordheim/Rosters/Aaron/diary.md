@@ -37,3 +37,22 @@ In der Post-Game-Sequence hätte ich mir noch ein paar Wyrdstones mehr gewünsch
 * Sniper auf gegenüberliegende Seiten aufstellen war gut, muss aber irgend wie protected werden, wenn sie nicht unerreichbar platziert werden können.
 * Terrain noch besser nutzen, kompensiert etwas mein M3.
 
+## Nach der 5. Spielrunde (28/06/2021)
+
+Nachdem ich die letzten beiden Spiele ziemlich herbe vergeigt habe und Stefan seinen Vorsprung deutlich verbessert hat, ist es Zeit für ein kleines Recap.
+
+### Learnings
+
+* Mein Movement ist immer noch kacke und Stefan hat nun eine M6 unit mit Sprint Skill (18"). Diese Reichweite schaffe ich (sollte ich ungehindert Rennen können) in 3! Zügen. Realistisch gesehen eher in 5 oder 6, da Stefan mit seinen vielen Units bereits das komplette Spielfeld dominiert und ich nur noch laufen kann. Umgekehrt ist der Vampir so schnell, dass ich praktisch keine Change mehr bei Capture/Sammel-Missionen habe.
+
+* 8 Zwerge gegen mittlerweile 15 (max!) Untote wird zu einem Problem. Die vielen Gouls sind zwar eher Kanonenfutter, stehen dennoch sehr lästig immer irgend wo im Wege, intercepten oder fallen in Massen über 1 oder 2 Zwerge her. Da ist nicht mehr viel mit Angriff auf die Helden. Stefan zum Routen zu bringen (4 vs. 2) wird anspruchsvoll.
+
+* Der Vampir ist mittlerweile fast nicht mehr zu besiegen. Heavy Armour, gefühlt 20 Skills, 2 Attacken, 2 Wunden, usw. Ihn zu knacken ist jetzt zwei Mal mit einigen Opfern gescheitert. Unmöglich ist es nicht, aber es muss viel zusammenpassen, er muss allein stehen, ich muss mit mind. 4 Zwergen ran und im Optimalfall schon zuvor 1 Wunde rausschießen. Blessed Water und Double Handed Weapons und Rabbit Foot ReRolls sind auch hilfreich. Ich vermute aber, diese Option ist jetzt verstrichen.
+
+* Ohne große Möglichkeit auf strategische Züge muss ich mehr auf Fernkampf setzen und den Schützen so viel Zeit wie möglich zu verschaffen. Sprich: Close Combat so lange wie möglich hinauszögern um nicht in einen Kampf schießen zu müssen + freies Schussfeld.
+
+* Mit 6 Units im freien Feld (2 Schützen hinten) kann ich entweder alle in einem großen Pulk laufen lassen und mich dann (wie beim letzen Spiel) umzingeln lassen und dann zuzusehen wie einer nach dem anderen fällt (2 genügen ja schon). Mit zwei 3er Teams habe ich vermutlich mehrere Chancen, strategisch zu reagieren. Sie sollten allerdings in relativer Reichweite bleiben, falls sich das Kräfte-Gleichgewicht verändert (mit M3 zu Hilfe humpeln kann dauern).
+
+* Szenario genauer lesen :) Kleine Details können alles kippen (Lost Prince). Evtl. auch Szenarios wählen, bei denen die Umgebung auch zur Gefahr wird. Stefan hat viel mehr Einheiten zu bewegen und ist so etwas eingeschränkter und potentiell mehreren Gefahren ausgesetzt.
+
+* Stefan ist mittlerweile bei 13 Shards. Die letzten beiden Spiele haben ihm hier einen deutlichen Booster gegeben. 7 Shards in den nächsten beiden Spielen zu kassieren ist nicht schwer. Realistisch gesehen beendet Stefan die Kampagne in den nächsten 1 bis 2 Spielen. Ich hätte jetzt versuchen können, meine 8 shards zu sparen und versuchen in den nächsten 2 Spielen die fehlenden 12 zu sammeln. Das wird aber mit der aktuellen Warband nicht klappen. Ich will dennoch versuchen, was noch möglich ist. Der Spaß steht bei mir weiterhin an Position 1. Ich hätte an einigen Stellen viel konservativer spielen können, doch darum ging es mir nie :)
