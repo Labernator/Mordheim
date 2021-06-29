@@ -249,7 +249,7 @@ Phyrexian Ghoul (dead)
 **Experience:**  
  - Crovax: +5 (survive, leader, 2x kill, plant): advance Skill (Sprint)
  - Lim-Dul II.: +2 (survive, plant)  
- - Volrath +3 (survive, kill, plant) : advance Skill (Sprint)
+ - Volrath +3 (survive, kill, plant) : advance Skill (Resilient)
  - Tevesh Szat +2 (survive, plant): advance +1S
  - Greven il-Vec +2 (survive, plant): advance +1A
  - Barrow Ghouls +2 (survive, kill) : advance +1S (endlich!)
@@ -280,7 +280,7 @@ Phyrexian Ghoul (dead)
 *Heroes*  
 **Crovax, the Cursed** (Vampire, 33XP: Strongman, Resilient, Sprint): Double-handed Weapon, Lucky Charm, Rabbit's Foot  
 **Lim-Dul II.** (Necromancer, 10XP): 2x Dagger, Rabbit's Foot  
-**Volrath** (Dreg, 5XP: Sprint, +1Ld): 2x Dagger, Rabbit's Foot    
+**Volrath** (Dreg, 5XP: Resilient, +1Ld): 2x Dagger, Rabbit's Foot    
 **Tevesh Szat** (Dreg, 7XP: Resilient, +1I, +1S): 2x Dagger, Rabbit's Foot  
 **Greven il-Vec** (Dreg, 6XP: +1WS, +1S, +1A): Halberd, Rabbit's Foot    
 
@@ -362,7 +362,7 @@ Das Spiel ging auch ungefähr so schnell wie sich das hier liest.
 *Heroes*  
 **Crovax, the Cursed** (Vampire, 35XP: Strongman, Resilient, Sprint): Double-handed Weapon, Heavy Armour, Lucky Charm, Rabbit's Foot  
 **Lim-Dul II.** (Necromancer, 10XP): 2x Dagger, Rabbit's Foot  
-**Volrath** (Dreg, 6XP: Sprint, +1Ld, +1BS): 2x Dagger, Rabbit's Foot    
+**Volrath** (Dreg, 6XP: Resilient, +1Ld, +1BS): 2x Dagger, Rabbit's Foot    
 **Tevesh Szat** (Dreg, 8XP: Resilient, Strongman, +1I, +1S): Double-handed Weapon, Rabbit's Foot  
 **Greven il-Vec** (Dreg, 7XP: +1WS, +1S, +1A): Halberd, Light Armour, Helmet, Rabbit's Foot    
 
@@ -435,7 +435,7 @@ Jetzt kommen meine Kontercharges. 7 Ghoule und 2 Dregs gehen in die Zwerge => 3 
 *Heroes*  
 **Crovax, the Cursed** (Vampire, 38XP: Strongman, Resilient, Sprint, +1WS): Double-handed Weapon, Heavy Armour, Lucky Charm, Rabbit's Foot  
 **Lim-Dul II.** (Necromancer, 11XP: +1T): 2x Dagger, Rabbit's Foot  
-**Volrath** (Dreg, 7XP: Sprint, +1Ld, +1BS): 2x Dagger, Rabbit's Foot    
+**Volrath** (Dreg, 7XP: Resilient, +1Ld, +1BS): 2x Dagger, Rabbit's Foot    
 **Tevesh Szat** (Dreg, 9XP: Resilient, Strongman, +1I, +1S): Double-handed Weapon, Rabbit's Foot  
 **Greven il-Vec** (Dreg, 10XP: +1WS, +1S, +1T, +1A): Halberd, Light Armour, Helmet, Rabbit's Foot    
 
