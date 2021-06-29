@@ -1,48 +1,52 @@
 warband: The Sailing Midgets (Dwarf Treasure Hunters)
 objective:
 alignment:
-gc: 14
-shards: 8
+gc: 7
+shards: 3
 equipment:
   - Mordheim Map (Vague, ReRoll 1 Dice in Exploration Phase)
-
+  - 2x Dagger
 
 # Max 12 units
 # Racial Max: M3, WS7, BS6, S4, T5, W3, I5, A4, Ld10
 heros:
     - hero: Gunner (Noble) [28XP]
       stats: M3, WS5, BS5, S3, T4, W1, I2, A1, Ld9, Sv6
-      weapons: Crossbow, Dagger, Dagger
+      weapons: Crossbow, Dagger, Dagger, Blessed Water
       skilllists: Combat, Shooting, Strength, Special
-      armour: Light Armour, Helmet, Garlic, Rope and Hook, Rabbit Foot
+      armour: Light Armour, Helmet, Rope and Hook, Rabbit Foot, Garlic
       rules: Leader, Quick Shoot
 
     - hero: Loki (Engineer) [17XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld10, Sv-
       skilllists: Combat, Shooting, Special
-      weapons: Crossbow, Axe, Dagger
-      armour: Helmet, Rabbit Foot
+      weapons: Crossbow, Dagger, Dagger
+      armour: Rabbit Foot
       rules: Expert Weaponsmith, Quick Shoot, True Grit
 
     - hero: Bork (Troll Slayer) [14XP]
       stats: M3, WS5, BS3, S4, T4, W1, I2, A1, Ld9, Sv-
       skilllists: Combat, Strength, Special, Slayer Skills
-      weapons: Dwarf Axe, Dagger
-      armour: Rabbit Foot
+      weapons: Dwarf Axe, Axe
+      armour: Rabbit Foot, Garlic
       rules: Deathwish, Mighty Blow
+      # Skill: Ferocious Charge (Attacks x2 beim change)
+      # Skill: Master of Blades
 
     - hero: Eric (Troll Slayer) [14XP]
       stats: M3, WS4, BS3, S4, T5, W1, I2, A1, Ld9, Sv-
       skilllists: Combat, Strength, Special, Slayer Skills
-      weapons: Dwarf Axe, Dagger
-      armour: Rabbit Foot
+      weapons: Dwarf Axe, Axe
+      armour: Rabbit Foot, Garlic
       rules: Deathwish, Mighty Blow
+      # Skill: Ferocious Charge (Attacks x2 beim change)
+      # Skill: Master of Blades
 
 henchmen:
-    - group: Sigfast (1 Thunderer) [5XP]
+    - group: Sigfast & Björn (2 Thunderer) [5XP]
       stats: M3, WS4, BS3, S4, T4, W1, I2, A2, Ld9, Sv-
       armour: Helmet
-      weapons: Axe, Dagger
+      weapons: Two Handed Weapon
 
     - group: Drunken Oarsmen (2 Beardling) [7XP]
       stats: M3, WS4, BS2, S3, T4, W1, I3, A1, Ld8, Sv-
@@ -60,6 +64,7 @@ notes:
 # * Helme: 4+ Save für Stunned
 # * Garlic (1GC, Ld Test für Vampir, hält nur 1 Battle, ob benutzt oder nicht)
 # * Crossbow für Thunderer (25GC)
+# * Two Handed Weapon (15GC, S: +2, Strike Last)
 
 # Units
 # * 1x Drunken Oarsmen nachkaufen (25GC+13GC+3GC => 42GC) Route Limit auf 3 erhöhen

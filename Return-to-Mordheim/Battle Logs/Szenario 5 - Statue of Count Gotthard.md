@@ -6,12 +6,12 @@
 **Underdog:** Aaron  
  
 **Battle Log:**  
-- STefan: 3 Shards, Aaron 1 SHard  
+- Stefan: 3 Shards, Aaron 1 Shard  
 - Vampir killt Bork
 - Greven killt Oarsmen
 - Blauer Ghoul killt Oarsmen  
 - Greven killt Thunderer  
-- 
+- Aaron routed
  
 **Injuries:**  
 * Aaron:
