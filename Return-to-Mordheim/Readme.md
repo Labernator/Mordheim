@@ -1,5 +1,8 @@
+
+![The last fight](final_battle.jpg)
+
 # Regeln
-Gespielt werden die richtig offiziellen Mordheim Regeln. Erstmal fast ohne Houserules und alles, sprich:  
+Gespielt wurden die richtig offiziellen Mordheim Regeln. Erstmal fast ohne Houserules und alles, sprich:  
  - Mordheim Core Rulbook
  - Mordheim Annul 2002
  - Empire in Flames
