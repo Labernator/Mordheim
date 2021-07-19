@@ -22,13 +22,14 @@ Greven:
 Barrow Ghouls:  
 Phyrexian Ghouls:  
 Ashen Ghouls:  
+Dauthi Ghouls:  
 
 * Aaron:  
 Gunner:  
 Loki:  
 Bork:  
 Eric: 
-Sigfast:  
+Sigfast & Björn:  
 Drunken Oarsmen:  
 
 **Exploration:**  
