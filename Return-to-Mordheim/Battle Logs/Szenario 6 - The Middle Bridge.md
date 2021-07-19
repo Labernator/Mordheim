@@ -1,4 +1,5 @@
-**Szenario:**   
+**Szenario:** The Middle Bridge
+
 **Warband Rating:**  
  - Stefan: 216
  - Aaron: 137
