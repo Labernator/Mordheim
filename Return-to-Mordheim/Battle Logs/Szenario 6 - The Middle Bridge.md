@@ -1,9 +1,10 @@
 **Szenario:**   
 **Warband Rating:**  
  - Stefan: 216
- - Aaron: 
+ - Aaron: 137
 
-**Underdog:** 
+**Underdog:**  
+Differenz: 79 => Aaron erhält +2XP für's Überleben!
  
 **Battle Log:**  
  
@@ -22,13 +23,14 @@ Greven:
 Barrow Ghouls:  
 Phyrexian Ghouls:  
 Ashen Ghouls:  
+Dauthi Ghouls:  
 
 * Aaron:  
 Gunner:  
 Loki:  
 Bork:  
 Eric: 
-Sigfast:  
+Sigfast & Björn:  
 Drunken Oarsmen:  
 
 **Exploration:**  
