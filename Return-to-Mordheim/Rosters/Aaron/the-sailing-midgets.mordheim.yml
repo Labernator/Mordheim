@@ -1,40 +1,39 @@
 warband: The Sailing Midgets (Dwarf Treasure Hunters)
 objective:
 alignment:
-gc: 1
+gc: 8
 shards: 3
 equipment:
   - Mordheim Map (Vague, ReRoll 1 Dice in Exploration Phase)
-  - 2x Dagger
 
 # Max 12 units
 # Racial Max: M3, WS7, BS6, S4, T5, W3, I5, A4, Ld10
 heros:
-    - hero: Gunner (Noble) [28XP]
+    - hero: Gunner (Noble) [32XP]
       stats: M3, WS5, BS5, S3, T4, W1, I2, A1, Ld9, Sv6
       weapons: Crossbow, Dagger, Dagger, Blessed Water
       skilllists: Combat, Shooting, Strength, Special
       armour: Light Armour, Helmet, Rope and Hook, Rabbit Foot, Garlic
-      rules: Leader, Quick Shoot
+      rules: Leader, Quick Shoot, Trick Shooter
 
-    - hero: Loki (Engineer) [17XP]
+    - hero: Loki (Engineer) [18XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld10, Sv-
       skilllists: Combat, Shooting, Special
-      weapons: Crossbow, Dagger, Dagger
+      weapons: Crossbow, Two Handed Weapon
       armour: Rabbit Foot
-      rules: Expert Weaponsmith, Quick Shoot, True Grit
+      rules: Expert Weaponsmith, Quick Shoot, True Grit, Hate Undead
 
-    - hero: Bork (Troll Slayer) [14XP]
+    - hero: Bork (Troll Slayer) [17XP]
       stats: M3, WS5, BS3, S4, T4, W1, I2, A1, Ld9, Sv-
       skilllists: Combat, Strength, Special, Slayer Skills
       weapons: Dwarf Axe, Axe
       armour: Rabbit Foot, Garlic
-      rules: Deathwish, Mighty Blow
+      rules: Deathwish, Mighty Blow, Ferocious Charge
       # Skill: Ferocious Charge (Attacks x2 beim change)
       # Skill: Master of Blades
 
-    - hero: Eric (Troll Slayer) [14XP]
-      stats: M3, WS4, BS3, S4, T5, W1, I2, A1, Ld9, Sv-
+    - hero: Eric (Troll Slayer) [17XP]
+      stats: M3, WS4, BS3, S4, T5, W1, I2, A2, Ld9, Sv-
       skilllists: Combat, Strength, Special, Slayer Skills
       weapons: Dwarf Axe, Axe
       armour: Rabbit Foot, Garlic
@@ -48,10 +47,14 @@ henchmen:
       armour: Helmet
       weapons: Two Handed Weapon
 
-    - group: Drunken Oarsmen (2 Beardling) [7XP]
-      stats: M3, WS4, BS2, S3, T4, W1, I3, A1, Ld8, Sv-
+    - group: Drunken Oarsmen (1 Beardling) [7XP]
+      stats: M3, WS4, BS3, S3, T4, W1, I3, A1, Ld8, Sv-
       weapons: Hammer, Dagger
       armour: Helmet
+
+    - group: Meulings (3 Beardling) [0XP]
+      stats: M3, WS3, BS2, S3, T4, W1, I3, A1, Ld8, Sv-
+      weapons: Dagger, Dagger
 
 notes:
 # Rare Items search:
