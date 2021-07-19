@@ -1,33 +1,26 @@
 warband: The Sailing Midgets (Dwarf Treasure Hunters)
 objective:
 alignment:
-gc: 8
-shards: 3
+gc: 12
+shards: 4
 equipment:
   - Mordheim Map (Vague, ReRoll 1 Dice in Exploration Phase)
 
 # Max 12 units
 # Racial Max: M3, WS7, BS6, S4, T5, W3, I5, A4, Ld10
 heros:
-    - hero: Gunner (Noble) [32XP]
-      stats: M3, WS5, BS5, S3, T4, W1, I2, A1, Ld9, Sv6
-      weapons: Crossbow, Dagger, Dagger, Blessed Water
-      skilllists: Combat, Shooting, Strength, Special
-      armour: Light Armour, Helmet, Rope and Hook, Rabbit Foot, Garlic
-      rules: Leader, Quick Shoot, Trick Shooter
-
     - hero: Loki (Engineer) [18XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld10, Sv-
       skilllists: Combat, Shooting, Special
       weapons: Crossbow, Two Handed Weapon
-      armour: Rabbit Foot
-      rules: Expert Weaponsmith, Quick Shoot, True Grit, Hate Undead
+      armour: Rabbit Foot, Heavy Armour
+      rules: Expert Weaponsmith, Quick Shoot, True Grit, Hate Undead, Leader
 
     - hero: Bork (Troll Slayer) [17XP]
-      stats: M3, WS5, BS3, S4, T4, W1, I2, A1, Ld9, Sv-
+      stats: M2, WS5, BS3, S4, T4, W1, I2, A1, Ld9, Sv-
       skilllists: Combat, Strength, Special, Slayer Skills
       weapons: Dwarf Axe, Axe
-      armour: Rabbit Foot, Garlic
+      armour: Rabbit Foot
       rules: Deathwish, Mighty Blow, Ferocious Charge
       # Skill: Ferocious Charge (Attacks x2 beim change)
       # Skill: Master of Blades
@@ -36,13 +29,13 @@ heros:
       stats: M3, WS4, BS3, S4, T5, W1, I2, A2, Ld9, Sv-
       skilllists: Combat, Strength, Special, Slayer Skills
       weapons: Dwarf Axe, Axe
-      armour: Rabbit Foot, Garlic
-      rules: Deathwish, Mighty Blow
+      armour: Rabbit Foot
+      rules: Deathwish, Mighty Blow, Fear
       # Skill: Ferocious Charge (Attacks x2 beim change)
       # Skill: Master of Blades
 
 henchmen:
-    - group: Sigfast & Björn (2 Thunderer) [5XP]
+    - group: Sigfast (1 Thunderer) [5XP]
       stats: M3, WS4, BS3, S4, T4, W1, I2, A2, Ld9, Sv-
       armour: Helmet
       weapons: Two Handed Weapon
@@ -52,7 +45,7 @@ henchmen:
       weapons: Hammer, Dagger
       armour: Helmet
 
-    - group: Meulings (3 Beardling) [0XP]
+    - group: Meulings (2 Beardling) [1XP]
       stats: M3, WS3, BS2, S3, T4, W1, I3, A1, Ld8, Sv-
       weapons: Dagger, Dagger
 
@@ -79,4 +72,4 @@ notes:
 # * Step Aside (Additional 5+ Save ohne penalty)
 # * Wyrdstone Hunter (1 ReRoll in der Exploration-Phase)
 # * Haggle (-2D6 vom Preis eines Items)
-# * True Grit (103 knocked down, 4-5 stunned, 6 OOA)
+# * True Grit (1-3 knocked down, 4-5 stunned, 6 OOA)

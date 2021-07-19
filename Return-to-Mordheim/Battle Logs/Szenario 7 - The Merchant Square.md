@@ -5,6 +5,7 @@
  - Aaron: 
 
 **Underdog:** 
+* Aaron: +2XP für berleben (haha)
  
 **Battle Log:**  
 * Aaron findet ein Haus
@@ -24,6 +25,16 @@
  
 **Injuries:**  
 * Aaron:
+* Bork: Leg wound, -1 Movement (LOL)
+* Eric: Horrible Scars, Causes fear
+* Gunner: Tot, oh my ...
+* Loki: Full Recovery, wird neuer Leader, da Ld10
+* Meuling: tot
+* Meuling: lebt
+* Oarsmen: lebt
+* Oarsmen: lebt, aber da er eigentlich gar nicht mitgespielt hat, tot :)
+* Thunderer: tot
+* Thunderer: lebt
 
 * Stefan:
  
@@ -39,19 +50,24 @@ Phyrexian Ghouls:
 Ashen Ghouls:  
 Dauthi Ghouls:  
 
-* Aaron:  
-Gunner:  
-Loki:  
-Bork:  
-Eric: 
-Sigfast & Björn:  
-Drunken Oarsmen:  
-Meulinge:
+* Aaron: -
+Gunner: -
+Loki: -
+Bork: -
+Eric: -
+Sigfast & Björn: -
+Drunken Oarsmen: -
+Meulinge: +1 überlebt
 
 **Exploration:**  
 * Stefan: 
+* Haus 1:
+* Haus 2:
+* Haus 3:
 
 * Aaron: 
+* Haus 1: 1x Heavy Armour!!
+* Exploration: 2 dice, 6, 6, map-reroll lasse ich mal, 3 Shards also :), Doppel 6: Ruined Hovels, D6 GC => 4
 
 **Trading:**  
 * Stefan: 
