@@ -572,7 +572,7 @@ Meine restliche Warband beseitigt die übrigen Zwerge und ich charge den Vampir 
  - Volrath +2 (survive, crate)
  - Tevesh Szat +3 (survive, 2 kill): advance Skill (Fearsome)
  - Greven il-Vec +2 (survive, kill)
- - Barrow Ghouls +3 (survive, 2 kill): gecapped bei 15XP. Advance: +1I 
+ - Barrow Ghouls +3 (survive, 2 kill): gecapped bei 14XP. Advance: +1I 
  - Phyrexian Ghouls +3 (survive, 2 kill)
  - Ashen Ghouls +2 (survive, crate): advance +1A
  - Dauthi Ghouls +3 (survive, crate, kill)
@@ -616,7 +616,7 @@ Suche fünfmal Gromril Armour und finde nichts
 **Greven il-Vec** (Dreg, 13XP: Strongman, +1WS, +1S, +1T, +1A): Double-handed Weapon, Heavy Armour, Helmet, Rabbit's Foot    
 
 *Henchmen*  
-**Barrow Ghouls** (4x Ghoul, 15XP: +1WS, +1Ld, +1I, +1S)  
+**Barrow Ghouls** (4x Ghoul, 14XP: +1WS, +1Ld, +1I, +1S)  
 **Phyrexian Ghouls** (2x Ghoul, 12XP: +1WS, +1Ld, +1A)  
 **Ashen Ghouls** (1x Ghoul, 9XP: +1WS, +1I, +1A)  
 **Dauthi Ghouls** (3x Ghoul, 8XP: +1WS, +1I)
