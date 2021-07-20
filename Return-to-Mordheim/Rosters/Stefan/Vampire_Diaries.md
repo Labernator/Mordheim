@@ -626,4 +626,33 @@ Suche fünfmal Gromril Armour und finde nichts
 **Jaya Ballard** (Warlock, 11XP): Staff
 
 **Treasure Chest** 4GC, 21 Wyrdstone  
-**Warband Rating** 
+**Warband Rating** 326
+
+Das war nicht mal ansatzweise knapp. Mein Vampir ist inzwischen einfach komplett OP. Greven ist ein sehr guter Kämpfer und Tevesh zumindest passabel. Dazu die Ghoule die nie schlecht und sehr tough sind. Ja, die Untoten Warband ist schone sehr gut. Es ist auch abgefahren wie reich man in einem Loot-Grabbing Szenario werden kann, wenn man es dominiert. Ist gut, dass wir da vorher keine hatten!  
+
+Ansonsten habe ich es ich es mit 12 Advances auf meinen Henchmen wieder nicht hingekriegt einen sechsten Helden zu bekommen. Da würfle ich immer konstant dran vorbei. Aber das ist Mordheim: Würfelwürfe in der Post-Game-Sequence sind extrem wichtig…
+
+*Crovax stand mitten auf dem blutbesudelten Platz. Die Körper der erschlagenen Zwerge bildeten groteske Siluetten um ihn herum. "Fackel deine Wurzel ab Zauberer!", herrschte er Lim-Dul an. "Rufe den Shadowlord. Dies ist der Moment meines Triumphes!" Lim-Dul legte die Wurzel mitten in eine Blutlache. Feuer entsprang seinen offenen Handflächen und entzündete die Wurzel. Und obwohl das nicht der Fall sein sollte breitete sich das Feuer in Windeseile über den Platz aus. Das Blut der erschlagenen Zwerge stand in Flammen. Schwarzer Qualm zog auf. Lim-Dul erhob die Arme und begann einen unirdischen Gesang anzustimmen.*
+
+*Die Dregs sahen mit angstgeweiteten Augen auf den Necromancer. Lim-Duls Augen waren verdreht, er selbst auf die Knie gesunken, seine Hände zitterten und seine Stimme bebte. Trotzdem sang er weiter. Mitten auf dem Platz stand stolz der Vampir und vor ihm schien sich der Rauch zu verdichten. Er schien Gestalt anzunehmen. Etwas abgrundtief Böses schälte sich heraus. Das war zu viel für die drei. Bei aller Loyalität zu ihrem Meister, dem sie alles verdankten, überwiegte doch das blanke Entsetzen vor dem Ding das sich gerade manifestierte. Die Dregs begannen zu rennen. So schnell sie konnten. Nur fort. Fort aus dieser Stadt.*
+
+*Crovax war wie im Rausch. Er war so auf die Gestalt vor sich fokussiert, dass er seine flüchtenden Untergeben nicht wahrnahm. Auch wie Lim-Dul am Rand des Platzes zusammenbrach registrierte er nicht. Es gab nur ihn und den Dämon. Den Shadowlord. Er griff mit der rechten Hand das heilige Schwert Count Gotthards und ignorierte das Brennen in seiner Hand. Die Trollhaut um den athletischen Körper geschlungen trat er selbstsicher auf den Dämon zu. "Shadowlord, ich habe dich gerufen. Du wirst mir dienen. Schwöre!" Die Augen des Dämonen verengten sich. "Wer bist du, dass du dich erdreistest Forderungen an mich zu stellen?" "Ich bin Crovax, der Verfluchte. Und bei der Macht Count Gotthards befehle ich dir: Unterwirf dich! Beuge dein Knie!" Einen kurzen Moment herrschte absolute Stille. Als würde die ganze verdammte Stadt den Atem anhalten. Dann ertönte ein freudloses, donnerndes Lachen.*
+
+*"Du verblendeter Wurm. Ich soll das Knie beugen? Für dich werde ich mir einen ganz besonderen Tod ausdenken!" Bei diesen Worten schoss der Dämon auf den Vampir zu. Crovax Augen weiteten sich und blitzschnell schwang er das heilige Schwert gegen den Shadowlord. Nichts geschah. "Nein. Warum…", stammelte Crovax, da hatte der Dämon ihn erreicht. Ein ohrenbetäubender unmenschlicher Schrei war das letzte, was man von dem Vampir hörte. Und das Klappern des heiligen Schwertes auf blutgetränktem Kopfsteinpflaster.*
+
+*"Hahahaha, du größenwahnsinniger Irrer. Das geschieht dir recht! Du Nichts. Du eingebildete Ratte!" Jahrelang aufgestauter Hass brach aus Lim-Dul heraus. Er hatte es gewusst. Und der Vampir nicht. Nichts wusste er. Und jetzt hatte er dafür bezahlt. Süße Gerechtigkeit. "Oh Shadowlord", rief der Zauberer dem Dämonen zu, "ich bin euer treuster Untertan. Ich beuge mein Knie. Bitte gewährt mir die Ehre euch dienen zu dürfen." Der Dämon kam näher. "Nein", sagte er lakonisch und riss dem Zauberer den Kopf von den Schultern.*
+
+
+## Epilog
+*Durch die Dämmerung der frühen Morgenstunden stolperten drei zerlumpte Gestalten aus dem Westtor der verfluchten Stadt. Zitternd, entkräftet und doch getrieben von einem einzigen Wunsch. Der Wunsch, Mordheim nie wieder zu betreten.*
+
+**Fazit**  
+Die Kampagne hat mir sehr großen Spaß gemacht! Mordheim checkt für mich als Spiel einfach wirklich viele Boxen. Die Core Regeln mit den drei Hausregeln (Rüstung, Chargen und Dual-wielden) sind ziemlich gut. Klar gibt es einige Sachen die nicht balanced sind. Die Skills Sprint, Strongman und Quickshot sind wahnsinnig effektiv. Ob man das als gamebreaking empfindet muss jeder selbst entscheiden. Auch der Rabbit's  Foor ist de facto ein autoinclude. Aber da den jeder kaufen kann und rerolls das spiel konsistenten und weniger swingy machen finde ich den unproblematisch.
+
+Der Kampagnen-Modus mit der Map gefällt mir ausgesprochen gut, da kann man sich schön eine narrative drum bauen. Ansonsten hat Mordheim ein Problem, wenn ein Spieler zu weit ahead ist. Das kann das Spiel nicht abfangen. Ich denke, das liegt vor allem daran, dass man in Mordheim seine Warband so schön weiterentwickeln kann. Jedes Level-Up und alle Goldmünzen können sehr effektiv die Warband verbessern. Das ist für mich ein klares Plus des Spiels. Auf der anderen Seite, ist so der Spieler mit mehr Level-Ups und mehr Geld auch stark im Vorteil.
+
+Die Wincondition der Kampagne (Wyrdstones sammeln und nicht ausgeben) sollte das Problem auf dem Papier etwas abschwächen, aber in aller Ehrlichkeit investiert man am Anfang einfach all sein Geld in Verbesserungen und fängt dann später an zu sammeln, so dass der Effekt bestenfalls schwach ist. Eine Kampagne mit 4 Spielern die immer alle zusammen spielen würde sich hier vermutlich deutlich ausgeglichener anfühlen, da die Siege nicht so binär ausfallen. Aber woher den vierten Spieler nehmen…
+
+Ansonsten haben wir sieben Spiele in nicht ganz zwei Monaten gespielt. Sowohl vom zeitlichen, als auch vom inhaltlichen Umfang erscheint mir das ziemlich passend. Nach diesen Spielen ist meine Warband schon so mächtig, dass der Spielspaß schon deutlich leiden würde.
+
+TD;DR: Mordheim ist cool, das offizielle Regelwerk (mit den drei Hausregeln) und der Kampagnenmodus sind voll gut. Wenn man akzeptiert, dass Mordheim einfach doch viel Gewürfele ist. 4 Spieler wären besser.
