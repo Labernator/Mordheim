@@ -530,7 +530,7 @@ Phyrexian Ghoul (recovery)
 **Dauthi Ghouls** (3x Ghoul, 5XP: +1WS, +1I)
 
 **Treasure Chest** 43GC, 18 Wyrdstone  
-**Warband Rating** 
+**Warband Rating** 246
 
 *Fassungslos starrten die Dregs auf den gigantischen Körper des erschlagenen Trolls. Der Kampf hatte sie alles gekostet. Greven blutete aus mehreren Wunden und Tevesh war vor Erschöpfung auf die Knie gesunken. Nur Crovax wirkte unbeeindruckt, als er seine Klinge vom Blut des Untiers säuberte. "Ich liebe es, wenn ein Plan funktioniert!" Keiner seiner Untergebenen fand Worte.*  
 
@@ -540,3 +540,12 @@ Phyrexian Ghoul (recovery)
 
 
 ## The Merchant Square
+*Crovax war in absoluter Hochstimmung. Nicht, dass man es dem Vampir angemerkt hätte, aber es lief wirklich alles wie in seinem brillanten Plan vorgesehen. Er hatte die Wurzel um den Shadowlord zu rufen, das Schwert um ihn zu bezwingen und die Trollhaut um sich zu schützen. Jetzt würde er noch reichlich Halblingsblut auf dem Pflaster dieser verfluchten Stadt vergießen um dem Dämon klar zu machen, dass er willens und fähig war sein Meister zu sein.*  
+
+*Die Dregs schlurften zwischen der Ghoulhorde dem ehemaligen Handelsviertel von Mordheim entgegen. Lim-Dul hatte diese Richtung gewiesen. Jeder von ihnen hatte das starke Gefühl, dass sich ihre Zeit in der verdammten Stadt ihrem Höhepunkt näherte. So oder so. Bisher war jedes Unternehmen, dass ihr Meister befohlen hatte geglückt. Und wenn es auch noch so wahnsinnig gewesen war. Jeder der drei hing seinen Gedanken nach. Erinnerungen an dämonisch besessene Bäume, blutrünstige Trolle und waffenstarrende Zwerge tauchten vor ihrem inneren Auge auf. Dies war keine Stadt für die Lebenden…*  
+
+*Lim-Dul konnte seine Aufregung kaum verbergen. Dies war das Finale. Würde sein Meister den Dämon unterwerfen? Würde er von ihm unterworfen werden? Egal wie dieser Tag auch enden mochte, heute würde es viel zu lernen geben. Vorausgesetzt er schaffte es sich im Hintergrund der Geschehnisse zu halten. Aber damit hatte er bisher auch keine Schwierigkeiten gehabt.*
+
+*Die Gruppe betrat den großen Handelsplatz von Mordheim. Oder das was von ihm übrig geblieben war. "Zeigt euch, ihr armseligen Halblinge", rief Crovax in Richtung der verfallenen Häuserfront. "Wir haben euch gefunden. Ihr könnt euch nicht weiter verstecken. Dies ist das Ende!" Nach kurzer Stille hörte man ein Klirren und Scharren und auf der anderen Seite des Platzes kamen die schwer bewaffneten Zwerge zum Vorschein. Crovax stieß ein unmenschliches Brüllen aus, zog sein Schwert und stürmte auf den Platz.*
+
+**19.07.21 Szenario 6 – The Merchant Square**  
