@@ -6,6 +6,9 @@
  - [Memorial Gardens](Vampire_Diaries.md#memorial-gardens)
  - [Rich Quarters](Vampire_Diaries.md#rich-quarters)
  - [Statue of Count Gottard](Vampire_Diaries.md#statue-of-count-gottard)
+ - [The Middle Bridge](Vampire_Diaries.md#the-middle-bridge)
+ - [The Merchant Square](Vampire_Diaries.md#the-merchant-square)
+ - [Epilog & Fazit](Vampire_Diaries.md#epilog)
 
 ## Heroes
 **Crovax, the Cursed**  
