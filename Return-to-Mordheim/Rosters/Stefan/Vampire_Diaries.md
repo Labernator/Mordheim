@@ -520,8 +520,8 @@ Phyrexian Ghoul (recovery)
 **Crovax, the Cursed** (Vampire, 43XP: Strongman, Resilient, Sprint, Strike to Injure, +1WS): Double-handed Weapon, Heavy Armour, Lucky Charm, Rabbit's Foot  
 **Lim-Dul II.** (Necromancer, 12XP: +1T): 2x Dagger, Rabbit's Foot  
 **Volrath** (Dreg, 8XP: Resilient, +1Ld, +1BS, +1W): Halberd, Rabbit's Foot    
-**Tevesh Szat** (Dreg, 10XP: Resilient, Strongman, +1I, +1S): Double-handed Weapon, Rabbit's Foot  
-**Greven il-Vec** (Dreg, 10XP: Strongman, +1WS, +1S, +1T, +1A): Double-handed Weapon, Light Armour, Helmet, Rabbit's Foot    
+**Tevesh Szat** (Dreg, 9XP: Resilient, Strongman, +1I, +1S): Double-handed Weapon, Rabbit's Foot  
+**Greven il-Vec** (Dreg, 11XP: Strongman, +1WS, +1S, +1T, +1A): Double-handed Weapon, Light Armour, Helmet, Rabbit's Foot    
 
 *Henchmen*  
 **Barrow Ghouls** (4x Ghoul, 12XP: +1WS, +1Ld, +1S)  
