@@ -653,6 +653,6 @@ Der Kampagnen-Modus mit der Map gefällt mir ausgesprochen gut, da kann man sich
 
 Die Wincondition der Kampagne (Wyrdstones sammeln und nicht ausgeben) sollte das Problem auf dem Papier etwas abschwächen, aber in aller Ehrlichkeit investiert man am Anfang einfach all sein Geld in Verbesserungen und fängt dann später an zu sammeln, so dass der Effekt bestenfalls schwach ist. Eine Kampagne mit 4 Spielern die immer alle zusammen spielen würde sich hier vermutlich deutlich ausgeglichener anfühlen, da die Siege nicht so binär ausfallen. Aber woher den vierten Spieler nehmen…
 
-Ansonsten haben wir sieben Spiele in nicht ganz zwei Monaten gespielt. Sowohl vom zeitlichen, als auch vom inhaltlichen Umfang erscheint mir das ziemlich passend. Nach diesen Spielen ist meine Warband schon so mächtig, dass der Spielspaß schon deutlich leiden würde.
+Ansonsten haben wir sieben Spiele in nicht ganz zwei Monaten gespielt. Sowohl vom zeitlichen, als auch vom inhaltlichen Umfang erscheint mir das ziemlich passend. Nach diesen Spielen ist meine Warband schon so mächtig, dass der Spielspaß schon deutlich leiden würde. Aber es war ein gutes Gefühl eine Kampagne mal bis zum ende durchzuspielen. Das hat ja bisher leider nie geklappt.
 
 **TD;DR:** Mordheim ist cool, das offizielle Regelwerk (mit den drei Hausregeln) und der Kampagnenmodus sind voll gut. *Wenn* man akzeptiert, dass Mordheim einfach doch viel Gewürfele ist. 4 Spieler wären besser.
