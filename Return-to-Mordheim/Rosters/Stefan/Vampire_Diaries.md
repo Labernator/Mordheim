@@ -463,3 +463,80 @@ Desweiteren habe ich nochmal ein paar Wyrdstones ausgegeben um meine Warband auf
 *Dumpfes Plätschern kündigte den Fluss an, bevor sie ihn durch die ewige Düsternis und allgegenwertigen Trümmer von Mordheim sehen konnten. Und in das Plätschern mischte sich etwas anderes. Ein tiefes Schnauben. Ein Grollen. Ein Schlurfen und Knirschen. Als ob sich etwas sehr Großes und sehr Schweres bewegte. Unwillkürlich verlangsamten die Dregs ihre Schritte. Crovax warf einen kurzen Blick über seine Schulter. Das reichte um Bewegung in die zutiefst verängstigte Truppe zu bringen.*
 
 *Sie bezogen Stellung in einem verfallenen Haus, von dem sie einen guten Blick auf die Brücke hatten. Als der Vampir zufrieden mit dem Kopf nickte wagten auch seine Anhänger einen Blick durch das zerbrochene Fenster zu werfen. Volrath zog sofort den Kopf wieder ein. Tevesh und Greven hatten sich besser unter Kontrolle, aber auch aus ihren Gesichtern wich jegliche Farbe. Da war kein Troll am Fluss. Da waren viele. Rund ein halbes Dutzend konnten sie in der Dunkelheit ausmachen. "Das läuft ja wie am Schnürchen", sagte der Vampir scheinbar völlig unbesorgt. "Los geht's!" Die Dregs packten ihre Waffen fester mit schweißnassen Händen und mit dem Mut der Verzweiflung stürmten sie aus dem Haus. Vielleicht war es besser zwischen den Zähnen eines Trolls zu enden, statt im Angesicht eines Dämonen.*
+
+**19.07.21 Szenario 6 – The Middle Bridge**  
+Ich hatte mir das Szenario ausgesucht (mein erstes), allerdings weniger aus taktischen (oder auch nur flufftechnischen) Gründen, sondern einfach weil ich sehen wollte wie stark die Trolle sind. Und alter Schwede, habe ich es gesehen.  
+Ich habe an meiner rechten Flanke sechs Ghoule positioniert um einen von Aarons Schützen zu jagen. Und den Rest sehr zentral, um die Brücke zu stürmen. Das halbe Movement in dem Szenario mag zwar fluffig sein, sorgt aber nur dafür, dass man am Anfang doppelt so lange braucht um vor Ort zu sein. Wenig sinnvoll. Jedenfalls snipert Aaron mir zwei Lete raus bis ich auf der rechten Flanke meine Charges hinkriege. Und in der Mitte gehe ich in den Troll. Sechs Mann, alle zwei Attacken, alle S4 und zwei S6. Und in der ersten Runde mache ich keine Wunde am Troll….  
+
+Zu dem Zeitpunkt ist mir dann auch klar, dass das eine ziemlich dumme Idee war. Aaron schleicht ganz gemütlich am hinteren Ende der Brücke um die rechte Flanke zu verstärken, der Boss schießt munter und der zweite Troll charged mich. Der haut mir dann auch einen Ghoul raus (der dritte Tote). Zum Glück habe ich nach dem letzten Spiel mein Rout-Limit auf vier erhöht! Als der Troll wieder frei steht sind 5 Krieger von mir auf der Brücke und zwei von Aaron. Wir würfeln und der Troll charged tatsächlich einen Zwerg.  
+
+Das war ein wahnsinns (unverdientes) Glück. Aaron verwürfelt an der rechten Flanke auch zwei Fear Tests und so können meine Ghoule dort alles abräumen. Nach sehr vielen Runden in denen mein Vampir 3 Mal ooA geschlagen wurde kann ich tatsächlich auch einen Troll in der Mitte fällen. Alter Schwede sind die Typen krass!
+
+**Ergebnis:** Sieg       
+
+**Gefallene Krieger:**  
+Tevesh (recovery)  
+Barrow Ghoul (recovery)  
+Phyrexian Ghoul (recovery)
+
+**Belohnungen:**   
+2 Wyrdstone, 18GC
+
+**Experience:**  
+ - Crovax: +5 (survive, leader, Troll kill): advance Skill (Strike to Injure)
+ - Lim-Dul II. +1 (survive)
+ - Volrath +1 (survive): advance +1W
+ - Tevesh Szat +0
+ - Greven il-Vec +1 (survive): advance Skill (Strongman)
+ - Barrow Ghouls +1 (survive) 
+ - Phyrexian Ghouls +1 (survive): advance +1A
+ - Ashen Ghouls +1 (survive)
+ - Dauthi Ghouls +5 (survive, 4 kill): advance +1WS, +1I  
+
+**Sonstiges:** -    
+
+**Exploration:**  
+4 Wyrdstones   
+66: 4GC
+
+**Trading:**  
+- In der Kasse vom letzten Mal: 0GC  
+- Aus Szenario: 18GC
+- Verkaufe 1 Wyrdstone: 30GC   
+- Verkaufe 6 Dagger: 6GC   
+- Aus der Exploration: 4GC
+
+=> 58GC  
+
+ - Double-handed weapon 15GC 
+ 
+ => 43GC
+
+**Reallocate equipment:**   
+ - Greven erhält die Double-handed weapon. Seine Halberd geht an Volrath  
+ => 43GC und 18 Wyrdstone übrig in der Kasse  
+
+*Heroes*  
+**Crovax, the Cursed** (Vampire, 43XP: Strongman, Resilient, Sprint, Strike to Injure, +1WS): Double-handed Weapon, Heavy Armour, Lucky Charm, Rabbit's Foot  
+**Lim-Dul II.** (Necromancer, 12XP: +1T): 2x Dagger, Rabbit's Foot  
+**Volrath** (Dreg, 8XP: Resilient, +1Ld, +1BS, +1W): Halberd, Rabbit's Foot    
+**Tevesh Szat** (Dreg, 10XP: Resilient, Strongman, +1I, +1S): Double-handed Weapon, Rabbit's Foot  
+**Greven il-Vec** (Dreg, 10XP: Strongman, +1WS, +1S, +1T, +1A): Double-handed Weapon, Light Armour, Helmet, Rabbit's Foot    
+
+*Henchmen*  
+**Barrow Ghouls** (4x Ghoul, 12XP: +1WS, +1Ld, +1S)  
+**Phyrexian Ghouls** (2x Ghoul, 9XP: +1WS, +1Ld, +1A)  
+**Ashen Ghouls** (1x Ghoul, 7XP: +1WS, +1I)  
+**Dauthi Ghouls** (3x Ghoul, 5XP: +1WS, +1I)
+
+**Treasure Chest** 43GC, 18 Wyrdstone  
+**Warband Rating** 
+
+*Fassungslos starrten die Dregs auf den gigantischen Körper des erschlagenen Trolls. Der Kampf hatte sie alles gekostet. Greven blutete aus mehreren Wunden und Tevesh war vor Erschöpfung auf die Knie gesunken. Nur Crovax wirkte unbeeindruckt, als er seine Klinge vom Blut des Untiers säuberte. "Ich liebe es, wenn ein Plan funktioniert!" Keiner seiner Untergebenen fand Worte.*  
+
+ *"Volrath, häute diese Bestie.", befahl der Vampir. Volrath nickte stumm und begann mit leerem Blick die pockennarbige Haut des Trolls abzuziehen. Lim-Dul wand sich mit belegter Stimme an den Vampir: "Und nun Meister?" "Nett, dass du fragst", erwiderte Crovax "Du erinnerst dich doch bestimmt noch an die Zwerge, die uns einen erbärmlichen Empfang hier bereitet haben? Finde ihren Unterschlupf. Frage die Geister, lies aus Trollinnereien, deute die Sterne. Wie du es tust ist mir egal."*  
+
+*"Wozu, wenn ich fragen darf, braucht ihr denn diese Halblinge, Herr?", fragte Greven mit gesenktem Blick. Der Vampir bleckte die Zähne: "Ich will den Shadowlord auf mich aufmerksam machen. Und die meisten Dämonen haben eine starke Affinität zu Blut. Also werden wir Blut vergießen. Reichlich Blut!"*
+
+
+## The Merchant Square
