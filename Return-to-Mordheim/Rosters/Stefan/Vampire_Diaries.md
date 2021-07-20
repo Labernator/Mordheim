@@ -549,3 +549,81 @@ Phyrexian Ghoul (recovery)
 *Die Gruppe betrat den großen Handelsplatz von Mordheim. Oder das was von ihm übrig geblieben war. "Zeigt euch, ihr armseligen Halblinge", rief Crovax in Richtung der verfallenen Häuserfront. "Wir haben euch gefunden. Ihr könnt euch nicht weiter verstecken. Dies ist das Ende!" Nach kurzer Stille hörte man ein Klirren und Scharren und auf der anderen Seite des Platzes kamen die schwer bewaffneten Zwerge zum Vorschein. Crovax stieß ein unmenschliches Brüllen aus, zog sein Schwert und stürmte auf den Platz.*
 
 **19.07.21 Szenario 6 – The Merchant Square**  
+Da schon vor dem Spiel klar ist, dass ich die Kampagne unabhängig vom Ausgang nach diesem Spiel gewinnen werde hat Aaron alle seine gesparten Wyrdstone Shards ausgegeben um seine Warband nochmal für das Final maximal stark zu machen. Ein angemessener Abschluß!
+
+Das Szenario ist klassisches Loot-Grabbing. Auf jeder der vier Platten sind zwei Häuser die man durchsuchen kann. Ich renne mit dem Vampir an meiner rechten Flanke vor, um Aaron eines abzuluchsen und ziehe den Rest der Warband in die Mitte auf den Platz zu den Crates. Von links nähern sich die Slayer, der Zwergen-Chef steht schon in Sniper Position und rechts stehen die Thunderer und der zweite Schütze.  
+
+Zu dem Zeitpunkt entscheide ich, dass ich wissen will wie OP der Vampir tatsächlich ist. Ich ziehe meine Ghoule auf die linke Seite um mit massiver zahlenmäßiger Überlegenheit die Slayer anzugehen. Leider faile ich einige Charges, so dass nur zwei Ghoule ankommen. Die highrollen allerdings absolut lächerlich und hauen einen Slayer ooA und stunnen den anderen… Der Vampir stunned in einem Diving Charge mit zwei Attacken zwei Zwerge. Und Tevesh killt einen weiteren.  
+
+Hier sieht es schon extrem düster aus für Aaron, aber weil es das letzte Spiel ist routet er nicht, sondern will unbedingt den Vampir noch killen. Zwei weitere Zwerge mit double-handed Weapons chargen den Vampir und der Chef versucht ein Blessed Water auf ihn in den Combat zu werfen. Den Combat mit vier Zwergen und dem Vampir. Trotz Rabbit's Foot reroll trifft Aaron den Vampir nicht und da der zuerst zuschlägt stunned er tatsächlich auch beide chargenden Zwerge, bevor die überhaupt dran sind. Zu dem Zeitpunkt liegen vier Zwerge am Boden um den Vampir.
+
+Meine restliche Warband beseitigt die übrigen Zwerge und ich charge den Vampir alleine zum großen Showdown in Aarons Boss. Da der allerdings inzwischen sehr auf Shooting gebaut ist wird der Kampf wenig spektakulär und ich schlage restlos alle Zwerge ooA. Die vier Crates sammele ich nebenher noch ein, weil ich den Pegasus auch inzwischen auch nicht mehr fürchten muss. Der spawned allerdings gar nicht.
+
+**Ergebnis:** Sieg       
+
+**Gefallene Krieger:**  
+
+**Belohnungen:**   
+2 Wyrdstone, 3 Häuser (Heavy Armour, 2 Spears, 2 Bows), 4 Crates (Bugman's Ale, 6 Handguns)
+
+**Experience:**  
+ - Crovax: +5 (survive, leader, 3 kill): advance +1Ld
+ - Lim-Dul II. +2 (survive, crate): advance Skill (Sprint)
+ - Volrath +2 (survive, crate)
+ - Tevesh Szat +3 (survive, 2 kill): advance Skill (Fearsome)
+ - Greven il-Vec +2 (survive, kill)
+ - Barrow Ghouls +3 (survive, 2 kill): gecapped bei 15XP. Advance: +1I 
+ - Phyrexian Ghouls +3 (survive, 2 kill)
+ - Ashen Ghouls +2 (survive, crate): advance +1A
+ - Dauthi Ghouls +3 (survive, crate, kill)
+
+**Sonstiges:**  
+Suche fünfmal Gromril Armour und finde nichts
+
+**Exploration:**  
+4 Wyrdstones   
+66: 3GC
+
+**Trading:**  
+- In der Kasse vom letzten Mal: 43GC  
+- Aus Szenario: 0GC
+- Verkaufe 3 Wyrdstone: 55GC   
+- Verkaufe 2 Spears: 10GC   
+- Verkaufe 2 Bows: 10GC   
+- Verkaufe 6 Handguns: 108GC   
+- Verkaufe Bugman's Ale: 25GC  
+- Verkaufe Light Armour: 10GC   
+- Aus der Exploration: 3GC
+
+=> 264GC  
+
+ - Hire Ogre Bodyguard: 80GC
+ - Hire Warlock: 30GC
+ - 3x Heavy Armour: 150
+ 
+ => 260GC
+
+**Reallocate equipment:**   
+ - Greven tauscht die Light gegen Heavy Armour
+ - Volrath und Tevesh bekommen auch beide eine Heavy Armour
+ => 4GC und 21 Wyrdstone übrig in der Kasse  
+
+*Heroes*  
+**Crovax, the Cursed** (Vampire, 48XP: Strongman, Resilient, Sprint, Strike to Injure, +1WS, +1Ld): Double-handed Weapon, Heavy Armour, Lucky Charm, Rabbit's Foot  
+**Lim-Dul II.** (Necromancer, 14XP: Sprint, +1T): 2x Dagger, Rabbit's Foot  
+**Volrath** (Dreg, 10XP: Resilient, +1Ld, +1BS, +1W): Halberd, Heavy Armour, Rabbit's Foot    
+**Tevesh Szat** (Dreg, 12XP: Resilient, Strongman, Fearsome, +1I, +1S): Double-handed Weapon, Heavy Armour, Rabbit's Foot  
+**Greven il-Vec** (Dreg, 13XP: Strongman, +1WS, +1S, +1T, +1A): Double-handed Weapon, Heavy Armour, Helmet, Rabbit's Foot    
+
+*Henchmen*  
+**Barrow Ghouls** (4x Ghoul, 15XP: +1WS, +1Ld, +1I, +1S)  
+**Phyrexian Ghouls** (2x Ghoul, 12XP: +1WS, +1Ld, +1A)  
+**Ashen Ghouls** (1x Ghoul, 9XP: +1WS, +1I, +1A)  
+**Dauthi Ghouls** (3x Ghoul, 8XP: +1WS, +1I)
+
+*Hired Swords*  
+**Karn** (Ogre Bodyguard, 5 XP): Double-handed Weapon, Light Armour  
+**Jaya Ballard** (Warlock, 11XP): Staff
+
+**Treasure Chest** 4GC, 21 Wyrdstone  
+**Warband Rating** 
