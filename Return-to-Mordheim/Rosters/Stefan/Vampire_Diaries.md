@@ -655,4 +655,4 @@ Die Wincondition der Kampagne (Wyrdstones sammeln und nicht ausgeben) sollte das
 
 Ansonsten haben wir sieben Spiele in nicht ganz zwei Monaten gespielt. Sowohl vom zeitlichen, als auch vom inhaltlichen Umfang erscheint mir das ziemlich passend. Nach diesen Spielen ist meine Warband schon so mächtig, dass der Spielspaß schon deutlich leiden würde.
 
-TD;DR: Mordheim ist cool, das offizielle Regelwerk (mit den drei Hausregeln) und der Kampagnenmodus sind voll gut. Wenn man akzeptiert, dass Mordheim einfach doch viel Gewürfele ist. 4 Spieler wären besser.
+**TD;DR:** Mordheim ist cool, das offizielle Regelwerk (mit den drei Hausregeln) und der Kampagnenmodus sind voll gut. *Wenn* man akzeptiert, dass Mordheim einfach doch viel Gewürfele ist. 4 Spieler wären besser.
