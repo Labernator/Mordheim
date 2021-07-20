@@ -606,6 +606,7 @@ Suche fünfmal Gromril Armour und finde nichts
 **Reallocate equipment:**   
  - Greven tauscht die Light gegen Heavy Armour
  - Volrath und Tevesh bekommen auch beide eine Heavy Armour
+ - Karn bekommen eine Heavy Armour. Keine Ahnung was mit seiner Light Armour passiert...
  => 4GC und 21 Wyrdstone übrig in der Kasse  
 
 *Heroes*  
@@ -622,7 +623,7 @@ Suche fünfmal Gromril Armour und finde nichts
 **Dauthi Ghouls** (3x Ghoul, 8XP: +1WS, +1I)
 
 *Hired Swords*  
-**Karn** (Ogre Bodyguard, 5 XP): Double-handed Weapon, Light Armour  
+**Karn** (Ogre Bodyguard, 5 XP): Double-handed Weapon, Heavy Armour  
 **Jaya Ballard** (Warlock, 11XP): Staff
 
 **Treasure Chest** 4GC, 21 Wyrdstone  
