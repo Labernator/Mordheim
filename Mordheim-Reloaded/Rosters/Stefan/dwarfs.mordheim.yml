@@ -1,0 +1,46 @@
+warband: Thorin and Company (Dwarf Treasure Hunters)
+campaign: 0
+gc: 0
+shards: 0
+
+heros:
+    - hero: Thorin II Oakenshield (Noble) [20XP]
+      stats: M3, WS5, BS4, S3, T4, W1, I2, A1, Ld9, Sv-
+      weapons: Dagger, Mace
+      armour: 
+      rules: Hard to Kill, Hard Head, Leader
+      skilllists: Strength, Shooting, Combat, Special
+
+    - hero: Balin (Engineer) [10XP]
+      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
+      weapons: Dagger, Crossbow
+      armour: 
+      rules: Hard to Kill, Hard Head, Expert Weaponsmith
+      skilllists: Shooting, Combat, Special
+
+    - hero: Kíli (Troll Slayer) [8XP]
+      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
+      weapons: Great Weapon
+      armour: 
+      rules: Hard to Kill, Hard Head, Deathwish
+      skilllists: Strength, Combat, Special
+
+    - hero: Fíli (Troll Slayer) [8XP]
+      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
+      weapons: Great Weapon
+      armour: 
+      rules: Hard to Kill, Hard Head, Deathwish
+      skilllists: Strength, Combat, Special
+
+henchmen:
+    - group: Beardlings (3 Beardlings) [0XP]
+      stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld8, Sv-
+      weapons: Dagger, Dagger
+      armour: 
+      rules: Hard to Kill, Hard Head
+
+    - group: Thunderer (2 Thunderer) [0XP]
+      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
+      weapons: Dagger, Crossbow
+      armour: 
+      rules: Hard to Kill, Hard Head
