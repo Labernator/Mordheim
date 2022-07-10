@@ -1,2 +1,2 @@
-# Thorin and Company (Dwarf Treasure Hunter Warband)  
+# Thorin and Company (Dwarf Treasure Hunters Warband)  
 ## Spiele 
