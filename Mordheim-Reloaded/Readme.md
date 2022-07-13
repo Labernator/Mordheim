@@ -20,3 +20,9 @@
 - Quick shot
 - Shaggy Hide (Beastmen)
 
+#### Winning
+Jede War Band die die Voraussetzungen zum Gewinnen erfüllt zählt als Sieger.  
+=> Es kann mehrere Sieger geben. Wenn z. B. zwei Warbands gleich viel Kosten vom Board tragen, erhalten beide Leader ein extra XP. 
+
+#### Underdog
+Der Underdog-Bonus wird ermittelt im Vergleich zur stärksten Warband.
