@@ -9,12 +9,15 @@ Noble
 
 **Balin**  
 Engineer
+<img src="Pics/Engineer.jpg" alt="drawing" width="300"/>
 
 **Kíli**  
 Troll Slayer
+<img src="Pics/Slayer1.jpg" alt="drawing" width="300"/>
 
 **Fíli**  
 Troll Slayer
+<img src="Pics/Slayer2.jpg" alt="drawing" width="300"/>
 
 **3 Beardlings**  
 <img src="Pics/Beardlings.jpg" alt="drawing" width="300"/>
