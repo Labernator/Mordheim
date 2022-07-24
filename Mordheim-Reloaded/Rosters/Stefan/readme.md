@@ -5,18 +5,18 @@
 
 ## Warband
 **Thorin II Oakenshield**  
-Noble
+Noble  
 
 **Balin**  
-Engineer
+Engineer  
 <img src="Pics/Engineer.jpg" alt="drawing" width="300"/>
 
 **Kíli**  
-Troll Slayer
+Troll Slayer  
 <img src="Pics/Slayer1.jpg" alt="drawing" width="300"/>
 
 **Fíli**  
-Troll Slayer
+Troll Slayer  
 <img src="Pics/Slayer2.jpg" alt="drawing" width="300"/>
 
 **3 Beardlings**  
