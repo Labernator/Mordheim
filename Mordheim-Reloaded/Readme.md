@@ -26,3 +26,6 @@ Jede War Band die die Voraussetzungen zum Gewinnen erfüllt zählt als Sieger.
 
 #### Underdog
 Der Underdog-Bonus wird ermittelt im Vergleich zur stärksten Warband.
+
+#### Szenario Auswahl  
+Das nächste Szenario wird von der Warband mit dem niedrigsten Warband Rating ausgewählt.
