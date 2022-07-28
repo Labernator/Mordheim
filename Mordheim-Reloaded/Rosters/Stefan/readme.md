@@ -6,6 +6,7 @@
 ## Warband
 **Thorin II Oakenshield**  
 Noble  
+<img src="Pics/Noble.jpg" alt="drawing" width="300"/>
 
 **Balin**  
 Engineer  
