@@ -1,0 +1,54 @@
+warband: Skaven Guards (Skaven)
+campaign: 0
+gc: 6
+shards: 0
+
+heros:
+  - hero: Bossmeng (Assassin Adept) [20XP]
+    stats: M6, WS4, BS4, S4, T3, W1, I5, A1, Ld7, Sv6
+    weapons: Dagger, Dagger, Warplock Pistol
+    armour: Light Armour
+    rules: Leader, Perfect Killer
+    skilllists: Combat, Shooting, Academic, Strength, Speed, Special
+
+  - hero: BS1 (Black Skaven) [8XP]
+    stats: M6, WS4, BS3, S4, T3, W1, I5, A1, Ld6, Sv-
+    weapons: Dagger, Dagger, Sling
+    armour:
+    rules:
+    skilllists: Combat, Shooting, Strength, Speed, Special
+
+  - hero: BS2 (Black Skaven) [8XP]
+    stats: M6, WS4, BS3, S4, T3, W1, I5, A1, Ld6, Sv-
+    weapons: Dagger, Dagger, Sling
+    armour:
+    rules:
+    skilllists: Combat, Shooting, Strength, Speed, Special
+
+  - hero: ES (Eshin Sorcerer) [8XP]
+    stats: M5, WS3, BS3, S3, T3, W1, I4, A1, Ld6, Sv-
+    weapons: Dagger, Dagger, Sling
+    armour:
+    rules:
+    skilllists: Academic, Speed, Special
+
+  - hero: NR1 (Night Runner) [0XP]
+    stats: M6, WS2, BS3, S3, T3, W1, I4, A1, Ld4, Sv-
+    weapons: Dagger, Dagger, Sling
+    armour:
+    rules:
+    skilllists: Combat, Shooting, Special
+
+  - hero: NR2 (Night Runner) [0XP]
+    stats: M6, WS2, BS3, S3, T3, W1, I4, A1, Ld4, Sv-
+    weapons: Dagger, Dagger, Sling
+    armour:
+    rules:
+    skilllists: Combat, Shooting, Special
+
+henchmen:
+  - group: The Horde (11 Verminkin) [0XP]
+    stats: M5, WS3, BS3, S3, T3, W1, I4, A1, Ld5, Sv-
+    weapons: Dagger, Dagger, Sling
+    armour:
+    rules:
