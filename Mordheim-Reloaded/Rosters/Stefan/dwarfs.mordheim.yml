@@ -2,6 +2,8 @@ warband: Thorin and Company (Dwarf Treasure Hunters)
 campaign: 0
 gc: 0
 shards: 0
+objective: ""
+alignment: ""
 
 heros:
     - hero: Thorin II Oakenshield (Noble) [20XP]
