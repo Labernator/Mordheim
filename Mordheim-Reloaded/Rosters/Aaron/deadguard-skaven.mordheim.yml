@@ -2,6 +2,8 @@ warband: Skaven Guards (Skaven)
 campaign: 0
 gc: 6
 shards: 0
+objective:
+alignment:
 
 heros:
   - hero: Bossmeng (Assassin Adept) [20XP]
