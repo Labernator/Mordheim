@@ -1,42 +1,44 @@
 warband: Skaven Guards (Skaven)
 campaign: 0
-gc: 7
-shards: 0
+gc: -13
+shards: 5
 objective: ""
 alignment: ""
 
+# -20 GC Strafe
+
 heros:
-  - hero: Bossmeng (Assassin Adept) [20XP]
+  - hero: Bossmeng (Assassin Adept) [22XP]
     stats: M6, WS4, BS4, S4, T3, W1, I5, A1, Ld7, Sv6
-    weapons: Dagger, Dagger, Warplock Pistol
-    armour: Light Armour
-    rules: Leader, Perfect Killer
+    weapons:
+    armour:
+    rules: Leader, Perfect Killer, Fear, -Run
     skilllists: Combat, Shooting, Academic, Strength, Speed, Special
 
-  - hero: BS1 (Black Skaven) [8XP]
+  - hero: BS1 (Black Skaven) [11XP]
     stats: M6, WS4, BS3, S4, T3, W1, I5, A1, Ld6, Sv-
-    weapons: Dagger, Dagger, Sling
+    weapons: Dagger, Dagger, Short Bow
+    armour:
+    rules: Infiltration
+    skilllists: Combat, Shooting, Strength, Speed, Special
+
+  - hero: BS2 (Black Skaven) [10XP]
+    stats: M6, WS4, BS3, S4, T3, W1, I5, A1, Ld6, Sv-
+    weapons: Dagger, Dagger, Short Bow
     armour:
     rules:
     skilllists: Combat, Shooting, Strength, Speed, Special
 
-  - hero: BS2 (Black Skaven) [8XP]
-    stats: M6, WS4, BS3, S4, T3, W1, I5, A1, Ld6, Sv-
-    weapons: Dagger, Dagger, Sling
-    armour:
-    rules:
-    skilllists: Combat, Shooting, Strength, Speed, Special
-
-  - hero: NR1 (Night Runner) [0XP]
+  - hero: NR1 (Night Runner) [2XP]
     stats: M6, WS2, BS3, S3, T3, W1, I4, A1, Ld4, Sv-
-    weapons: Dagger, Dagger, Sling
+    weapons: Dagger, Dagger, Short Bow
     armour:
-    rules:
+    rules: Infiltration
     skilllists: Combat, Shooting, Special
 
-  - hero: NR2 (Night Runner) [0XP]
+  - hero: NR2 (Night Runner) [1XP]
     stats: M6, WS2, BS3, S3, T3, W1, I4, A1, Ld4, Sv-
-    weapons: Dagger, Dagger, Sling
+    weapons: Dagger, Dagger, Short Bow
     armour:
     rules:
     skilllists: Combat, Shooting, Special
@@ -44,6 +46,6 @@ heros:
 henchmen:
   - group: The Horde (10 Verminkin) [0XP]
     stats: M5, WS3, BS3, S3, T3, W1, I4, A1, Ld5, Sv-
-    weapons: Dagger, Dagger, Sling
+    weapons: Dagger, Dagger, Short Bow
     armour:
     rules:
