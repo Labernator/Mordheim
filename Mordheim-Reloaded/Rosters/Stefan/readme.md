@@ -1,6 +1,8 @@
 # Thorin and Company (Dwarf Treasure Hunters Warband)  
 ## Spiele 
  - [Initial Warband](Campaign_Log.md#initial-warband)
+ - [Reset](Campaign_Log.md#310722-das-massaker-am-ost-tor)
+ - [Metagame Undead](Campaign_Log.md#metagame-undead)
 
 
 ## Warband
