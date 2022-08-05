@@ -6,43 +6,50 @@ objective: ""
 alignment: ""
 
 heros:
-    - hero: Thorin II Oakenshield (Noble) [20XP]
-      stats: M3, WS5, BS4, S3, T4, W1, I2, A1, Ld9, Sv-
-      weapons: Dagger, Mace
-      armour: 
-      rules: Hard to Kill, Hard Head, Leader
-      skilllists: Strength, Shooting, Combat, Special
+    - hero: Isabella von Carstein (Vampire) [20XP]
+      stats: M5, WS4, BS4, S4, T4, W2, I5, A2, Ld8, Sv3+
+      weapons: Dagger
+      armour: Heavy Armour, Shield
+      rules: Leader, Cause Fear, Immune to Psychology, Immune to Poison, No Pain
+      skilllists: Strength, Academic, Combat, Speed
 
-    - hero: Balin (Engineer) [10XP]
-      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
-      weapons: Dagger, Crossbow
+    - hero: Neferata (Necromancer) [8XP]
+      stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+      weapons: 2x Dagger
       armour: 
-      rules: Hard to Kill, Hard Head, Expert Weaponsmith
-      skilllists: Shooting, Combat, Special
+      rules: Wizard: Spell of Doom (9+) 12" Opponent Strength test => injury roll
+      skilllists: Academic, Speed
 
-    - hero: Kíli (Troll Slayer) [8XP]
-      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
+    - hero: Heterneb of ancient Lahmia (Dreg) [0XP]
+      stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld7, Sv-
+      weapons: 2x Dagger
+      armour: 
+      rules: 
+      skilllists: Strength, Combat
+
+    - hero: Giselle of Marienburg (Dreg) [0XP]
+      stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld7, Sv-
       weapons: Great Weapon
       armour: 
-      rules: Hard to Kill, Hard Head, Deathwish
-      skilllists: Strength, Combat, Special
+      rules: 
+      skilllists: Strength, Combat
 
-    - hero: Fíli (Troll Slayer) [8XP]
-      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
+    - hero: Bellatash of Tilea (Dreg) [0XP]
+      stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld7, Sv-
       weapons: Great Weapon
       armour: 
-      rules: Hard to Kill, Hard Head, Deathwish
-      skilllists: Strength, Combat, Special
+      rules: 
+      skilllists: Strength, Combat
 
 henchmen:
-    - group: Beardlings (3 Beardlings) [0XP]
-      stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld8, Sv-
-      weapons: Dagger, Dagger
+    - group: Corpse Eater (3 Ghouls) [0XP]
+      stats: M4, WS2, BS2, S3, T4, W1, I3, A2, Ld5, Sv-
+      weapons: 
       armour: 
-      rules: Hard to Kill, Hard Head
+      rules: Cause Fear
 
-    - group: Thunderer (2 Thunderer) [0XP]
-      stats: M3, WS4, BS3, S3, T4, W1, I2, A1, Ld9, Sv-
-      weapons: Dagger, Crossbow
+    - group: Night Hunter (2 Dire Wolves) [0XP]
+      stats: M9, WS3, BS0, S4, T3, W1, I2, A1, Ld4, Sv-
+      weapons: 
       armour: 
-      rules: Hard to Kill, Hard Head
+      rules: Charge, May not Run, Cause Fear, Immune to Psychology, Immune to Poison, No Pain
