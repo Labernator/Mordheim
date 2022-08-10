@@ -12,6 +12,7 @@ Vampire
 
 **Neferata**  
 Necromancer  
+<img src="Pics/Neferata.jpg" alt="drawing" width="300"/>
 
 **Heterneb of ancient Lahmia**  
 Dreg  
