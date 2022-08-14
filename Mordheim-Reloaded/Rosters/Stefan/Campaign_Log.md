@@ -38,8 +38,10 @@ Mein Plan war also ein Szenario zu wählen, bei dem der Nachteil möglichst weni
 Da nur drei Locations zur Verfügung stehen war die Wahl auch schnell getroffen. Wir ziehen in die Sage's Hall.  
 
 <img src="Pics/IMG_20220814_102529.jpg" alt="drawing" width="350"/>
-https://github.com/Labernator/Mordheim/blob/master/Return-to-Mordheim/Szenarios/TheWizardsMansion.pdf
 
+[The Wizard's Mansion](https://github.com/Labernator/Mordheim/blob/master/Return-to-Mordheim/Szenarios/TheWizardsMansion.pdf)
+
+Hier noch die Regeln zu Attacker/Defender:
 
 <img src="Pics/IMG_20220814_104157.jpg" alt="drawing" width="350"/>
 
