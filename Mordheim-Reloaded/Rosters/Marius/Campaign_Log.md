@@ -1,4 +1,4 @@
-#Post Game 1:
+# Post Game 1:
 
 ## Misfortunes
 
@@ -15,11 +15,13 @@ Kaazzox +2xp weil er ne Ratte ermordet hat
 ## Trading
 
 Verkaufe alle 3 Wyrdstones für 60gc (weil nur 12 Mann)
-=> 78gc
+> 78gc
 Kaufe einen Hund (-15)
+> 63gc
 Verkaufe 4 Dagger (+4)
+> 67gc
 Kaufe 4 Knüppel (-12)
-=> 55gc
+> 55gc
 
 ## Neue warband
 
@@ -44,3 +46,5 @@ Kaazzox (Centaur) 10xp
 
 3 Gor
 2x Dagger
+
+> 55 gc
