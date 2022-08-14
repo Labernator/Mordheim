@@ -11,7 +11,7 @@
 #### Henchmen
 > Henchmen do not gain experience. After 3 scenarios you may choose one non-large henchman to be promoted. If for any reason, you don't have 6 heroes after game 5, another henchman is promoted 
 #### Slings
-> Only get double shot when the model did not move in the same turn
+> Sind in Wahrheit Kurzbögen. Nur billiger (noch)
 
 #### Banned skills for this campaign:
 
