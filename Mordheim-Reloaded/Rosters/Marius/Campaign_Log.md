@@ -66,3 +66,5 @@ Kaufe 4 Knüppel (-12)
 > 2x Dagger
 
 ## Treasure chest: 55 gc
+
+## Minotaur progress 27,5%
