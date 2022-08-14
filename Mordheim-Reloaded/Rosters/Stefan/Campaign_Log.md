@@ -30,3 +30,8 @@ Wer jetzt auch direkt an die lebenden Toten gedacht hat, der hat 100 Punkte. Man
 => 510 GC (10 hat Aaron ja spendiert)  
 => 78 Warband Rating (und damit >51 weniger als Aaron)  
 
+## Auswahl Szenario 2  
+Als Trostpreis für das letzte Spiel darf ich das Szenario für die zweite Runde auswählen.   
+Obwohl die Untoten schon deutlich schneller sind als die Zwerge bin ich noch ziemlich outclassed was Mobilität angeht. Insbesondere im Angesicht von Zentauren/Chaos Dogs auf der einen und infiltrierenden Ratten auf der anderen Seite.  
+
+Mein Plan war also ein Szenario zu wählen, bei dem der Nachteil möglichst wenig ins Gewicht fällt. 
