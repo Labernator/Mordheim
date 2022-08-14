@@ -35,6 +35,11 @@ Als Trostpreis für das letzte Spiel darf ich das Szenario für die zweite Runde
 Obwohl die Untoten schon deutlich schneller sind als die Zwerge bin ich noch ziemlich outclassed was Mobilität angeht. Insbesondere im Angesicht von Zentauren/Chaos Dogs auf der einen und infiltrierenden Ratten auf der anderen Seite.  
 
 Mein Plan war also ein Szenario zu wählen, bei dem der Nachteil möglichst wenig ins Gewicht fällt. 
+Da nur drei Locations zur Verfügung stehen war die Wahl auch schnell getroffen. Wir ziehen in die Sage's Hall.  
 
+<img src="Pics/IMG_20220814_102529.jpg" alt="drawing" width="350"/>
 https://github.com/Labernator/Mordheim/blob/master/Return-to-Mordheim/Szenarios/TheWizardsMansion.pdf
+
+
+<img src="Pics/IMG_20220814_104157.jpg" alt="drawing" width="350"/>
 
