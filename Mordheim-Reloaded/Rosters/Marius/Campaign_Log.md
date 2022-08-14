@@ -35,34 +35,34 @@ Kaufe 4 Knüppel (-12)
 
 ## Neue warband
 
-Mikrix (Beastmen Chief) 21xp
+#### Mikrix (Beastmen Chief) 21xp
 
-Leg Wound (-1M)
+> Leg Wound (-1M)
 
-2x Club, Helmet
+> 2x Club, Helmet
 
-Dhar (Shaman) 12xp
+#### Dhar (Shaman) 12xp
 
-Spells: Eye of God
+> Spells: Eye of God
 
-2x Dagger
+> 2x Dagger
 
-Etzhqu (Bestigor) 9xp
+#### Etzhqu (Bestigor) 9xp
 
-2x Club
+> 2x Club
 
-Malcec (Bestigor) 9xp
+#### Malcec (Bestigor) 9xp
 
-2x Club
+>2x Club
 
-Kaazzox (Centaur) 10xp
+#### Kaazzox (Centaur) 10xp
 
-2x Club, Helmet
+> 2x Club, Helmet
 
-5 Warhounds of Chaos
+#### 5 Warhounds of Chaos
 
-3 Gor
+#### 3 Gor
 
-2x Dagger
+> 2x Dagger
 
-> 55 gc
+## Treasure chest: 55 gc
