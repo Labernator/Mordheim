@@ -1,42 +1,42 @@
 warband: Man Eater (Beastmen)
 campaign: 0
-gc: 0
+gc: 55
 shards: 0
 objective: ""
 alignment: ""
 
 heros:
-  - hero: Mikrix (Chieftain) [20XP]
-    stats: M5, WS4, BS3, S4, T4, W1, I4, A1, Ld7, Sv-
-    weapons: Dagger, Club
+  - hero: Mikrix (Chieftain) [21XP]
+    stats: M4, WS4, BS3, S4, T4, W1, I4, A1, Ld7, Sv-
+    weapons: Club, Club
     armour: Helmet
-    rules: Leader
+    rules: Leader, Broken Leg
     skilllists: Strength, Speed, Combat, Special
 
-  - hero: Dhar (Shaman) [11XP]
+  - hero: Dhar (Shaman) [12XP]
     stats: M5, WS4, BS3, S3, T4, W1, I3, A1, Ld6, Sv-
     weapons: Dagger, Dagger
     armour:
-    rules: Wizard
+    rules: Wizard (Eye of God)
     skilllists: Speed, Combat, Special
 
-  - hero: Etzhqu (Bestigor) [8XP]
+  - hero: Etzhqu (Bestigor) [9XP]
     stats: M5, WS4, BS3, S4, T4, W1, I3, A1, Ld7, Sv-
-    weapons: Dagger, Club
+    weapons: Club, Club
     armour:
     rules:
     skilllists: Strength, Combat, Special
 
-  - hero: Malcec (Bestigor) [8XP]
+  - hero: Malcec (Bestigor) [9XP]
     stats: M5, WS4, BS3, S4, T4, W1, I3, A1, Ld7, Sv-
-    weapons: Dagger, Club
+    weapons: Club, Club
     armour:
     rules:
     skilllists: Strength, Combat, Special
 
-  - hero: Kaazzox (Centigor) [8XP]
+  - hero: Kaazzox (Centigor) [10XP]
     stats: M8, WS4, BS3, S4, T4, W1, I2, A1, Ld7, Sv-
-    weapons: Dagger, Club
+    weapons: Club, Club
     armour: Helmet
     rules: Trample, Drunken
     skilllists: Strength, Combat, Special
