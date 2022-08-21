@@ -12,7 +12,7 @@ Alle spielbaren Warbands findet sich [hier](https://github.com/Labernator/Mordhe
 
 ## Campaign
 
-![Mordheim%20Map%20Campaign%202021.jpg](Mordheim%20Map%20Campaign%202021.jpg)  
+![Return-to-Mordheim/Mordheim%20Map%20Campaign%202021.jpg](Return-to-Mordheim/Mordheim%20Map%20Campaign%202021.jpg)  
 
 Die Kampagne spielt in Mordheim kurz nach dem Einschlag des Meteoriten. Gespielt wird auf der obigen Karte nach den Regeln.  
 Szenarios zu den einzelnen Locations befinden sich [hier](https://github.com/Labernator/Mordheim/tree/master/Return-to-Mordheim/Szenarios).  
