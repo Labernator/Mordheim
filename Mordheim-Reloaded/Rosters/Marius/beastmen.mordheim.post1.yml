@@ -20,7 +20,7 @@ heros:
     rules: Wizard (Eye of God)
     skilllists: Speed, Combat, Special
 
-  - hero: Etzhqu (Bestigor) [9XP]
+  - hero: Etzhqu (Bestigor) [10XP]
     stats: M5, WS4, BS3, S4, T4, W1, I3, A1, Ld7, Sv-
     weapons: Club, Club
     armour:
