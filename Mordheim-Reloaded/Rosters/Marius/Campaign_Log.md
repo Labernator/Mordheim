@@ -16,6 +16,8 @@ Alle Helden +1xp (leben ja noch)
 
 Kaazzox +2xp weil er ne Ratte ermordet hat
 
+Etzhqu +2xp weil er einen Wyrdstone vom Feld getragen hat
+
 ## Trading
 
 Verkaufe alle 3 Wyrdstones für 60gc (weil nur 12 Mann)
@@ -47,7 +49,7 @@ Kaufe 4 Knüppel (-12)
 
 > 2x Dagger
 
-#### Etzhqu (Bestigor) 9xp
+#### Etzhqu (Bestigor) 10xp
 
 > 2x Club
 
