@@ -1,6 +1,6 @@
 warband: Skaven Guards (Skaven)
 campaign: 0
-gc: 51
+gc: 3
 shards: 1
 objective: ""
 alignment: ""
@@ -39,11 +39,11 @@ heros:
     stats: M6, WS2, BS3, S3, T3, W1, I4, A1, Ld4, Sv-
     weapons: Dagger, Dagger, Short Bow
     armour:
-    rules: Infiltration, Hate Dhar (Labers Schaman)
+    rules: Infiltration, Hate Dhar (Labers Shaman)
     skilllists: Combat, Shooting, Special
 
 henchmen:
-  - group: The Horde (12 Verminkin) [0XP]
+  - group: The Horde (14 Verminkin) [0XP]
     stats: M5, WS3, BS3, S3, T3, W1, I4, A1, Ld5, Sv-
     weapons: Dagger, Dagger, Short Bow
     armour:
