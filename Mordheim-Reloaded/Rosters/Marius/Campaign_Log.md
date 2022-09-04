@@ -108,7 +108,7 @@ Malcec +1xp (überlebt)
 
 ## Trading
 
-Verkaufe 3 Wyrdstones für 60gc (weil nur 10 Mann)
+Verkaufe 3 von 4 Wyrdstones für 60gc (weil nur 10 Mann)
 > 115gc
 
 8gc loot aus
@@ -123,6 +123,10 @@ Minotaur mit Hellebarde gekauft (209gc)
 
 > 4gc
 
+Kaufe 2 Clubs und verkaufe 2 Dagger (-4gc)
+
+> 0gc
+
 ## Neue warband
 
 #### Mikrix (Beastmen Chief) 23xp
@@ -135,7 +139,7 @@ Minotaur mit Hellebarde gekauft (209gc)
 
 > Spells: Eye of God
 
-> 2x Dagger
+> 2x Club
 
 #### Etzhqu (Bestigor) 11xp
 
@@ -147,7 +151,7 @@ Minotaur mit Hellebarde gekauft (209gc)
 
 #### Kaazzox (Centaur) 11xp
 
-> 2x Club, Helmet
+> 2x Club, Helmet, Lucky Charm
 
 #### 3 Warhounds of Chaos
 
