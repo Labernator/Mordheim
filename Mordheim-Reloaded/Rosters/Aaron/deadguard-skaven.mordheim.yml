@@ -1,44 +1,45 @@
 warband: Skaven Guards (Skaven)
 campaign: 0
-gc: 1
-shards: 0
+gc: 51
+shards: 1
 objective: ""
 alignment: ""
 
 heros:
-  - hero: Bossmeng (Assassin Adept) [22XP]
+  - hero: Bossmeng (Assassin Adept) [23XP]
     stats: M6, WS4, BS4, S4, T3, W1, I5, A1, Ld7, Sv6
     weapons: Club, Club, Short Bow
-    armour:
+    armour: Unholy Relic
     rules: Leader, Perfect Killer, Fear, -Run
     skilllists: Combat, Shooting, Academic, Strength, Speed, Special
 
-  - hero: BS1 (Black Skaven) [11XP]
+  - hero: BS1 (Black Skaven) [12XP]
+    stats: M6, WS4, BS3, S4, T3, W1, I4, A1, Ld6, Sv-
+    weapons: Dagger, Dagger, Short Bow
+    armour:
+    rules: Infiltration
+    skilllists: Combat, Shooting, Strength, Speed, Special
+
+  - hero: BS2 (Black Skaven) [11XP]
     stats: M6, WS4, BS3, S4, T3, W1, I5, A1, Ld6, Sv-
     weapons: Dagger, Dagger, Short Bow
     armour:
     rules: Infiltration
     skilllists: Combat, Shooting, Strength, Speed, Special
 
-  - hero: BS2 (Black Skaven) [10XP]
-    stats: M6, WS4, BS3, S4, T3, W1, I5, A1, Ld6, Sv-
-    weapons: Dagger, Dagger, Short Bow
-    armour:
-    rules:
-    skilllists: Combat, Shooting, Strength, Speed, Special
-
-  - hero: NR1 (Night Runner) [2XP]
+  - hero: NR1 (Night Runner) [4XP]
     stats: M6, WS2, BS3, S3, T3, W1, I4, A1, Ld4, Sv-
     weapons: Dagger, Dagger, Short Bow
     armour:
-    rules: Infiltration
+    rules: Infiltration, Wall Runner
     skilllists: Combat, Shooting, Special
+    # Eagle Eye (+6" range for shooting)
 
-  - hero: NR2 (Night Runner) [1XP]
+  - hero: NR2 (Night Runner) [3XP]
     stats: M6, WS2, BS3, S3, T3, W1, I4, A1, Ld4, Sv-
     weapons: Dagger, Dagger, Short Bow
     armour:
-    rules:
+    rules: Infiltration, Hate Dhar (Labers Schaman)
     skilllists: Combat, Shooting, Special
 
 henchmen:
