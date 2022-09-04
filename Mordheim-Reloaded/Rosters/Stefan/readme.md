@@ -4,7 +4,7 @@
  - [Reset](Campaign_Log.md#310722-das-massaker-am-ost-tor)
  - [Metagame Undead](Campaign_Log.md#metagame-undead)
  - [Auswahl Szenario 2](Campaign_Log.md#auswahl-szenario-2) 
- - [Sage's Hall]() 
+ - [Sage's Hall](Campaign_Log.md#030922-the-wizards-masion) 
  - [Auswahl Szenario 3]() 
 
 
