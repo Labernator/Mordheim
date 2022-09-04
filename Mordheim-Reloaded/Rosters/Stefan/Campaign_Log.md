@@ -89,4 +89,5 @@ Necro: 2x Dagger, Rabbits Foot
 Heterneb: 2x Dagger   
 Giselle: GW, Rabbits Foot  
 Bellatash: GW, Rabbits Foot  
+Warlock: Staff  
 5 Ghoule, 3 Wölfe, 1 Tschumbie  
