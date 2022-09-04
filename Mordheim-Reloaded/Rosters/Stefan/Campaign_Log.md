@@ -46,6 +46,7 @@ Hier noch die Regeln zu Attacker/Defender:
 <img src="Pics/IMG_20220814_104157.jpg" alt="drawing" width="350"/>
 
 ## 03.09.22 The Wizard's Masion
+
 **Injuries**  
  - 
 
@@ -55,3 +56,25 @@ Hier noch die Regeln zu Attacker/Defender:
  - Heterneb: 3 (Kill, Underdog Survival) **+1I**  
  - Giselle: 2 (Underdog Survival) **Skill: Resilient**
  - Bellatash: 3 (Kill, Underdog Survival)  **Skill: Resilient**
+
+**Szenario Loot**  
+95GC  
+
+**Exploration**  
+5 Wyrdstones  
+44 - Free Zombie  
+55 - Vague Mordheim Map  
+
+**Verkaufen**  
+5 Wyrdstones (80)  
+Mordheim Map (10)  
+=> 90GC + 95GC Loot =>185GC
+
+**Einkaufen**  
+4x Rabbits Foot (40)  
+2x Ghoul (80)  
+Dire Wolf (50)  
+Warlock Hired Sword (15 weil ich Sages Hall gewonnen habe)   
+=> 185GC also nix angespart. 
+
+**Gedanken**  
