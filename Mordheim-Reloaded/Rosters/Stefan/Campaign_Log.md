@@ -84,3 +84,9 @@ Also gibt es zähneknirschend halt noch einen Wolf.
 Da ich das letzte Szenario gewonnen habe ist der Warlock zum einen echt günstig, vor allem aber darf ich seine Spells auswählen statt zu randomizen. Das macht ihn viel nützlicher! 
 
 **Warband**  
+Vampire: Dagger, HA, Shield, Rabbits Foot  
+Necro: 2x Dagger, Rabbits Foot  
+Heterneb: 2x Dagger   
+Giselle: GW, Rabbits Foot  
+Bellatash: GW, Rabbits Foot  
+5 Ghoule, 3 Wölfe, 1 Tschumbie  
