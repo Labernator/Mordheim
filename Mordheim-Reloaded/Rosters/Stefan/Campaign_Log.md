@@ -45,3 +45,13 @@ Hier noch die Regeln zu Attacker/Defender:
 
 <img src="Pics/IMG_20220814_104157.jpg" alt="drawing" width="350"/>
 
+## 03.09.22 The Wizard's Masion
+**Injuries**  
+ - 
+
+**XP**  
+ - Isabella: 3 (winning leader, Underdog Survival)   
+ - Neferata: 2 (Underdog Survival)  
+ - Heterneb: 3 (Kill, Underdog Survival) **+1I**  
+ - Giselle: 2 (Underdog Survival) **Skill: Resilient**
+ - Bellatash: 3 (Kill, Underdog Survival)  **Skill: Resilient**
