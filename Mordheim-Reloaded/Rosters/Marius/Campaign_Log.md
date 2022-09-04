@@ -70,3 +70,97 @@ Kaufe 4 Knüppel (-12)
 ## Treasure chest: 55 gc
 
 ## Minotaur progress 27,5%
+
+
+# Post Game 1:
+
+## Misfortunes
+
+Zwei Hunde sterben
+
+1 Gor stirbt
+
+## Fortunes
+
++8 gc aus der Brauerei
+
+1 Lucky Charm
+
++90 GC aus Loot
+
++4 Wyrdstones
+
+Mikrix +2xp (überlebt und gewonnen)
+
+Dhar +2xp (überlebt und Ratte verprügelt)
+
+> level up: +1 WS
+
+Kaazzox +1xp (überlebt)
+
+> level up: +1 Wunde
+
+Etzhqu +1xp (überlebt)
+
+> level up: +1 Wunde
+
+Malcec +1xp (überlebt)
+
+## Trading
+
+Verkaufe 3 Wyrdstones für 60gc (weil nur 10 Mann)
+> 115gc
+
+8gc loot aus
+
+> 123gc
+
+90gc loot verkauft 
+
+> 213gc
+
+Minotaur mit Hellebarde gekauft (209gc)
+
+> 4gc
+
+## Neue warband
+
+#### Mikrix (Beastmen Chief) 23xp
+
+> Leg Wound (-1M)
+
+> 2x Club, Helmet
+
+#### Dhar (Shaman) 14xp
+
+> Spells: Eye of God
+
+> 2x Dagger
+
+#### Etzhqu (Bestigor) 11xp
+
+> 2x Club
+
+#### Malcec (Bestigor) 10xp
+
+>2x Club
+
+#### Kaazzox (Centaur) 11xp
+
+> 2x Club, Helmet
+
+#### 3 Warhounds of Chaos
+
+#### 2 Gor
+
+> 2x Dagger
+
+#### Minotaur
+
+> Hellebarde 
+
+## Treasure chest: 4 gc
+
+## Minotaur progress 100%
+
+
