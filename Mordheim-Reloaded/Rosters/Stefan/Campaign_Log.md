@@ -45,10 +45,10 @@ Hier noch die Regeln zu Attacker/Defender:
 
 <img src="Pics/IMG_20220814_104157.jpg" alt="drawing" width="350"/>
 
-## 03.09.22 The Wizard's Masion
+## 03.09.22 The Wizard's Masion  
 
 **Injuries**  
- - 
+Keine
 
 **XP**  
  - Isabella: 3 (winning leader, Underdog Survival)   
