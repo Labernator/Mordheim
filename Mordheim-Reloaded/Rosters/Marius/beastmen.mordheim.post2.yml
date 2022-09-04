@@ -1,0 +1,65 @@
+warband: Meneater (Beastmen)
+campaign: 0
+gc: 0
+shards: 1
+objective: ""
+alignment: ""
+
+heros:
+  - hero: Mikrix (Chieftain) [23XP]
+    stats: M4, WS4, BS3, S4, T4, W1, I4, A1, Ld7, Sv-
+    weapons: Club, Club
+    armour: Helmet
+    rules: Leader, Broken Leg
+    skilllists: Strength, Speed, Combat, Special
+
+  - hero: Dhar (Shaman) [14XP]
+    stats: M5, WS5, BS3, S3, T4, W1, I3, A1, Ld6, Sv-
+    weapons: Club, Club
+    armour:
+    rules: Wizard (Eye of God)
+    skilllists: Speed, Combat, Special
+
+  - hero: Etzhqu (Bestigor) [11XP]
+    stats: M5, WS4, BS3, S4, T4, W2, I3, A1, Ld7, Sv-
+    weapons: Club, Club
+    armour:
+    rules:
+    skilllists: Strength, Combat, Special
+
+  - hero: Malcec (Bestigor) [10XP]
+    stats: M5, WS4, BS3, S4, T4, W1, I3, A1, Ld7, Sv-
+    weapons: Club, Club
+    armour:
+    rules:
+    skilllists: Strength, Combat, Special
+
+  - hero: Kaazzox (Centigor) [11XP]
+    stats: M8, WS4, BS3, S4, T4, W2, I2, A1, Ld7, Sv-
+    weapons: Club, Club
+    armour: Helmet
+    rules: Trample, Drunken, Lucky Charm
+    skilllists: Strength, Combat, Special
+
+henchmen:
+  - group: The Marauders (2 Gors) [0XP]
+    stats: M5, WS4, BS3, S3, T4, W1, I3, A1, Ld6, Sv-
+    weapons: Dagger, Dagger
+    armour:
+    rules:
+
+  - group: The Pack (3 Warhounds of Chaos) [0XP]
+    stats: M9, WS4, BS0, S4, T3, W1, I3, A1, Ld5, Sv-
+    weapons:
+    armour:
+    rules: Animal
+
+  - group: Munnus (1 Minotaur) [0XP]
+    stats: M6, WS4, BS3, S4, T4, W3, I4, A3, Ld8, Sv-
+    weapons: Halberd
+    armour:
+    rules: Fearsome, Large, Bloodgreed
+
+notes: |
+    - Eye of God (7+)
+    You may use the Eye of God successfully only once per Battle. Choose a single model within 6". Roll a D6 to see the result: 1 - The Model is taken out of action immediately, but must not roll on the serious injuries chart. 2-5 - The Model gains +1 on any Characteristic for the remainder of the battle. 6 - The Model gains +1 on ALL its Characteristics for the remainder of the battle.
