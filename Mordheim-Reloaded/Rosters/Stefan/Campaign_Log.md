@@ -78,8 +78,8 @@ Warlock Hired Sword (15 weil ich Sages Hall gewonnen habe) mit Fires of U’Zhul
 => 185GC also nix angespart. 
 
 **Gedanken**  
-Das Szenario hat gezeigt, dass Animals auf meinem Tisch ziemlich schlecht sind. Nur ganz wenig Aufgänge, so dass man sich ziemlich leicht vor ihnen verstecken kann.  
-Trotzdem habe ich in noch einen (sehr teuren) Wolf investiert. Das zeigt schon, dass ich im Moment ein bisschen ratlos bin.   Mir fehlen  Moment Einheiten die relevant Schaden machen können. Speziell an T4 Beastmen. Der Vampir ist super und die Dregs kommen hoffentlich irgendwann da hin. Aber ansonsten hat die Warband nur Wölfe die relevant Stärke haben, da weder Ghoule noch Zombies Waffen benutzen dürfen.  
+Das Szenario hat gezeigt, dass Animals auf meinem Tisch ziemlich schlecht sind. Nur ganz wenig Aufgänge, so dass man sich echt leicht vor ihnen verstecken kann.  
+Trotzdem habe ich in noch einen (sehr teuren) Wolf investiert. Das zeigt schon, dass ich im Moment ein bisschen ratlos bin. Mir fehlen gerade Einheiten die relevant Schaden machen können. Speziell an T4 Beastmen. Der Vampir ist super und die Dregs kommen hoffentlich irgendwann da hin. Aber ansonsten hat die Warband nur Wölfe die relevant Stärke haben, da weder Ghoule noch Zombies Waffen benutzen dürfen.  
 Also gibt es zähneknirschend halt noch einen Wolf.   
 Da ich das letzte Szenario gewonnen habe ist der Warlock zum einen echt günstig, vor allem aber darf ich seine Spells auswählen statt zu randomizen. Das macht ihn viel nützlicher! 
 
