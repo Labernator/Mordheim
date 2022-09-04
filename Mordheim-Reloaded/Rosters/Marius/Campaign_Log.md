@@ -72,7 +72,7 @@ Kaufe 4 Knüppel (-12)
 ## Minotaur progress 27,5%
 
 
-# Post Game 1:
+# Post Game 2:
 
 ## Misfortunes
 
@@ -82,7 +82,7 @@ Zwei Hunde sterben
 
 ## Fortunes
 
-+8 gc aus der Brauerei
++8 gc aus der Markthalle
 
 1 Lucky Charm
 
@@ -111,7 +111,7 @@ Malcec +1xp (überlebt)
 Verkaufe 3 von 4 Wyrdstones für 60gc (weil nur 10 Mann)
 > 115gc
 
-8gc loot aus
+8gc loot aus Markthalle (Triple 5)
 
 > 123gc
 
