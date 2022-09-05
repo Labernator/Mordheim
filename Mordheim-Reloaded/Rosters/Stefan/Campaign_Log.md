@@ -74,14 +74,14 @@ Mordheim Map (10)
 4x Rabbits Foot (40)  
 2x Ghoul (80)  
 Dire Wolf (50)  
-Warlock Hired Sword (15 weil ich Sages Hall gewonnen habe) mit Fires of U’Zhul und Dread of Aramar  
+Warlock Hired Sword (15 weil ich Sages Hall gewonnen habe)
 => 185GC also nix angespart. 
 
 **Gedanken**  
 Das Szenario hat gezeigt, dass Animals auf meinem Tisch ziemlich schlecht sind. Nur ganz wenig Aufgänge, so dass man sich echt leicht vor ihnen verstecken kann.  
 Trotzdem habe ich in noch einen (sehr teuren) Wolf investiert. Das zeigt schon, dass ich im Moment ein bisschen ratlos bin. Mir fehlen gerade Einheiten die relevant Schaden machen können. Speziell an T4 Beastmen. Der Vampir ist super und die Dregs kommen hoffentlich irgendwann da hin. Aber ansonsten hat die Warband nur Wölfe die relevant Stärke haben, da weder Ghoule noch Zombies Waffen benutzen dürfen.  
 Also gibt es zähneknirschend halt noch einen Wolf.   
-Da ich das letzte Szenario gewonnen habe ist der Warlock zum einen echt günstig, vor allem aber darf ich seine Spells auswählen statt zu randomizen. Das macht ihn viel nützlicher! 
+Da ich das letzte Szenario gewonnen habe ist der Warlock zum einen echt günstig, ~~vor allem aber darf ich seine Spells auswählen statt zu randomizen. Das macht ihn viel nützlicher!~~ Das ist nicht wie der Reward funktioniert...  
 
 **Warband**  
 Vampire: Dagger, HA, Shield, Rabbits Foot  
@@ -91,3 +91,19 @@ Giselle: GW, Rabbits Foot
 Bellatash: GW, Rabbits Foot  
 Warlock: Staff  
 5 Ghoule, 3 Wölfe, 1 Tschumbie  
+
+## Auswahl Szenario 3  
+Mein Warbandrating ist trotz deutlichem Power Spike immer noch am niedrigsten, also habe ich nochmal die Ehre.  
+Zur Auswahl stehen "Monster Hunt" und "The Shadowlords Doorstep" die beide sehr ähnlich sind. Bei beiden muss ein riesen Monster in der Mitte besiegt werden. Und dazu ist meine Warband viel zu schwach. Die scheiden folglich beide aus. "Defend the Find" ist ein Attacker/Defender-Szenario, bei dem ich Laber für wenig Profit in die Pfanne hauen könnte. Klingt unprofitabel. Bleibt also:  
+
+[Happy Harpy Hunting Ground](https://github.com/Labernator/Mordheim/blob/master/Return-to-Mordheim/Szenarios/HappyHarpyHuntingGround.pdf)  
+
+<img src="Pics/ClockTower.jpg" alt="drawing" width="600"/>
+
+Der Gewinner erhält D3 extra Wyrdstones, dauerhaft eine bessere Exploration Phase und den Loot aus dem Harpien-Nest. High Stakes also :)  
+Für das Verhalten der Harpien müssen wir uns noch was ausdenken:  
+
+<img src="Pics/Harpies.jpg" alt="drawing" width="600"/>
+
+Mein Vorschlag wäre, dass sie alles in 15" chargen (also eine 3+ brauchen um den Charge zu vollenden). Wenn mehrere Modelle in Range sind chargen sie ein zufälliges. Die Harpien chargen nie ein Modell gemeinsam (?). Ansonsten bleiben sie außer Line of Sight in ihrem Nest.  
+Was meint ihr?
