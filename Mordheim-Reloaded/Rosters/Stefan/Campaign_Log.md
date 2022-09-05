@@ -98,12 +98,12 @@ Zur Auswahl stehen "Monster Hunt" und "The Shadowlords Doorstep" die beide sehr 
 
 [Happy Harpy Hunting Ground](https://github.com/Labernator/Mordheim/blob/master/Return-to-Mordheim/Szenarios/HappyHarpyHuntingGround.pdf)  
 
-<img src="Pics/ClockTower.jpg" alt="drawing" width="600"/>
+<img src="Pics/ClockTower.png" alt="drawing" width="600"/>
 
 Der Gewinner erhält D3 extra Wyrdstones, dauerhaft eine bessere Exploration Phase und den Loot aus dem Harpien-Nest. High Stakes also :)  
 Für das Verhalten der Harpien müssen wir uns noch was ausdenken:  
 
-<img src="Pics/Harpies.jpg" alt="drawing" width="600"/>
+<img src="Pics/Harpies.png" alt="drawing" width="600"/>
 
 Mein Vorschlag wäre, dass sie alles in 15" chargen (also eine 3+ brauchen um den Charge zu vollenden). Wenn mehrere Modelle in Range sind chargen sie ein zufälliges. Die Harpien chargen nie ein Modell gemeinsam (?). Ansonsten bleiben sie außer Line of Sight in ihrem Nest.  
 Was meint ihr?
