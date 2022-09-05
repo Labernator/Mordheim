@@ -29,10 +29,14 @@ Dreg
 Dreg  
 <img src="Pics/Bellatash.jpg" alt="drawing" width="300"/>
 
+**Lady Melissa d'Arques**  
+Warlock  
+<img src="Pics/Warlock.jpg" alt="drawing" width="300"/>
+
 **Corpse Eater**  
-3 Ghouls  
-<img src="Pics/Ghouls1.jpg" alt="drawing" width="300"/>
+5 Ghouls  
+<img src="Pics/Ghouls2.jpg" alt="drawing" width="300"/>
 
 **Night Hunter**  
-2 Dire Wolves  
-<img src="Pics/DireWolves1.jpg" alt="drawing" width="300"/>
+3 Dire Wolves  
+<img src="Pics/DireWolves2.jpg" alt="drawing" width="300"/>
