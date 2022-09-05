@@ -1,4 +1,4 @@
-# Scourge of Sylvania (Unead Warband)  
+# Scourge of Sylvania (Undead Warband)  
 ## Spiele 
  - [Initial Warband](Campaign_Log.md#initial-warband)
  - [Reset](Campaign_Log.md#310722-das-massaker-am-ost-tor)
