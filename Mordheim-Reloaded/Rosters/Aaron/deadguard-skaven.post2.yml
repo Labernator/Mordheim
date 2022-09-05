@@ -1,0 +1,50 @@
+warband: Skaven Guards (Skaven)
+campaign: 0
+gc: 3
+shards: 1
+objective: ""
+alignment: ""
+
+heros:
+  - hero: Bossmeng (Assassin Adept) [23XP]
+    stats: M6, WS4, BS4, S4, T3, W1, I5, A1, Ld7, Sv6
+    weapons: Club, Club, Short Bow
+    armour: Unholy Relic
+    rules: Leader, Perfect Killer, Fearsome, Smashed Leg
+    skilllists: Combat, Shooting, Academic, Strength, Speed, Special
+
+  - hero: BS1 (Black Skaven) [12XP]
+    stats: M6, WS4, BS3, S4, T3, W1, I4, A1, Ld6, Sv-
+    weapons: Dagger, Dagger, Short Bow
+    armour:
+    rules: Infiltration
+    skilllists: Combat, Shooting, Strength, Speed, Special
+
+  - hero: BS2 (Black Skaven) [11XP]
+    stats: M6, WS4, BS3, S4, T3, W1, I5, A1, Ld6, Sv-
+    weapons: Dagger, Dagger, Short Bow
+    armour:
+    rules: Infiltration
+    skilllists: Combat, Shooting, Strength, Speed, Special
+
+  - hero: NR1 (Night Runner) [4XP]
+    stats: M6, WS2, BS3, S3, T3, W1, I4, A1, Ld4, Sv-
+    weapons: Dagger, Dagger, Short Bow
+    armour:
+    rules: Infiltration, Wall Runner
+    skilllists: Combat, Shooting, Special
+    # Eagle Eye (+6" range for shooting)
+
+  - hero: NR2 (Night Runner) [3XP]
+    stats: M6, WS2, BS3, S3, T3, W1, I4, A1, Ld4, Sv-
+    weapons: Dagger, Dagger, Short Bow
+    armour:
+    rules: Infiltration, Hate Dhar (Labers Shaman)
+    skilllists: Combat, Shooting, Special
+
+henchmen:
+  - group: The Horde (14 Verminkin) [0XP]
+    stats: M5, WS3, BS3, S3, T3, W1, I4, A1, Ld5, Sv-
+    weapons: Dagger, Dagger, Short Bow
+    armour:
+    rules:
