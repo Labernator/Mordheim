@@ -45,7 +45,7 @@ heros:
       stats: M4, WS2, BS2, S3, T3, W1, I4, A1, Ld8, Sv-
       skilllists: Academic
       weapons: Staff
-      rules: Wizard (Fires of U’Zhul, Dread of Aramar)
+      rules: Wizard (Fires of U’Zhul, Silver Arrows of Arha)
       hiredsword: true
 
 henchmen:
@@ -74,5 +74,5 @@ notes: |
     - Fires of U’Zhul (7+)
     18" S4 Fireball.
     
-    - Dread of Aramar (7+)
-    Choose one enemy model within 12". The model must immediately take a Ld test. If it fails, it flees diretly away from the wizard. Does not effect models immune to fear.
+    - Silver Arrows of Arha (7+)
+    Can't be cast whilst in combat. D6+2 S3 arrows, 24" range. Use BS but ignore movement, range and cover penalties.
