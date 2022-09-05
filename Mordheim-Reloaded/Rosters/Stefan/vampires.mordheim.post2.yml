@@ -1,0 +1,78 @@
+warband: Scourge of Sylvania (Undead)
+campaign: 0
+gc: 0
+shards: 0
+objective: ""
+alignment: ""
+
+heros:
+    - hero: Isabella von Carstein (Vampire) [23XP]
+      stats: M5, WS4, BS4, S4, T4, W2, I5, A2, Ld8, Sv3+
+      weapons: Dagger
+      armour: Heavy Armour, Shield, Rabbits Foot
+      rules: Leader, Fearsome, Immune to Psychology, Immune to Poison, No Pain
+      skilllists: Strength, Academic, Combat, Speed
+
+    - hero: Neferata (Necromancer) [10XP]
+      stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+      weapons: 2x Dagger
+      armour: Rabbits Foot
+      rules: Wizard (Spell of Doom)
+      skilllists: Academic, Speed
+
+    - hero: Heterneb of ancient Lahmia (Dreg) [3XP]
+      stats: M4, WS2, BS2, S3, T3, W1, I4, A1, Ld7, Sv-
+      weapons: 2x Dagger
+      armour:
+      rules:
+      skilllists: Strength, Combat
+
+    - hero: Giselle of Marienburg (Dreg) [3XP]
+      stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld7, Sv-
+      weapons: Great Weapon
+      armour: Rabbits Foot
+      rules: Resilient
+      skilllists: Strength, Combat
+
+    - hero: Bellatash of Tilea (Dreg) [2XP]
+      stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld7, Sv-
+      weapons: Great Weapon
+      armour: Rabbits Foot
+      rules: Resilient
+      skilllists: Strength, Combat
+
+    - hero: Lady Melissa d'Arques (Warlock) [11XP]
+      stats: M4, WS2, BS2, S3, T3, W1, I4, A1, Ld8, Sv-
+      skilllists: Academic
+      weapons: Staff
+      rules: Wizard (Fires of U'Zhul, Silver Arrows of Arha)
+      hiredsword: true
+
+henchmen:
+    - group: Corpse Eater (5 Ghouls) [0XP]
+      stats: M4, WS2, BS2, S3, T4, W1, I3, A2, Ld5, Sv-
+      weapons:
+      armour:
+      rules: Fearsome
+
+    - group: Night Hunter (3 Dire Wolves) [0XP]
+      stats: M9, WS3, BS0, S4, T3, W1, I2, A1, Ld4, Sv-
+      weapons:
+      armour:
+      rules: Charge, May not Run, Fearsome, Immune to Psychology, Immune to Poison, No Pain
+
+    - group: The Walking Dead (1 Zombie) [0XP]
+      stats: M4, WS2, BS0, S3, T3, W1, I1, A1, Ld5, Sv-
+      weapons:
+      armour:
+      rules: May not Run, Fearsome, Immune to Psychology, Immune to Poison, No Pain
+
+notes: |
+    - Spell of Doom (9+)
+    Choose one enemy model within 12". The model must immediately take a Strength test. If it fails, you may roll on the Injury table to see what happens to the unfortunate warrior.
+
+    - Fires of U'Zhul (7+)
+    18" S4 Fireball.
+
+    - Silver Arrows of Arha (7+)
+    Can't be cast whilst in combat. D6+2 S3 arrows, 24" range. Use BS but ignore movement, range and cover penalties.

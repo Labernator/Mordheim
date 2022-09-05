@@ -37,8 +37,8 @@ heros:
   - hero: Kaazzox (Centigor) [11XP]
     stats: M8, WS4, BS3, S4, T4, W2, I2, A1, Ld7, Sv-
     weapons: Club, Club
-    armour: Helmet
-    rules: Trample, Drunken, Lucky Charm
+    armour: Helmet, Lucky Charm
+    rules: Trample, Drunken
     skilllists: Strength, Combat, Special
 
 henchmen:
