@@ -39,7 +39,7 @@ heros:
     stats: M6, WS2, BS3, S3, T3, W1, I4, A1, Ld4, Sv-
     weapons: Dagger, Dagger, Short Bow
     armour:
-    rules: Infiltration, Hate Dhar (Labers Shaman)
+    rules: Infiltration, Hatred (Dhar)
     skilllists: Combat, Shooting, Special
 
 henchmen:
