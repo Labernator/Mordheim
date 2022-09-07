@@ -10,7 +10,7 @@ heros:
       stats: M5, WS4, BS4, S4, T4, W2, I5, A2, Ld8, Sv3+
       weapons: Dagger
       armour: Heavy Armour, Shield, Rabbits Foot
-      rules: Leader, Cause Fear, Immune to Psychology, Immune to Poison, No Pain
+      rules: Leader, Fearsome, Immune to Psychology, Immune to Poison, No Pain
       skilllists: Strength, Academic, Combat, Speed
 
     - hero: Neferata (Necromancer) [10XP]
@@ -53,26 +53,16 @@ henchmen:
       stats: M4, WS2, BS2, S3, T4, W1, I3, A2, Ld5, Sv-
       weapons: 
       armour: 
-      rules: Cause Fear
+      rules: Fearsome
 
     - group: Night Hunter (3 Dire Wolves) [0XP]
       stats: M9, WS3, BS0, S4, T3, W1, I2, A1, Ld4, Sv-
       weapons: 
       armour: 
-      rules: Charge, May not Run, Cause Fear, Immune to Psychology, Immune to Poison, No Pain
+      rules: Charge, May not Run, Fearsome, Immune to Psychology, Immune to Poison, No Pain
 
     - group: The Walking Dead (1 Zombie) [0XP]
       stats: M4, WS2, BS0, S3, T3, W1, I1, A1, Ld5, Sv-
       weapons: 
       armour: 
-      rules: May not Run, Cause Fear, Immune to Psychology, Immune to Poison, No Pain
-      
-notes: |
-    - Spell of Doom (9+)
-    Choose one enemy model within 12". The model must immediately take a Strength test. If it fails, you may roll on the Injury table to see what happens to the unfortunate warrior.
-    
-    - Fires of U’Zhul (7+)
-    18" S4 Fireball.
-    
-    - Silver Arrows of Arha (7+)
-    Can't be cast whilst in combat. D6+2 S3 arrows, 24" range. Use BS but ignore movement, range and cover penalties.
+      rules: May not Run, Fearsome, Immune to Psychology, Immune to Poison, No Pain
