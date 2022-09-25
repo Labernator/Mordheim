@@ -167,4 +167,93 @@ Kaufe 2 Clubs und verkaufe 2 Dagger (-4gc)
 
 ## Minotaur progress 100%
 
+# Post Game 3:
 
+## Misfortunes
+
+1 Gor stirbt
+
+## Fortunes
+
++Axt
+
++3 Wyrdstones
+
+Mikrix +1xp (überlebt)
+
+> level up: +1 Toughness
+
+Dhar +1xp (überlebt)
+
+Kaazzox +2xp (überlebt, Harpie ermordet)
+
+Etzhqu +1xp (überlebt, Ratte ermordet)
+
+Malcec +1xp (überlebt)
+
+> level up: Skill: Resilient
+
+Gor wird promoted:
+
+> neuer Held: Graknug | Level up: +1 Strength
+
+## Trading
+
+Verkaufe 3 von 4 Wyrdstones für 60gc (weil nur 10 Mann)
+> 60gc
+
+Kaufe 1 Gor (-35gc)
+
+> 25gc
+
+Kaufe 1 Axt (-5gc)
+
+> 20gc
+
+Found and bought 2 Rabbits foot
+
+> 0gc
+
+## Neue warband
+
+#### Mikrix (Beastmen Chief) 23xp
+
+> Leg Wound (-1M)
+
+> 2x Axt, Helmet, Rabbits Foot
+
+#### Dhar (Shaman) 14xp
+
+> Spells: Eye of God
+
+> 2x Club, Rabbits Foot
+
+#### Etzhqu (Bestigor) 11xp
+
+> 2x Club
+
+#### Malcec (Bestigor) 10xp
+
+>2x Club
+
+#### Kaazzox (Centaur) 11xp
+
+> 2x Club, Helmet, Lucky Charm
+
+#### Graknug (Gor) 0xp
+
+>2x Club
+
+#### 3 Warhounds of Chaos
+
+#### 1 Gor
+
+> 2x Dagger
+
+#### Minotaur
+
+> Halberd 
+
+## Treasure chest: 0 gc
+
+## Heroes MAXED
