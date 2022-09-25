@@ -29,6 +29,10 @@ Diejenige Warband, die zuerst 20 Wyrdstone Shards gespart hat (nicht ausgegeben!
 > Henchmen do not gain experience. After 3 scenarios you may choose one non-large henchman to be promoted. If for any reason, you don't have 6 heroes after game 5, another henchman is promoted 
 #### Slings
 > Sind in Wahrheit Kurzbögen. Nur billiger (noch)
+#### Large / Animal Henchmen
+> Henchmen die Entweder Animals sind oder die Rule "Large" haben, dürfen nicht klettern und keine Leitern benutzen
+#### Max. 5 Start Heros 
+> Jede Warband darf beim Start einer Kampagne maximal 5 Helden haben, egal was das Warband Buch sagt
 
 #### Banned skills for this campaign:
 
