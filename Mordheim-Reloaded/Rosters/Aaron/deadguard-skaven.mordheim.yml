@@ -1,33 +1,47 @@
 warband: Skaven Guards (Skaven)
 campaign: 0
-gc: 3
-shards: 4
+gc: 6
+shards: 1
 objective: ""
 alignment: ""
 
 heros:
   # Setzt 3(!) Spiele aus
   #- hero: BS1 (Black Skaven) [12XP]
-  #  stats: M6, WS4, BS3, S4, T3, W1, I4, A1, Ld6, Sv-
+  #  stats: M6, WS4, BS4, S4, T3, W1, I4, A1, Ld6, Sv-
   #  weapons: Dagger, Dagger, Short Bow
   #  armour:
   #  rules: Infiltration
   #  skilllists: Combat, Shooting, Strength, Speed, Special
 
-  - hero: BS2 (Black Skaven) [13XP]
+  - hero: Boss Rat (Black Skaven) [13XP]
     stats: M6, WS4, BS3, S4, T3, W1, I5, A1, Ld6, Sv-
     weapons: Dagger, Dagger, Short Bow
     armour:
-    rules: Infiltration
+    rules: Infiltration, Leader
     skilllists: Combat, Shooting, Strength, Speed, Special
 
-  - hero: NR1 (Night Runner) [5XP]
+  - hero: Spider (Night Runner) [5XP]
     stats: M6, WS2, BS3, S3, T3, W1, I4, A1, Ld4, Sv-
-    weapons: Dagger
+    weapons: Dagger, Dagger, Short Bow
     armour:
     rules: Infiltration, Wall Runner
     skilllists: Combat, Shooting, Special
     # Eagle Eye (+6" range for shooting)
+
+  - hero: Pinky (Night Runner) [0XP]
+    stats: M6, WS2, BS3, S3, T3, W1, I4, A1, Ld4, Sv-
+    weapons: Dagger, Dagger, Short Bow
+    armour:
+    rules:
+    skilllists: Combat, Shooting, Special
+
+  - hero: Brain (Night Runner) [0XP]
+    stats: M6, WS2, BS3, S3, T3, W1, I4, A1, Ld4, Sv-
+    weapons: Dagger, Dagger, Short Bow
+    armour:
+    rules:
+    skilllists: Combat, Shooting, Special
 
 henchmen:
   - group: The Horde (13 Verminkin) [0XP]
