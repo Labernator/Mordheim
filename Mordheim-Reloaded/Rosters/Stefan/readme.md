@@ -7,6 +7,7 @@
  - [Sage's Hall](Campaign_Log.md#030922-the-wizards-masion) 
  - [Auswahl Szenario 3](Campaign_Log.md#auswahl-szenario-3) 
  - [Reset again](Campaign_Log.md#250922-one-harpy-to-kill-them-all)
+ - [Puny Humans](Campaign_Log.md#puny-humans)  
 
 
 ## Warband
