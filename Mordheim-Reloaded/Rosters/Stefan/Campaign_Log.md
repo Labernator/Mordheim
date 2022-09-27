@@ -107,3 +107,10 @@ Für das Verhalten der Harpien müssen wir uns noch was ausdenken:
 
 Mein Vorschlag wäre, dass sie alles in 15" chargen (also eine 3+ brauchen um den Charge zu vollenden). Wenn mehrere Modelle in Range sind chargen sie ein zufälliges. Die Harpien chargen nie ein Modell gemeinsam (?). Ansonsten bleiben sie außer Line of Sight in ihrem Nest.  
 Was meint ihr?
+
+## 25.09.22 One Harpy to kill them all  
+Oh boy, diese Kampagne will mich wirklich testen. Was ist passiert? Mein schöner 170+ Punkte Vampir, der klare Star meiner Warband wird von zwei Sling-Crits direkt ooA befördert. Ohne im ganzen Spiel auch nur einen seiner 3+ Armour Saves machen zu dürfen. Das ist schlecht. Denn wie schon oben beschrieben hat meine Warband ohne ihn ein Damage Problem. Trotzdem schaffe ich es mit ein paar Suicide-Charges meiner GW-Dregs uns Labers Hilfe Aaron unter sein Rout Limit zu schlagen. Und Laber selbst wurde heftig genug von den Harpien angegangen, dass er auch routen muss.  
+Jetzt heißt es also: Meine gesamte Warband gegen die letzte verbleibende Harpie. Ich stelle alle Minis und renne dann einen Ghoul vor. Dadurch allerdings, dass jede Nicht-Vampir höchstens WS3 hat, haben die Harpien einen ziemlich gute Chance auf die Drop-Attack gegen die man einfach nichts machen kann. Es kommt wie es kommen muss: Der erste Ghoul wird gedroppt und gestunned. Also alle anderen Ghoule mit vor um den Killing-Blow unwahrscheinlicher zu machen. Der nächste Harpien-Angriff droppt zwar nicht, dafür crittet er den Ghoul einfach direkt ooA. Und ich faile meinen ersten Rout Test. Schade Schololade.  
+In der Post-Game-Sequence rolle ich dann Snake Eyes für die Injuries meines Vampirs und damit sind mir in drei Spielen zwei Leader weggestorben. Mordheim präsentiert sich mir auf jeden Fall von seiner lethalen Seite diesmal.  
+Da (wie schon oben erwähnt) die Warband ohne den Vampir nicht funktioniert, fange ich also von vorne an. Nochmal. Diesmal wurde allerdings auch Aaron von den Injury-Rolls gut zerlegt, so dass wir vielleicht einfach die komplette Kampagne resetten.  
+Better luck next time, I guess.
