@@ -123,7 +123,7 @@ Und da meine hoch taktischen Entscheidungen bisher auch nicht viel Früchte getr
 **2 Bergjaeger** + 2 Bows (und zwei Dagger von Youngblood & Sergeant) (2x 35 + 2x 10 => 90)  
 **Youngblood** + 2 Maces (15 + 2x 3 => 21)  
 **4 Mountainguard** + 8 Maces (4x 30 + 8x 3 => 144)  
-**3 Halflings** + 3 Bows (und drei Dagger von der Mountainguard) (3x 20 + 3x 10 => 90)  
+**3 Halflings Scouts** + 3 Bows (und drei Dagger von der Mountainguard) (3x 20 + 3x 10 => 90)  
 **Elf Ranger Hired Sword** (40)  
 
 => 496 GC   
