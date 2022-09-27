@@ -114,3 +114,17 @@ Jetzt heißt es also: Meine gesamte Warband gegen die letzte verbleibende Harpie
 In der Post-Game-Sequence rolle ich dann Snake Eyes für die Injuries meines Vampirs und damit sind mir in drei Spielen zwei Leader weggestorben. Mordheim präsentiert sich mir auf jeden Fall von seiner lethalen Seite diesmal.  
 Da (wie schon oben erwähnt) die Warband ohne den Vampir nicht funktioniert, fange ich also von vorne an. Nochmal. Diesmal wurde allerdings auch Aaron von den Injury-Rolls gut zerlegt, so dass wir vielleicht einfach die komplette Kampagne resetten.  
 Better luck next time, I guess.
+
+## Puny Humans
+Ich würde ja gerne behaupten, dass viel Strategie und taktische Finesse in die Auswahl meiner nächsten Warband geflossen ist. Leider wäre das nicht wirklich korrekt. Ich habe noch einen Schwung geprimter Menschen in meinem Backlog und eine neue Warband ist doch ein guter Motivator.   
+Und da meine hoch taktischen Entscheidungen bisher auch nicht viel Früchte getragen haben, werden es jetzt Menschen. Für Averlander habe ich mich entschieden, weil die am interessantesten aussahen. 
+**Captain** + Bow (und ein Dagger von Mountainguard) (60 + 10 => 70)  
+**Sergeant** + 2 Maces (35 + 2x 3 => 41)  
+**2 Bergjaeger** + 2 Bows (und zwei Dagger von Youngblood & Sergeant) (2x 35 + 2x 10 => 90)  
+**Youngblood** + 2 Maces (15 + 2x 3 => 21)  
+**4 Mountainguard** + 8 Maces (4x 30 + 8x 3 => 144)  
+**3 Halflings** + 3 Bows (und drei Dagger von der Mountainguard) (3x 20 + 3x 10 => 90)  
+**Elf Ranger Hired Sword** (40)  
+
+=> 496 GC   
+=> 108 Warband Rating 
