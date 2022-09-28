@@ -122,10 +122,10 @@ Und da meine hoch taktischen Entscheidungen bisher auch nicht viel Früchte getr
 **Captain** + Bow (und ein Dagger von Mountainguard) (60 + 10 => 70)  
 **Sergeant** + 2 Maces (35 + 2x 3 => 41)  
 **2 Bergjaeger** + 2 Bows (und zwei Dagger von Youngblood & Sergeant) (2x 35 + 2x 10 => 90)  
-**Youngblood** + 2 Maces (15 + 2x 3 => 21)  
+**Youngblood** + GW (15 + 15 => 30)  
 **4 Mountainguard** + 8 Maces (4x 30 + 8x 3 => 144)  
 **3 Halflings Scouts** + 3 Bows (und drei Dagger von der Mountainguard) (3x 20 + 3x 10 => 90)  
 **Pit Fighter Hired Sword** (30)  
 
-=> 486 GC   
+=> 495 GC   
 => 118 Warband Rating 
