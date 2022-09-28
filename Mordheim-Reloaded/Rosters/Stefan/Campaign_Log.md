@@ -124,7 +124,7 @@ Und da meine hoch taktischen Entscheidungen bisher auch nicht viel Früchte getr
 **Youngblood** + 2 Maces (15 + 2x 3 => 21)  
 **4 Mountainguard** + 8 Maces (4x 30 + 8x 3 => 144)  
 **3 Halflings Scouts** + 3 Bows (und drei Dagger von der Mountainguard) (3x 20 + 3x 10 => 90)  
-**Elf Ranger Hired Sword** (40)  
+**Pit Fighter Hired Sword** (30)  
 
-=> 496 GC   
-=> 108 Warband Rating 
+=> 486 GC   
+=> 118 Warband Rating 
