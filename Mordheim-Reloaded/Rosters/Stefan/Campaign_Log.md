@@ -117,7 +117,8 @@ Better luck next time, I guess.
 
 ## Puny Humans
 Ich würde ja gerne behaupten, dass viel Strategie und taktische Finesse in die Auswahl meiner nächsten Warband geflossen ist. Leider wäre das nicht wirklich korrekt. Ich habe noch einen Schwung geprimter Menschen in meinem Backlog und eine neue Warband ist doch ein guter Motivator.   
-Und da meine hoch taktischen Entscheidungen bisher auch nicht viel Früchte getragen haben, werden es jetzt Menschen. Für Averlander habe ich mich entschieden, weil die am interessantesten aussahen. 
+Und da meine hoch taktischen Entscheidungen bisher auch nicht viel Früchte getragen haben, werden es jetzt Menschen. Für Averlander habe ich mich entschieden, weil die am interessantesten aussahen.  
+
 **Captain** + Bow (und ein Dagger von Mountainguard) (60 + 10 => 70)  
 **Sergeant** + 2 Maces (35 + 2x 3 => 41)  
 **2 Bergjaeger** + 2 Bows (und zwei Dagger von Youngblood & Sergeant) (2x 35 + 2x 10 => 90)  
