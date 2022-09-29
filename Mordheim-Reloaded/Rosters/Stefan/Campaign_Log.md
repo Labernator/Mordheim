@@ -130,7 +130,7 @@ Und da meine hoch taktischen Entscheidungen bisher auch nicht viel Früchte getr
 => 495 GC   
 => 118 Warband Rating 
 
-## Orks
+## Mighty Orks
 Ok, da ich nicht weiß wann ich die nächste Gelegenheit bekomme muss ich vielleicht in dieser Kampagne noch was ausprobieren. For science. Wie gut sind Orks wirklich.  
 In meinem Kopf sind sie ganz klar eine Top Warband. Aber das habe ich von den Zwergen auch mal gedacht...  
 
