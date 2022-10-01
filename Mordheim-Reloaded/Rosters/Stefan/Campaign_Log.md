@@ -137,6 +137,7 @@ In meinem Kopf sind sie ganz klar eine Top Warband. Aber das habe ich von den Zw
 Der Vergleich mit den Skaven: 
  - Short Bows statt Slings (bei uns kein Thema)
  - Weniger Shooty Guys (weil Goblins zahlenmäßig beschränkt sind)
+ - Schlechtere XP auf den Helden
  - Animosity
  - Weniger Initiative
  - Weniger Movement
