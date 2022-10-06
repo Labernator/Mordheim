@@ -1,0 +1,56 @@
+Szenario: Hidden Treasure
+01.01.2019
+
+Angry Mob (Dwarf Rangers) vs Black Orks
+
+8 houses available
+
+Log:
+Beardling 6 Treasure Pickup
+Gmorkor killed apprentice
+Beardling 7 killed Rog Rogg
+RemBuld killed Beardling 3
+Oggrot killed Beardling 7
+Troll killed Beardling 1
+Aaron rout test nicht bestanden
+
+Roll fo injuries:
+Beardling 3 full recovery
+Beardling 7 dead
+Beardling 1 full recovery
+Apprentice full recovery
+RogRogg WS-1
+
+Experience:
+Winnng leader Grumlok +1
+RemBuld +1 (kill)
+Oggrot +1 (kill)
+All Orks +1 except of rog rogg
+
+Beardling Gruppe 2 (bearding 6) +2 (found treasure) +1 (kill)
+All non died Dwarfes +1
+
+Advances:
+Beardling group 2 WS+
+Dwarf Beggar W+1
+Stinkender alter ron T+1
+Karhag W+1
+Grommok +skill
+RemBuld +skill
+Oggrot +hero A+1 gains from combat+strength
+
+Income:
+Aaron +2gc +3 shards +1 shard (dwarf rangers)
+Kai +sword +3 shards
+Aaron 3 shards to 60gc 1 shard left
+Kai 3 shards to 60gc
+
+Unit XP "buy roll": 12xp
+
+Kai:
+rem'buld skill 'eadbasher
+grommok skill 'eadbasher
+ork boy -25 gc
+stored equip: none
+treasure chest: 2gc
+
