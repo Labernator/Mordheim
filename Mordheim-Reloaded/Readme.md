@@ -21,10 +21,12 @@ Diejenige Warband, die zuerst 20 Wyrdstone Shards gespart hat (nicht ausgegeben!
 ## Spieler
 
 Wir spielen leider wieder nur zu 3.
-Ich habe Hoffnung, dass es sich bald ändert
+Ich habe Hoffnung, dass es sich bald ändert und wir einen 4. apokalyptischen Reiter finden :)
 
 [Aaron](https://github.com/Labernator/Mordheim/tree/master/Mordheim-Reloaded/Rosters/Aaron)
+
 [Marius](https://github.com/Labernator/Mordheim/tree/master/Mordheim-Reloaded/Rosters/Marius)
+
 [Stefan](https://github.com/Labernator/Mordheim/tree/master/Mordheim-Reloaded/Rosters/Stefan)
 
 ## Houserules
