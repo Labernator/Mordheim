@@ -1,0 +1,55 @@
+warband: The Unclean (Carnival of Chaos)
+campaign: 0
+gc: 0
+shards: 0
+objective: ""
+alignment: ""
+
+heros:
+    - hero: Rancius Tuberculius (Carnival Master) [20XP]
+      stats: M4, WS4, BS4, S3, T3, W1, I3, A1, Ld8, Sv-
+      weapons: Dagger, Dagger, Short Bow
+      armour:
+      rules: Leader, Wizard()
+      skilllists: Strength, Academic, Combat, Speed, Special
+
+    - hero: Pestis (Brute) [8XP]
+      stats: M4, WS4, BS0, S4, T4, W1, I2, A2, Ld7, Sv-
+      weapons:
+      armour:
+      rules:
+      skilllists: Strength, Academic, Combat, Speed, Special
+
+    - hero: Choleris (Brute) [8XP]
+      stats: M4, WS4, BS0, S4, T4, W1, I2, A2, Ld7, Sv-
+      weapons:
+      armour:
+      rules:
+      skilllists: Strength, Academic, Combat, Speed, Special
+
+    - hero: Typhodium (Tainted One) [0XP]
+      stats: M4, WS3, BS3, S3, T3, W2, I3, A1, Ld7, Sv-
+      weapons: Dagger, Dagger, Short Bow
+      armour:
+      rules: Immune to Poison, Mark of Nurgle
+      skilllists: Strength, Academic, Combat, Speed, Special
+
+    - hero: Diphthodium (Tainted One) [0XP]
+      stats: M4, WS3, BS3, S3, T3, W2, I3, A1, Ld7, Sv-
+      weapons: Dagger, Dagger, Short Bow
+      armour:
+      rules: Immune to Poison, Mark of Nurgle
+      skilllists: Strength, Academic, Combat, Speed, Special
+
+henchmen:
+    - group: The Infested (2 Plaguebearer) [0XP]
+      stats: M4, WS4, BS3, S4, T4, W1, I4, A2, Ld10, Sv-
+      weapons:
+      armour:
+      rules: Cloud of Flies, Fearsome, Immune to Psychology, Immune to Poison, Stream of Corruption, Daemonic Aura, Daemonic Instability
+
+    - group: The Carrier (2 Brethren) [0XP]
+      stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+      weapons: Dagger, Dagger
+      armour:
+      rules:

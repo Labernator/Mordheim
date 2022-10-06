@@ -1,0 +1,60 @@
+warband: Mighty Orcs (Orcs & Goblins)
+campaign: 0
+gc: 0
+shards: 0
+objective: ""
+alignment: ""
+
+heros:
+  - hero: Boss Maan (Orc Boss) [20XP]
+    stats: M4, WS4, BS4, S4, T4, W1, I3, A1, Ld8, Sv-
+    weapons: Halberd
+    armour:
+    rules: Leader
+    skilllists: Strength, Shooting, Speed, Combat, Special
+
+  - hero: Zappa (Orc Shaman) [10XP]
+    stats: M4, WS3, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
+    weapons: Dagger, Dagger
+    armour:
+    rules: Wizard (Zzap!)
+    skilllists: Strength, Special
+
+  - hero: Da Fist (Big 'Un) [15XP]
+    stats: M4, WS4, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
+    weapons: Dagger, Dagger
+    armour:
+    rules:
+    skilllists: Strength, Shooting, Combat, Special
+
+  - hero: Da Brute (Big 'Un) [15XP]
+    stats: M4, WS4, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
+    weapons: Dagger, Dagger
+    armour:
+    rules:
+    skilllists: Strength, Shooting, Combat, Special
+
+henchmen:
+  - group: Da Loner (1 Orc Boy) [0XP]
+    stats: M4, WS3, BS3, S3, T4, W1, I2, A1, Ld7, Sv-
+    weapons: Dagger, Dagger
+    armour:
+    rules: Animosity
+
+  - group: Da Green Tide (9 Goblin Warrior) [0XP]
+    stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld5, Sv-
+    weapons: Short Bow, Dagger, Dagger
+    armour:
+    rules: Animosity, Not Orcs
+
+  - group: Da Handla (1 Goblin Warrior) [0XP]
+    stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld5, Sv-
+    weapons: Squig Prodder
+    armour:
+    rules: Animosity, Not Orcs
+
+  - group: Da Teef (2 Cave Squig) [0XP]
+    stats: M2D6, WS4, BS0, S4, T3, W1, I4, A1, Ld5, Sv-
+    weapons: Halberd
+    armour:
+    rules: Random Movement, Minderz, Not Orcs, Animal

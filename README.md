@@ -1,5 +1,5 @@
 # Current Campaign
-* [Kampagne](/Mordheim%20Reloaded/Readme.md)
+* [Kampagne](/Mordheim-Reloaded/Readme.md)
 
 # Old Mordheim Campaigns
 
