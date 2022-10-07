@@ -37,4 +37,4 @@ Ich wollte darüber hinaus allerdings noch ein paar Nahkampf Optionen haben. Die
 Die Halberd auf dem Boss ist die eine Antwort, die Squigs die andere. Die müssen sich allerdings erst einmal bewähren. Ich bin überhaupt kein Fan von random Movement. 
 Das mein Shaman den Zzap Spell gerollt hat hilft dem Damage Thema auf jeden Fall auch sehr. Das war wirklich lucky, wobei die Ork Spells tatsächlich deutlich besser sind als die meisten anderen. Mit drei wirklich guten Spells. 
 
-Der mittelfristige Plan ist das 5er Rout-Limit zu halten, Rabbits Foots zu kaufen und auf den scary Troll zu sparen. Ist mir wurscht, ob der als large Modell zu schlecht ist. Haben will ich ihn trotzdem!! 
+Der mittelfristige Plan ist das 5er Rout-Limit zu halten, Rabbits Foots zu kaufen und auf den scary Troll zu sparen. Ist mir wurscht, ob der als large Modell mit Upkeepkosten zu schlecht ist. Haben will ich ihn trotzdem!! 
