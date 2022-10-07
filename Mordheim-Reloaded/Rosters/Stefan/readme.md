@@ -17,13 +17,13 @@ Alles klar, Orks sind schlechter als Sklaven. Das sagt jetzt erstmal nicht viel,
 
 ## Initial Warband
 
-**Boss** + Halberd (80 + 10 => 90)
-**Shaman** (mit Dagger von Boss) (40)
-**2 Big 'Uns** + 2 Dagger (2x 40 + 2x 2 => 84)
-**1 Orc Boy** + Dagger (25 + 2 => 27)
-**9 Goblin Warrior** + 9 Short Bows + 9 Dagger (9x 15 + 9x 5 + 9x 2 => 198)
-**1 Goblin Warrior** + Squig Prodder (15 + 15 => 30)
-**2 Cave Squigs** (2x 15 => 30)
+**Boss** + Halberd (80 + 10 => 90)  
+**Shaman** (mit Dagger von Boss) (40)  
+**2 Big 'Uns** + 2 Dagger (2x 40 + 2x 2 => 84)  
+**1 Orc Boy** (mit Dagger vom Handler Goblin) (25)  
+**9 Goblin Warrior** + 9 Short Bows + 9 Dagger (9x 15 + 9x 5 + 9x 2 => 198)  
+**1 Goblin Warrior** + Squig Prodder (15 + 15 => 30)  
+**2 Cave Squigs** (2x 15 => 30)  
 
-=> 499 GC
+=> 497 GC
 => 145 Warband Rating
