@@ -17,14 +17,14 @@ heros:
       stats: M4, WS4, BS0, S4, T4, W1, I2, A2, Ld7, Sv-
       weapons:
       armour:
-      rules:
+      rules: No Need for Weapons
       skilllists: Strength, Academic, Combat, Speed, Special
 
     - hero: Choleris (Brute) [8XP]
       stats: M4, WS4, BS0, S4, T4, W1, I2, A2, Ld7, Sv-
       weapons:
       armour:
-      rules:
+      rules: No Need for Weapons
       skilllists: Strength, Academic, Combat, Speed, Special
 
     - hero: Typhodium (Tainted One) [0XP]
