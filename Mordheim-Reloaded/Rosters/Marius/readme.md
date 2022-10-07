@@ -1,7 +1,7 @@
 
 
 ## A new world order
-Nachdem unsere letzte Kampagne mich als eindeutigen unumwundenen und strahlenden Sieger zurückgelassen hat (weil mein Chef nicht das zeitliche gesegnet hat) muss ich mich nun einer neuen Herausforderungen stellen.
+Nachdem unsere letzte Kampagne mich als eindeutigen, unumwundenen und strahlenden Sieger zurückgelassen hat (weil mein Chef nicht das zeitliche gesegnet hat), muss ich mich nun neuen Herausforderungen stellen.
 
 Diese Herausforderungen heißen kleine und große Grüne Monster (aka Orcs&Goblins) und fanatische Mistgabeln und Fakeln schwenkende Menschenfrauen (aka Sisters of Sigmar).
 
