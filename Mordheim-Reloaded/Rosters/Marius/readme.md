@@ -43,3 +43,7 @@ Leider kosten bei denen die Kurzbögen 10 statt sonst überall 5, aber naja.
 => 81 Warband Rating
 
 Und damit sogar noch Underdog gegenüber Stefans wilder Horde! Nice
+
+Habe eine 3 gewürfelt für den Zauber. Das ist mit Abstand der schlechteste Zauber, den der Caster haben kann.
+Einfach nur furchtbar...
+Naja, dann ist die Warband halt etwas schwächer.
