@@ -10,7 +10,7 @@ heros:
       stats: M4, WS4, BS4, S3, T3, W1, I3, A1, Ld8, Sv-
       weapons: Dagger, Dagger, Short Bow
       armour:
-      rules: Leader, Wizard()
+      rules: Leader, Wizard (Stench of Nurgle)
       skilllists: Strength, Academic, Combat, Speed, Special
 
     - hero: Pestis (Brute) [8XP]
