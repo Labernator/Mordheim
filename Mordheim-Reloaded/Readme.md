@@ -67,3 +67,6 @@ Ich habe Hoffnung, dass es sich bald ändert und wir einen 4. apokalyptischen Re
 
 #### The Hero Save
 > After rolling all the injuries of your warband, and contemplating the total annihilation that would soon follow, the player may decide to call upon the Hero Save.\nIn doing so, the player decides to ignore all the injuries to all the models in the warband, but also renounces to all the experience gains of the game. All other post battle sequence steps take place as normal.\nNote: The exploration can therefore be made by all the heroes in the warband, as none was removed from the game.
+
+#### MAGA (Make Armour great again)
+> On the critical hit chart we replace all instances of "no armour saves allowed" with "the enemy armour save is modified by -2." 
