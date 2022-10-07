@@ -15,6 +15,7 @@ Die Optionen, die ich mir angesehen habe:
 - Kislevit (die haben nen coolen Bär, aber keinen Caster)
 - Middenheim Mercs (besser als der durchschnittliche Mensch, weil ein paar Helden S4 haben)
 - Dark Elves (hatte ich schon und müssten erst genehmigt werden)
+- Witch Hunter (super coole Warband, aber dürfen nur 12 Mann fielden)
 
 Die haben mich alle nur so mäßig angelacht/überzeugt.
 
@@ -34,9 +35,13 @@ Leider kosten bei denen die Kurzbögen 10 statt sonst überall 5, aber naja.
 ## Initial Warband
 
 **Master** + Dagger + Short Bow (70 + 10 + 2=> 82)
+
 **2 Brute** (2x 60 = 120)
+
 **2 Tainted Ones** + 2 Dagger + 2 Short Bow + 2 Marks of Nurgle(2x 25 + 2x 2 + 2x 10 + 2x 35 => 144)
+
 **2 Plaguebearer**  (2x 50 => 100)
+
 **2 Brethren** + 2 Dagger (2x 25 + 2x 2=> 54)
 
 => 500 GC
