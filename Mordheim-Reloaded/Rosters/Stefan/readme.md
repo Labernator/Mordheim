@@ -25,7 +25,7 @@ Alles klar, Orks sind schlechter als Sklaven. Das sagt jetzt erstmal nicht viel,
 **1 Goblin Warrior** + Squig Prodder (15 + 15 => 30)  
 **2 Cave Squigs** (2x 15 => 30)  
 
-=> 497 GC
+=> 497 GC  
 => 145 Warband Rating
 
 Ich habe mich für einen allround Ansatz entschieden. Man kann Orcs mit deutlich mehr Shooting/Grinding/Damage Fokus bauen. 
