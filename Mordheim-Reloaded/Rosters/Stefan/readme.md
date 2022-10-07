@@ -27,3 +27,12 @@ Alles klar, Orks sind schlechter als Sklaven. Das sagt jetzt erstmal nicht viel,
 
 => 497 GC
 => 145 Warband Rating
+
+Ich habe mich für einen allround Ansatz entschieden. Man kann Orcs mit deutlich mehr Shooting/Grinding/Damage Fokus bauen. 
+Ich wollte aber eine möglichst ausgewogene Liste um immer irgendwie mitspielen zu können.
+
+Am stärksten ist vermutlich der Spam von Short-Bow-Goblins (Bowlins) weil Fernkampf einfach ziemlich gut ist. 
+Ich wollte darüber hinaus allerdings noch ein paar Nahkampf Optionen haben. Die Orks tanken passabel, die Frage für mich war also hauptsächlich wo der Schaden herkommt. 
+
+Die Halberd auf dem Boss ist die eine Antwort, die Squigs die andere. Die müssen sich allerdings erst einmal bewähren. Ich bin überhaupt kein Fan von random Movement. 
+Das mein Shaman den Zzap Spell gerollt hat hilft dem Damage Thema auf jeden Fall auch sehr. Das war wirklich lucky, wobei die Ork Spells tatsächlich deutlich besser sind als die meisten anderen. Mit drei wirklich guten Spells. 
