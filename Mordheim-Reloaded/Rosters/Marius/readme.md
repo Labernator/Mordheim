@@ -84,6 +84,8 @@ Für die Brutes ist die Marschrichtung recht simpel:
  2. Skill: Wyrdstone Hunter / Pistolier / Resilient / Dodge / neuer Zauber
  3. Skill: Wyrdstone Hunter / Pistolier / Resilient / Dodge / neuer Zauber
 
+ Bei Tainted Ones und Brutes bin ich nicht böse, wenn es Characteristic Advances werden (außer I/LD, die brauche ich da nicht)
+
 #### Henchmen
 
 Ich brauche zwingend im 3. Spiel einen Menschen. Sonst lässt sich ja niemand promoten.
