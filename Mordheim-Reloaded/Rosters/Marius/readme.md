@@ -52,3 +52,55 @@ Und damit sogar noch Underdog gegenüber Stefans wilder Horde! Nice
 Habe eine 3 gewürfelt für den Zauber. Das ist mit Abstand der schlechteste Zauber, den der Caster haben kann.
 Einfach nur furchtbar...
 Naja, dann ist die Warband halt etwas schwächer.
+
+## Ausblick
+
+Ja, wo geht die Reise hin?
+
+Es ist Mordheim, also kommt es sicher anders als gedacht. Bei den Beastmen dachte ich ich brauche 5-6 Spiele um den Mino zu kaufen und er war nach 2 schon da.
+Außerdem hatte ich mir einen Haufen Skills bereit gelegt, die mein Leute erlernen sollte und stattdessen haben alle gute Characteristic Upgrades bekommen. Das lief schon sehr gut, aber eben ganz anders als ausgemalt.
+
+Nichts destotrotz sollte man vorausplanen...
+
+#### Skills
+Naja... da sieht es doch recht Mau aus. Die Nurgle Dudes haben ja leider keine eigene Skillliste und sind mit Ausnahme des Masters sehr beschränkt.
+
+Die Brutes haben Stärke, Combat und Speed
+Die Tainted Ones sogar nur Combat und Speed. Das ist schon sehr mittelmäßig.
+
+Für die Brutes ist die Marschrichtung recht simpel:
+ 1. Skill: Resilient
+ 2. Skill: Dodge
+ 3. Skill: Mighty Blow
+
+ Bei den Tainted Ones wird es schon etwas kniffliger:
+ 1. Skill: Dodge
+ 2. Skill: StepAside / Expert Swordsman (kommt darauf an, wie viel Geld ich habe und ob ich genug Schwerte kaufen kann)
+ 3. Skill: StepAside / Leap
+
+ Beim Master bin ich vollkommen unschlüssig:
+ 1. Skill: neuer Zauber (es kann nur besser werden ^^)
+ 2. Skill: Wyrdstone Hunter / Pistolier / Resilient / Dodge / neuer Zauber
+ 3. Skill: Wyrdstone Hunter / Pistolier / Resilient / Dodge / neuer Zauber
+
+#### Henchmen
+
+Ich brauche zwingend im 3. Spiel einen Menschen. Sonst lässt sich ja niemand promoten.
+
+Ansonsten sieht das Ideal wohl irgendwie so aus:
+
+2 Plaguebearer
+1 Plague Cart
+9 Brethren mit Bögen und Zweihändern.
+
+Ich finde den Cart zwar irgendwie doof, aber er macht die Plaguebearer besser und man bekommen einen extra body plus den Cart, von daher wird er irgendwann gekauft werden müssen.
+
+Da das nie so kommen wird, werde ich zwischendurch mit Nurglingen arbeiten.
+Die sind zwar squishy, aber dafür sehr günstig.
+
+Und fluffig sind sie halt auch.
+
+Die werden die erste Anschaffung nach den ersten Spielen sein, um das Rout limit hochzukriegen, sollte das Geld knapp sein.
+
+Mit viel Geld will man natürlich lieber Brethren.
+
