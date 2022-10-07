@@ -65,7 +65,8 @@ Nichts destotrotz sollte man vorausplanen...
 #### Skills
 Naja... da sieht es doch recht Mau aus. Die Nurgle Dudes haben ja leider keine eigene Skillliste und sind mit Ausnahme des Masters sehr beschränkt.
 
-Die Brutes haben Stärke, Combat und Speed
+Die Brutes haben Stärke, Combat und Speed.
+
 Die Tainted Ones sogar nur Combat und Speed. Das ist schon sehr mittelmäßig.
 
 Für die Brutes ist die Marschrichtung recht simpel:
@@ -89,9 +90,9 @@ Ich brauche zwingend im 3. Spiel einen Menschen. Sonst lässt sich ja niemand pr
 
 Ansonsten sieht das Ideal wohl irgendwie so aus:
 
-2 Plaguebearer
-1 Plague Cart
-9 Brethren mit Bögen und Zweihändern.
+- 2 Plaguebearer
+- 1 Plague Cart
+- 9 Brethren mit Bögen und Zweihändern.
 
 Ich finde den Cart zwar irgendwie doof, aber er macht die Plaguebearer besser und man bekommen einen extra body plus den Cart, von daher wird er irgendwann gekauft werden müssen.
 
