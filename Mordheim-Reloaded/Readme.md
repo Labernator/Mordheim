@@ -18,6 +18,12 @@ Die Kampagne spielt in Mordheim kurz nach dem Einschlag des Meteoriten. Gespielt
 Szenarios zu den einzelnen Locations befinden sich [hier](https://github.com/Labernator/Mordheim/tree/master/Mordheim-Reloaded/Szenarios).
 Diejenige Warband, die zuerst 20 Wyrdstone Shards gespart hat (nicht ausgegeben!) gewinnt die Kampagne.
 
+## Szenarios
+
+Marius hat das niedrigste Warband Rating und entscheidet, dass wir von Norden in die Stadt einfallen.
+
+#### Runde 1: River Gate 
+
 ## Spieler
 
 Wir spielen leider wieder nur zu 3.
