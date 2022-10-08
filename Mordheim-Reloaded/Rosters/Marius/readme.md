@@ -52,6 +52,74 @@ Habe eine 3 gewürfelt für den Zauber. Das ist mit Abstand der schlechteste Zau
 Einfach nur furchtbar...
 Naja, dann ist die Warband halt etwas schwächer.
 
+## Nachtrag - alles auf Anfang
+
+Ich habe mir heute überlegt, wie ich das erste Spiel taktisch angehen möchte.
+
+Dabei ist mir aufgefallen, dass ich ein Rout Problem habe...
+Ich habe ein Rout Limit von 3, aber nur 2 Opferlämmer.
+
+Einen Helden will ich eigentlich nicht absichtlich opfern, einen Plaguebearer aber noch viel weniger.
+Die sind nämlich ziemlich teuer und wenn sie OOA gehen, sind sie in 50% der Fälle komplett kaputt.
+Die Dinger brauchen eigentlich sehr viele screener die die Pfeile aufsaugen um sie in den combat zu kriegen. Die habe ich ja aber noch nicht.
+
+Also sind die Plaguebearer schlicht die falsche unit für mich.
+
+Zumindest am Anfang.
+
+Bei so viel Beschuss in allen anderen Warbands machen sie einfach keinen Sinn.
+
+Realistisch werde ich mit Rout 3 keinen Blumentopf gewinnen im ersten Spiel. Wenn es viele Wyrdstones gibt, kriege ich vielleicht einen erbeutet, sonst vermutlich nicht mal den.
+
+Die Alternativ ist, auf den Underdog zu verzichten und auf Rout 4 zu gehen. Aber ich mal meine extra XP und vermute, dass ich die noch brauchen werde.
+
+Also zurück ans Reisbrett:
+
+Plaguebearer sind raus => zu teuer und zu großes Risiko Geld zu versenken
+
+## Neue Initial Warband
+
+**Master** + Sword + Hammer + Bow (70 + 10 + 15 + 3=> 98)
+
+> Das Schwert, damit er Parry bekommt und der normale Bogen, damit er etwas mehr Reichweite hat. 15 ist zwar echt teuer, aber er will halt echt nicht vorne rein.
+
+**2 Brute** (2x 60 = 120)
+
+**Tainted One #1** + 2 Hammer + Short Bow + Mark of Nurgle(25 + 2x 3 + 10 + 35 => 76)
+**Tainted One #2** + Great Weapon + Short Bow + Mark of Nurgle(25 + 15 + 10 + 35 => 85)
+
+> S5 ist top. Hoffen wir mal, dass er auch zuschlagen darf.
+
+**3 Nurglings**  (3x 15 => 45)
+
+**3 Brethren** + 2 Dagger (von den Helden)(3x 25 => 75)
+
+=> 499 GC
+=> 91 Warband Rating
+
+Damit bleiben wir im Underdog Bereich gegen Stefans aberwitzige 145. Prima.
+
+Der eine oder andere geneigte Leser wird sich nun Fragen:
+
+Hat sich der Typ nicht grade drüber beschwert, dass die Plaguebearer mit 50% flöten gehen statt mit 33% und dann nimmt er 3 Nurglinge, die das genauso tun?
+
+Wären mehr Brethren nicht die "richtigere" Wahl?
+
+Das habe ich mir auch überlegt, aber basic Math hat mal wieder zugeschlagen:
+Der Erwartungswert der Kosten für einen OOA Brethren ist:
+
+>1 / 3 * 27 (25+ 2 für den 2.Dagger) = 9
+
+Der Erwartungswert der Kosten für einen OOA Nurgling ist:
+
+>1 / 2 * 15 = 7.5
+
+Es ist also im Schnitt billiger einen Nurgling zu verlieren. Spannend. Die sind zwar nur T2, haben dafür nen coolen Retter.
+Wir werden sehen, ob die wirklich gut sind, oder ob der Kugelhagel sie nicht einfach furchtbar machen.
+
+Immerhin kann ich so billig und flott routen wenn es sein muss und kriege meine extra XP :)
+
+
 ## Ausblick
 
 Ja, wo geht die Reise hin?
@@ -106,12 +174,3 @@ Die werden die erste Anschaffung nach den ersten Spielen sein, um das Rout limit
 
 Mit viel Geld will man natürlich lieber Brethren.
 
-## Nachtrag - alles auf Anfang
-
-Ich habe mir heute überlegt, wie ich das erste Spiel taktisch angehen möchte.
-Dabei ist mir aufgefallen, dass ich ein Rout Problem habe...
-Ich habe ein Rout Limit von 3 aber nur 2 Opferlämmer.
-Einen Helden will ich eigentlich nicht absichtlich opfern, einen plague bearer aber noch viel weniger.
-Die sind nämlich ziemlich teuer und wenn sie OOA gehen, sind sie in 50% der Fälle komplett kaputt.
-Die Dinger brauchen eigentlich sehr viele screener die die Pfeile aufsaugen um sie in den combat zu kriegen. Die habe ich ja aber noch nicht.
-Also sind die Plaguebearer schlicht die falsche unit für mich. Zumindest am Anfang.
