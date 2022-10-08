@@ -1,5 +1,4 @@
 
-
 ## A new world order
 Nachdem unsere letzte Kampagne mich als eindeutigen, unumwundenen und strahlenden Sieger zurückgelassen hat (weil mein Chef nicht das zeitliche gesegnet hat), muss ich mich nun neuen Herausforderungen stellen.
 
@@ -107,3 +106,12 @@ Die werden die erste Anschaffung nach den ersten Spielen sein, um das Rout limit
 
 Mit viel Geld will man natürlich lieber Brethren.
 
+## Nachtrag - alles auf Anfang
+
+Ich habe mir heute überlegt, wie ich das erste Spiel taktisch angehen möchte.
+Dabei ist mir aufgefallen, dass ich ein Rout Problem habe...
+Ich habe ein Rout Limit von 3 aber nur 2 Opferlämmer.
+Einen Helden will ich eigentlich nicht absichtlich opfern, einen plague bearer aber noch viel weniger.
+Die sind nämlich ziemlich teuer und wenn sie OOA gehen, sind sie in 50% der Fälle komplett kaputt.
+Die Dinger brauchen eigentlich sehr viele screener die die Pfeile aufsaugen um sie in den combat zu kriegen. Die habe ich ja aber noch nicht.
+Also sind die Plaguebearer schlicht die falsche unit für mich. Zumindest am Anfang.
