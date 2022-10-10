@@ -19,13 +19,13 @@ Alles klar, Orks sind schlechter als Sklaven. Das sagt jetzt erstmal nicht viel,
 
 **Boss** + Dagger (80 + 2 => 82)  
 **Shaman** + Dagger (40 + 2 => 42)  
-**2 Big 'Uns** + 2 Dagger (2x 40 + 2x 2 => 84)  
+**2 Big 'Uns** + 2 Mace (2x 40 + 2x 3 => 86)  
 **2 Orc Boy** + 2 Dagger (2x 25 + 2x 2 => 54)  
 **8 Goblin Warrior** + 8 Short Bows + 8 Dagger (8x 15 + 8x 5 + 8x 2 => 176)  
 **1 Goblin Warrior** + Squig Prodder (15 + 15 => 30)  
 **2 Cave Squigs** (2x 15 => 30)  
 
-=> 498 GC  
+=> 500 GC  
 => 145 Warband Rating
 
 Ich habe mich für einen allround Ansatz entschieden. Man kann Orcs mit deutlich mehr Shooting/Grinding/Damage Fokus bauen. 
