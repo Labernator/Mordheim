@@ -13,7 +13,7 @@ Spielbare Warbands:
  - Dwarf Treasure Hunters
  - Ostlanders
  - Averlanders
- - Shadow Warriors
+ - Shadow Warriors (not official)  
  - Kislevites
 
 # Empire in Flames
