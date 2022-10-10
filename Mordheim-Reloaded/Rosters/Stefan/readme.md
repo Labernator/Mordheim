@@ -5,7 +5,7 @@ Ok, da ich nicht weiß wann ich die nächste Gelegenheit bekomme muss ich vielle
 In meinem Kopf sind sie ganz klar eine Top Warband. Aber das habe ich von den Zwergen auch mal gedacht...
 
 Der Vergleich mit den Skaven:
- - Short Bows statt Slings (bei uns kein Thema)
+ - Short Bows statt Slings 
  - Weniger Shooty Guys (weil Goblins zahlenmäßig beschränkt sind)
  - Schlechtere XP auf den Helden
  - Animosity
