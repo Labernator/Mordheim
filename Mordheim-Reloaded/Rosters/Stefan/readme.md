@@ -13,13 +13,13 @@ Der Vergleich mit den Skaven:
  - Weniger Movement
  - Zwei Helden weniger
 
-Alles klar, Orks sind schlechter als Sklaven. Das sagt jetzt erstmal nicht viel, welche Warband ist das nicht ;)
+Alles klar, Orks sind schlechter als Skaven. Das sagt jetzt erstmal nicht viel, welche Warband ist das nicht ;)
 
 ## Initial Warband
 
 **Boss** + Dagger (80 + 2 => 82)  
 **Shaman** + Dagger (40 + 2 => 42)  
-**2 Big 'Uns** + 2 Mace (2x 40 + 2x 3 => 86)  
+**2 Big 'Un** + 2 Mace (2x 40 + 2x 3 => 86)  
 **2 Orc Boy** + 2 Dagger (2x 25 + 2x 2 => 54)  
 **8 Goblin Warrior** + 8 Short Bows + 8 Dagger (8x 15 + 8x 5 + 8x 2 => 176)  
 **1 Goblin Warrior** + Squig Prodder (15 + 15 => 30)  
