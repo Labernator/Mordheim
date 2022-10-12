@@ -22,7 +22,7 @@ Diejenige Warband, die zuerst 20 Wyrdstone Shards gespart hat (nicht ausgegeben!
 
 Marius hat das niedrigste Warband Rating und entscheidet, dass wir von Norden in die Stadt einfallen.
 
-#### Runde 1: River Gate 
+#### Runde 1: River Gate
 
 ## Spieler
 
@@ -42,13 +42,13 @@ Ich habe Hoffnung, dass es sich bald ändert und wir einen 4. apokalyptischen Re
 > Light, Heavy und Gromril Armour have +1 AS (Core S. 32). Light Armour grants a 5+, Heavy Armour a 4+ and Gromril Armour a +3+ AS.
 #### Dual Wielding
 > When using two weapons in melee, both weapons are resolved at -1 to hit (Core S. 35)
-#### Henchmen
+#### Henchmen are only here for the rations
 > Henchmen do not gain experience. After 3 scenarios you may choose one non-large, non-animal henchman to be promoted. If for any reason, you don't have 6 heroes after game 5, another non-large, non-animal henchman is promoted.
-#### Slings
-> Are actually Short Bows and cost 5gc instead of 2gc.
+#### Shots fired!
+> No more than 50% of warriors within a warband (both heroes and henchmen) may be equipped with a ranged weapon that has a range of more than 6\".
 #### Large / Animal Henchmen
 > Henchmen with either the \"Large\" or the \"Animal\" rule can neither climb nor use ladders.
-#### Max Starting Heroes
+#### Too many heroes to divide the spoils
 > Every warband may have at maximum 5 starting heroes. No more. It doesn't matter what the warband book says.
 
 #### Banned skills for this campaign:
@@ -75,4 +75,4 @@ Ich habe Hoffnung, dass es sich bald ändert und wir einen 4. apokalyptischen Re
 > After rolling all the injuries of your warband, and contemplating the total annihilation that would soon follow, the player may decide to call upon the Hero Save.\nIn doing so, the player decides to ignore all the injuries to all the models in the warband, but also renounces to all the experience gains of the game. All other post battle sequence steps take place as normal.\nNote: The exploration can therefore be made by all the heroes in the warband, as none was removed from the game.
 
 #### MAGA (Make Armour great again)
-> On the critical hit chart we replace all instances of "no armour saves allowed" with "the enemy armour save is modified by -2." 
+> On the critical hit chart we replace all instances of "no armour saves allowed" with "the enemy armour save is modified by -2."
