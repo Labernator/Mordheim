@@ -10,7 +10,7 @@ heros:
       stats: M4, WS4, BS4, S3, T3, W1, I4, A1, Ld8, Sv-
       weapons: Sigmarite Warhammer, Sigmarite Warhammer, Sling
       armour: Holy Relic
-      rules: Leader, Prayers(Armour of Righteousness)
+      rules: Leader, Priest(Armour of Righteousness)
       skilllists: Strength, Academic, Combat, Speed, Special
 
     - hero: Rosa (Augur) [0XP]
