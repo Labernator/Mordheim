@@ -35,6 +35,8 @@ Ich habe Hoffnung, dass es sich bald ändert und wir einen 4. apokalyptischen Re
 
 [Stefan](https://github.com/Labernator/Mordheim/tree/master/Mordheim-Reloaded/Rosters/Stefan)
 
+[Philipp](https://github.com/Labernator/Mordheim/tree/master/Mordheim-Reloaded/Rosters/Philipp)
+
 ## Houserules
 #### Charge
 > A charge move is done by adding +D6 to the movement of a warrior instead of doubling the movement (Core S. 26). Therefore you are always allowed to measure.
