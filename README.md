@@ -1,5 +1,4 @@
-# Current Campaign 2022-2023
-Current Campaign (/Utlimate-Mordheim/Readme.md)
+# [Current Campaign 2022-2023] (/Utlimate-Mordheim/Readme.md)
 
 # Old Mordheim Campaigns
 
