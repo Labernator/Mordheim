@@ -1,6 +1,6 @@
 warband: The Righteous Sisterhood (Sisters of Sigmar)
 campaign: 0
-gc: 0
+gc: 4
 shards: 0
 objective: ""
 alignment: ""
@@ -8,35 +8,35 @@ alignment: ""
 heros:
     - hero: Johanna von Marienburg (Sigmarite Matriarch) [20XP]
       stats: M4, WS4, BS4, S3, T3, W1, I4, A1, Ld8, Sv-
-      weapons: Sigmarite Warhammer, Sigmarite Warhammer, Short Bow
-      armour: Helmet
-      rules: Leader, Prayers()
+      weapons: Sigmarite Warhammer, Sigmarite Warhammer, Sling
+      armour: Holy Relic
+      rules: Leader, Prayers(Armour of Righteousness)
       skilllists: Strength, Academic, Combat, Speed, Special
 
     - hero: Rosa (Augur) [0XP]
       stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld7, Sv-
-      weapons: Sigmarite Warhammer, Sigmarite Warhammer, Short Bow
+      weapons: Sigmarite Warhammer, Sigmarite Warhammer, Sling
       armour:
       rules: Blessed Sight, No Armour Allowed
       skilllists: Academic, Speed, Special
 
     - hero: Emilia (Sister Superior) [8XP]
       stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
-      weapons: Steel Whip, Hammer, Short Bow
+      weapons: Steel Whip, Sigmarite Warhammer, Sling
       armour:
       rules:
       skilllists: Strength, Academic, Combat, Speed, Special
 
     - hero: Theresa (Sister Superior) [8XP]
       stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
-      weapons: Steel Whip, Hammer, Short Bow
-      armour: Helmet
+      weapons: Steel Whip, Sigmarite Warhammer, Sling
+      armour: 
       rules:
       skilllists: Strength, Academic, Combat, Speed, Special
 
     - hero: Indira (Sister Superior) [8XP]
       stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
-      weapons: Steel Whip, Hammer, Short Bow
+      weapons: Steel Whip, Sigmarite Warhammer, Sling
       armour:
       rules:
       skilllists: Strength, Academic, Combat, Speed, Special
@@ -44,6 +44,6 @@ heros:
 henchmen:
     - group: True Believers (8 Novice) [0XP]
       stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld6, Sv-
-      weapons: Dagger, Dagger, Short Bow
+      weapons: Dagger, Dagger
       armour:
       rules:
