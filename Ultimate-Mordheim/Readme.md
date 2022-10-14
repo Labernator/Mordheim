@@ -78,3 +78,7 @@ Ich habe Hoffnung, dass es sich bald ändert und wir einen 4. apokalyptischen Re
 
 #### MAGA (Make Armour great again)
 > On the critical hit chart we replace all instances of "no armour saves allowed" with "the enemy armour save is modified by -2."
+
+
+#### Climbing
+> Replace the second paragraph with this: \nAny model (except animals!) can climb up or down fences, walls, etc.\nHe must be touching what he wants to climb. He may climb up to his total Movement in a single movement phase.\nAny remaining movement can be used as normal.\nIf the height is more than the model’s normal move, he cannot climb the wall.

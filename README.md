@@ -1,5 +1,4 @@
-# Current Campaign
-### [Kampagne](/Utlimate-Mordheim/Readme.md)
+# Current Campaign (/Utlimate-Mordheim/Readme.md)
 
 # Old Mordheim Campaigns
 
