@@ -1,4 +1,4 @@
-# Mordheim Reloaded
+# Ultimate Mordheim
 
 ## Regeln
 Gespielt werden die richtig offiziellen Mordheim Regeln. Erstmal fast ohne Houserules und alles, sprich:
@@ -29,13 +29,13 @@ Marius hat das niedrigste Warband Rating und entscheidet, dass wir von Norden in
 Wir spielen leider wieder nur zu 3.
 Ich habe Hoffnung, dass es sich bald ändert und wir einen 4. apokalyptischen Reiter finden :)
 
-[Aaron](https://github.com/Labernator/Mordheim/tree/master/Mordheim-Reloaded/Rosters/Aaron)
+[Aaron](https://github.com/Labernator/Mordheim/tree/master/Ultimate-Mordheim/Rosters/Aaron)
 
-[Marius](https://github.com/Labernator/Mordheim/tree/master/Mordheim-Reloaded/Rosters/Marius)
+[Marius](https://github.com/Labernator/Mordheim/tree/master/Ultimate-Mordheim/Rosters/Marius)
 
-[Stefan](https://github.com/Labernator/Mordheim/tree/master/Mordheim-Reloaded/Rosters/Stefan)
+[Stefan](https://github.com/Labernator/Mordheim/tree/master/Ultimate-Mordheim/Rosters/Stefan)
 
-[Philipp](https://github.com/Labernator/Mordheim/tree/master/Mordheim-Reloaded/Rosters/Philipp)
+[Philipp](https://github.com/Labernator/Mordheim/tree/master/Ultimate-Mordheim/Rosters/Philipp)
 
 ## Houserules
 #### Charge
