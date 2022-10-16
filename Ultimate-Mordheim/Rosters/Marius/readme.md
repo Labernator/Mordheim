@@ -79,22 +79,22 @@ Plaguebearer sind raus => zu teuer und zu großes Risiko Geld zu versenken
 
 ## Neue Initial Warband
 
-**Master** + Sword + Hammer + Bow (70 + 10 + 15 + 3=> 98)
+**Master** + Sword + Hammer + Short Bow (70 + 10 + 10 + 3=> 93)
 
 > Das Schwert, damit er Parry bekommt und der normale Bogen, damit er etwas mehr Reichweite hat. 15 ist zwar echt teuer, aber er will halt echt nicht vorne rein.
 
 **2 Brute** (2x 60 = 120)
-
+213
 **Tainted One #1** + 2 Hammer + Short Bow + Mark of Nurgle(25 + 2x 3 + 10 + 35 => 76)
 **Tainted One #2** + Great Weapon + Short Bow + Mark of Nurgle(25 + 15 + 10 + 35 => 85)
-
+374
 > S5 ist top. Hoffen wir mal, dass er auch zuschlagen darf.
 
 **3 Nurglings**  (3x 15 => 45)
 
-**3 Brethren** + 2 Dagger (von den Helden)(3x 25 => 75)
+**3 Brethren** + Dagger (3x 25+ 2 => 81)
 
-=> 499 GC
+=> 500 GC
 => 91 Warband Rating
 
 Damit bleiben wir im Underdog Bereich gegen Stefans aberwitzige 145. Prima.
