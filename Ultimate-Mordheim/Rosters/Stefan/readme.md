@@ -17,13 +17,12 @@ Alles klar, Orks sind schlechter als Skaven. Das sagt jetzt erstmal nicht viel, 
 
 ## Initial Warband
 
-**Boss** + Dagger (80 + 2 => 82)  
-**Shaman** + Dagger (40 + 2 => 42)  
-**2 Big 'Un** + 2 Mace (2x 40 + 2x 3 => 86)  
-**2 Orc Boy** + 2 Dagger (2x 25 + 2x 2 => 54)  
-**8 Goblin Warrior** + 8 Short Bows + 8 Dagger (8x 15 + 8x 5 + 8x 2 => 176)  
-**1 Goblin Warrior** + Squig Prodder (15 + 15 => 30)  
-**2 Cave Squigs** (2x 15 => 30)  
+**Boss** + Dagger + Bow (80 + 2 + 10 => 92)  
+**Shaman** (40)  
+**2 Big 'Un** + 2 Dagger (2x 40 + 2x 2 => 84)  
+**3 Orc Boy** + 3 Dagger (3x 25 + 3x 2 => 81)  
+**7 Goblin Warrior** + 7 Short Bows + 7 Dagger (7x 15 + 7x 5 + 7x 2 => 154)  
+**3 Goblin Warrior** + Dagger (3x 15 + 3x 2 => 51)    
 
 => 500 GC  
 => 145 Warband Rating
