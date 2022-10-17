@@ -6,7 +6,7 @@ objective: ""
 alignment: ""
 
 heros:
-    - hero: Rancius Tuberculius (Carnival Master) [20XP]
+    - hero: Rancius (Carnival Master) [20XP]
       stats: M4, WS4, BS4, S3, T3, W1, I3, A1, Ld8, Sv-
       weapons: Sword, Hammer, Bow
       armour:
@@ -53,3 +53,8 @@ henchmen:
       weapons: Dagger, Dagger
       armour:
       rules:
+
+notes: |
+  Rancius: 70 + 10 + 10 + 3 = 93 / Pestis: 60 / Choleris: 60 / Typhodium: 25 + 35 + 3 + 3 + 10 = 76 /
+  Diphtodium: 25 + 35 + 15 + 10 = 85 / The Carrier: 3 * 27 = 45 / The Infested: 3 * 15 = 81
+  Total: 93 + 60 + 60 + 76 + 85 + 45 + 81 = 500
