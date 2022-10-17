@@ -13,7 +13,7 @@ heros:
       rules: Leader
       skilllists: Strength, Shooting, Academic, Combat, Speed
 
-    - hero: Sallor the Bald (Champion) [0XP]
+    - hero: Sallor the Bald (Champion) [8XP]
       stats: M4, WS4, BS3, S4, T3, W1, I3, A1, Ld7, Sv-
       weapons: Halberd
       armour:
