@@ -8,14 +8,14 @@ Gespielt werden die richtig offiziellen Mordheim Regeln. Erstmal fast ohne House
 
 Dazu Szenarios die entweder im Town Cryer oder in Fanatic Online veröffentlicht wurden.
 
-Alle spielbaren Warbands findet sich [hier](https://github.com/Labernator/Mordheim/tree/master/Mordheim-Reloaded/Warbands).
+Alle spielbaren Warbands findet sich [hier](https://github.com/Labernator/Mordheim/tree/master/Ultimate-Mordheim/Warbands).
 
 ## Campaign
 
 ![Mordheim%20Map%20Campaign%202021.jpg](Mordheim%20Map%20Campaign%202021.jpg)
 
 Die Kampagne spielt in Mordheim kurz nach dem Einschlag des Meteoriten. Gespielt wird auf der obigen Karte nach den Regeln.
-Szenarios zu den einzelnen Locations befinden sich [hier](https://github.com/Labernator/Mordheim/tree/master/Mordheim-Reloaded/Szenarios).
+Szenarios zu den einzelnen Locations befinden sich [hier](https://github.com/Labernator/Mordheim/tree/master/Ultimate-Mordheim/Szenarios).
 Diejenige Warband, die zuerst 20 Wyrdstone Shards gespart hat (nicht ausgegeben!) gewinnt die Kampagne.
 
 ## Szenarios
