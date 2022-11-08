@@ -18,28 +18,28 @@ heros:
       weapons: Halberd
       armour:
       rules:
-      skilllists: Combat, Strenght, Speed
+      skilllists: Combat, Strength, Speed
 
     - hero: Prendahl na Ghezn (Champion) [8XP]
       stats: M4, WS4, BS3, S4, T3, W1, I3, A1, Ld7, Sv-
       weapons: Halberd
       armour:
       rules:
-      skilllists: Combat, Strenght, Speed
+      skilllists: Combat, Strength, Speed
 
     - hero: Widower (Youngblood) [0XP]
       stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld6, Sv-
       weapons: Mace, Mace
       armour:
       rules:
-      skilllists: Combat, Strenght, Speed
+      skilllists: Combat, Strength, Speed
 
     - hero: Jokin (Youngblood) [0XP]
       stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld6, Sv-
       weapons: Mace, Mace
       armour:
       rules:
-      skilllists: Combat, Strenght, Speed
+      skilllists: Combat, Strength, Speed
 
 henchmen:
     - group: The Snipers (4 Marksman) [0XP]
