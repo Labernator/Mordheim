@@ -1,6 +1,6 @@
 warband: The Unclean (Carnival of Chaos)
 campaign: 0
-gc: 0
+gc: 3
 shards: 0
 objective: ""
 alignment: ""
@@ -8,7 +8,7 @@ alignment: ""
 heros:
     - hero: Rancius (Carnival Master) [20XP]
       stats: M4, WS4, BS4, S3, T3, W1, I3, A1, Ld8, Sv-
-      weapons: Sword, Hammer, Bow
+      weapons: Hammer, Hammer, Bow
       armour:
       rules: Leader, Wizard (Stench of Nurgle)
       skilllists: Strength, Academic, Combat, Speed, Special
@@ -27,16 +27,16 @@ heros:
       rules: No Need for Weapons
       skilllists: Strength, Academic, Combat, Speed, Special
 
-    - hero: Typhodium (Tainted One) [0XP]
+    - hero: Typhodis (Tainted One) [0XP]
       stats: M4, WS3, BS3, S3, T3, W2, I3, A1, Ld7, Sv-
-      weapons: Hammer, Hammer, Short Bow
+      weapons: Halberd, Short Bow
       armour:
       rules: Immune to Poison, Mark of Nurgle
       skilllists: Strength, Academic, Combat, Speed, Special
 
-    - hero: Diphthodium (Tainted One) [0XP]
+    - hero: Diphthodis (Tainted One) [0XP]
       stats: M4, WS3, BS3, S3, T3, W2, I3, A1, Ld7, Sv-
-      weapons: Great Weapon, Short Bow
+      weapons: Halberd, Short Bow
       armour:
       rules: Immune to Poison, Mark of Nurgle
       skilllists: Strength, Academic, Combat, Speed, Special
@@ -55,6 +55,6 @@ henchmen:
       rules:
 
 notes: |
-  Rancius: 70 + 10 + 10 + 3 = 93 / Pestis: 60 / Choleris: 60 / Typhodium: 25 + 35 + 3 + 3 + 10 = 76 /
-  Diphtodium: 25 + 35 + 15 + 10 = 85 / The Carrier: 3 * 27 = 45 / The Infested: 3 * 15 = 81
-  Total: 93 + 60 + 60 + 76 + 85 + 45 + 81 = 500
+  Rancius: 70 + 3 + 3 + 15 = 91 / Pestis: 60 / Choleris: 60 / Typhodis: 25 + 35 + 10 + 10 = 80 /
+  Diphtodis: 25 + 35 + 10 + 10 = 80 / The Carrier: 3 * 27 = 81 / The Infested: 3 * 15 = 45
+  Total: 91 + 60 + 60 + 80 + 80 + 45 + 81 = 497
