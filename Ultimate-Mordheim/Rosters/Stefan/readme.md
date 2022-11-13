@@ -55,8 +55,8 @@ Boss Maan: Blind in one Eye (-1BS), setzte 4(**!!1!**) Spiele aus
 **XP**  
  - Boss Maan: 3 (winning leader, Injury 66, Survival)   
  - Zappa: 3 (2x Kill, Survival) **Skill: Resilient**  
- - Da Fist: 3 (Kill, 2x Wyrdstone, Survival) **Skill: Resilient**   
- - Da Brute: 2 (Kill, 2x Wyrdstone, Survival) **Skill: Resilient**
+ - Da Fist: 4 (Kill, 2x Wyrdstone, Survival) **Skill: Resilient**   
+ - Da Brute: 4 (Kill, 2x Wyrdstone, Survival) **Skill: Resilient**
 
 **Szenario Loot**  
 4 Wyrdstones  
@@ -81,9 +81,9 @@ Das Cannon Foddr wird entwaffnet und gibt seine zusätzlichen Dagger den neuen B
 
 
 **Warband**  
-Da Boss Brute: 2x Dagger, Bow  
-Zapper: Dagger    
-Da Fist: 2x Dagger   
-7 Orc Boyz: 2x Dagger  
-3 Sacrificial Goblins: Dagger  
-7 Bowlins: 2x Dagger, Short Bow  
+**Da Boss Brute**: 2x Dagger, Bow  
+**Zapper**: Dagger    
+**Da Fist**: 2x Dagger   
+**7 Orc Boyz**: 2x Dagger  
+**3 Sacrificial Goblins**: Dagger  
+**7 Bowlins**: 2x Dagger, Short Bow  
