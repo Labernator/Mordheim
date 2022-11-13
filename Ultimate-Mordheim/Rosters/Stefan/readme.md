@@ -46,3 +46,44 @@ Der Plan ist also erstmal offensiv in die Mitte zu ziehen um Wyrdstones einzusam
 Die Frage die sich mir noch stellt ist, wie sehr ich das Szenario gewinnen will. Da potenziell neun Goblins bei mir sterben können ohne dass ich einen Rout Test machen muss, kann ich extrem lange im Spiel bleiben. Die Frage ist nur, ab wann sich das nicht mehr rechnet.   
 Aber das hängt vermutlich sehr vom konkreten Spiel er Lauf ab. Wichtig ist nur, dass ich meine Goblins auch entsprechend als Meat Shields einsetze!  
 Bis dahin bleibt für Sonntag also die Jack Sparrow Taktik: Yolo rein rennen, alles klauen was man finden kann und nichts zurück geben :) 
+
+## 13.11.22 Wyrdstone Hunt 
+
+**Injuries**  
+Boss Maan: Blind in one Eye (-1BS), setzte 4(**!!1!**) Spiele aus
+
+**XP**  
+ - Boss Maan: 3 (winning leader, Injury 66, Survival)   
+ - Zappa: 3 (2x Kill, Survival) **Skill: Resilient**  
+ - Da Fist: 3 (Kill, 2x Wyrdstone, Survival) **Skill: Resilient**   
+ - Da Brute: 2 (Kill, 2x Wyrdstone, Survival) **Skill: Resilient**
+
+**Szenario Loot**  
+4 Wyrdstones  
+
+**Exploration**  
+4 Wyrdstones  
+66 - 1GC  
+
+**Verkaufen**  
+8 Wyrdstones (100)  
+ => 101GC
+
+**Einkaufen**  
+4x Orc Boyz (100)  
+=> 100GC also 1GC angespart. 
+
+**Umequipen**  
+Der Boss gibt seinen Dagger an einen Boy und seinen Bogen an den neuen Boss. Dann geht er entspannt 4 Runden chillen. Must be nice...  
+Das Cannon Foddr wird entwaffnet und gibt seine zusätzlichen Dagger den neuen Boyz. Sucks to be a goblin, I guess.  
+
+**Gedanken**  
+
+
+**Warband**  
+Da Boss Brute: 2x Dagger, Bow  
+Zapper: Dagger    
+Da Fist: 2x Dagger   
+7 Orc Boyz: 2x Dagger  
+3 Sacrificial Goblins: Dagger  
+7 Bowlins: 2x Dagger, Short Bow  
