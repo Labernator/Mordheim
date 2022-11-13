@@ -7,21 +7,21 @@ alignment: ""
 
 heros:
   - hero: Zappa (Orc Shaman) [13XP]
-    stats: M4, WS3, BS3, S3, T4(5), W1, I3, A1, Ld7, Sv-
+    stats: M4, WS3, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
     weapons: Dagger
     armour:
     rules: Wizard (Zzap!), Resilient 
     skilllists: Strength, Special
 
   - hero: Da Fist (Big 'Un) [19XP]
-    stats: M4, WS4, BS3, S3, T4(5), W1, I3, A1, Ld7, Sv-
+    stats: M4, WS4, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
     weapons: Dagger, Dagger
     armour:
     rules: Resilient
     skilllists: Strength, Shooting, Combat, Special
 
   - hero: Da Brute (Big 'Un) [19XP]
-    stats: M4, WS4, BS3, S3, T4(5), W1, I3, A1, Ld7, Sv-
+    stats: M4, WS4, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
     weapons: Dagger, Dagger, Bow
     armour:
     rules: Leader (T-4), Resilient
