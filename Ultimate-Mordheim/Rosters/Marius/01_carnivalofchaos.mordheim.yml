@@ -1,0 +1,60 @@
+warband: The Unclean (Carnival of Chaos)
+campaign: 0
+gc: 23
+shards: 0
+objective: ""
+alignment: ""
+
+heros:
+    - hero: Rancius (Carnival Master) [22XP]
+      stats: M4, WS4, BS4, S3, T3, W1, I3, A1, Ld8, Sv-
+      weapons: Hammer, Hammer, Bow
+      armour: Unholy Relic
+      rules: Leader, Wizard (Stench of Nurgle)
+      skilllists: Strength, Academic, Combat, Speed, Special
+
+    - hero: Pestis (Brute) [10XP]
+      stats: M4, WS4, BS0, S4, T4, W1, I2, A2, Ld7, Sv-
+      weapons:
+      armour:
+      rules: No Need for Weapons
+      skilllists: Strength, Academic, Combat, Speed, Special
+
+    - hero: Choleris (Brute) [10XP]
+      stats: M4, WS4, BS0, S4, T4, W1, I2, A2, Ld7, Sv-
+      weapons:
+      armour:
+      rules: No Need for Weapons
+      skilllists: Strength, Academic, Combat, Speed, Special
+
+    - hero: Typhodis (Tainted One) [3XP]
+      stats: M4, WS3, BS3, S3, T3, W3, I3, A1, Ld7, Sv-
+      weapons: Halberd, Short Bow, Rabbits Foot
+      armour:
+      rules: Immune to Poison, Mark of Nurgle
+      skilllists: Strength, Academic, Combat, Speed, Special
+
+    - hero: Diphthodis (Tainted One) [3XP]
+      stats: M4, WS3, BS3, S3, T3, W2, I3, A1, Ld7, Sv-
+      weapons: Halberd, Short Bow, Rabbits Foot
+      armour:
+      rules: Immune to Poison, Mark of Nurgle, Resilient
+      skilllists: Strength, Academic, Combat, Speed, Special
+
+henchmen:
+    - group: The Infested (2 Nurglings) [0XP]
+      stats: M4, WS3, BS0, S3, T2, W1, I3, A1, Ld10, Sv-
+      weapons:
+      armour:
+      rules: Cloud of Flies, Immune to Psychology, Immune to Poison, Daemonic Aura, Daemonic Instability
+
+    - group: The Carrier (3 Brethren) [0XP]
+      stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+      weapons: Dagger, Dagger
+      armour:
+      rules:
+
+notes: |
+  Rancius: 70 + 3 + 3 + 15 = 91 / Pestis: 60 / Choleris: 60 / Typhodis: 25 + 35 + 10 + 10 = 80 /
+  Diphtodis: 25 + 35 + 10 + 10 = 80 / The Carrier: 3 * 27 = 81 / The Infested: 3 * 15 = 45
+  Total: 91 + 60 + 60 + 80 + 80 + 45 + 81 = 497
