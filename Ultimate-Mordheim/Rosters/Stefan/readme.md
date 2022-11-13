@@ -80,9 +80,9 @@ Das Cannon Foddr wird entwaffnet und gibt seine zusätzlichen Dagger den neuen B
 **Gedanken**  
 Goblins sind Meatshilds. Das scheine ich noch nicht wirklich begriffen zu haben. Sonst hätte ich nicht so dusslig positioniert, dass mein Boss mal wieder ordentlich auf die Rübe bekommt.   
 Klar, S3 vs T4 Shooting, muss nicht immer critten. Kann aber halt und ich habe es echt schlecht gestellt. Aber immerhin hat der Goblins statt dessen überlebt.   
-Naja, Strafe muss sein und jetzt muss ich volle vier Spiele lang ohne Leader auskommen. Bitter. Ansonsten ist das Spiel ziemlich ideal gelaufen. Philipp und Aaron haben sehr defensiv gespielt, so dass ich sehr aktiv auf der Feld werden konnte. Laber saß mir gegenüber, so dass er auch keine große Bedrohung war.   
-Ich habe sehr gut gewürfelt und auch wenn an ein paar wichtigen Stellen die Animosity zugeschlagen hat, war sie alles in allem sehr zahm.   
-Kein Leader bedeutet aber halt vieles: Schlechtere Exploration, schlimmere Animosity in Game, weniger Rare Items und ich brauche gar nicht versuchen einen Troll aufs Feld zu stellen.  
+Naja, Strafe muss sein und jetzt muss ich volle vier Spiele lang ohne Leader auskommen. Bitter. Ansonsten ist das Spiel ziemlich ideal gelaufen. Philipp und Aaron haben defensiv gespielt, so dass ich sehr aktiv auf der Feld werden konnte. Laber saß mir gegenüber, so dass er auch keine große Bedrohung war.   
+Ich habe wirklich gut gewürfelt und auch wenn an ein paar wichtigen Stellen die Animosity zugeschlagen hat, war sie alles in allem sehr zahm.   
+Kein Leader bedeutet aber schon viele Schlechtes: Schwächere Exploration, schlimmere Animosity in Game, weniger Rare Items und ich brauche gar nicht versuchen einen Troll aufs Feld zu stellen.  
 Aber das sind alles Future Stefans Probleme. Jetzt habe ich erstmal die 20 Mann voll gemacht und dann sehen wir weiter. 
 
 **Warband**  
