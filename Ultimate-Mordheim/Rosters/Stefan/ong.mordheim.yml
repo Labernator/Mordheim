@@ -1,41 +1,34 @@
 warband: Uruk-Hai (Orcs & Goblins)
 campaign: 0
-gc: 0
+gc: 1
 shards: 0
 objective: ""
 alignment: ""
 
 heros:
-  - hero: Boss Maan (Orc Boss) [20XP]
-    stats: M4, WS4, BS4, S4, T4, W1, I3, A1, Ld8, Sv-
-    weapons: Dagger, Dagger, Bow
-    armour:
-    rules: Leader
-    skilllists: Strength, Shooting, Speed, Combat, Special
-
-  - hero: Zappa (Orc Shaman) [10XP]
-    stats: M4, WS3, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
+  - hero: Zappa (Orc Shaman) [13XP]
+    stats: M4, WS3, BS3, S3, T4(5), W1, I3, A1, Ld7, Sv-
     weapons: Dagger
     armour:
-    rules: Wizard (Zzap!)
+    rules: Wizard (Zzap!), Resilient 
     skilllists: Strength, Special
 
-  - hero: Da Fist (Big 'Un) [15XP]
-    stats: M4, WS4, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
+  - hero: Da Fist (Big 'Un) [19XP]
+    stats: M4, WS4, BS3, S3, T4(5), W1, I3, A1, Ld7, Sv-
     weapons: Dagger, Dagger
     armour:
-    rules:
+    rules: Resilient
     skilllists: Strength, Shooting, Combat, Special
 
-  - hero: Da Brute (Big 'Un) [15XP]
-    stats: M4, WS4, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
-    weapons: Dagger, Dagger
+  - hero: Da Brute (Big 'Un) [19XP]
+    stats: M4, WS4, BS3, S3, T4(5), W1, I3, A1, Ld7, Sv-
+    weapons: Dagger, Dagger, Bow
     armour:
-    rules:
+    rules: Leader (T-4), Resilient
     skilllists: Strength, Shooting, Combat, Special
 
 henchmen:
-  - group: Da Waaagh (3 Orc Boy) [0XP]
+  - group: Da Waaagh (7 Orc Boy) [0XP]
     stats: M4, WS3, BS3, S3, T4, W1, I2, A1, Ld7, Sv-
     weapons: Dagger, Dagger
     armour:
@@ -49,6 +42,14 @@ henchmen:
 
   - group: Da Cannon Foddr (3 Goblin Warrior) [0XP]
     stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld5, Sv-
-    weapons: Dagger, Dagger
+    weapons: Dagger
     armour:
     rules: Animosity, Not Orcs
+
+notes:
+  - hero: Boss Maan (returns in T-4) (Orc Boss) [23XP]
+    stats: M4, WS4, BS3, S4, T4, W1, I3, A1, Ld8, Sv-
+    weapons: Dagger
+    armour:
+    rules: Leader
+    skilllists: Strength, Shooting, Speed, Combat, Special
