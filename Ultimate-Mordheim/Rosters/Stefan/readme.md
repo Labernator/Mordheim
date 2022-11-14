@@ -55,8 +55,8 @@ Boss Maan: Blind in one Eye (-1BS), setzte 4(**!!1!**) Spiele aus
 **XP**  
  - Boss Maan: 3 (winning leader, Injury 66, Survival)   
  - Zappa: 3 (2x Kill, Survival) **Skill: Resilient**  
- - Da Fist: 4 (Kill, 2x Wyrdstone, Survival) **Skill: Resilient**   
- - Da Brute: 4 (Kill, 2x Wyrdstone, Survival) **Skill: Resilient**
+ - Da Fist: 4 (Kill, 2x Wyrdstone, Survival) **Skill: Nimble**   
+ - Da Brute: 4 (Kill, 2x Wyrdstone, Survival) **Skill: Nimble**
 
 **Szenario Loot**  
 4 Wyrdstones  
@@ -67,15 +67,18 @@ Boss Maan: Blind in one Eye (-1BS), setzte 4(**!!1!**) Spiele aus
 
 **Verkaufen**  
 8 Wyrdstones (100)  
- => 101GC
+1 Short Bow (3)  
+ => 104GC
 
 **Einkaufen**  
-4x Orc Boyz (100)  
-=> 100GC also 1GC angespart. 
+2x Orc Boyz (50)  
+2x Crossbow (50)  
+1x Mace (3)  
+=> 103GC also 1GC angespart. 
 
 **Umequipen**  
-Der Boss gibt seinen Dagger an einen Boy und seinen Bogen an den neuen Boss. Dann geht er entspannt 4 Runden chillen. Must be nice...  
-Das Cannon Foddr wird entwaffnet und gibt seine zusätzlichen Dagger den neuen Boyz. Sucks to be a goblin, I guess.  
+Der Boss gibt seinen Dagger an einen Boy und seinen Bogen an den anderen. Dann geht er entspannt 4 Runden chillen. Must be nice...  
+Der Zappa wird für seine herausragenden Dienste mit einer Mace belohnt.  
 
 **Gedanken**  
 Goblins sind Meatshilds. Das scheine ich noch nicht wirklich begriffen zu haben. Sonst hätte ich nicht so dusslig positioniert, dass mein Boss mal wieder ordentlich auf die Rübe bekommt.   
@@ -83,12 +86,13 @@ Klar, S3 vs T4 Shooting, muss nicht immer critten. Kann aber halt und ich habe e
 Naja, Strafe muss sein und jetzt muss ich volle vier Spiele lang ohne Leader auskommen. Bitter. Ansonsten ist das Spiel ziemlich ideal gelaufen. Philipp und Aaron haben defensiv gespielt, so dass ich sehr aktiv auf der Feld werden konnte. Laber saß mir gegenüber, so dass er auch keine große Bedrohung war.   
 Ich habe wirklich gut gewürfelt und auch wenn an ein paar wichtigen Stellen die Animosity zugeschlagen hat, war sie alles in allem sehr zahm.   
 Kein Leader bedeutet aber schon viele Schlechtes: Schwächere Exploration, schlimmere Animosity in Game, weniger Rare Items und ich brauche gar nicht versuchen einen Troll aufs Feld zu stellen.  
-Aber das sind alles Future Stefans Probleme. Jetzt habe ich erstmal die 20 Mann voll gemacht und dann sehen wir weiter. 
+Aber das sind alles Future Stefans Probleme. Jetzt habe ich erstmal die 2 Mann mehr und besseres Shooting und dann sehen wir weiter. 
 
 **Warband**  
-**Da Boss Brute**: 2x Dagger, Bow  
-**Zapper**: Dagger    
-**Da Fist**: 2x Dagger   
-**7 Orc Boyz**: 2x Dagger  
-**3 Sacrificial Goblins**: Dagger  
-**7 Bowlins**: 2x Dagger, Short Bow  
+**Da Boss Brute**: 2x Dagger, Crossbow  
+**Zapper**: Mace, Dagger    
+**Da Fist**: 2x Dagger, Crossbow  
+**4 Orc Boyz**: 2x Dagger  
+**1 Borc**: Dagger, Bow  
+**4 Sacrificial Goblins**: 2x Dagger  
+**6 Bowlins**: 2x Dagger, Short Bow  
