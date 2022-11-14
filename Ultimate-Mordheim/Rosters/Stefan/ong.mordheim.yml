@@ -8,39 +8,45 @@ alignment: ""
 heros:
   - hero: Zappa (Orc Shaman) [13XP]
     stats: M4, WS3, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
-    weapons: Dagger
+    weapons: Mace, Dagger
     armour:
     rules: Wizard (Zzap!), Resilient 
     skilllists: Strength, Special
 
   - hero: Da Fist (Big 'Un) [19XP]
     stats: M4, WS4, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
-    weapons: Dagger, Dagger
+    weapons: Dagger, Dagger, Crossbow
     armour:
-    rules: Resilient
+    rules: Nimble
     skilllists: Strength, Shooting, Combat, Special
 
   - hero: Da Brute (Big 'Un) [19XP]
     stats: M4, WS4, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
-    weapons: Dagger, Dagger, Bow
+    weapons: Dagger, Dagger, Crossbow
     armour:
-    rules: Leader (T-4), Resilient
+    rules: Leader (T-4), Nimble
     skilllists: Strength, Shooting, Combat, Special
 
 henchmen:
-  - group: Da Waaagh (7 Orc Boy) [0XP]
+  - group: Da Waaagh (4 Orc Boy) [0XP]
     stats: M4, WS3, BS3, S3, T4, W1, I2, A1, Ld7, Sv-
     weapons: Dagger, Dagger
     armour:
     rules: Animosity
 
-  - group: Da Green Tide (7 Goblin Warrior) [0XP]
+  - group: Da Sniperz (1 Orc Boy) [0XP]
+    stats: M4, WS3, BS3, S3, T4, W1, I2, A1, Ld7, Sv-
+    weapons: Dagger, Bow
+    armour:
+    rules: Animosity
+
+  - group: Da Green Tide (6 Goblin Warrior) [0XP]
     stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld5, Sv-
     weapons: Short Bow, Dagger, Dagger
     armour:
     rules: Animosity, Not Orcs
 
-  - group: Da Cannon Foddr (3 Goblin Warrior) [0XP]
+  - group: Da Cannon Foddr (4 Goblin Warrior) [0XP]
     stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld5, Sv-
     weapons: Dagger
     armour:
