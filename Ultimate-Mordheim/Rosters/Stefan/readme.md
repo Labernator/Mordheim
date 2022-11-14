@@ -85,6 +85,7 @@ Goblins sind Meatshilds. Das scheine ich noch nicht wirklich begriffen zu haben.
 Klar, S3 vs T4 Shooting, muss nicht immer critten. Kann aber halt und ich habe es echt schlecht gestellt. Aber immerhin hat der Goblins statt dessen überlebt.   
 Naja, Strafe muss sein und jetzt muss ich volle vier Spiele lang ohne Leader auskommen. Bitter. Ansonsten ist das Spiel ziemlich ideal gelaufen. Philipp und Aaron haben defensiv gespielt, so dass ich sehr aktiv auf der Feld werden konnte. Laber saß mir gegenüber, so dass er auch keine große Bedrohung war.   
 Ich habe wirklich gut gewürfelt und auch wenn an ein paar wichtigen Stellen die Animosity zugeschlagen hat, war sie alles in allem sehr zahm.   
+Ansonsten konnte ich die Bowlins und den Zapper gut in Position bringen und die beiden Big 'Uns Wyrdstones farmen lassen. Mission accomplished zumindest an der Stelle.   
 Kein Leader bedeutet aber schon viele Schlechtes: Schwächere Exploration, schlimmere Animosity in Game, weniger Rare Items und ich brauche gar nicht versuchen einen Troll aufs Feld zu stellen.  
 Aber das sind alles Future Stefans Probleme. Jetzt habe ich erstmal die 2 Mann mehr und besseres Shooting und dann sehen wir weiter. 
 
