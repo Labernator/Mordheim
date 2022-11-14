@@ -48,7 +48,7 @@ henchmen:
 
   - group: Da Cannon Foddr (4 Goblin Warrior) [0XP]
     stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld5, Sv-
-    weapons: Dagger
+    weapons: Dagger, Dagger
     armour:
     rules: Animosity, Not Orcs
 
