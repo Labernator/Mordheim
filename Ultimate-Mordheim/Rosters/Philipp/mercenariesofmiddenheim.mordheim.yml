@@ -1,21 +1,21 @@
 warband: Stormcrows (Mercenaries of Middenheim)
 campaign: 0
-gc: 23
-shards: 0
+gc: 1
+shards: 1
 objective: ""
 alignment: ""
 
 heros:
     - hero: Daario Naharis (Mercenary Captain) [20XP]
       stats: M4, WS4, BS4, S4, T3, W1, I4, A1, Ld8, Sv-
-      weapons: Halberd
+      weapons: Halberd, Bow
       armour:
       rules: Leader
       skilllists: Strength, Shooting, Academic, Combat, Speed
-
+#Hasenpfote
     - hero: Sallor the Bald (Champion) [8XP]
       stats: M4, WS4, BS3, S4, T3, W1, I3, A1, Ld7, Sv-
-      weapons: Halberd
+      weapons: Halberd, Bow
       armour:
       rules:
       skilllists: Combat, Strength, Speed
@@ -34,7 +34,7 @@ heros:
       rules:
       skilllists: Combat, Strength, Speed
 
-    - hero: Jokin (Youngblood) [0XP]
+    - hero: Jokin the 2nd (Youngblood) [0XP]
       stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld6, Sv-
       weapons: Mace, Mace
       armour:
@@ -48,7 +48,7 @@ henchmen:
       armour:
       rules:
 
-    - group: The Brave Men (4 Warrior) [0XP]
+    - group: The Brave Men (5 Warrior) [0XP]
       stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
       weapons: Hammer, Hammer
       armour:
