@@ -1,7 +1,7 @@
 ## Overview
 
 | Warband               | # Wyrdstones (curr) | Gold |  # Wyrdstones (total) | Gold(total)
-|-----------------------|:-----:|-----------:|:-----:|-----------:|
+|-----------------------|:-----:|:-----------:|:-----:|:-----------:|
 | Stefan (OnG)          |  0 | 1 | 8 | 104
 | Marius (Carnival)     |  0 | 23 | 5 | 93
 | Philipp (Middenheim)  |  1 | 1 | 4 | 11
