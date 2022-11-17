@@ -11,9 +11,15 @@
 
 ### Injuries
 Marius: 1 Nurgling + 1 Brethren sterben. Diphthodis gains Hatred (OnG)
+
 Stefan: Boss Mang Multiple Injuries: Blinded (-1 BS), Skips next 4! games, gains +1XP
+
 Philipp: 1 Youngblood stirbt
+
 Aaron: 1 Novice stirbt
+
+### XP and Advances
+Stefan: 
 
 ### Exploration and Loot
 Stefan: 8 shards + 1GC
