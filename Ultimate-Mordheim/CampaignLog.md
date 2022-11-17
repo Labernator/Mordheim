@@ -1,6 +1,6 @@
 ## Overview
 
-| Warband               | # Wyrdstones (curr) | Gold |  # Wyrdstones (total) | Gold(total)
+| Warband               | # Wyrdstones (current) | Gold (current) |  # Wyrdstones (total) | Gold(total)
 |-----------------------|:-----:|:-----------:|:-----:|:-----------:|
 | Stefan (OnG)          |  0 | 1 | 8 | 104
 | Marius (Carnival)     |  0 | 23 | 5 | 93
