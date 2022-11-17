@@ -19,12 +19,42 @@ Philipp: 1 Youngblood stirbt
 Aaron: 1 Novice stirbt
 
 ### XP and Advances
-Stefan: 
+Stefan:
+
+Boss Maan 3xp
+
+Zappa 3xp => Resilient 
+
+Fist 4xp => Nimble
+
+Brute 4xp => Nimble
+ 
+Marius:
+Rancius 2xp
+
+Pestis 2xp
+
+Choleris 2xp
+
+Typhodis 3xp => +1W
+
+Diphtodis 3xp => Dodge
+
+Philipp:
+
+Alle +1 XP
+Aaron:
+
+???
+
 
 ### Exploration and Loot
 Stefan: 8 shards + 1GC
+
 Marius: 5 shards
+
 Aaron: 5 shards + 4GC 
+
 Philipp: 4 shards
 
 ### Trading
