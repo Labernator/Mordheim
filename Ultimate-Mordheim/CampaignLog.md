@@ -19,7 +19,7 @@ Philipp: 1 Youngblood stirbt
 Aaron: 1 Novice stirbt
 
 ### XP and Advances
-Stefan:
+#### Stefan:
 
 Boss Maan 3xp
 
@@ -29,7 +29,8 @@ Fist 4xp => Nimble
 
 Brute 4xp => Nimble
  
-Marius:
+####Marius:
+
 Rancius 2xp
 
 Pestis 2xp
@@ -40,10 +41,10 @@ Typhodis 3xp => +1W
 
 Diphtodis 3xp => Dodge
 
-Philipp:
+#### Philipp:
 
 Alle +1 XP
-Aaron:
+#### Aaron:
 
 ???
 
@@ -76,3 +77,7 @@ Philipp:
 3 shards für 60 + 23 treasury=> 83
 #### kaufen
 1x Youngblood mit 2 Maces (21), 1x Warrior mit 2 Hammers (31), 2x Bows (20) => 72
+
+Aaron:
+
+????
