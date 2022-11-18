@@ -2,9 +2,9 @@
 
 | Warband               | # Wyrdstones (current) | Gold (current) |  # Wyrdstones (total) | Gold(total) | XP
 |-----------------------|:-----:|:-----------:|:-----:|:-----------:|:---:|
-| Stefan (OnG)          |  0 | 1 | 8 | 104 | 14
-| Marius (Carnival)     |  0 | 23 | 5 | 93 | 12
-| Philipp (Middenheim)  |  1 | 1 | 4 | 11 | 5
+| Stefan (OnG)          |  0 | 1 | 8 | 101 | 14
+| Marius (Carnival)     |  0 | 23 | 5 | 90 | 12
+| Philipp (Middenheim)  |  1 | 1 | 4 | 60 | 5
 | Aaron (Sisters)       |  5 | 8 | 5 | 8 | 6
 
 ## Post game sequence Game 1
@@ -83,7 +83,7 @@ Philipp:
 #### verkaufen
 3 shards für 60 + 23 treasury=> 83
 #### kaufen
-1x Youngblood mit 2 Maces (21), 1x Warrior mit 2 Hammers (31), 2x Bows (20) => 72, 1x Rabbit Foot
+1x Youngblood mit 2 Maces (21), 1x Warrior mit 2 Hammers (31), 2x Bows (20), 1x Rabbit Foot => 82
 
 Aaron:
 
