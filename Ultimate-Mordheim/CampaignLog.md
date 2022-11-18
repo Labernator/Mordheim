@@ -1,11 +1,11 @@
 ## Overview
 
-| Warband               | # Wyrdstones (current) | Gold (current) |  # Wyrdstones (total) | Gold(total)
-|-----------------------|:-----:|:-----------:|:-----:|:-----------:|
-| Stefan (OnG)          |  0 | 1 | 8 | 104
-| Marius (Carnival)     |  0 | 23 | 5 | 93
-| Philipp (Middenheim)  |  1 | 1 | 4 | 11
-| Aaron (Sisters)       |  5 | 8 | 5 | 8
+| Warband               | # Wyrdstones (current) | Gold (current) |  # Wyrdstones (total) | Gold(total) | XP
+|-----------------------|:-----:|:-----------:|:-----:|:-----------:|:---:|
+| Stefan (OnG)          |  0 | 1 | 8 | 104 | 14
+| Marius (Carnival)     |  0 | 23 | 5 | 93 | 12
+| Philipp (Middenheim)  |  1 | 1 | 4 | 11 | 5
+| Aaron (Sisters)       |  5 | 8 | 5 | 8 | 6
 
 ## Post game sequence Game 1
 
@@ -44,9 +44,13 @@ Diphtodis 3xp => Dodge
 #### Philipp:
 
 Daario Naharis 2xp
+
 Sallor the Bald 1xp
+
 Prendahl na Ghezn 1xp
+
 Widower 1xp
+
 #### Aaron:
 
 ???
