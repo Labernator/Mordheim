@@ -43,7 +43,7 @@ Diphtodis 3xp => Dodge
 
 #### Philipp:
 
-Alle +1 XP
+Alle +1 XP außer Captain, + 2 XP
 #### Aaron:
 
 ???
@@ -76,7 +76,7 @@ Philipp:
 #### verkaufen
 3 shards für 60 + 23 treasury=> 83
 #### kaufen
-1x Youngblood mit 2 Maces (21), 1x Warrior mit 2 Hammers (31), 2x Bows (20) => 72
+1x Youngblood mit 2 Maces (21), 1x Warrior mit 2 Hammers (31), 2x Bows (20) => 72, 1x Rabbit Foot
 
 Aaron:
 
