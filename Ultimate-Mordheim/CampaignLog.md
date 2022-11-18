@@ -64,9 +64,9 @@ Philipp: 4 shards
 ### Trading
 
 Stefan: 
-#### verkaufen
+- #### verkaufen
 8 shards für 100 + 1 bow für 3 + 1 treasury => 104
-#### kaufen
+- #### kaufen
 2x Orc Boyz (50), 2x Crossbow (50), 1x Mace (3) => 103
 
 Marius: 
