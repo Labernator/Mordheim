@@ -43,7 +43,10 @@ Diphtodis 3xp => Dodge
 
 #### Philipp:
 
-Alle +1 XP außer Captain, + 2 XP
+Daario Naharis 2xp
+Sallor the Bald 1xp
+Prendahl na Ghezn 1xp
+Widower 1xp
 #### Aaron:
 
 ???
