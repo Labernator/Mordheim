@@ -77,7 +77,7 @@ Marius:
 #### verkaufen
 5 shards für 90 + 3 treasury=> 93
 #### kaufen
-2x Rabbits Foot (20), 1x Unholy Relic (23), 1x Brethren (27) => 70
+1x Rabbits Foot (10), 1x Unholy Relic (23), 4x Nurgling (60) => 93
 
 Philipp: 
 #### verkaufen
