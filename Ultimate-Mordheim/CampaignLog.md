@@ -1,11 +1,11 @@
 ## Overview
 
-| Warband               | # Wyrdstones (current) | Gold (current) |  # Wyrdstones (total) | Gold(total) | XP
-|-----------------------|:-----:|:-----------:|:-----:|:-----------:|:---:|
-| Stefan (OnG)          |  0 | 1 | 8 | 101 | 14
-| Marius (Carnival)     |  0 | 23 | 5 | 90 | 12
-| Philipp (Middenheim)  |  1 | 1 | 4 | 60 | 5
-| Aaron (Sisters)       |  5 | 8 | 5 | 8 | 6
+| Warband               | Size | # Wyrdstones (current) | Gold (current) |  # Wyrdstones (total) | Gold(total) | XP
+|-----------------------|:---:|:-----:|:-----------:|:-----:|:-----------:|:---:|
+| Stefan (OnG)          | 18/20 | 0 | 1 | 8 | 101 | 14
+| Marius (Carnival)     | 13/15 | 0 | 0 | 5 | 90 | 12
+| Philipp (Middenheim)  | 13/15 | 1 | 1 | 4 | 60 | 5
+| 
 
 ## Post game sequence Game 1
 
