@@ -2,7 +2,7 @@ warband: Stormcrows (Mercenaries of Middenheim)
 campaign: 0
 gc: 1
 shards: 1
-equipment: rabbit foot
+equipment: 
 objective: ""
 alignment: ""
 
@@ -10,7 +10,7 @@ heros:
     - hero: Daario Naharis (Mercenary Captain) [20XP]
       stats: M4, WS4, BS4, S4, T3, W1, I4, A1, Ld8, Sv-
       weapons: Halberd, Bow
-      armour:
+      armour: Rabbits Foot
       rules: Leader
       skilllists: Strength, Shooting, Academic, Combat, Speed
 #Hasenpfote
