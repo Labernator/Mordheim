@@ -97,3 +97,45 @@ Aber das sind alles Future Stefans Probleme. Jetzt habe ich erstmal die 2 Mann m
 **1 Borc**: Dagger, Bow  
 **4 Sacrificial Goblins**: 2x Dagger  
 **6 Bowlins**: 2x Dagger, Short Bow  
+
+## 10.12.22 The Great Library 
+
+**Injuries**  
+keine
+
+**XP**  
+ - Zappa: 4 (Kill, Survival, Buch, Buch lesen) **Skills: Pit Fighter & Fearsome**  
+ - Da Fist: 2 (Buch, Survival) **+1A**   
+ - Da Brute: 4 (Buch, Leader with most books, Survival) **+1I**
+
+**Szenario Loot**  
+3 Bücher: Zapper liest alle => +1XP, Academic Skill: Mind Focus, setzt ein Spiel aus. Der nimmt sich ein Beispiel an seinem Leader. Feige Orks! 
+
+**Exploration**  
+2 Wyrdstones  
+
+**Verkaufen**  
+2 Wyrdstones (35)  
+ => 35GC + 1 aus der Kasse => 36
+
+**Einkaufen**  
+3x RAbbits Foot (30)  
+=> 30GC also 6GC angespart. 
+
+**Umequipen**  
+Der Zappa hatte nicht viel Spaß mit seiner Mace und gibt sie weiter an da Fist. Der gibt seinen Dolch an den Bowc und der legt seinen Bogen in die Truhe. Muss er, weil ja Zappa im nächsten Spiel aussetzt und ich sonst zu viel Shooting hätte.
+
+**Gedanken**  
+Das war irgendwie maximal unbeeidruckend. Als erstes bremsen die random Happenings Philipp stark aus und ich kann schnell drei Bücher holen. Dann gerate ich mit Laber aneinander und Philipp anipert mit tötlicher Präzision meine Orks weg. 5+ to hit. 5+ to wound. 5+ to kill. Zwei Mal hintereinander. Mordheim halt.  
+Ich und Marius geben es uns dreckig und wärend ich hitte wie ein junger Gott schaffe ich es nicht eine einzige 5+ bei den Injuries zu legen und so stirbt bei mir deutlich mehr als bei Laber. Der ist allerdings auch nicht wirklich vom Glück gesegnt, weil bei einem charge Versuch auf meinen Zapper die Wand hoch von seinen drei Jungs keiner ankommt und zwei direkt sterben. Auch das. Mordheim.  
+Inzwischen steht Philipp in guter Schussposition schön kompakt und Laber und ich müssen rout tests machen. Laber steht den ersten mit seinem Relic. Ich faile  meinen direkt. Hätte noch 3 am Boden liegende Typen von Laber mitnehmen und XP farmen können. HAbe ich aber nicht. Dann failed Laber. Er hätte mit seinen am Boden liegenden Typen aufstehen und die Bücher wegtragen können. Hat er aber nicht.  
+Die Postgame Sequence ist super lucky für mich, weil von meinen sechs toten Typen keiner wirklich stirbt. Better lucky than good. Ich finde noch zwei Hasenpfoten und darf im nächsten Spiel mit nur 2 Helden ran. How low can you go. In der Postgame Sequnce erwürfelt Philipp mit 6 Würfeln und zwei Rerolls nur drei Shards und zwei Gold und einer von seinen Helden muss auch azussetzen. Mordheim halt...
+
+Gold verloren durch meinen abwesenden Leader: 1 WYrdstone (verkauft für 15 GC) und eine Light Armour. Geil.
+
+**Warband**  
+**Da Boss Brute**: 2x Dagger, Crossbow  
+**Da Fist**: 2x Dagger, Crossbow  
+**5 Orc Boyz**: 2x Dagger  
+**4 Sacrificial Goblins**: 2x Dagger  
+**6 Bowlins**: 2x Dagger, Short Bow  
