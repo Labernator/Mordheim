@@ -1,42 +1,29 @@
 warband: Uruk-Hai (Orcs & Goblins)
 campaign: 0
-gc: 1
+gc: 6
 shards: 0
 objective: ""
 alignment: ""
 
 heros:
-  - hero: Zappa (Orc Shaman) [13XP]
-    stats: M4, WS3, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
-    weapons: Mace, Dagger
-    armour:
-    rules: Wizard (Zzap!), Resilient 
-    skilllists: Strength, Special
-
-  - hero: Da Fist (Big 'Un) [19XP]
-    stats: M4, WS4, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
-    weapons: Dagger, Dagger, Crossbow
-    armour:
+  - hero: Da Fist (Big 'Un) [21XP]
+    stats: M4, WS4, BS3, S3, T4, W1, I3, A2, Ld7, Sv-
+    weapons: Mace, Dagger, Crossbow
+    armour: Rabbits Foot  
     rules: Nimble
     skilllists: Strength, Shooting, Combat, Special
 
-  - hero: Da Brute (Big 'Un) [19XP]
-    stats: M4, WS4, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
+  - hero: Da Brute (Big 'Un) [22XP]
+    stats: M4, WS4, BS3, S3, T4, W1, I4, A1, Ld7, Sv-
     weapons: Dagger, Dagger, Crossbow
-    armour:
-    rules: Leader (T-4), Nimble
+    armour: Rabbits Foot
+    rules: Leader (T-3), Nimble
     skilllists: Strength, Shooting, Combat, Special
 
 henchmen:
-  - group: Da Waaagh (4 Orc Boy) [0XP]
+  - group: Da Waaagh (5 Orc Boy) [0XP]
     stats: M4, WS3, BS3, S3, T4, W1, I2, A1, Ld7, Sv-
     weapons: Dagger, Dagger
-    armour:
-    rules: Animosity
-
-  - group: Da Sniperz (1 Orc Boy) [0XP]
-    stats: M4, WS3, BS3, S3, T4, W1, I2, A1, Ld7, Sv-
-    weapons: Dagger, Bow
     armour:
     rules: Animosity
 
@@ -53,9 +40,16 @@ henchmen:
     rules: Animosity, Not Orcs
 
 notes:
-  - hero: Boss Maan (returns in T-4) (Orc Boss) [23XP]
+  - hero: Boss Maan (returns in T-3) (Orc Boss) [23XP]
     stats: M4, WS4, BS3, S4, T4, W1, I3, A1, Ld8, Sv-
     weapons: Dagger
     armour:
     rules: Leader
     skilllists: Strength, Shooting, Speed, Combat, Special
+
+hero: Zappa (returns in T-1) (Orc Shaman) [17XP]
+    stats: M4, WS3, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
+    weapons: Dagger
+    armour: Rabbits Foot
+    rules: Wizard (Zzap!), Resilient, Mind Focus Mighty Blow, Fearsome
+    skilllists: Strength, Special
