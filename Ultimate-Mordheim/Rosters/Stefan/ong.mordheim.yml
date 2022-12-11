@@ -47,7 +47,7 @@ notes:
     rules: Leader
     skilllists: Strength, Shooting, Speed, Combat, Special
 
-hero: Zappa (returns in T-1) (Orc Shaman) [17XP]
+  - hero: Zappa (returns in T-1) (Orc Shaman) [17XP]
     stats: M4, WS3, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
     weapons: Dagger
     armour: Rabbits Foot
