@@ -130,6 +130,7 @@ Jokin the 2nd +2XP => +1T & Setzt nächstes Spiel aus
 3 shards + 2 gc
 
 ### Trading
+#### verkaufen
 
 #### Stefan: 
 ###### verkaufen
@@ -156,11 +157,12 @@ Short Bow für 5 gc
 
 #### Philipp: 
 ###### verkaufen
-3 Shards für 60 gc + 3 aus der Bank 
-
-=> 63 gc
+3 Shards für 60 gc + 3 aus der Bank + 2 gefunden
+=> 65 gc
 
 ###### kaufen
-
-???
+1 x Worrior für 25 Gc (erhält Waffen von Young Blood welches 2 Swords erhält)
+2 x Sword 20 Gc
+2 x Rabbit Foot 10 Gc
+=> 0 Gc
 
