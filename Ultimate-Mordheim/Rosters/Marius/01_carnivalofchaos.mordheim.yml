@@ -17,7 +17,7 @@ heros:
       stats: M4, WS4, BS0, S4, T4, W1, I2, A2, Ld7, Sv-
       weapons:
       armour:
-      rules: No Need for Weapons
+      rules: No Need for Weapons, Hatred (OnG)
       skilllists: Strength, Academic, Combat, Speed, Special
 
     - hero: Choleris (Brute) [10XP]
