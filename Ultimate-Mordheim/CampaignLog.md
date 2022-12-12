@@ -4,7 +4,7 @@
 |-----------------------|:---:|:-----:|:-----------:|:-----:|:-----------:|:---:|
 | Stefan (OnG)          | 17/20 | 0 | 1 | 10 | 131 | 23
 | Marius (Carnival)     | 11/15 | 1 | 0 | 9 | 150 | 22
-| Philipp (Middenheim)  | 12/15 | 4 | 3 | 7 | 60 | 5
+| Philipp (Middenheim)  | 12/15 | 1 | 63 | 7 | 122 | 15
 | 
 
 ## Post game sequence Game 1
@@ -27,7 +27,7 @@ Fist 4xp => Nimble
 
 Brute 4xp => Nimble
  
-####Marius:
+#### Marius:
 
 Rancius 2xp
 
@@ -108,14 +108,15 @@ Diphtodis 2xp => Expert Swordsman
 
 #### Philipp:
 
-Daario Naharis 
+Daario Naharis +5XP => +1 Initiative & + 1 Attack
 
-Sallor the Bald 
+Sallor the Bald +1XP
 
-Prendahl na Ghezn 
+Prendahl na Ghezn +1XP
 
-Widower
+Widower +1XP => Mighty Blow? oder doch was anderes
 
+Jokin the 2nd +2XP => +1T & Setzt nächstes Spiel aus
 
 ### Exploration and Loot
 
@@ -155,8 +156,11 @@ Short Bow für 5 gc
 
 #### Philipp: 
 ###### verkaufen
+3 Shards für 60 gc + 3 aus der Bank 
+
+=> 63 gc
 
 ###### kaufen
 
-
+???
 
