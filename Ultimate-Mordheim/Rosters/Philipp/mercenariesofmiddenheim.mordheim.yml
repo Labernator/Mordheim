@@ -1,6 +1,6 @@
 warband: Stormcrows (Mercenaries of Middenheim)
 campaign: 0
-gc: 63
+gc: 8 
 shards: 1
 equipment: 
 objective: ""
@@ -17,7 +17,7 @@ heros:
     - hero: Sallor the Bald (Champion) [10XP]
       stats: M4, WS4, BS3, S4, T3, W1, I3, A1, Ld7, Sv-
       weapons: Halberd, Bow
-      armour:
+      armour: Rabbits Foot
       rules:
       skilllists: Combat, Strength, Speed
 
@@ -30,9 +30,9 @@ heros:
 
     - hero: Widower (Youngblood) [2XP]
       stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld6, Sv-
-      weapons: Mace, Mace
+      weapons: Sword, Sword
       armour:
-      rules: Mighty Blow
+      rules: Pit Fighter
       skilllists: Combat, Strength, Speed
 
 henchmen:
@@ -42,7 +42,7 @@ henchmen:
       armour:
       rules:
 
-    - group: The Brave Men (4 Warrior) [0XP]
+    - group: The Brave Men (5 Warrior) [0XP]
       stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
       weapons: Hammer, Hammer
       armour:
