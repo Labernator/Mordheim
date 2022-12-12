@@ -151,7 +151,7 @@ Bow für 10 gc
 Short Bow für 5 gc
 2 Hammer für 6gc
 
-=> 62 gc
+=> 0 gc
 
 #### Philipp: 
 ###### verkaufen
