@@ -1,45 +1,38 @@
 warband: Stormcrows (Mercenaries of Middenheim)
 campaign: 0
-gc: 1
+gc: 63
 shards: 1
 equipment: 
 objective: ""
 alignment: ""
 
 heros:
-    - hero: Daario Naharis (Mercenary Captain) [20XP]
-      stats: M4, WS4, BS4, S4, T3, W1, I4, A1, Ld8, Sv-
+    - hero: Daario Naharis (Mercenary Captain) [27XP]
+      stats: M4, WS4, BS4, S4, T3, W1, I5, A2, Ld8, Sv-
       weapons: Halberd, Bow
       armour: Rabbits Foot
       rules: Leader
       skilllists: Strength, Shooting, Academic, Combat, Speed
-#Hasenpfote
-    - hero: Sallor the Bald (Champion) [8XP]
+
+    - hero: Sallor the Bald (Champion) [10XP]
       stats: M4, WS4, BS3, S4, T3, W1, I3, A1, Ld7, Sv-
       weapons: Halberd, Bow
       armour:
       rules:
       skilllists: Combat, Strength, Speed
 
-    - hero: Prendahl na Ghezn (Champion) [8XP]
+    - hero: Prendahl na Ghezn (Champion) [10XP]
       stats: M4, WS4, BS3, S4, T3, W1, I3, A1, Ld7, Sv-
       weapons: Halberd
       armour:
       rules:
       skilllists: Combat, Strength, Speed
 
-    - hero: Widower (Youngblood) [0XP]
+    - hero: Widower (Youngblood) [2XP]
       stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld6, Sv-
       weapons: Mace, Mace
       armour:
-      rules:
-      skilllists: Combat, Strength, Speed
-
-    - hero: Jokin the 2nd (Youngblood) [0XP]
-      stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld6, Sv-
-      weapons: Mace, Mace
-      armour:
-      rules:
+      rules: Mighty Blow
       skilllists: Combat, Strength, Speed
 
 henchmen:
@@ -49,10 +42,16 @@ henchmen:
       armour:
       rules:
 
-    - group: The Brave Men (5 Warrior) [0XP]
+    - group: The Brave Men (4 Warrior) [0XP]
       stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
       weapons: Hammer, Hammer
       armour:
       rules:
-
-
+      
+notes: 
+    - hero: Jokin the 2nd (returns in T-1) (Youngblood) [2XP]
+      stats: M4, WS2, BS2, S3, T4, W1, I3, A1, Ld6, Sv-
+      weapons: Mace, Mace
+      armour:
+      rules:
+      skilllists: Combat, Strength, Speed
