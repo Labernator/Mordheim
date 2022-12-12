@@ -23,13 +23,9 @@ Diejenige Warband, die zuerst 20 Wyrdstone Shards gespart hat (nicht ausgegeben!
 Marius hat das niedrigste Warband Rating und entscheidet, dass wir von Norden in die Stadt einfallen.
 
 #### Runde 1: River Gate
+#### Runde 2: The Great Library 
 
 ## Spieler
-
-Wir spielen leider wieder nur zu 3.
-Ich habe Hoffnung, dass es sich bald ändert und wir einen 4. apokalyptischen Reiter finden :)
-
-[Aaron](https://github.com/Labernator/Mordheim/tree/master/Ultimate-Mordheim/Rosters/Aaron)
 
 [Marius](https://github.com/Labernator/Mordheim/tree/master/Ultimate-Mordheim/Rosters/Marius)
 
@@ -79,6 +75,8 @@ Ich habe Hoffnung, dass es sich bald ändert und wir einen 4. apokalyptischen Re
 #### MAGA (Make Armour great again)
 > On the critical hit chart we replace all instances of "no armour saves allowed" with "the enemy armour save is modified by -2."
 
-
 #### Climbing
 > Replace the second paragraph with this: \nAny model (except animals!) can climb up or down fences, walls, etc.\nHe must be touching what he wants to climb. He may climb up to his total Movement in a single movement phase.\nAny remaining movement can be used as normal.\nIf the height is more than the model’s normal move, he cannot climb the wall.
+
+#### Unclaimed loot
+> When all other players have routed, the remaining player gains an additional movement phase in which he might claim any loot on the table. All unclaimed loot after that phase is lost.
