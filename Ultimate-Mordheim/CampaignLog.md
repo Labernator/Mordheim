@@ -138,11 +138,20 @@ Widower
 
 #### Marius: 
 ###### verkaufen
+
 3 Shards für 60
+2 Dolche von den Brethren für 2 gc
+
+=> 62 gc
 ###### kaufen
+
 Mordheim Map (6) für 31 gc
 Schwert für 10 gc
+Bow für 10 gc
+Short Bow für 5 gc
+2 Hammer für 6gc
 
+=> 62 gc
 
 #### Philipp: 
 ###### verkaufen
