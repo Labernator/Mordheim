@@ -2,9 +2,9 @@
 
 | Warband               | Size | # Wyrdstones (current) | Gold (current) |  # Wyrdstones (total) | Gold(total) | XP
 |-----------------------|:---:|:-----:|:-----------:|:-----:|:-----------:|:---:|
-| Stefan (OnG)          | 18/20 | 0 | 1 | 8 | 101 | 14
-| Marius (Carnival)     | 13/15 | 0 | 0 | 5 | 90 | 12
-| Philipp (Middenheim)  | 13/15 | 1 | 1 | 4 | 60 | 5
+| Stefan (OnG)          | 17/20 | 0 | 1 | 10 | 131 | 23
+| Marius (Carnival)     | 11/15 | 1 | 0 | 9 | 150 | 22
+| Philipp (Middenheim)  | 12/15 | 4 | 3 | 7 | 60 | 5
 | 
 
 ## Post game sequence Game 1
@@ -15,8 +15,6 @@ Marius: 1 Nurgling + 1 Brethren sterben. Diphthodis gains Hatred (OnG)
 Stefan: Boss Mang Multiple Injuries: Blinded (-1 BS), Skips next 4! games, gains +1XP
 
 Philipp: 1 Youngblood stirbt
-
-Aaron: 1 Novice stirbt
 
 ### XP and Advances
 #### Stefan:
@@ -51,17 +49,10 @@ Prendahl na Ghezn 1xp
 
 Widower 1xp
 
-#### Aaron:
-
-???
-
-
 ### Exploration and Loot
 Stefan: 8 shards + 1GC
 
 Marius: 5 shards
-
-Aaron: 5 shards + 4GC 
 
 Philipp: 4 shards
 
@@ -85,6 +76,78 @@ Philipp:
 #### kaufen
 1x Youngblood mit 2 Maces (21), 1x Warrior mit 2 Hammers (31), 2x Bows (20), 1x Rabbit Foot => 82
 
-Aaron:
+## Post game sequence Game 2
 
-????
+### Injuries
+Marius: 2 Nurglinge sterben
+
+Stefan: 6 out of action. KEINE injuries
+
+Philipp: 1 Warrior stirbt. 1 Held setzt aus
+
+### XP and Advances
+#### Stefan:
+
+Zappa 4xp => Pit Fighter, Fearsome & Mind Focus. Setzt das nächste Spiel aus
+
+Fist 2xp => +1 Attack
+
+Brute 3xp => +1 Initiative
+ 
+####Marius:
+
+Rancius 4xp => Mind Focus & -1 casting cost für Stench of Nurgle
+
+Pestis 1xp => Dodge
+
+Choleris 2xp => +1WS
+
+Typhodis 1xp => +1T
+
+Diphtodis 2xp => Expert Swordsman
+
+#### Philipp:
+
+Daario Naharis 
+
+Sallor the Bald 
+
+Prendahl na Ghezn 
+
+Widower
+
+
+### Exploration and Loot
+
+#### Stefan: 
+2 shards
+
+#### Marius: 
+4 shards + 1 Sword
+
+#### Philipp: 
+3 shards + 2 gc
+
+### Trading
+
+#### Stefan: 
+###### verkaufen
+2 shards für 35 + 1 treasury => 36
+###### kaufen
+3x Rabbits foot (30gc) => 6
+
+#### Marius: 
+###### verkaufen
+3 Shards für 60
+###### kaufen
+Mordheim Map (6) für 31 gc
+Schwert für 10 gc
+
+
+#### Philipp: 
+###### verkaufen
+
+###### kaufen
+
+
+
