@@ -5,7 +5,7 @@
 | Stefan (OnG)          | 17/20 | 0 | 6 | 10 | 131 | 23
 | Marius (Carnival)     | 11/15 | 1 | 0 | 9 | 150 | 22
 | Philipp (Middenheim)  | 13/15 | 1 | 8 | 7 | 122 | 15
-| 
+
 
 ## Post game sequence Game 1
 
