@@ -142,15 +142,20 @@ Jokin the 2nd +2XP => +1T & Setzt nächstes Spiel aus
 ###### verkaufen
 
 3 Shards für 60
+
 2 Dolche von den Brethren für 2 gc
 
 => 62 gc
 ###### kaufen
 
 Mordheim Map (6) für 31 gc
+
 Schwert für 10 gc
+
 Bow für 10 gc
+
 Short Bow für 5 gc
+
 2 Hammer für 6gc
 
 => 0 gc
@@ -162,7 +167,9 @@ Short Bow für 5 gc
 
 ###### kaufen
 1 x Warrior für 25 Gc (erhält Waffen von Young Blood welches 2 Swords erhält)
+
 2 x Sword 20 Gc
+
 1 x Rabbits foot 10gc
 
 => 8 Gc
