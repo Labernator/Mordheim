@@ -10,7 +10,7 @@
 ## Post game sequence Game 1
 
 ### Injuries
-Marius: 1 Nurgling + 1 Brethren sterben. Diphthodis gains Hatred (OnG)
+Marius: 1 Nurgling + 1 Brethren sterben. Pestis gains Hatred (OnG)
 
 Stefan: Boss Mang Multiple Injuries: Blinded (-1 BS), Skips next 4! games, gains +1XP
 
