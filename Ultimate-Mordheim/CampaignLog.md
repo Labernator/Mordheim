@@ -163,6 +163,7 @@ Short Bow für 5 gc
 ###### kaufen
 1 x Warrior für 25 Gc (erhält Waffen von Young Blood welches 2 Swords erhält)
 2 x Sword 20 Gc
+1 x Rabbits foot 10gc
 
-=> 20 Gc
+=> 10 Gc
 
