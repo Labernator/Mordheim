@@ -4,7 +4,7 @@
 |-----------------------|:---:|:-----:|:-----------:|:-----:|:-----------:|:---:|
 | Stefan (OnG)          | 17/20 | 0 | 1 | 10 | 131 | 23
 | Marius (Carnival)     | 11/15 | 1 | 0 | 9 | 150 | 22
-| Philipp (Middenheim)  | 12/15 | 1 | 63 | 7 | 122 | 15
+| Philipp (Middenheim)  | 13/15 | 1 | 20 | 7 | 122 | 15
 | 
 
 ## Post game sequence Game 1
@@ -161,8 +161,8 @@ Short Bow für 5 gc
 => 65 gc
 
 ###### kaufen
-1 x Worrior für 25 Gc (erhält Waffen von Young Blood welches 2 Swords erhält)
+1 x Warrior für 25 Gc (erhält Waffen von Young Blood welches 2 Swords erhält)
 2 x Sword 20 Gc
 
-=> 8 Gc
+=> 20 Gc
 
