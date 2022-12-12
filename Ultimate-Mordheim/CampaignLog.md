@@ -4,7 +4,7 @@
 |-----------------------|:---:|:-----:|:-----------:|:-----:|:-----------:|:---:|
 | Stefan (OnG)          | 17/20 | 0 | 6 | 10 | 131 | 23
 | Marius (Carnival)     | 11/15 | 1 | 0 | 9 | 150 | 22
-| Philipp (Middenheim)  | 13/15 | 1 | 20 | 7 | 122 | 15
+| Philipp (Middenheim)  | 13/15 | 1 | 8 | 7 | 122 | 15
 | 
 
 ## Post game sequence Game 1
@@ -114,7 +114,7 @@ Sallor the Bald +1XP
 
 Prendahl na Ghezn +1XP
 
-Widower +1XP => Mighty Blow? oder doch was anderes
+Widower +1XP => Pit Fighter
 
 Jokin the 2nd +2XP => +1T & Setzt nächstes Spiel aus
 
@@ -157,13 +157,13 @@ Short Bow für 5 gc
 
 #### Philipp: 
 ###### verkaufen
-3 Shards für 60 gc + 3 aus der Bank + 2 gefunden
-=> 65 gc
+3 Shards für 60 gc + 1 aus der Bank + 2 gefunden
+=> 63 gc
 
 ###### kaufen
 1 x Warrior für 25 Gc (erhält Waffen von Young Blood welches 2 Swords erhält)
 2 x Sword 20 Gc
 1 x Rabbits foot 10gc
 
-=> 10 Gc
+=> 8 Gc
 
