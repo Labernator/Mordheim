@@ -148,7 +148,7 @@ Gold verloren durch meinen abwesenden Leader: 1 Wyrdstone (verkauft für 15 GC) 
 **XP**  
  - Da Fist: 1 (Survival)    
  - Da Brute: 3 (Kill, Winning Leader, Survival) **Skill: Resilient**  
- - Da Young Blood: Orc Boy Promoted! **Skill: Weapons Eypert**  %
+ - Da Young Blood: Orc Boy Promoted! **Skill: Weapons Eypert**  
 
 **Szenario Loot**  
 4 Wyrdstones (3 erwürfelt und einen geschossen)  
@@ -158,18 +158,21 @@ Gold verloren durch meinen abwesenden Leader: 1 Wyrdstone (verkauft für 15 GC) 
 22: 4GC   
 
 **Verkaufen**  
-6 Wyrdstones (65)  
+5 Wyrdstones (65)  
  => 69GC + 6 aus der Kasse => 75
 
 **Einkaufen**  
 1x Rabbits Foot (10)  
 1x Halberd (10)  
-=> 20GC also 55GC angespart. 
+=> 20GC also 55GC und 1 Wyrdstones angespart. 
 
 **Umequipen**  
 Da Young Blood bekommt den gekauften Rabbits Foot und den Bogen aus der Truhe. Da Fist gibt im lustigen Ringtausch seine Mace wieder an Zappa zurück und bekommt dafür die Helebarde.  
 
 **Gedanken**  
+Tja, das war ein Spiel. Technisch gesehen. Meine Orks haben sich am Anfang vor allem mit sich selbst gekämpft. Und da Philipp (unabsichtlich) sich deutlich näher bei Laber aufgestellt hat, bin ich erst dann zur Action dazugestoßen, als schon alle routen wollten.   
+Das ist natürlich etwas mittel spannend, aber so läuft es halt manchmal. Ich hatte das riesen Glück mir drei Wyrdstones für das Szenario zu er würfeln und dann mit meinem Boss einen Helden von Laber zu oneshotten, so dass ich trotz nur zweier Helden in der Exploration Phase ganz gut Geld bekommen habe.  
+Dazu noch minimale Verluste, nicht schlecht also, finanziell. Jetzt spare ich auf einen Blunderbuss für meinen neuen Held (falls ich mal einen finde) und irgendwann mal den Troll (der nach dem Szenario Reward von +1Ld auf den Leader etwas weniger furchtbar wirkt). Aber der ist echt noch weit entfernt. 
 
 Gold verloren durch meinen abwesenden Leader: 1 Wyrdstone und eine 3GC. In Summe 18GC, 1 Wyrdstones, 1 LA.  
 
