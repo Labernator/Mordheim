@@ -148,7 +148,7 @@ Gold verloren durch meinen abwesenden Leader: 1 Wyrdstone (verkauft für 15 GC) 
 **XP**  
  - Da Fist: 1 (Survival)    
  - Da Brute: 3 (Kill, Winning Leader, Survival) **Skill: Resilient**  
- - Da Young Blood: Orc Boy Promoted! **Skill: Weapons Eypert**  
+ - Da Young Blood: Orc Boy Promoted! Skilllisten: Strength, Shooting **Skill: Weapons Eypert**  
 
 **Szenario Loot**  
 4 Wyrdstones (3 erwürfelt und einen geschossen)  
