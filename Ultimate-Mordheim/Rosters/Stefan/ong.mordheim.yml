@@ -32,6 +32,7 @@ heros:
     weapons: Dagger, Dagger, Bow
     armour: Rabbits Foot
     rules: Weapons Expert
+    skilllists: Strength, Shooting
 
 henchmen:
   - group: Da Waaagh (4 Orc Boy) [0XP]
