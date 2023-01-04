@@ -139,3 +139,45 @@ Gold verloren durch meinen abwesenden Leader: 1 Wyrdstone (verkauft für 15 GC) 
 **5 Orc Boyz**: 2x Dagger  
 **4 Sacrificial Goblins**: 2x Dagger  
 **6 Bowlins**: 2x Dagger, Short Bow  
+
+## 03.01.23 Chance Encounter
+
+**Injuries**  
+1 Bowlin stirbt (nach Animosity Friendly Fire)  
+
+**XP**  
+ - Da Fist: 1 (Survival)    
+ - Da Brute: 3 (Kill, Winning Leader, Survival) **Skill: Resilient**  
+ - Da Young Blood: Orc Boy Promoted! **Skill: Weapons Eypert**  %
+
+**Szenario Loot**  
+4 Wyrdstones (3 erwürfelt und einen geschossen)  
+
+**Exploration**  
+2 Wyrdstones  
+22: 4GC   
+
+**Verkaufen**  
+6 Wyrdstones (65)  
+ => 69GC + 6 aus der Kasse => 75
+
+**Einkaufen**  
+1x Rabbits Foot (10)  
+1x Halberd (10)  
+=> 20GC also 55GC angespart. 
+
+**Umequipen**  
+Da Young Blood bekommt den gekauften Rabbits Foot und den Bogen aus der Truhe. Da Fist gibt im lustigen Ringtausch seine Mace wieder an Zappa zurück und bekommt dafür die Helebarde.  
+
+**Gedanken**  
+
+Gold verloren durch meinen abwesenden Leader: 1 Wyrdstone und eine 3GC. In Summe 18GC, 1 Wyrdstones, 1 LA.  
+
+**Warband**  
+**Da Boss Brute**: 2x Dagger, Crossbow, Rabbits Foot  
+**Da Fist**: Halberd, Dagger, Crossbow, Rabbits Foot  
+**Da Zappa**: Mace, Dagger, Rabbits Foot  
+**Da Young Blood**: 2x Dagger, Bow, Rabbits Foot  
+**4 Orc Boyz**: 2x Dagger  
+**4 Sacrificial Goblins**: 2x Dagger  
+**5 Bowlins**: 2x Dagger, Short Bow  
