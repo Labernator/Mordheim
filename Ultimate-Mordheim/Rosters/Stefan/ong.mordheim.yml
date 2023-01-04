@@ -1,33 +1,46 @@
 warband: Uruk-Hai (Orcs & Goblins)
 campaign: 0
-gc: 6
-shards: 0
+gc: 55
+shards: 1
 objective: ""
 alignment: ""
 
 heros:
-  - hero: Da Fist (Big 'Un) [21XP]
+  - hero: Da Fist (Big 'Un) [22XP]
     stats: M4, WS4, BS3, S3, T4, W1, I3, A2, Ld7, Sv-
-    weapons: Mace, Dagger, Crossbow
+    weapons: Halberd, Dagger, Crossbow
     armour: Rabbits Foot  
     rules: Nimble
     skilllists: Strength, Shooting, Combat, Special
 
-  - hero: Da Brute (Big 'Un) [22XP]
-    stats: M4, WS4, BS3, S3, T4, W1, I4, A1, Ld7, Sv-
+  - hero: Da Brute (Big 'Un) [25XP]
+    stats: M4, WS4, BS3, S3, T4, W1, I4, A1, Ld8, Sv-
     weapons: Dagger, Dagger, Crossbow
     armour: Rabbits Foot
-    rules: Leader (T-3), Nimble
+    rules: Leader (T-2), Nimble, Resilient
     skilllists: Strength, Shooting, Combat, Special
 
+  - hero: Zappa (Orc Shaman) [17XP]
+    stats: M4, WS3, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
+    weapons: Mace, Dagger
+    armour: Rabbits Foot
+    rules: Wizard (Zzap!), Resilient, Mind Focus, Pit Fighter, Fearsome
+    skilllists: Strength, Special
+
+  - hero: Da Young Blood (Orc Boy) [0XP]
+    stats: M4, WS3, BS3, S3, T4, W1, I2, A1, Ld7, Sv-
+    weapons: Dagger, Dagger, Bow
+    armour: Rabbits Foot
+    rules: Weapons Expert
+
 henchmen:
-  - group: Da Waaagh (5 Orc Boy) [0XP]
+  - group: Da Waaagh (4 Orc Boy) [0XP]
     stats: M4, WS3, BS3, S3, T4, W1, I2, A1, Ld7, Sv-
     weapons: Dagger, Dagger
     armour:
     rules: Animosity
 
-  - group: Da Green Tide (6 Goblin Warrior) [0XP]
+  - group: Da Green Tide (5 Goblin Warrior) [0XP]
     stats: M4, WS2, BS3, S3, T3, W1, I3, A1, Ld5, Sv-
     weapons: Short Bow, Dagger, Dagger
     armour:
@@ -40,16 +53,12 @@ henchmen:
     rules: Animosity, Not Orcs
 
 notes:
-  - hero: Boss Maan (returns in T-3) (Orc Boss) [23XP]
+  - hero: Boss Maan (returns in T-2) (Orc Boss) [23XP]
     stats: M4, WS4, BS3, S4, T4, W1, I3, A1, Ld8, Sv-
     weapons: Dagger
     armour:
     rules: Leader
     skilllists: Strength, Shooting, Speed, Combat, Special
 
-  - hero: Zappa (returns in T-1) (Orc Shaman) [17XP]
-    stats: M4, WS3, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
-    weapons: Dagger
-    armour: Rabbits Foot
-    rules: Wizard (Zzap!), Resilient, Mind Focus, Pit Fighter, Fearsome
-    skilllists: Strength, Special
+Winning "The Statue of Count Gothard": +1Ld on Leader
+
