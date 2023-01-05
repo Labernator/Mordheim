@@ -3,7 +3,7 @@
 | Warband               | Size | # Wyrdstones (current) | Gold (current) |  # Wyrdstones (total) | Gold(total) | XP
 |-----------------------|:---:|:-----:|:-----------:|:-----:|:-----------:|:---:|
 | Stefan (OnG)          | 17/20 | 0 | 6 | 10 | 131 | 23
-| Marius (Carnival)     | 11/15 | 1 | 0 | 9 | 150 | 22
+| Marius (Carnival)     | 14/15 | 0 | 1 | 9 | 150 | 34
 | Philipp (Middenheim)  | 13/15 | 1 | 8 | 7 | 122 | 15
 
 
@@ -251,11 +251,10 @@ Brethren gibt ab:
 3 Nurglinge für 45gc
 2 Brethren für 50gc
 1 Rabbits Foot für 10gc
-1 Black Lotus für 11gc
 1 Halberd für 10gc
-1 Flail für 15gc
+2 Flail für 30gc
 1 Bow für 10gc
-=> 6 gc
+=> 2 gc
 
 #### Philipp: 
 ###### verkaufen
