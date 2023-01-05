@@ -1,6 +1,6 @@
 warband: The Unclean (Carnival of Chaos)
 campaign: 0
-gc: 6
+gc: 2
 shards: 0
 objective: ""
 alignment: ""
@@ -16,7 +16,7 @@ heros:
 
     - hero: Choleris (Brute) [15XP]
       stats: M4, WS5, BS0, S4, T4, W1, I2, A2, Ld7, Sv-
-      weapons:
+      weapons: Flail
       armour:
       rules: No Need for Weapons, Resilient
       skilllists: Strength, Combat, Speed
@@ -24,7 +24,7 @@ heros:
     - hero: Typhodis (Tainted One) [6XP]
       stats: M4, WS3, BS3, S3, T4, W3, I3, A1, Ld7, Sv-
       weapons: Hammer, Hammer, Dagger, Bow, Rabbits Foot
-      armour: Master Map of Mordheim, Black Lotus
+      armour: Master Map of Mordheim
       rules: Immune to Poison, Mark of Nurgle, Dodge
       skilllists: Combat, Speed
 
