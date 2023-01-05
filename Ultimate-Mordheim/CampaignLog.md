@@ -200,7 +200,7 @@ Choleris 3xp (überlebt und nen Pit Fighter geboxt) => Resilient
 
 Typhodis 2xp (überlebt und 1 getötet) => Dodge
 
-Diphtodis 3xp (überlebt, 1 getötet und 66 gewürfelt) => Mighty Blow
+Diphtodis 3xp (überlebt, 1 getötet und 66 gewürfelt) => Step Aside
 
 ### Exploration and Loot
 
