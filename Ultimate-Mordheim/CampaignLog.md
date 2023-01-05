@@ -2,7 +2,7 @@
 
 | Warband               | Size | # Wyrdstones (current) | Gold (current) |  # Wyrdstones (total) | Gold(total) | XP
 |-----------------------|:---:|:-----:|:-----------:|:-----:|:-----------:|:---:|
-| Stefan (OnG)          | 17/20 | 0 | 6 | 10 | 131 | 23
+| Stefan (OnG)          | 17/20 | 1 | 55 | 15 | 200 | 27
 | Marius (Carnival)     | 14/15 | 0 | 2 | 14 | 307 | 34
 | Philipp (Middenheim)  | 13/15 | 1 | 8 | 7 | 122 | 15
 
@@ -186,10 +186,16 @@ Philipp: 1 Champion stirbt
 ### XP and Advances
 #### Stefan:
 
-Fist 
+Fist +1xp
 
-Brute 
- 
+Brute +3xp (überlebt, winning leader und 1 getötet) => Resilient
+
+Da Young Blood: Orc Boy Promoted! 
+
+Skilllisten: Strength, Shooting 
+
+Skill: Weapons Expert
+
 #### Marius:
 
 Rancius 1xp (überlebt)
@@ -202,10 +208,12 @@ Typhodis 2xp (überlebt und 1 getötet) => Dodge
 
 Diphtodis 3xp (überlebt, 1 getötet und 66 gewürfelt) => Step Aside
 
+Leukemis (Brethren promoted) => Skill Listen: Strength & Academic => Skill: Haggle
+
 ### Exploration and Loot
 
 #### Stefan: 
-2 shards
+2 shards + 4gc
 
 #### Marius: 
 5 shards + 57gc
@@ -214,31 +222,48 @@ Diphtodis 3xp (überlebt, 1 getötet und 66 gewürfelt) => Step Aside
 3 shards + 2 gc
 
 ### Trading
-#### verkaufen
 
 #### Stefan: 
 ###### verkaufen
 
+5 Shards für 65
+
+10 aus Stash und Exploration
+
+=> 75 gc
+
 ###### kaufen
+
+1 Rabbits Foot für 10gc
+
+1 Halberd für 10gc
+
+=> 55gc übrig
 
 #### Marius: 
 
 ###### umequippen
 
 Rancius gibt ab: 
+
 Halberd -> Brethren
+
 Bow -> Diphtodis
 
 Typhodis gibt ab: 
+
 Halberd -> neuen Brethren
 
 Diphtodis gibt ab:
+
 Short Bow -> neuen Brethren
 
 Leukemis gibt ab: 
+
 Short Bow -> 2. neuen Brethren
 
 Brethren gibt ab:
+
 2 Hammer -> Typhodis
 
 ###### verkaufen
@@ -249,11 +274,17 @@ Brethren gibt ab:
 ###### kaufen
 
 3 Nurglinge für 45gc
+
 2 Brethren für 50gc
+
 1 Rabbits Foot für 10gc
+
 1 Halberd für 10gc
+
 2 Flail für 30gc
+
 1 Bow für 10gc
+
 => 2 gc
 
 #### Philipp: 
