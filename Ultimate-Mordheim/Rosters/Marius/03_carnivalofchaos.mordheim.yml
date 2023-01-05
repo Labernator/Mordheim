@@ -1,0 +1,64 @@
+warband: The Unclean (Carnival of Chaos)
+campaign: 0
+gc: 6
+shards: 0
+objective: ""
+alignment: ""
+
+heros:
+
+    - hero: Pestis (Brute) [14XP]
+      stats: M4, WS4, BS0, S4, T4, W2, I2, A2, Ld7, Sv-
+      weapons: Flail
+      armour:
+      rules: No Need for Weapons, Hatred (Orcs and Goblins), Dodge
+      skilllists: Strength, Combat, Speed
+
+    - hero: Choleris (Brute) [15XP]
+      stats: M4, WS5, BS0, S4, T4, W1, I2, A2, Ld7, Sv-
+      weapons:
+      armour:
+      rules: No Need for Weapons, Resilient
+      skilllists: Strength, Combat, Speed
+
+    - hero: Typhodis (Tainted One) [6XP]
+      stats: M4, WS3, BS3, S3, T4, W3, I3, A1, Ld7, Sv-
+      weapons: Hammer, Hammer, Dagger, Bow, Rabbits Foot
+      armour: Master Map of Mordheim, Black Lotus
+      rules: Immune to Poison, Mark of Nurgle, Dodge
+      skilllists: Combat, Speed
+
+    - hero: Diphthodis (Tainted One) [8XP]
+      stats: M4, WS3, BS3, S3, T3, W2, I3, A1, Ld8, Sv-
+      weapons: Sword, Sword, Dagger, Bow, Rabbits Foot
+      armour: Unholy Relic
+      rules: Immune to Poison, Mark of Nurgle, Dodge, Expert Swordsman, Step Aside, Leader
+      skilllists:  Combat, Speed
+
+    - hero: Leukemis (Brethren) [0XP]
+      stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+      weapons: Hammer, Hammer, Dagger, Bow
+      armour:
+      rules: Haggle
+      skilllists: Strength, Academic
+
+henchmen:
+    - group: The Infested (5 Nurglings) [0XP]
+      stats: M4, WS3, BS0, S3, T2, W1, I3, A1, Ld10, Sv-
+      weapons:
+      armour:
+      rules: Cloud of Flies, Immune to Psychology, Immune to Poison, Daemonic Aura, Daemonic Instability
+
+    - group: The Carrier (3 Brethren) [0XP]
+      stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+      weapons: Halberd, Short Bow
+      armour:
+      rules:
+
+notes:
+    - hero: Rancius (returns in T-1) (Carnival Master) [27XP]
+      stats: M4, WS4, BS4, S3, T3, W1, I3, A1, Ld8, Sv-
+      weapons: Dagger
+      armour:
+      rules: Leader, Wizard (Stench of Nurgle [-1]), Mind Focus
+      skilllists: Strength, Academic, Combat, Speed
