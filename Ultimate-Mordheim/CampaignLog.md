@@ -179,7 +179,7 @@ Short Bow für 5 gc
 ### Injuries
 Marius: 2 Nurglinge sterben. Chef setzt 1 Spiel aus
 
-Stefan: ??
+Stefan: 1 Bowlin stirbt
 
 Philipp: 1 Champion stirbt
 
