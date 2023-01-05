@@ -174,3 +174,91 @@ Short Bow für 5 gc
 
 => 8 Gc
 
+## Post game sequence Game 3
+
+### Injuries
+Marius: 2 Nurglinge sterben. Chef setzt 1 Spiel aus
+
+Stefan: ??
+
+Philipp: 1 Champion stirbt
+
+### XP and Advances
+#### Stefan:
+
+Fist 
+
+Brute 
+ 
+#### Marius:
+
+Rancius 1xp (überlebt)
+
+Pestis 3xp (überlebt und 2 getötet) => +1 Wound
+
+Choleris 3xp (überlebt und nen Pit Fighter geboxt) => Resilient
+
+Typhodis 2xp (überlebt und 1 getötet) => Dodge
+
+Diphtodis 3xp (überlebt, 1 getötet und 66 gewürfelt) => Mighty Blow
+
+### Exploration and Loot
+
+#### Stefan: 
+2 shards
+
+#### Marius: 
+5 shards + 57gc
+
+#### Philipp: 
+3 shards + 2 gc
+
+### Trading
+#### verkaufen
+
+#### Stefan: 
+###### verkaufen
+
+###### kaufen
+
+#### Marius: 
+
+###### umequippen
+
+Rancius gibt ab: 
+Halberd -> Brethren
+Bow -> Diphtodis
+
+Typhodis gibt ab: 
+Halberd -> neuen Brethren
+
+Diphtodis gibt ab:
+Short Bow -> neuen Brethren
+
+Leukemis gibt ab: 
+Short Bow -> 2. neuen Brethren
+
+Brethren gibt ab:
+2 Hammer -> Typhodis
+
+###### verkaufen
+
+5 Shards für 100
+
+=> 157 gc
+###### kaufen
+
+3 Nurglinge für 45gc
+2 Brethren für 50gc
+1 Rabbits Foot für 10gc
+1 Black Lotus für 11gc
+1 Halberd für 10gc
+1 Flail für 15gc
+1 Bow für 10gc
+=> 6 gc
+
+#### Philipp: 
+###### verkaufen
+
+###### kaufen
+
