@@ -29,8 +29,8 @@ heros:
       skilllists: Combat, Strength, Speed
      
     - hero: Loki (Swordsman) [0XP]
-      stats: M4. WS4, BS3, T3, W1, I3, A1, Ld7, Sv-
-      weapons: swod, sowrd
+      stats: M4, WS4, BS3, T3, W1, I3, A1, Ld8, Sv-
+      weapons: Sword, Sword
       armour:
       rules: Swordmaster
       skillists: COmbat, Strength, Speed
@@ -42,7 +42,7 @@ heros:
       rules: Pit Fighter
       skilllists: Combat, Strength, Speed
       
-     - hero: Jokin the 2nd (Youngblood) [2XP]
+    - hero: Jokin the 2nd (Youngblood) [2XP]
       stats: M4, WS2, BS2, S3, T4, W1, I3, A1, Ld6, Sv-
       weapons: Mace, Mace
       armour:
