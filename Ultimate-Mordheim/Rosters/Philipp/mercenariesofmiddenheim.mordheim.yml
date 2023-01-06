@@ -21,8 +21,8 @@ heros:
       rules:
       skilllists: Combat, Strength, Speed
 
-    - hero: Prendahl na Ghezn (Champion) [10XP]
-      stats: M4, WS4, BS3, S4, T3, W1, I3, A1, Ld7, Sv-
+    - hero: Prendahl na Ghezn (Champion) [11XP]
+      stats: M4, WS4, BS3, S4, T4, W1, I3, A1, Ld7, Sv-
       weapons: Halberd
       armour:
       rules:
