@@ -24,6 +24,8 @@ Marius hat das niedrigste Warband Rating und entscheidet, dass wir von Norden in
 
 #### Runde 1: River Gate
 #### Runde 2: The Great Library 
+#### Runde 3: Chance Encounter
+#### Runde 4: Ravenbaracks
 
 ## Spieler
 
