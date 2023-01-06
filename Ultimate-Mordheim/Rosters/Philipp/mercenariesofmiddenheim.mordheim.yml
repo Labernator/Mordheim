@@ -32,7 +32,7 @@ heros:
       stats: M4, WS4, BS3, T3, W1, I3, A1, Ld8, Sv-
       weapons: Sword, Sword
       armour:
-      rules: Swordmaster
+      rules: Expert Sowrdsmen
       skillists: COmbat, Strength, Speed
 
     - hero: Widower (Youngblood) [4XP]
