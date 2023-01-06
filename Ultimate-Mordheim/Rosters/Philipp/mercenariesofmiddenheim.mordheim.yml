@@ -1,23 +1,23 @@
 warband: Stormcrows (Mercenaries of Middenheim)
 campaign: 0
-gc: 8 
-shards: 1
+gc: 5
+shards: 0
 equipment: 
 objective: ""
 alignment: ""
 
 heros:
-    - hero: Daario Naharis (Mercenary Captain) [27XP]
+    - hero: Daario Naharis (Mercenary Captain) [29XP]
       stats: M4, WS4, BS4, S4, T3, W1, I5, A2, Ld8, Sv-
       weapons: Halberd, Bow
       armour: Rabbits Foot
-      rules: Leader
+      rules: Leader, Wyrdstone Hunter
       skilllists: Strength, Shooting, Academic, Combat, Speed
 
-    - hero: Sallor the Bald (Champion) [10XP]
+    - hero: Sallor the 2nd (Champion) [8XP]
       stats: M4, WS4, BS3, S4, T3, W1, I3, A1, Ld7, Sv-
-      weapons: Halberd, Bow
-      armour: Rabbits Foot
+      weapons: Halberd
+      armour: 
       rules:
       skilllists: Combat, Strength, Speed
 
@@ -27,13 +27,28 @@ heros:
       armour:
       rules:
       skilllists: Combat, Strength, Speed
+     
+    - hero: Loki (Swordsman) [0XP]
+      stats: M4. WS4, BS3, T3, W1, I3, A1, Ld7, Sv-
+      weapons: swod, sowrd
+      armour:
+      rules: Swordmaster
+      skillists: COmbat, Strength, Speed
 
-    - hero: Widower (Youngblood) [2XP]
-      stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld6, Sv-
+    - hero: Widower (Youngblood) [4XP]
+      stats: M4, WS3, BS2, S3, T3, W1, I3, A1, Ld6, Sv-
       weapons: Sword, Sword
       armour:
       rules: Pit Fighter
       skilllists: Combat, Strength, Speed
+      
+     - hero: Jokin the 2nd (Youngblood) [2XP]
+      stats: M4, WS2, BS2, S3, T4, W1, I3, A1, Ld6, Sv-
+      weapons: Mace, Mace
+      armour:
+      rules:
+      skilllists: Combat, Strength, Speed
+
 
 henchmen:
     - group: The Snipers (4 Marksman) [0XP]
@@ -49,9 +64,4 @@ henchmen:
       rules:
       
 notes: 
-    - hero: Jokin the 2nd (returns in T-1) (Youngblood) [2XP]
-      stats: M4, WS2, BS2, S3, T4, W1, I3, A1, Ld6, Sv-
-      weapons: Mace, Mace
-      armour:
-      rules:
-      skilllists: Combat, Strength, Speed
+    
