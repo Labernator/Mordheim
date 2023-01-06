@@ -4,7 +4,7 @@
 |-----------------------|:---:|:-----:|:-----------:|:-----:|:-----------:|:---:|
 | Stefan (OnG)          | 17/20 | 1 | 55 | 15 | 200 | 27
 | Marius (Carnival)     | 14/15 | 0 | 2 | 14 | 307 | 34
-| Philipp (Middenheim)  | 13/15 | 1 | 8 | 7 | 122 | 15
+| Philipp (Middenheim)  | 13/15 | 0 | 5 | 12 | 222 | 21
 
 
 ## Post game sequence Game 1
@@ -109,6 +109,7 @@ Diphtodis 2xp => Expert Swordsman
 #### Philipp:
 
 Daario Naharis +5XP => +1 Initiative & + 1 Attack
+Book -> Wyrdstone Hunter
 
 Sallor the Bald +1XP
 
@@ -210,6 +211,11 @@ Diphtodis 3xp (überlebt, 1 getötet und 66 gewürfelt) => Step Aside
 
 Leukemis (Brethren promoted) => Skill Listen: Strength & Academic => Skill: Haggle
 
+### Philipp:
+Daario +2Exp => +1  BS
+Prendhal na Ghezn +3 Exp => +1 T
+Widower => +2Exp => +1 WS
+
 ### Exploration and Loot
 
 #### Stefan: 
@@ -289,6 +295,8 @@ Brethren gibt ab:
 
 #### Philipp: 
 ###### verkaufen
-
+6 Shards -> 90gc
 ###### kaufen
-
+1 Champion mit Halbert für 45
+1 Swordsman mit 2 Swords für 55 (neuer Held)
+5 gc
