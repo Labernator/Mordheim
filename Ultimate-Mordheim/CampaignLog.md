@@ -4,7 +4,7 @@
 |-----------------------|:---:|:-----:|:-----------:|:-----:|:-----------:|:---:|
 | Stefan (OnG)          | 17/20 | 1 | 55 | 15 | 200 | 27
 | Marius (Carnival)     | 14/15 | 0 | 2 | 14 | 307 | 34
-| Philipp (Middenheim)  | 13/15 | 0 | 5 | 12 | 222 | 21
+| Philipp (Middenheim)  | 15/15 | 0 | 5 | 12 | 222 | 21
 
 
 ## Post game sequence Game 1
@@ -219,13 +219,13 @@ Widower => +2Exp => +1 WS
 ### Exploration and Loot
 
 #### Stefan: 
-2 shards + 4gc
+2 shards + 4gc + 4 shards vom Szenario 
 
 #### Marius: 
 5 shards + 57gc
 
 #### Philipp: 
-3 shards + 2 gc
+3 shards + 2 gc + 2 Shards vom Szenario
 
 ### Trading
 
@@ -294,9 +294,14 @@ Brethren gibt ab:
 => 2 gc
 
 #### Philipp: 
+
 ###### verkaufen
+
 6 Shards -> 90gc
+
 ###### kaufen
-1 Champion mit Halbert für 45
+1 Champion mit Halberd für 45
+
 1 Swordsman mit 2 Swords für 55 (neuer Held)
-5 gc
+
+=> 5 gc
