@@ -178,7 +178,7 @@ Short Bow für 5 gc
 ## Post game sequence Game 3
 
 ### Injuries
-Marius: 2 Nurglinge sterben. Chef setzt 1 Spiel aus
+Marius: 2 Nurglinge sterben. 1 Brethren macht auch noch den Abflug. Chef setzt 1 Spiel aus
 
 Stefan: 1 Bowlin stirbt
 
@@ -264,10 +264,6 @@ Diphtodis gibt ab:
 
 Short Bow -> neuen Brethren
 
-Leukemis gibt ab: 
-
-Short Bow -> 2. neuen Brethren
-
 Brethren gibt ab:
 
 2 Hammer -> Typhodis
@@ -279,19 +275,15 @@ Brethren gibt ab:
 => 157 gc
 ###### kaufen
 
-3 Nurglinge für 45gc
+4 Nurglinge für 60gc
 
 2 Brethren für 50gc
 
 1 Rabbits Foot für 10gc
 
-1 Halberd für 10gc
-
 2 Flail für 30gc
 
-1 Bow für 10gc
-
-=> 2 gc
+=> 7 gc
 
 #### Philipp: 
 
