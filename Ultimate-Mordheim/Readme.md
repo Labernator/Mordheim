@@ -18,6 +18,8 @@ Die Kampagne spielt in Mordheim kurz nach dem Einschlag des Meteoriten. Gespielt
 Szenarios zu den einzelnen Locations befinden sich [hier](https://github.com/Labernator/Mordheim/tree/master/Ultimate-Mordheim/Szenarios).
 Diejenige Warband, die zuerst 20 Wyrdstone Shards gespart hat (nicht ausgegeben!) gewinnt die Kampagne.
 
+[Kampagnen Log](https://github.com/Labernator/Mordheim/tree/master/Ultimate-Mordheim/CampaignLog.md)
+
 ## Szenarios
 
 Marius hat das niedrigste Warband Rating und entscheidet, dass wir von Norden in die Stadt einfallen.
@@ -25,7 +27,7 @@ Marius hat das niedrigste Warband Rating und entscheidet, dass wir von Norden in
 #### Runde 1: River Gate
 #### Runde 2: The Great Library 
 #### Runde 3: Chance Encounter
-#### Runde 4: Ravenbaracks
+#### Runde 4: Raven Barracks
 
 ## Spieler
 
