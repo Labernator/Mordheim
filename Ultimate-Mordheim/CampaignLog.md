@@ -205,7 +205,7 @@ Pestis 3xp (überlebt und 2 getötet) => +1 Wound
 
 Choleris 3xp (überlebt und nen Pit Fighter geboxt) => Resilient
 
-Typhodis 2xp (überlebt und 1 getötet) => Dodge
+Typhodis 2xp (überlebt und 1 getötet) => Expert Swordsman
 
 Diphtodis 3xp (überlebt, 1 getötet und 66 gewürfelt) => Step Aside
 
@@ -250,23 +250,13 @@ Widower => +2Exp => +1 WS
 
 ###### umequippen
 
-Rancius gibt ab: 
+Rancius gibt ab: Halberd -> 1. Brethren & Bow -> Diphtodis
 
-Halberd -> Brethren
+Typhodis gibt ab: Halberd -> 2.  Brethren
 
-Bow -> Diphtodis
+Diphtodis gibt ab: Short Bow -> 1. Brethren
 
-Typhodis gibt ab: 
-
-Halberd -> neuen Brethren
-
-Diphtodis gibt ab:
-
-Short Bow -> neuen Brethren
-
-Brethren gibt ab:
-
-2 Hammer -> Typhodis
+Leukemis gibt ab: Short Bow -> 2. Brethren
 
 ###### verkaufen
 
@@ -279,9 +269,11 @@ Brethren gibt ab:
 
 2 Brethren für 50gc
 
-1 Rabbits Foot für 10gc
+1 Rabbits Foot für 10gc (Typhodis)
 
-2 Flail für 30gc
+2 Swords für 20 gc (Typhodis)
+
+1 Bow für 10gc  (Leukemis)
 
 => 7 gc
 
