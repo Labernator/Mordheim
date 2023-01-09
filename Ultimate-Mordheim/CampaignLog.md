@@ -4,7 +4,7 @@
 |-----------------------|:---:|:-----:|:-----------:|:-----:|:-----------:|:---:|
 | Stefan (OnG)          | 17/20 | 1 | 55 | 15 | 200 | 27
 | Marius (Carnival)     | 14/15 | 0 | 2 | 14 | 307 | 34
-| Philipp (Middenheim)  | 15/15 | 0 | 5 | 12 | 222 | 21
+| Philipp (Middenheim)  | 15/15 | 0 | 0 | 12 | 222 | 21
 
 
 ## Post game sequence Game 1
@@ -288,4 +288,4 @@ Leukemis gibt ab: Short Bow -> 2. Brethren
 
 1 Swordsman mit 2 Swords für 55 (neuer Held)
 
-=> 5 gc
+=> 0 gc
