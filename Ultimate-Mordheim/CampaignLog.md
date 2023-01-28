@@ -3,7 +3,7 @@
 | Warband               | Size | # Wyrdstones (current) | Gold (current) |  # Wyrdstones (total) | Gold(total) | XP
 |-----------------------|:---:|:-----:|:-----------:|:-----:|:-----------:|:---:|
 | Stefan (OnG)          | 17/20 | 1 | 55 | 15 | 200 | 27
-| Marius (Carnival)     | 14/15 | 0 | 2 | 14 | 307 | 34
+| Marius (Carnival)     | 12/15 | 1 | 131 | 18 | 438 | 42
 | Philipp (Middenheim)  | 15/15 | 0 | 0 | 12 | 222 | 21
 
 
@@ -276,6 +276,96 @@ Leukemis gibt ab: Short Bow -> 2. Brethren
 1 Bow für 10gc  (Leukemis)
 
 => 7 gc
+
+#### Philipp: 
+
+###### verkaufen
+
+6 Shards -> 90gc
+
+###### kaufen
+1 Champion mit Halberd für 45
+
+1 Swordsman mit 2 Swords für 55 (neuer Held)
+
+=> 0 gc
+
+
+
+## Post game sequence Game 4
+
+### Injuries
+Marius: 
+
+2 Nurglinge sterben. Wie immer...
+
+Leukemis: Old Battlewound
+
+Stefan: 1 Sacrificial Gobbo stirbt, 2 Orc Boys sterben 
+
+Philipp: 1 Warrior??? stirbt
+
+### XP and Advances
+#### Stefan:
+
+
+
+#### Marius:
+
+Pestis 1xp (überlebt)
+
+Choleris 2xp (überlebt und 1 Orc zermatscht) => +1 Ini
+
+Typhodis 2xp (überlebt und Zappa getötet) => Skill
+
+Diphtodis 2xp (überlebt, 1 Kiste) 
+
+Leukemis 1xp (überlebt)
+
+### Philipp:
+
+### Exploration and Loot
+
+#### Stefan: 
+
+
+#### Marius: 
+4 shards + 14 gc + Elven Cloak
+
+#### Philipp: 
+4 Shards + 33gc + Schwert + Schild + Toughened Leathers
+
+### Trading
+
+#### Stefan: 
+###### verkaufen
+
+
+###### kaufen
+
+#### Marius: 
+
+###### verkaufen
+
+4 Shards für 60
+Elven Cloak für 50
+7 Stash + 14 von den Kisten
+
+=> 131 gc
+
+###### kaufen
+
+2 Flegel für 30 gc
+
+4 Hammer für 12 gc
+
+1 Brethren für 27 gc
+
+2 Nurglings für 30 gc 
+
+2 Pistol für 30 gc
+
+=> 2 gc
 
 #### Philipp: 
 
