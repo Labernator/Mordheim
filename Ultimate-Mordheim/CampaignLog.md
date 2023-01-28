@@ -357,15 +357,15 @@ Elven Cloak für 50
 
 2 Flegel für 30 gc
 
-4 Hammer für 12 gc
-
-1 Brethren für 27 gc
+2 Hammer für 6 gc
 
 2 Nurglings für 30 gc 
 
-2 Pistol für 30 gc
+1 Pistol für 15 gc
 
-=> 2 gc
+1 Plaguebearer für 50 gc
+
+=> 0 gc
 
 #### Philipp: 
 
