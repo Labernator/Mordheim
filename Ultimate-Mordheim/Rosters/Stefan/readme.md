@@ -217,7 +217,7 @@ Gold verloren durch meinen abwesenden Leader: 1 Wyrdstone und eine 3GC. In Summe
 => 134GC also 36GC und 1 Wyrdstones angespart. 
 
 **Umequipen**  
-Da Young Blood bekommt den gekauften Rabbits Foot und den Bogen aus der Truhe. Da Fist gibt im lustigen Ringtausch seine Mace wieder an Zappa zurück und bekommt dafür die Helebarde.  
+
 
 **Gedanken**  
 
