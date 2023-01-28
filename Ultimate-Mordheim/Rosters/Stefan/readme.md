@@ -184,3 +184,51 @@ Gold verloren durch meinen abwesenden Leader: 1 Wyrdstone und eine 3GC. In Summe
 **4 Orc Boyz**: 2x Dagger  
 **4 Sacrificial Goblins**: 2x Dagger  
 **5 Bowlins**: 2x Dagger, Short Bow  
+
+## 28.01.23 The Raven Barracks 
+
+**Injuries**  
+1 Sacrificial Goblin stirbt  
+2 Boys sterben (autsch)  
+
+**XP**  
+ - Da Fist:     
+ - Da Brute:  
+ - Da Zappa: 2 (Kill, Survival)  
+ - Da Young Blood: 2 (Kiste, Survival) **Skill: Resilient**
+
+**Szenario Loot**  
+53GC, Wyrdstone Pendulum 
+
+**Exploration**  
+3 Wyrdstones  
+333: 7GC   
+
+**Verkaufen**  
+3 Wyrdstones (55, weil ich tatsächlich unter das 16+ Limit gefallen bin)  
+ => 60GC (Szenario) + 55 (Exploration) + 55 aus der Kasse => 170 GC  
+
+**Einkaufen**  
+4x Squigs (60)  
+2x Goblins (30)  
+2x Dagger (4)  
+1x Blunderbuss (30)  
+1x Bow (10)  
+=> 134GC also 36GC und 1 Wyrdstones angespart. 
+
+**Umequipen**  
+Da Young Blood bekommt den gekauften Rabbits Foot und den Bogen aus der Truhe. Da Fist gibt im lustigen Ringtausch seine Mace wieder an Zappa zurück und bekommt dafür die Helebarde.  
+
+**Gedanken**  
+
+Gold verloren durch meinen abwesenden Leader: nichts. Ha. In Summe 18GC, 1 Wyrdstones, 1 LA.  
+
+**Warband**  
+**Da Boss Brute**: 2x Dagger, Crossbow, Rabbits Foot, Wyrdstone Pendulum  
+**Da Fist**: Halberd, Dagger, Crossbow, Rabbits Foot  
+**Da Zappa**: Mace, Dagger, Rabbits Foot  
+**Da Young Blood**: 2x Dagger, Blunderbuss, Rabbits Foot  
+**2 Orc Boyz**: Bow, 2x Dagger  
+**5 Sacrificial Goblins**: 2x Dagger  
+**5 Bowlins**: 2x Dagger, Short Bow  
+**4 Squigs**
