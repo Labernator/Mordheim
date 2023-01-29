@@ -190,6 +190,7 @@ Gold verloren durch meinen abwesenden Leader: 1 Wyrdstone und eine 3GC. In Summe
 **Injuries**  
 1 Sacrificial Goblin stirbt  
 2 Boys sterben (autsch)  
+Da Brute erhält Frenzy (nice!!)  
 
 **XP**  
  - Da Fist: 3 (Kill, Survive, Kiste) **+1 BS**  
@@ -217,9 +218,15 @@ Gold verloren durch meinen abwesenden Leader: 1 Wyrdstone und eine 3GC. In Summe
 => 134GC also 36GC und 1 Wyrdstones angespart. 
 
 **Umequipen**  
-
+Der (noch) Leader bekommt das Wyrdstone Pendulum. Da Young Blood gibt seinen Bogen an einen Boy und erhält den Blunderbuss. Der zweite verbleibende Boy bekommt den neuen Bogen. 
 
 **Gedanken**  
+Tja, das war teuer. Irgendwie fühlt sich das Szenario wie eine verpasste Chance für mich an. Das war **das** Szenario um richtig Gold zu machen und in Richtung Troll zu kommen.  
+Leider war ich vermutlich zu schlecht aufgestellt. Meine Warband war zu verteilt und dann fand ich mich in einer fiesen Zange zwischen Philipp und Marius wieder. Schlechte Ausgangssituation.  
+Mein Zappa hat zwar getan was er konnte und auch die Crossbows haben (überraschend) gut funktioniert. Aber am Ende geht so eine Zwei-Fronten-Konfrontation selten gut aus. Der Tod der beiden Boys in der Post-Game Sequence hat das eigentlich gute Ergebnis dann deutlich nach unten korrigiert.  
+Ich habe meine Warband auch immer noch nicht ganz durchschaut. Irgendwie machen Goblins alles genau so gut wie Orks (bis auf T4) für quasi den halben Preis. Und sie zählen nur halb gegen das Rout Limit.  
+Will ich dann überhaupt Henchmen Orks haben? Mein jetziger Stand ist: Nein. Dafür noch ein paar Squigs als Counter gegen die Nurglings. Die sind nämlich echt annoying für alles andere.  
+Trotz dem mittelmäßigen Gold Zugewinn ist die Warband gefühlt ein gutes Stück stärker geworden: +1 BS für einen Crossbow Held, 2x Resilient (haben jetzt alle Helden), Blunderbuss gefunden, Frenzy auf dem Typ mit 2 Attacken. Da geht was :)  
 
 Gold verloren durch meinen abwesenden Leader: nichts. Ha. In Summe 18GC, 1 Wyrdstones, 1 LA.  
 
