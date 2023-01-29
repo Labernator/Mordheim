@@ -193,8 +193,8 @@ Gold verloren durch meinen abwesenden Leader: 1 Wyrdstone und eine 3GC. In Summe
 Da Brute erhält Frenzy (nice!!)  
 
 **XP**  
- - Da Fist: 3 (Kill, Survive, Kiste) **+1 BS**  
- - Da Brute: 3 (2x Kill, Survive) **Skill: Resilient**
+ - Da Brute: 3 (Kill, Survive, Kiste) **+1 BS**  
+ - Da Fist: 3 (2x Kill, Survive) **Skill: Resilient**
  - Da Zappa: 2 (Kill, Survival)  
  - Da Young Blood: 2 (Kiste, Survival) **Skill: Resilient**
 
