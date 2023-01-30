@@ -31,7 +31,7 @@ heros:
 
     - hero: Typhodis (Tainted One) [8XP]
       stats: M4, WS3, BS3, S3, T4, W3, I3, A1, Ld7, Sv-
-      weapons: Sword, Sword, Dagger, Pistol, Rabbits Foot
+      weapons: Sword, Sword, Dagger, Short Bow, Rabbits Foot
       armour: 
       rules: Immune to Poison, Mark of Nurgle, Expert Swordsman, Dodge
       skilllists: Combat, Speed
@@ -45,7 +45,7 @@ heros:
 
     - hero: Leukemis (Brethren) [1XP]
       stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
-      weapons: Halberd, Dagger, Short Bow
+      weapons: Halberd, Dagger, Pistol
       armour:
       rules: Haggle, Old Battlewound
       skilllists: Strength, Academic
