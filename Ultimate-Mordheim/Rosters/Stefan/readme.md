@@ -190,7 +190,7 @@ Gold verloren durch meinen abwesenden Leader: 1 Wyrdstone und eine 3GC. In Summe
 **Injuries**  
 1 Sacrificial Goblin stirbt  
 2 Boys sterben (autsch)  
-Da Brute erhält Frenzy (nice!!)  
+Da Fist erhält Frenzy (nice!!)  
 
 **XP**  
  - Da Brute: 3 (Kill, Survive, Kiste) **+1 BS**  
