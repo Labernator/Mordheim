@@ -215,7 +215,7 @@ Da Fist erhält Frenzy (nice!!)
 2x Dagger (4)  
 1x Blunderbuss (30)  
 1x Bow (10)  
-=> 134GC also 36GC und 1 Wyrdstones angespart. 
+=> 134GC also 36GC und weiterhin 1 Wyrdstone angespart. 
 
 **Umequipen**  
 Der (noch) Leader bekommt das Wyrdstone Pendulum. Da Young Blood gibt seinen Bogen an einen Boy und erhält den Blunderbuss. Der zweite verbleibende Boy bekommt den neuen Bogen. 
