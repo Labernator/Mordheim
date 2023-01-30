@@ -174,3 +174,55 @@ Die werden die erste Anschaffung nach den ersten Spielen sein, um das Rout limit
 
 Mit viel Geld will man natürlich lieber Brethren.
 
+## Postgame 4
+
+Nach Langem mal wieder ein kleiner Fließtext um meine Gedanken festzuhalten.
+
+Ich stehe in der Kampagne ganz gut da. Dank Underdog im ersten Spiel und meiner durchaus aggressiven Spielweise, habe ich ordentlich XP gesammelt.
+Meine tainted ones haben 4! Advances pro Nase bekommen.
+Das ist nach 4 Spielen ein echt guter Schnitt.
+Leider machen sie damit Recht wenig. Keine strength skills, heißt keine sehr guten Advances...
+
+Der eine hat somit swordsman, Dodge und step aside sowie +1 LD
+Das ist ok. Aber 3 Skills auf den Typen ist 1-2 zuviel. Die brauchen characteristic advances.
+
+Der zweite hat es besser gemacht: 
++1 wound (damit 3!), +1 toughness, swordsman und Dodge. Das ist besser.
+Der ist damit Recht beefy. Aber leider macht er gegen t4 Typen auch nicht so viel (von Stefans t5 Helden reden wir gar nicht)
+
+Die anderen XP die ich gekriegt habe waren meist ok. Je ein Skill auf den brutes und einmal +1 wound und einmal +1 Uni/+1ws.
+Das ist ok bis gut. Warum ich einmal Dodge statt resilient genommen habe erschließt sich mir nicht mehr... Das war eher doof. Ich habe genug Nurglinge und brethren um Pfeile aufzusaugen.
+Die beiden haben nun einen Flegel nachgekauft (den sie in aller Ehrlichkeit direkt vom Start weg hätten haben sollen. Schlecht gebaut an der Stelle!)
+Damit ist klar, dass die beiden den Schaden austeilen müssen.
+Die Schwertmeister machen das gegen Philipps Menschen und Stefans Goblins vermutlich auch sehr zuverlässig.
+
+Der Leader ist leider eine Vollkatastrophe. Der spell ist Müll, aber dafür habe ich 2 Skills ausgegeben um ihn besser casten zu können.
+Wenn man die Shadowlord optional rule spielt, will man vermutlich jeden advance gamblen.
+2. Wahl wäre meine Ansicht nach quick shot. Das darf man bei uns auch nicht.
+Vermutlich hätte ich ihm entweder academics geben sollen und ihn behalten, oder pitfighter/resilient/Mighty Blow und dann mitten rein.
+So wie er jetzt ist, ist er eine liability...
+Oder ein wandelndes Mahnmal dass dieses Spiel witzige Wege findet um zu Balancen...
+
+Nun habe ich noch kein einziges Spiel gewonnen. Dafür an allen größeren Schlägereien teilgenommen. 
+Ich habe das Gefühl, dass mir der Verlauf Recht gibt. Klar, ich habe einige Male Dusel gehabt in der Postgame Sequenz.
+Speziell nach Spiel 2 als ich mich mit Philipp geklopft habe. Der pitfight war super lucky.
+Sonst stünde ich sehr viel schlechter da.
+Aber durch meinen aggressiven Spielstil habe ich viele XP geholt.
+Die kriegt man nunmal im Combat und weniger wenn man hinten sitzt und rumballert.
+Wie oben ausgeführt, muss ich nun noch lernen die XP besser einzusetzen.
+
+Jetzt habe ich mir noch einen Plaguebearer gekauft (für etwas mehr Punch) und eine Pistole (weil ich schon immer mal eine haben wollte.)
+
+Nach dem nächsten Spiel werde ich meinen kleinen Helden mit der Battlewound entlassen und nen neuen brethren promoten.
+
+Ich sehe mich fast gleich stark wie CZ im Moment (es hilft wenn er immer nur 2-3 Helden hat).
+Seine dudes sind super tough mit t5. Dafür habe ich viele multiwound Modelle.
+Er hat viele gobbos, ich jede Menge Gremlins.
+Sein Zauberer ist allerdings viel besser als meiner und die squigs finde ich Recht gefährlich für meine Dämonen Babies.
+Dafür haben die gobbos im Nahkampf nicht viel zu melden gegen meine Helden, wogegen dir Gremlins super annoying sind für seine.
+Wenn wir aufeinander treffen wird entscheidend sein, wie gut die squigs meine screener rausnehmen.
+Wenn die brutes ihre charges kriegen und die Gremlins seine Truppen kurz pinnen, habe ich gute Chancen.
+
+Die Menschen sehen auf dem Papier einfacher aus, wobei die Schwertmeister und der fiese Boss einem echt wehtun können.
+
+Mal sehen welches Szenario Philipp wählt.
