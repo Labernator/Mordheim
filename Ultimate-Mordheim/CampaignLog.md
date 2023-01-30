@@ -367,7 +367,7 @@ Elven Cloak für 50
 
 ###### kaufen
 
-2 Flegel für 30 gc
+2 Flegel für 25 gc (dank 5gc von Haggle)
 
 2 Hammer für 6 gc
 
@@ -377,7 +377,7 @@ Elven Cloak für 50
 
 1 Plaguebearer für 50 gc
 
-=> 0 gc
+=> 5 gc
 
 #### Philipp: 
 
