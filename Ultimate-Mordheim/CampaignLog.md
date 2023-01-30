@@ -2,7 +2,7 @@
 
 | Warband               | Size | # Wyrdstones (current) | Gold (current) |  # Wyrdstones (total) | Gold(total) | XP
 |-----------------------|:---:|:-----:|:-----------:|:-----:|:-----------:|:---:|
-| Stefan (OnG)          | 20/20 | 1 | 34 | 18 | 260 | 37
+| Stefan (OnG)          | 20/20 | 1 | 34 | 18 | 315 | 37
 | Marius (Carnival)     | 15/15 | 1 | 5 | 18 | 438 | 42
 | Philipp (Middenheim)  | 15/15 | 0 | 0 | 16 | 222 | 21
 
