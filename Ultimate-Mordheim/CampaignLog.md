@@ -2,7 +2,7 @@
 
 | Warband               | Size | # Wyrdstones (current) | Gold (current) |  # Wyrdstones (total) | Gold(total) | XP
 |-----------------------|:---:|:-----:|:-----------:|:-----:|:-----------:|:---:|
-| Stefan (OnG)          | 17/20 | 1 | 55 | 15 | 200 | 27
+| Stefan (OnG)          | 17/20 | 1 | 34 | 18 | 260 | 37
 | Marius (Carnival)     | 15/15 | 1 | 2 | 18 | 438 | 42
 | Philipp (Middenheim)  | 15/15 | 0 | 0 | 12 | 222 | 21
 
@@ -301,14 +301,17 @@ Marius:
 
 Leukemis: Old Battlewound
 
-Stefan: 1 Sacrificial Gobbo stirbt, 2 Orc Boys sterben 
+Stefan: 1 Sacrificial Gobbo stirbt, 2 Orc Boys sterben, Da Fist erhält Frenzy 
 
 Philipp: 1 Warrior??? stirbt
 
 ### XP and Advances
 #### Stefan:
 
-
+    Da Brute: 3 (Kill, Survive, Kiste) +1 BS  
+    Da Fist: 3 (2x Kill, Survive) Skill: Resilient  
+    Da Zappa: 2 (Kill, Survival)  
+    Da Young Blood: 2 (Kiste, Survival) Skill: Resilient  
 
 #### Marius:
 
@@ -327,7 +330,9 @@ Leukemis 1xp (überlebt)
 ### Exploration and Loot
 
 #### Stefan: 
-
+3 Wyrdstones  
+333: 7GC  
+53GC, Wyrdstone Pendulum
 
 #### Marius: 
 4 shards + 14 gc + Elven Cloak
@@ -339,9 +344,16 @@ Leukemis 1xp (überlebt)
 
 #### Stefan: 
 ###### verkaufen
-
+3 Wyrdstones (55, weil ich tatsächlich unter das 16+ Limit gefallen bin)  
+=> 60GC (Szenario) + 55 (Exploration) + 55 aus der Kasse => 170 GC
 
 ###### kaufen
+4x Squigs (60)
+2x Goblins (30)
+2x Dagger (4)
+1x Blunderbuss (30)
+1x Bow (10)
+=> 134GC also 36GC und weiterhin 1 Wyrdstone angespart.
 
 #### Marius: 
 
