@@ -63,7 +63,7 @@ henchmen:
       armour:
       rules:
 
-- group: The Demonic Minions (1 Plaguebearer) [0XP]
+    - group: The Demonic Minions (1 Plaguebearer) [0XP]
       stats: M4, WS4, BS3, S4, T4, W1, I4, A2, Ld10, Sv-
       weapons:
       armour:
