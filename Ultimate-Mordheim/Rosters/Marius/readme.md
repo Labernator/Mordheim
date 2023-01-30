@@ -224,5 +224,7 @@ Wenn wir aufeinander treffen wird entscheidend sein, wie gut die squigs meine sc
 Wenn die brutes ihre charges kriegen und die Gremlins seine Truppen kurz pinnen, habe ich gute Chancen.
 
 Die Menschen sehen auf dem Papier einfacher aus, wobei die Schwertmeister und der fiese Boss einem echt wehtun können.
-
+Liegt vermutlich daran dass die Post Game sequence noch fehlt.
+Stefans warband war vorige Runde auch sehr viel weniger angsteinflößend.
+Und wenn die Menschen ein paar gute Skills kriegen sind die auch schon wieder schwerer zu bespielen.
 Mal sehen welches Szenario Philipp wählt.
