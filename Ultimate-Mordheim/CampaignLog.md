@@ -213,7 +213,9 @@ Leukemis (Brethren promoted) => Skill Listen: Strength & Academic => Skill: Hagg
 
 ### Philipp:
 Daario +2Exp => +1  BS
+
 Prendhal na Ghezn +3 Exp => +1 T
+
 Widower => +2Exp => +1 WS
 
 ### Exploration and Loot
@@ -326,12 +328,17 @@ Diphtodis 2xp (überlebt, 1 Kiste)
 Leukemis 1xp (überlebt)
 
 ### Philipp:
-Daario 5xp +Skill (nibmle)
-Saalor 2xp + Stupid
-Pendahl +3xp +SKill (Resilient)
+Daario 5xp +Skill (Nibmle)
+
+Saalor 2xp + Stupid -> wird durch neuen Champion ersetzt
+
+Pendahl +3xp +Skill (Resilient)
+
 Loki +2xp +1 WS
-Widower + 3xp + Skill
-Jokin +1 xp
+
+Widower + 3xp + Skill (Mighty Blow)
+
+Jokin +2 xp + 1Ld
 ### Exploration and Loot
 
 #### Stefan: 
