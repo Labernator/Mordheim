@@ -4,7 +4,7 @@
 |-----------------------|:---:|:-----:|:-----------:|:-----:|:-----------:|:---:|
 | Stefan (OnG)          | 20/20 | 1 | 34 | 18 | 315 | 37
 | Marius (Carnival)     | 15/15 | 1 | 5 | 18 | 438 | 42
-| Philipp (Middenheim)  | 15/15 | 0 | 0 | 16 | 222 | 21
+| Philipp (Middenheim)  | 15/15 | 0 | 0 | 16 | 315 | 35
 
 
 ## Post game sequence Game 1
@@ -303,7 +303,7 @@ Leukemis: Old Battlewound
 
 Stefan: 1 Sacrificial Gobbo stirbt, 2 Orc Boys sterben, Da Fist erhält Frenzy 
 
-Philipp: 1 Warrior??? stirbt
+Philipp: 1 Warrior stirbt, Sallor stupid
 
 ### XP and Advances
 #### Stefan:
@@ -326,7 +326,12 @@ Diphtodis 2xp (überlebt, 1 Kiste)
 Leukemis 1xp (überlebt)
 
 ### Philipp:
-
+Daario 5xp +Skill (nibmle)
+Saalor 2xp + Stupid
+Pendahl +3xp +SKill (Resilient)
+Loki +2xp +1 WS
+Widower + 3xp + Skill
+Jokin +1 xp
 ### Exploration and Loot
 
 #### Stefan: 
@@ -338,7 +343,7 @@ Leukemis 1xp (überlebt)
 4 shards + 14 gc + Elven Cloak
 
 #### Philipp: 
-4 Shards + 33gc + Schwert + Schild + Toughened Leathers
+4 Shards + 33gc + Schwert + Schild + Toughened Leathers+ double handeld weapon
 
 ### Trading
 
@@ -382,7 +387,14 @@ Elven Cloak für 50
 #### Philipp: 
 
 ###### verkaufen
+3 Shards für 55
+Double handeld weapon -> 8gc
 
 
 ###### kaufen
+Crossbow 25gc
+Warrior 25gc
+Champion 35gc
+Sword 10 gc
 
+=>1gc
