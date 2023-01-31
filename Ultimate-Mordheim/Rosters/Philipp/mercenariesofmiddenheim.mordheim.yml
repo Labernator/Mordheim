@@ -1,50 +1,50 @@
 warband: Stormcrows (Mercenaries of Middenheim)
 campaign: 0
-gc: 0
-shards: 0
-equipment: 
+gc: 1
+shards: 1
+equipment: Shield
 objective: ""
 alignment: ""
 
 heros:
-    - hero: Daario Naharis (Mercenary Captain) [29XP]
+    - hero: Daario Naharis (Mercenary Captain) [34XP]
       stats: M4, WS4, BS4, S4, T3, W1, I5, A2, Ld8, Sv-
       weapons: Halberd, Bow
       armour: Rabbits Foot
-      rules: Leader, Wyrdstone Hunter
+      rules: Leader, Wyrdstone Hunter, Nimble
       skilllists: Strength, Shooting, Academic, Combat, Speed
 
-    - hero: Sallor the 2nd (Champion) [8XP]
+    - hero: Sallor the 3nd (Champion) [8XP]
       stats: M4, WS4, BS3, S4, T3, W1, I3, A1, Ld7, Sv-
-      weapons: Halberd
+      weapons: Halberd, Bow
       armour: 
-      rules:
+      rules: 
       skilllists: Combat, Strength, Speed
 
-    - hero: Prendahl na Ghezn (Champion) [11XP]
+    - hero: Prendahl na Ghezn (Champion) [14XP]
       stats: M4, WS4, BS3, S4, T4, W1, I3, A1, Ld7, Sv-
       weapons: Halberd
       armour:
-      rules:
+      rules: Resilient
       skilllists: Combat, Strength, Speed
      
-    - hero: Loki (Swordsman) [0XP]
-      stats: M4, WS4, BS3, T3, W1, I3, A1, Ld8, Sv-
+    - hero: Loki (Swordsman) [2XP]
+      stats: M4, WS5, BS3, T3, W1, I3, A1, Ld8, Sv-
       weapons: Sword, Sword
-      armour:
+      armour: Toughned Leather
       rules: Expert Sowrdsman
       skillists: Combat, Strength
 
-    - hero: Widower (Youngblood) [4XP]
+    - hero: Widower (Youngblood) [7XP]
       stats: M4, WS3, BS2, S3, T3, W1, I3, A1, Ld6, Sv-
       weapons: Sword, Sword
       armour:
-      rules: Pit Fighter
+      rules: Pit Fighter, Mighty Blow
       skilllists: Combat, Strength, Speed
       
     - hero: Jokin the 2nd (Youngblood) [2XP]
       stats: M4, WS2, BS2, S3, T4, W1, I3, A1, Ld6, Sv-
-      weapons: Mace, Mace
+      weapons: Sword, Sowrd
       armour:
       rules:
       skilllists: Combat, Strength, Speed
