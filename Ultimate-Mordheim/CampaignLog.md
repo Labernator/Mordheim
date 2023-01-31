@@ -4,7 +4,7 @@
 |-----------------------|:---:|:-----:|:-----------:|:-----:|:-----------:|:---:|
 | Stefan (OnG)          | 20/20 | 1 | 34 | 18 | 315 | 37
 | Marius (Carnival)     | 15/15 | 1 | 5 | 18 | 438 | 42
-| Philipp (Middenheim)  | 15/15 | 0 | 0 | 16 | 315 | 35
+| Philipp (Middenheim)  | 15/15 | 1 | 12 | 16 | 322 | 35
 
 
 ## Post game sequence Game 1
@@ -395,13 +395,15 @@ Elven Cloak für 50
 
 ###### verkaufen
 3 Shards für 55
-Double handeld weapon -> 8gc
+Double handeld weapon -> 15gc
+Sword -> 10gc
 
 
 ###### kaufen
 Crossbow 25gc
 Warrior 25gc
 Champion 35gc
-Sword 10 gc
+Halberd 10 gc
+2 Maces 6gc
 
-=>1gc
+=>12gc
