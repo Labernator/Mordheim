@@ -10,7 +10,7 @@ heros:
     - hero: Daario Naharis (Mercenary Captain) [34XP]
       stats: M4, WS4, BS4, S4, T3, W1, I5, A2, Ld8, Sv-
       weapons: Halberd, Crossbow
-      armour: Rabbits Foot, Toughned Leather, Shield
+      armour: Rabbits Foot, Toughened Leather, Shield
       rules: Leader, Wyrdstone Hunter, Nimble
       skilllists: Strength, Shooting, Academic, Combat, Speed
 
@@ -33,7 +33,7 @@ heros:
       weapons: Sword, Sword
       armour: 
       rules: Expert Swordsman
-      skillists: Combat, Strength
+      skilllists: Combat, Strength
 
     - hero: Widower (Youngblood) [7XP]
       stats: M4, WS3, BS2, S3, T3, W1, I3, A1, Ld6, Sv-
