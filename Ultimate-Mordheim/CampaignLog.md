@@ -2,7 +2,7 @@
 
 | Warband               | Size | # Wyrdstones (current) | Gold (current) |  # Wyrdstones (total) | Gold(total) | XP
 |-----------------------|:---:|:-----:|:-----------:|:-----:|:-----------:|:---:|
-| Stefan (OnG)          | 20/20 | 1 | 34 | 18 | 315 | 37
+| Stefan (OnG)          | 20/20 | 1 | 10 | 18 | 315 | 37
 | Marius (Carnival)     | 15/15 | 1 | 5 | 18 | 438 | 42
 | Philipp (Middenheim)  | 15/15 | 1 | 12 | 16 | 322 | 35
 
@@ -362,10 +362,10 @@ Jokin +2 xp + 1Ld
 ###### kaufen
 4x Squigs (60)
 2x Goblins (30)
-2x Dagger (4)
+3x Halberd (30)
 1x Blunderbuss (30)
 1x Bow (10)
-=> 134GC also 36GC und weiterhin 1 Wyrdstone angespart.
+=> 160GC also 10GC und weiterhin 1 Wyrdstone angespart.
 
 #### Marius: 
 
