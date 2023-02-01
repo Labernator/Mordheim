@@ -212,13 +212,13 @@ Da Fist erhält Frenzy (nice!!)
 **Einkaufen**  
 4x Squigs (60)  
 2x Goblins (30)  
-2x Dagger (4)  
+3x Halberd (30)  
 1x Blunderbuss (30)  
 1x Bow (10)  
-=> 134GC also 36GC und weiterhin 1 Wyrdstone angespart. 
+=> 160GC also 10GC und weiterhin 1 Wyrdstone angespart. 
 
 **Umequipen**  
-Der (noch) Leader bekommt das Wyrdstone Pendulum. Da Young Blood gibt seinen Bogen an einen Boy und erhält den Blunderbuss. Der zweite verbleibende Boy bekommt den neuen Bogen. 
+Der (noch) Leader bekommt das Wyrdstone Pendulum. Da Young Blood gibt seinen Bogen an einen Boy und erhält den Blunderbuss. Der zweite verbleibende Boy bekommt den neuen Bogen. Brute, Zappa und Young Blood kriegen eine Helebarde. Zappas Mace kommt in die Kiste, Brute und Young Blood geben ihren Dolch an die neuen Goblins.
 
 **Gedanken**  
 Tja, das war teuer. Irgendwie fühlt sich das Szenario wie eine verpasste Chance für mich an. Das war **das** Szenario um richtig Gold zu machen und in Richtung Troll zu kommen.  
@@ -226,15 +226,15 @@ Leider war ich vermutlich zu schlecht aufgestellt. Meine Warband war zu verteilt
 Mein Zappa hat zwar getan was er konnte und auch die Crossbows haben (überraschend) gut funktioniert. Aber am Ende geht so eine Zwei-Fronten-Konfrontation selten gut aus. Der Tod der beiden Boys in der Post-Game Sequence hat das eigentlich gute Ergebnis dann deutlich nach unten korrigiert.  
 Ich habe meine Warband auch immer noch nicht ganz durchschaut. Irgendwie machen Goblins alles genau so gut wie Orks (bis auf T4) für quasi den halben Preis. Und sie zählen nur halb gegen das Rout Limit.  
 Will ich dann überhaupt Henchmen Orks haben? Mein jetziger Stand ist: Nein. Dafür noch ein paar Squigs als Counter gegen die Nurglings. Die sind nämlich echt annoying für alles andere.  
-Trotz dem mittelmäßigen Gold Zugewinn ist die Warband gefühlt ein gutes Stück stärker geworden: +1 BS für einen Crossbow Held, 2x Resilient (haben jetzt alle Helden), Blunderbuss gefunden, Frenzy auf dem Typ mit 2 Attacken. Da geht was :)  
+Trotz dem mittelmäßigen Gold Zugewinn ist die Warband gefühlt ein gutes Stück stärker geworden: +1 BS für einen Crossbow Held, 2x Resilient (haben jetzt alle Helden), Blunderbuss gefunden, Frenzy auf dem Typ mit 2 Attacken. Endlich ein paar S4 Attacken. Da geht was :)  
 
 Gold verloren durch meinen abwesenden Leader: nichts. Ha. In Summe 18GC, 1 Wyrdstones, 1 LA.  
 
 **Warband**  
-**Da Boss Brute**: 2x Dagger, Crossbow, Rabbits Foot, Wyrdstone Pendulum  
+**Da Boss Brute**: Halberd, Dagger, Crossbow, Rabbits Foot, Wyrdstone Pendulum  
 **Da Fist**: Halberd, Dagger, Crossbow, Rabbits Foot  
-**Da Zappa**: Mace, Dagger, Rabbits Foot  
-**Da Young Blood**: 2x Dagger, Blunderbuss, Rabbits Foot  
+**Da Zappa**: Halberd, Dagger, Rabbits Foot  
+**Da Young Blood**: Halberd, Dagger, Blunderbuss, Rabbits Foot  
 **2 Orc Boyz**: Bow, 2x Dagger  
 **5 Sacrificial Goblins**: 2x Dagger  
 **5 Bowlins**: 2x Dagger, Short Bow  
