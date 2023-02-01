@@ -1,6 +1,6 @@
 warband: Uruk-Hai (Orcs & Goblins)
 campaign: 0
-gc: 34
+gc: 10
 shards: 1
 objective: ""
 alignment: ""
@@ -8,7 +8,7 @@ alignment: ""
 heros:
   - hero: Da Brute (Big 'Un) [28XP]
     stats: M4, WS4, BS4, S3, T4, W1, I4, A1, Ld8, Sv-
-    weapons: Dagger, Dagger, Crossbow
+    weapons: Halberd, Dagger, Crossbow
     armour: Rabbits Foot, Wyrdstone Pendulum
     rules: Leader (T-1), Nimble, Resilient
     skilllists: Strength, Shooting, Combat, Special
@@ -22,14 +22,14 @@ heros:
 
   - hero: Zappa (Orc Shaman) [19XP]
     stats: M4, WS3, BS3, S3, T4, W1, I3, A1, Ld7, Sv-
-    weapons: Mace, Dagger
+    weapons: Halberd, Dagger
     armour: Rabbits Foot
     rules: Wizard (Zzap!), Resilient, Mind Focus, Pit Fighter, Fearsome
     skilllists: Strength, Special
 
   - hero: Da Young Blood (Orc Boy) [2XP]
     stats: M4, WS3, BS3, S3, T4, W1, I2, A1, Ld7, Sv-
-    weapons: Dagger, Dagger, Blunderbuss
+    weapons: Halberd, Dagger, Blunderbuss
     armour: Rabbits Foot
     rules: Weapons Expert, Resilient
     skilllists: Strength, Shooting
