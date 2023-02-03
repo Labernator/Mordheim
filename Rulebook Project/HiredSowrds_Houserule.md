@@ -18,10 +18,15 @@
  - Undead & Tomb Guardians: Ogre Bodyguard, Warlock,  Human Scout, Highwayman, Witch, Imperial Assassine, Witch, Pathfinder, DE Assassine, Old Prospector, Nomad Scout
 
 ## Zusammengefasste Warbands
- - "Mercenaries" aka äquivalent zu Mercenaries: Averlanders, Kislevites, Marienburgers, Middenheimers, Reiklanders, Miragleans, Remasens, Trantios, Hochland Bandits
- - "Non-evil Humans" aka Menschen ohne Einschränkungen: Gunnery School of Nuln, Horned Hunters, Pirates, Bretonnian Knights, Arabian Tomb Raiders
+ - "Mercenaries" aka äquivalent zu Mercenaries: Averlanders, Kislevites, Marienburgers, Reiklanders, Miragleans, Remasens, Trantios, Hochland Bandits, Pirates 
+ - "Non-evil Humans" aka Menschen ohne Einschränkungen: Gunnery School of Nuln, Horned Hunters, Bretonnian Knights, Arabian Tomb Raiders
+
+ - Middenheimer: Mercenaries + Wolf Priest of Ulric 
+ - Pit Fighter: non-Evil Humans - Elf Ranger (der aber nur von den Mercenaries angeheuert werden darf. Sollten sie dann wie Mercenaries behandelt werden?) 
+ - The Outlaws of Stirwood Forest: non-Evil Humans ohne Bounty Hunter und Norse Shaman
 
 ## Diskussion
  - Sollen Hired Swords die für alle zur Verfügung stehen (z.B. die Scouts) auch für Untote und Skaven zur Verfüung stehen?
  - Sollen wir Norse Explorers analof zu Possessed behandeln?
  - Findet ihr die Hausregeln zu Dark Elves und Lizardmen gut?
+ - Sind Pit Fighter Mercenaries? 
