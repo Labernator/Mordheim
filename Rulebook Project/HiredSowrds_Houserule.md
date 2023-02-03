@@ -5,6 +5,7 @@
  - Dark Elves dürfen nur Dark Elves HS anheuern. Weil: Wer will schon mit blutrünstigen Elfen zusammenarbeiten
  - Norse Explorers sind evil
  - Hired Swords die für alle zur Verfügung stehen (z.B. die Scouts) gelten nicht für Warbands bei denen die Hired Swords in der Warband beschränkt sind.
+ - Old Prospector, Pathfinder, Nomad Scout und Human Scout haben Angst vor Ratten und Vampiren
 
 ### Warbands mit wenigen HS
  - Amazons: keine
@@ -14,8 +15,8 @@
  - Dark Elves: Dark Elf Assassine
  - Ostlander: Ogre Bodyguard
  - Greenskins (Black Orcs, Forest Goblins & Orc Mob): Ogre Bodyguard, Pit Fighter, Warlock, Black Orc
- - Skaven (Eshin & Pestilens): Warlock, Human Scout, Highwayman, Witch, Rat Ogre, Pathfinder, DE Assassine, Old Prospector, Nomad Scout, Thief
- - Undead & Tomb Guardians: Ogre Bodyguard, Warlock,  Human Scout, Highwayman, Witch, Imperial Assassine, Witch, Pathfinder, DE Assassine, Old Prospector, Nomad Scout
+ - Skaven (Eshin & Pestilens): Warlock, Highwayman, Witch, Rat Ogre, DE Assassine, Thief
+ - Undead & Tomb Guardians: Ogre Bodyguard, Warlock, Highwayman, Witch, Imperial Assassine, Witch, DE Assassine
 
 ## Zusammengefasste Warbands
  - "Mercenaries" aka äquivalent zu Mercenaries: Averlanders, Kislevites, Marienburgers, Reiklanders, Miragleans, Remasens, Trantios, Hochland Bandits, Pirates 
