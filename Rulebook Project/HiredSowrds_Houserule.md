@@ -14,6 +14,7 @@
  - Lizardmen: Chameleon Skink
  - Dark Elves: Dark Elf Assassine
  - Ostlander: Ogre Bodyguard
+ - Imperial Outriders: Freelancer, Roadwarden
  - Greenskins (Black Orcs, Forest Goblins & Orc Mob): Ogre Bodyguard, Pit Fighter, Warlock, Black Orc
  - Skaven (Eshin & Pestilens): Warlock, Highwayman, Witch, Rat Ogre, DE Assassine, Thief
  - Undead & Tomb Guardians: Ogre Bodyguard, Warlock, Highwayman, Witch, Imperial Assassine, Witch, DE Assassine
