@@ -274,7 +274,7 @@ Young Blood -1I
 => 75GC also 16GC angespart. 
 
 **Umequipen**  
-Der zurückgekehrte Leader bekommt das Wyrdstone Pendulum. Dazu noch einen Bow vom Green Horn, ein Rabbits Foot, das Cookbook und die Mace aus der Kiste. Da Green Horn erhält für seinen Bogen den Blunderbuss und auch einen Rabbits Foot. Der zweite verbleibende Boy bekommt den neuen Bogen. Brute, Zappa und Young Blood kriegen eine Helebarde. Zappas Mace kommt in die Kiste, Brute und Young Blood geben ihren Dolch an die neuen Goblins.
+Der zurückgekehrte Leader bekommt das Wyrdstone Pendulum. Dazu noch einen Bow vom Green Horn, ein Rabbits Foot, das Cookbook und die Mace aus der Kiste. Da Green Horn erhält für seinen Bogen den Blunderbuss und auch einen Rabbits Foot.
 
 **Gedanken**  
 Wow. Das war absurd. Meine Warband ist echt eine two-man-show. Der Zappa und Da (frenzy) Fist habe alles gemacht. Ich habe absurd high gerollt was den Zapp Spell angeht und 4 S4, WS 4 Attacken sind einfach nicht ok. An einer sehr kritischen Stelle hat Laber seine zwei Attacken mit dem Flail Typ nicht gehittet. Auf die 4. Rerollable. Better lucky than good, I guess. Das Monster was der Hippogreif, was vermutlich das einfachste Monster ist, dass man da rollen kann. Er hat mir keinen Schaden gemacht und ist in der ersten Runde direkt umgekippt. Und dann habe ich aufgehört highzurollen. Der durchaus potenziell gamechanging Loot, den man aus dem Szenario ziehen kann war bei mir: 23GC und ein Schwert. Das ist krass schlecht. War wohl eher kein Monster ssondern eine Hauskatze...
