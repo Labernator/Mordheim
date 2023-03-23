@@ -284,7 +284,7 @@ Aber so gleicht sich in Mordheim irgendwie doch wieder alles aus. XP gefarmed ha
 Gold verloren durch meinen abwesenden Leader: Habe ich nicht getracked.   
 
 **Warband**  
-**Da Boss Maan**: Mace, Dagger, Bow, Rabbits Foot, Wyrdstone Pendulum, Halfling Cookbook  
+**Boss Maan**: Mace, Dagger, Bow, Rabbits Foot, Wyrdstone Pendulum, Halfling Cookbook  
 **Da Brute**: Halberd, Dagger, Crossbow, Rabbits Foot  
 **Da Fist**: Halberd, Dagger, Crossbow, Rabbits Foot  
 **Da Zappa**: Halberd, Dagger, Rabbits Foot  
@@ -294,3 +294,19 @@ Gold verloren durch meinen abwesenden Leader: Habe ich nicht getracked.
 **6 Sacrificial Goblins**: 2x Dagger  
 **4 Bowlins**: 2x Dagger, Short Bow  
 **4 Squigs**
+
+## Finaler Stand O&G nach fünf Spielen
+Die initiale Frage vor der Kampagne war: Wie gut sind O&G. Die Antwort für mich ist: Ziemlich gut! Viele Bodies sind nie schlecht, das Shooting ist okay, man hat den Troll, aber vor allem hat man ein absurdes Rout-Limit, weil tote Goblins nur halb zählen. Damit kann man viele Situationen ausgrinden. Ist zwar teuer, aber es gewinnt.
+
+Squigs sind okay, aber echt unhandlich zu benutzen. Orks mit Bögen kaufen ist es irgendwie nicht wert, wenn man für fast die Hälfte auch Goblins mit Short Bows kriegt. Die Helden haben gute Skilllisten, die Magie ist ziemlich stark. Animosity ist vor allem lästig, weil man viel würfeln und sehr viel Zeit/Planung in sein Movement stecken muss, aber kein schlimmer Nachteil. 4 Heroes und viele Bodies heißt, dass man meistens nicht so viel aus der Exploration Phase mitnimmt, aber deswegen gewinnt man ja Szenarien :)
+
+Meine Warband ist allerdings viiiiel stärker als es eine "normale" Ork Warband sein sollte. Das hat zwei Gründe: 
+-	Im Great Library Szenario hat mein Shaman den Mind Focus Skill bekommen, auf den er sonst keinen Zugriff hat. Das macht Zzapp massiv viel besser
+-	Nach dem Raven Barracks Szenario hat mein zwei Attacken Hero bei den Injury-Rolls Franzy bekommen. Und das ist halt hart busted.
+Diese beiden Helden haben im letzten Szenario zusammen 7 Kills gefarmed. Die beiden hinter einem Goblin Meatshield sind die Hard Carries!
+
+Mein Leader ist im ersten Spiel ausgefallen und wäre jetzt wieder dabei und auch der sechste Held wäre jetzt am Start. Das heißt auch Geld klappt jetzt viel besser und mit 21 Mann habe ich auch das 6er Rout Limit erreicht. Das ist beides auch ein echter Power Spike.
+
+Nur aus persönlichem Interesse hier noch in nackten Zahlen, was ich in fünf Spielen erreicht habe:
+-	51XP generiert. Was beachtlich ist wenn man bedenkt, dass ich teilweise nur mit zwei Helden unterwegs war. Und nie den Underdog Bonus bekommen habe.
+-	Meine Warband ist jetzt 833GC wert (random Faktor von rare Items ignoriert). Netto also 333 (hübsch) mehr als zu beginn. Im Schnitt also 66GC Netto pro Spiel gewachsen. Das ist auf jeden Fall auch ziemlich gut!
