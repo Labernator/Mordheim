@@ -148,7 +148,7 @@ Gold verloren durch meinen abwesenden Leader: 1 Wyrdstone (verkauft für 15 GC) 
 **XP**  
  - Da Fist: 1 (Survival)    
  - Da Brute: 3 (Kill, Winning Leader, Survival) **Skill: Resilient**  
- - Da Young Blood: Orc Boy Promoted! Skilllisten: Strength, Shooting **Skill: Weapons Eypert**  
+ - Da Young Blood: Orc Boy Promoted! Skilllisten: Strength, Shooting **Skill: Weapons Expert**  
 
 **Szenario Loot**  
 4 Wyrdstones (3 erwürfelt und einen geschossen)  
@@ -167,7 +167,7 @@ Gold verloren durch meinen abwesenden Leader: 1 Wyrdstone (verkauft für 15 GC) 
 => 20GC also 55GC und 1 Wyrdstones angespart. 
 
 **Umequipen**  
-Da Young Blood bekommt den gekauften Rabbits Foot und den Bogen aus der Truhe. Da Fist gibt im lustigen Ringtausch seine Mace wieder an Zappa zurück und bekommt dafür die Helebarde.  
+Da Young Blood bekommt den gekauften Rabbits Foot und den Bogen aus der Truhe. Da Fist gibt im lustigen Ringtausch seine Mace wieder an Zappa zurück und bekommt dafür die Hellebarde.  
 
 **Gedanken**  
 Tja, das war ein Spiel. Technisch gesehen. Meine Orks haben sich am Anfang vor allem mit sich selbst gekämpft. Und da Philipp (unabsichtlich) sich deutlich näher bei Laber aufgestellt hat, bin ich erst dann zur Action dazugestoßen, als schon alle routen wollten.   
@@ -206,7 +206,7 @@ Da Fist erhält Frenzy (nice!!)
 333: 7GC   
 
 **Verkaufen**  
-3 Wyrdstones (55, weil ich tatsächlich unter das 16+ Limit gefallen bin)  
+3 Wyrdstones: 55GC (weil ich tatsächlich unter das 16+ Limit gefallen bin)  
  => 60GC (Szenario) + 55 (Exploration) + 55 aus der Kasse => 170 GC  
 
 **Einkaufen**  
@@ -218,7 +218,7 @@ Da Fist erhält Frenzy (nice!!)
 => 160GC also 10GC und weiterhin 1 Wyrdstone angespart. 
 
 **Umequipen**  
-Der (noch) Leader bekommt das Wyrdstone Pendulum. Da Young Blood gibt seinen Bogen an einen Boy und erhält den Blunderbuss. Der zweite verbleibende Boy bekommt den neuen Bogen. Brute, Zappa und Young Blood kriegen eine Helebarde. Zappas Mace kommt in die Kiste, Brute und Young Blood geben ihren Dolch an die neuen Goblins.
+Der (noch) Leader bekommt das Wyrdstone Pendulum. Da Young Blood gibt seinen Bogen an einen Boy und erhält den Blunderbuss. Der zweite verbleibende Boy bekommt den neuen Bogen. Brute, Zappa und Young Blood kriegen eine Hellebarde. Zappas Mace kommt in die Kiste, Brute und Young Blood geben ihren Dolch an die neuen Goblins.
 
 **Gedanken**  
 Tja, das war teuer. Irgendwie fühlt sich das Szenario wie eine verpasste Chance für mich an. Das war **das** Szenario um richtig Gold zu machen und in Richtung Troll zu kommen.  
@@ -238,4 +238,59 @@ Gold verloren durch meinen abwesenden Leader: nichts. Ha. In Summe 18GC, 1 Wyrds
 **2 Orc Boyz**: Bow, 2x Dagger  
 **5 Sacrificial Goblins**: 2x Dagger  
 **5 Bowlins**: 2x Dagger, Short Bow  
+**4 Squigs**
+
+
+## 22.03.23 Monster Hunt 
+
+**Injuries**  
+1 Squig stirbt  
+Young Blood -1I  
+
+**XP**  
+ - Da Brute: 2 (Winning Leader, Survive)   
+ - Da Fist: 5 (3x Kill, Survive, Punched a Monster) **+1A** (oh boy!)
+ - Da Zappa: 5 (4x Kill (!!), Survival) **+1T, Skill: Mighty Blow**
+ - Da Young Blood: 2 (Kill, Survival) **Skill: Fearsome**
+ - Da Green Horn: Orc Boy Promoted! Skilllisten: Strength, Shooting **Skill: Weapons Expert**  
+
+**Szenario Loot**  
+23GC, Schwert  
+
+**Exploration**  
+2 Wyrdstones  
+1111: Blunderbuss   
+
+**Verkaufen**  
+3 Wyrdstones: 50GC (eine hatt ich noch auf der Bank)  
+1 Sword: 5GC
+1 Short Bow: 3GC
+ => 23GC (Szenario) + 50 (Exploration) + 8 (Verkäufe) + 10 aus der Kasse => 91 GC  
+
+**Einkaufen**  
+1x Squigs (15)  
+2x Rabbits Foot (20)  
+1x Halfling Cookbook (40)  
+=> 75GC also 16GC angespart. 
+
+**Umequipen**  
+Der zurückgekehrte Leader bekommt das Wyrdstone Pendulum. Dazu noch einen Bow vom Green Horn, ein Rabbits Foot, das Cookbook und die Mace aus der Kiste. Da Green Horn erhält für seinen Bogen den Blunderbuss und auch einen Rabbits Foot. Der zweite verbleibende Boy bekommt den neuen Bogen. Brute, Zappa und Young Blood kriegen eine Helebarde. Zappas Mace kommt in die Kiste, Brute und Young Blood geben ihren Dolch an die neuen Goblins.
+
+**Gedanken**  
+Wow. Das war absurd. Meine Warband ist echt eine two-man-show. Der Zappa und Da (frenzy) Fist habe alles gemacht. Ich habe absurd high gerollt was den Zapp Spell angeht und 4 S4, WS 4 Attacken sind einfach nicht ok. An einer sehr kritischen Stelle hat Laber seine zwei Attacken mit dem Flail Typ nicht gehittet. Auf die 4. Rerollable. Better lucky than good, I guess. Das Monster was der Hippogreif, was vermutlich das einfachste Monster ist, dass man da rollen kann. Er hat mir keinen Schaden gemacht und ist in der ersten Runde direkt umgekippt. Und dann habe ich aufgehört highzurollen. Der durchaus potenziell gamechanging Loot, den man aus dem Szenario ziehen kann war bei mir: 23GC und ein Schwert. Das ist krass schlecht. War wohl eher kein Monster ssondern eine Hauskatze...
+
+Aber so gleicht sich in Mordheim irgendwie doch wieder alles aus. XP gefarmed haben die beiden Heroes trotzdem sehr absurd und die Advances waren auch extrem gut. Und nach dem Spiel bin ich dann endlich auch auf 6 Helden. Nice!! Und das 6er Rout-Limit ist auch erreicht.
+
+Gold verloren durch meinen abwesenden Leader: Habe ich nicht getracked.   
+
+**Warband**  
+**Da Boss Maan**: Mace, Dagger, Bow, Rabbits Foot, Wyrdstone Pendulum, Halfling Cookbook  
+**Da Brute**: Halberd, Dagger, Crossbow, Rabbits Foot  
+**Da Fist**: Halberd, Dagger, Crossbow, Rabbits Foot  
+**Da Zappa**: Halberd, Dagger, Rabbits Foot  
+**Da Young Blood**: Halberd, Dagger, Blunderbuss, Rabbits Foot  
+**Da Green Horn**: 2x Dagger, Blunderbuss, Rabbits Foot  
+**Orc Boy**: Bow, 2x Dagger  
+**6 Sacrificial Goblins**: 2x Dagger  
+**4 Bowlins**: 2x Dagger, Short Bow  
 **4 Squigs**
