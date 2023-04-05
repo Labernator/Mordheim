@@ -1,4 +1,4 @@
-warband: Uruk-Hai (Marienburg Mercenaries)
+warband: Bahamuths Ruf (Marienburg Mercenaries)
 campaign: 0
 gc: 1
 shards: 0
@@ -61,7 +61,7 @@ heros:
     skilllists: Combat, Strength
     weapons: Hammer
     armour: Heavy Armour
-    rules: Runesmith (), Armourer, Armour, Hard to Kill, Hard Head
+    rules: Runesmith (Striking), Armourer, Armour, Hard to Kill, Hard Head
     hiredsword: true
       
 henchmen:
