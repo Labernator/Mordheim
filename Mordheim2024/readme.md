@@ -21,6 +21,10 @@ Marius: I dislike the random aspect of the mordheim advances. It feels bad to ge
 
 Marius: Crits are a problem in my opinion... period. Armour is completely irrelevant when you have crits.
 
+## Injury rolls
+
+Marius: I love this necromunda mechanic. Can we port that somehow? 
+
 ## Hero wounds
 
 Marius: it feels strange that most heroes only have 1 wound. I like the necromunda heroes with at least 2. Maybe we can modify something here (+1 Wound for all heros on creation for another 30gc or something like this)
