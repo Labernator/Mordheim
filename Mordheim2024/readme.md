@@ -44,6 +44,7 @@ Marius: good one
 
 ### Dual Wielding
 > When using two weapons in melee, both weapons are resolved at -1 to hit (Core S. 35)
+
 Marius: good one
 
 ### Henchmen are only here for the rations
