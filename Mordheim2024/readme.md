@@ -33,6 +33,10 @@ Marius: it feels strange that most heroes only have 1 wound. I like the necromun
 
 Marius: We need to shorten the campaign to max. 8-9 games. Otherwise we will NEVER finish it.
 
+## Fixed income (Bedingungsloses Grundeinkommen)
+
+Stefan: Necromunda with its territories introduced fixed income for all bands. This is a good mechanism, we should port to Mordheim so the "rich get richer" is not that big a problem as in the past
+
 ## Old House rules revisited
 Here is the list of house rules from our last campaign:
 
@@ -98,7 +102,7 @@ Marius: good one
 ### Szenario Auswahl
 > The warband with the lowest warband rating may choose the next scenario. If two or more warbands are tied for last place, roll off to see who may decide.
 
-Marius: good one
+Marius: bad one. We want to have campaign progression
 
 ### The Hero Save
 > After rolling all the injuries of your warband, and contemplating the total annihilation that would soon follow, the player may decide to call upon the Hero Save.\nIn doing so, the player decides to ignore all the injuries to all the models in the warband, but also renounces to all the experience gains of the game. All other post battle sequence steps take place as normal.\nNote: The exploration can therefore be made by all the heroes in the warband, as none was removed from the game.
