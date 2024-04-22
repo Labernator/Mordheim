@@ -111,8 +111,26 @@ Marius: We need to shorten the campaign to max. 8-9 games. Otherwise we will NEV
 ## Fixed income (Bedingungsloses Grundeinkommen)
 
 Stefan: Necromunda with its territories introduced fixed income for all bands. This is a good mechanism, we should port to Mordheim so the "rich get richer" is not that big a problem as in the past
-Philipp: 2xd3x10 as fix income? evtl. 3d3x10 akt. im Mordheim Table haben wir eine Range von 25 - 155 mit diversen Abhängigkeiten + die doubles, triples , ....  
-zusätzlich würde ich die Abhängigkeit im Verkauf von Shards von der Warbandgröße lösen.
+Philipp: 2xd3x10 as fix income? evtl. 3d3x10 
+
+Mir gefällt hier die Variante von Wyrdwars ganz gut: https://www.wyrdwars.com/Wyrdwars_Rulebook.pdf (s.35) 
+Selling Wyrdstone
+Number of Warbands in the Campaign with
+at least 3 Victory Points more than you:
+Number of Shards Sold
+|| 4+| 3| 2| 1| 0|
+1| 45gc| 40gc| 35gc| 30gc| 30gc|
+2| 60gc| 55gc| 50gc| 45gc| 40gc|
+3| 75gc| 70gc| 65gc| 60gc| 55gc|
+4| 90gc| 85gc| 75gc| 70gc| 65gc|
+5| 105gc| 95gc| 85gc| 80gc| 75gc|
+6| 120gc| 105gc| 95gc| 90gc| 85gc|
+7| 135gc| 115gc| 105gc| 100gc| 95gc|
+
+winning warband: +2VP
+loosing warband: +1VP
+
+
 
 ## Old House rules revisited
 Here is the list of house rules from our last campaign:
