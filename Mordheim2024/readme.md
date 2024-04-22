@@ -16,7 +16,7 @@ I would suggest to alter it to be more like Necromunda.
 
 LASTING INJURY TABLE
 | D66 | Injury Name |	Lasting Injury |
-| :-------------: |-------------| :-----|
+| :-----: |-------------| :-----|
 | 11	| Lesson Learned: | The fighter goes into Convalescence but gains D3 Experience. |
 | 12	| Impressive Scars: | The fighter gains a set of impressive scars as testament to their bravery. Increase the fighter’s Cool by 1. This bonus only applies once, treat all further results as Out Cold. |
 | 13	| Horrid Scars: | The fighter has been horrifically disfigured, leaving them with a fearsome visage. The fighter gains the Fearsome skill. If they already have the Fearsome skill, treat this result as Out Cold. |
