@@ -85,6 +85,8 @@ Marius: Crits are a problem in my opinion... period. Armour is completely irrele
 
 Philipp: Möglich wäre auch, dass man die Crits erst nach einem verpatzten Save-Roll durchführt. Wenn der Save passt, gibt es keine Crits.
 
+Stefan: Problem ist, dass dann einige Rolls nichts mehr machen, weil sie nur die Armour negieren. Ich würde die Crits einfach cutten. Geht nicht viel verloren, meiner Meinung nach.
+
 ## Injury rolls
 
 Marius: I love this necromunda mechanic. Can we port that somehow? 
@@ -103,8 +105,9 @@ Flesh Wound: The fighter suffers a Flesh Wound, reducing their Toughness charact
 
 ## Hero wounds
 
-Marius: it feels strange that most heroes only have 1 wound. I like the necromunda heroes with at least 2. Maybe we can modify something here (+1 Wound for all heros on creation for another 30gc or something like this)
-Philipp: Wenn alle Helden +1 Wunde erhalten, kann man die Kosten auch beibehalten oder?
+Marius: it feels strange that most heroes only have 1 wound. I like the necromunda heroes with at least 2. Maybe we can modify something here (+1 Wound for all heros on creation for another 30gc or something like this)  
+Philipp: Wenn alle Helden +1 Wunde erhalten, kann man die Kosten auch beibehalten oder?  
+Stefan: Man könnte die +1W Optional machen für 20-30GC. Dann hat man die Option immer noch günstige Youngbloods anzuheuern, falls man das möchte.
 
 ## Mutiny in Marienburg
 
@@ -112,7 +115,7 @@ Marius: We need to shorten the campaign to max. 8-9 games. Otherwise we will NEV
 
 ## Fixed income (Bedingungsloses Grundeinkommen)
 
-Stefan: Necromunda with its territories introduced fixed income for all bands. This is a good mechanism, we should port to Mordheim so the "rich get richer" is not that big a problem as in the past
+Stefan: Necromunda with its territories introduced fixed income for all bands. This is a good mechanism, we should port to Mordheim so the "rich get richer" is not that big a problem as in the past  
 Philipp: 2xd3x10 as fix income? evtl. 3d3x10 
 
 Mir gefällt hier die Variante von Wyrdwars ganz gut: https://www.wyrdwars.com/Wyrdwars_Rulebook.pdf (s.35) 
@@ -125,19 +128,22 @@ Here is the list of house rules from our last campaign:
 > A charge move is done by adding +D6 to the movement of a warrior instead of doubling the movement (Core S. 26). Therefore you are always allowed to measure.
 
 Marius: after playing Necromunda I got a taste of "no measuring". I would just remove the last part of the sentence but keep the variance in charges
-Philipp: good One
+Philipp: good One  
+Stefan: Agree with Marius
 
 ### Armour
 > Light, Heavy und Gromril Armour have +1 AS (Core S. 32). Light Armour grants a 5+, Heavy Armour a 4+ and Gromril Armour a +3+ AS.
 
 Marius: good one
-Philipp: Good One:
+Philipp: Good One:  
+Stefan: Good one
 
 ### Dual Wielding
 > When using two weapons in melee, both weapons are resolved at -1 to hit (Core S. 35)
 
 Marius: good one
-Philipp: + Combat Skill dual Wielding witout malus?
+Philipp: + Combat Skill dual Wielding witout malus?  
+Stefan: Die Regel und den Skill gibt es in der MiM Kampagne.
 
 ### Henchmen are only here for the rations
 > Henchmen do not gain experience. After 3 scenarios you may choose one non-large, non-animal henchman to be promoted. If for any reason, you don't have 6 heroes after game 5, another non-large, non-animal henchman is promoted.
@@ -148,17 +154,20 @@ Philipp: Ich würde die Progression analog zu Necromunda nehmen. Jeder Henchman 
 ### Shots fired!
 > No more than 50% of warriors within a warband (both heroes and henchmen) may be equipped with a ranged weapon that has a range of more than 6".
 
-Marius: good one
+Marius: good one  
+Stefan: Good one
 
 ### Large / Animal Henchmen
 > Henchmen with either the "Large" or the "Animal" rule can neither climb nor use ladders.
 
-Marius: good one
+Marius: good one  
+Stefan: Good one
 
 ### Too many heroes to divide the spoils
 > Every warband may have at maximum 5 starting heroes. No more. It doesn't matter what the warband book says.
 
-Marius: goodish. Warbands with 6 heroes are mostly sketchy. Maybe we can take another hard look at them?!
+Marius: goodish. Warbands with 6 heroes are mostly sketchy. Maybe we can take another hard look at them?!  
+Stefan: Norse haben 6. Ich finde die Regel immer noch ok.
 
 ### Banned skills for this campaign:
 Strongman
@@ -168,12 +177,14 @@ Shaggy Hide (Beastmen)
 Nurgle's Rot
 
 Marius: I have mixed feelings. We banned these because they were auto includes. Turned out, now we had other auto includes. I can see us go either way.
-Philipp: würde diese wieder mitaufnehmen
+Philipp: würde diese wieder mitaufnehmen  
+Stefan: Free them all!
 
 ### Winning
 > Every warband that fulfills the winning conditions is considered a winner. Meaning there can be more than one winner. All winning warband leader e.g. gain +1 XP.
 
-Marius: good one
+Marius: good one  
+Stefan: Good one
 
 ### Strongman
 > If a model already has the Strongman skill, it loses it and therefore gains the "No need for Weapons" skill that ignores the penalties of fighting unarmed.
@@ -183,12 +194,14 @@ Marius: see the comment above regarding the ban list.
 ### Underdog
 > The underdog bonus is calculated against the strongest opposing warband.
 
-Marius: good one
+Marius: good one  
+Stefan: Good one
 
 ### Szenario Auswahl
 > The warband with the lowest warband rating may choose the next scenario. If two or more warbands are tied for last place, roll off to see who may decide.
 
-Marius: bad one. We want to have campaign progression
+Marius: bad one. We want to have campaign progression  
+Stefan: Weg damit
 
 ### The Hero Save
 > After rolling all the injuries of your warband, and contemplating the total annihilation that would soon follow, the player may decide to call upon the Hero Save.\nIn doing so, the player decides to ignore all the injuries to all the models in the warband, but also renounces to all the experience gains of the game. All other post battle sequence steps take place as normal.\nNote: The exploration can therefore be made by all the heroes in the warband, as none was removed from the game.
@@ -204,9 +217,11 @@ Philipp: Würde erst Armour Save und erst bei verlorenem Save Crits abhandeln
 ### Climbing
 > Replace the second paragraph with this: \nAny model (except animals!) can climb up or down fences, walls, etc.\nHe must be touching what he wants to climb. He may climb up to his total Movement in a single movement phase.\nAny remaining movement can be used as normal.\nIf the height is more than the model’s normal move, he cannot climb the wall.
 
-Marius: good one
+Marius: good one  
+Stefan: Good one
 
 ### Unclaimed loot
 > When all other players have routed, the remaining player gains an additional movement phase in which he might claim any loot on the table. All unclaimed loot after that phase is lost.
 
-Marius: good one
+Marius: good one  
+Stefan: Good one. müsste allerdings dann irgendwie 2 Aktionen heißen, oder so.
