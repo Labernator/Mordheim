@@ -79,6 +79,8 @@ Marius: I dislike the random aspect of the mordheim advances. It feels bad to ge
 
 Marius: Crits are a problem in my opinion... period. Armour is completely irrelevant when you have crits.
 
+Möglich wäre auch, dass man die Crits erst nach einem verpatzten Save-Roll durchführt. Wenn der Save passt, gibt es keine Crits.
+
 ## Injury rolls
 
 Marius: I love this necromunda mechanic. Can we port that somehow? 
