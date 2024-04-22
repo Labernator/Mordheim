@@ -120,6 +120,8 @@ Philipp: 2xd3x10 as fix income? evtl. 3d3x10
 
 Mir gefällt hier die Variante von Wyrdwars ganz gut: https://www.wyrdwars.com/Wyrdwars_Rulebook.pdf (s.35) 
 
+## Warband Size
+Stefan: Um die Menge an Minis auf dem Tisch etwas einzudännen schlage ich folgendes System vor: Alle starten mit einem Warband (+ Hired Swords) Limit von 12. Pro Spiel erhöht es sich um 1 bis zum Maximum das der Warband normalerweise zusteht.
 
 ## Old House rules revisited
 Here is the list of house rules from our last campaign:
