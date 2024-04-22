@@ -43,6 +43,8 @@ Berserker habe ich durch Hatred ersetzt.
 
 Sonst mapped das echt gut. Einzig für die Critical Injury müssen wir uns etwas überlegen. Gibt es dann auch nen rogue doc?
 
+Alternative hierzu wäre, dass man Hardened (61-62), Horrible Scars (63-64) und Sold to the Pits (65) mit aufnimmt
+
 ## Advancements
 
 Marius: I dislike the random aspect of the mordheim advances. It feels bad to get only leadership when all others are buffing strength and toughness
