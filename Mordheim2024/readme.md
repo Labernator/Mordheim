@@ -8,6 +8,8 @@ Marius: Turn based activation is stupid.
 Is there any issue with alternating activation in Mordheim?
 Is Group activation an issue?
 
+Aus meiner Sicht sollte dies problemlos integrierbar sein. Für die Groupactivation würde ich den selben Mechanismus wie bei Necromunda vorschlagen. Jeder Held darf zusätzlich 2 Modelle in 3 Zoll? Entfernung mitaktivieren.
+
 ## Lasting injury table
 
 Marius: The injury table in mordheim feels bad and too punishing.
