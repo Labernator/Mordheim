@@ -49,6 +49,7 @@ Marius: I dislike the random aspect of the mordheim advances. It feels bad to ge
 
 
 | Cost	| Advancement (Heroes)	| Cost Increase |
+| :-----: |-------------| :-----|
 | 3 XP	| Improve the fighter’s Willpower or Intelligence characteristic by 1.	| +5 gc |
 | 4 XP	| Improve the fighter’s Leadership or Cool characteristic by 1.	| +10 gc |
 | 5 XP	| Improve the fighter’s Initiative characteristic by 1.	| +10 gc |
@@ -66,6 +67,7 @@ Marius: I dislike the random aspect of the mordheim advances. It feels bad to ge
 #### Henchmen 
 
 | 2D6	| Advancement (Henchmen)	| Cost Increase |
+| :-----: |-------------| :-----|
 | 2	| The henchman becomes a Hero.	| +20 gc |
 | 3-4	| Improve the fighter’s Weapon Skill or Ballistic Skill characteristic by 1.	| +20 gc |
 | 5-6	| Increase the fighter’s Strength or Toughness characteristic by 1.	| +30 gc |
