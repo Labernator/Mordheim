@@ -8,7 +8,7 @@ Marius: Turn based activation is stupid.
 Is there any issue with alternating activation in Mordheim?
 Is Group activation an issue?
 
-Aus meiner Sicht sollte dies problemlos integrierbar sein. Für die Groupactivation würde ich den selben Mechanismus wie bei Necromunda vorschlagen. Jeder Held darf zusätzlich 2 Modelle in 3 Zoll? Entfernung mitaktivieren.
+Philipp: Aus meiner Sicht sollte dies problemlos integrierbar sein. Für die Groupactivation würde ich den selben Mechanismus wie bei Necromunda vorschlagen. Jeder Held darf zusätzlich 2 Modelle in 3 Zoll? Entfernung mitaktivieren.
 
 ## Lasting injury table
 
@@ -45,7 +45,7 @@ Berserker habe ich durch Hatred ersetzt.
 
 Sonst mapped das echt gut. Einzig für die Critical Injury müssen wir uns etwas überlegen. Gibt es dann auch nen rogue doc?
 
-Alternative hierzu wäre, dass man Hardened (61-62), Horrible Scars (63-64) und Sold to the Pits (65) mit aufnimmt
+Philipp: Alternative hierzu wäre, dass man Hardened (61-62), Horrible Scars (63-64) und Sold to the Pits (65) mit aufnimmt
 
 ## Advancements
 
@@ -81,15 +81,28 @@ Marius: I dislike the random aspect of the mordheim advances. It feels bad to ge
 
 Marius: Crits are a problem in my opinion... period. Armour is completely irrelevant when you have crits.
 
-Möglich wäre auch, dass man die Crits erst nach einem verpatzten Save-Roll durchführt. Wenn der Save passt, gibt es keine Crits.
+Philipp: Möglich wäre auch, dass man die Crits erst nach einem verpatzten Save-Roll durchführt. Wenn der Save passt, gibt es keine Crits.
 
 ## Injury rolls
 
 Marius: I love this necromunda mechanic. Can we port that somehow? 
+Philipp: Same Same, gibt es hier eine Einschänkung Mordheimseitig? Mir wäre keine bekannt. 
+Wenn Wunde auf 0, könnte man anschließend für jede weitere Wunde den Wundwürfel werfen inkl. der Regeln 
+
+When any number of Injury dice are rolled against a fighter for any reason, apply the results of each individual dice against that fighter as follows:
+
+Out of Action: The fighter succumbs to their injuries and is immediately removed from play and will take no further part in this battle.
+
+Serious Injury: If a Standing or Prone and Pinned fighter suffers a Serious Injury result, they become Prone and Seriously Injured. If they suffer more than 1 Serious Injury result, each additional result after the first causes them to suffer a Flesh Wound. If this injury was inflicted in close combat, the fighter may be vulnerable to a Coup De Grace (Simple) action.
+
+Should a Prone and Seriously Injured fighter suffer one or more Serious Injury results, they suffer an additional Flesh Wound for each.
+
+Flesh Wound: The fighter suffers a Flesh Wound, reducing their Toughness characteristic by 1. If a fighter is reduced to Toughness 0, they go Out of Action.
 
 ## Hero wounds
 
 Marius: it feels strange that most heroes only have 1 wound. I like the necromunda heroes with at least 2. Maybe we can modify something here (+1 Wound for all heros on creation for another 30gc or something like this)
+Philipp: Wenn alle Helden +1 Wunde erhalten, kann man die Kosten auch beibehalten oder?
 
 ## Mutiny in Marienburg
 
@@ -98,6 +111,8 @@ Marius: We need to shorten the campaign to max. 8-9 games. Otherwise we will NEV
 ## Fixed income (Bedingungsloses Grundeinkommen)
 
 Stefan: Necromunda with its territories introduced fixed income for all bands. This is a good mechanism, we should port to Mordheim so the "rich get richer" is not that big a problem as in the past
+Philipp: 2xd3x10 as fix income? evtl. 3d3x10 akt. im Mordheim Table haben wir eine Range von 25 - 155 mit diversen Abhängigkeiten + die doubles, triples , ....  
+zusätzlich würde ich die Abhängigkeit im Verkauf von Shards von der Warbandgröße lösen.
 
 ## Old House rules revisited
 Here is the list of house rules from our last campaign:
@@ -106,21 +121,25 @@ Here is the list of house rules from our last campaign:
 > A charge move is done by adding +D6 to the movement of a warrior instead of doubling the movement (Core S. 26). Therefore you are always allowed to measure.
 
 Marius: after playing Necromunda I got a taste of "no measuring". I would just remove the last part of the sentence but keep the variance in charges
+Philipp: good One
 
 ### Armour
 > Light, Heavy und Gromril Armour have +1 AS (Core S. 32). Light Armour grants a 5+, Heavy Armour a 4+ and Gromril Armour a +3+ AS.
 
 Marius: good one
+Philipp: Good One:
 
 ### Dual Wielding
 > When using two weapons in melee, both weapons are resolved at -1 to hit (Core S. 35)
 
 Marius: good one
+Philipp: + Combat Skill dual Wielding witout malus?
 
 ### Henchmen are only here for the rations
 > Henchmen do not gain experience. After 3 scenarios you may choose one non-large, non-animal henchman to be promoted. If for any reason, you don't have 6 heroes after game 5, another non-large, non-animal henchman is promoted.
 
 Marius: I don't like this one. It marginalizes henchmen. But with the random advance system this is a source of heavy imbalance.
+Philipp: Ich würde die Progression analog zu Necromunda nehmen. Jeder Henchman kann für sich besser werden, keine Groupen Bonuse, das wäre zu hart.
 
 ### Shots fired!
 > No more than 50% of warriors within a warband (both heroes and henchmen) may be equipped with a ranged weapon that has a range of more than 6".
@@ -145,6 +164,7 @@ Shaggy Hide (Beastmen)
 Nurgle's Rot
 
 Marius: I have mixed feelings. We banned these because they were auto includes. Turned out, now we had other auto includes. I can see us go either way.
+Philipp: würde diese wieder mitaufnehmen
 
 ### Winning
 > Every warband that fulfills the winning conditions is considered a winner. Meaning there can be more than one winner. All winning warband leader e.g. gain +1 XP.
@@ -175,6 +195,7 @@ Marius: this plays with the harsh mordheim injury table. If that would be soften
 > On the critical hit chart we replace all instances of "no armour saves allowed" with "the enemy armour save is modified by -2."
 
 Marius: The critical hits in general are a problem as stated above
+Philipp: Würde erst Armour Save und erst bei verlorenem Save Crits abhandeln 
 
 ### Climbing
 > Replace the second paragraph with this: \nAny model (except animals!) can climb up or down fences, walls, etc.\nHe must be touching what he wants to climb. He may climb up to his total Movement in a single movement phase.\nAny remaining movement can be used as normal.\nIf the height is more than the model’s normal move, he cannot climb the wall.
