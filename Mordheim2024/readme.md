@@ -118,7 +118,7 @@ Selling Wyrdstone
 Number of Warbands in the Campaign with
 at least 3 Victory Points more than you:
 Number of Shards Sold
-|| 4+| 3| 2| 1| 0|
+|| 4+ | 3 | 2 | 1 | 0 |
 1| 45gc| 40gc| 35gc| 30gc| 30gc|
 2| 60gc| 55gc| 50gc| 45gc| 40gc|
 3| 75gc| 70gc| 65gc| 60gc| 55gc|
