@@ -47,22 +47,18 @@ Sonst mapped das echt gut. Einzig für die Critical Injury müssen wir uns etwas
 
 Marius: I dislike the random aspect of the mordheim advances. It feels bad to get only leadership when all others are buffing strength and toughness
 
+#### Heroes 
 
 | Cost	| Advancement (Heroes)	| Cost Increase |
 | :-----: |-------------| :-----|
-| 3 XP	| Improve the fighter’s Willpower or Intelligence characteristic by 1.	| +5 gc |
-| 4 XP	| Improve the fighter’s Leadership or Cool characteristic by 1.	| +10 gc |
-| 5 XP	| Improve the fighter’s Initiative characteristic by 1.	| +10 gc |
+| 3 XP	| Improve the fighter’s Leadership characteristic by 1.	| +5 gc |
+| 4 XP	| Improve the fighter’s Initiative characteristic by 1.	| +10 gc |
 | 5 XP	| Add 1" to the fighter’s Movement characteristic.	| +10 gc |
 | 6 XP	| Improve the fighter’s Weapon Skill or Ballistic Skill characteristic by 1.	| +20 gc |
-| 6 XP	| The fighter gains a random skill from one of their Primary Skill Sets.	| +20 gc |
+| 6 XP	| The fighter gains a random skill from one of their Sets.	| +20 gc |
 | 8 XP	| Increase the fighter’s Strength or Toughness characteristic by 1.	| +30 gc |
-| 9 XP	| The fighter gains a skill of your choice from one of their Primary Skill Sets.	| +20 gc |
-| 9 XP	| The fighter gains a random skill from one of their Secondary Skill Sets.	| +35 gc |
+| 9 XP	| The fighter gains a skill of your choice from one of their Primary Skill Sets.	| +35 gc |
 | 12 XP	| Increase the fighter’s Wounds or Attacks characteristic by 1.	| +45 gc |
-| 12 XP	| Specialists only: Promote the fighter to a Champion. They gain a random skill from one of their Primary Skill Sets.	| +40 gc |
-| 12 XP	| The fighter gains a skill of your choice from one of their Secondary Skill Sets.	| +35 gc |
-| 15 XP	| The fighter gains a random skill from ANY Skill Set.	| +50 gc |
 
 #### Henchmen 
 
@@ -70,10 +66,10 @@ Marius: I dislike the random aspect of the mordheim advances. It feels bad to ge
 | :-----: |-------------| :-----|
 | 2	| The henchman becomes a Hero.	| +20 gc |
 | 3-4	| Improve the fighter’s Weapon Skill or Ballistic Skill characteristic by 1.	| +20 gc |
-| 5-6	| Increase the fighter’s Strength or Toughness characteristic by 1.	| +30 gc |
-| 7	| Either add 1" to the fighter’s Movement characteristic, or increase their Initiative characteristic by 1.	| +10 gc |
-| 8-9	| Improve the fighter’s Willpower or Intelligence characteristic by 1.	| +5 gc |
-| 10-11	| Improve the fighter’s Leadership or Cool characteristic by 1. | +10 gc |
+| 5-6	| Increase the fighter’s Strength characteristic by 1.	| +30 gc |
+| 7	| Increase the fighter’s Initiative characteristic by 1.	| +10 gc |
+| 8-9	| Improve the fighter’s Attack characteristic by 1.	| +5 gc |
+| 10-11	| Improve the fighter’s Leadership characteristic by 1. | +10 gc |
 | 12	| The henchman becomes a Hero.	| +20 gc |
 
 
