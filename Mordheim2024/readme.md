@@ -13,6 +13,37 @@ Is Group activation an issue?
 Marius: The injury table in mordheim feels bad and too punishing.
 I would suggest to alter it to be more like Necromunda.
 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+LASTING INJURY TABLE
+| D66 | Injury Name |	Lasting Injury |
+| ------------- |:-------------:| -----:|
+| 11	| Lesson Learned: | The fighter goes into Convalescence but gains D3 Experience. |
+| 12	| Impressive Scars: | The fighter gains a set of impressive scars as testament to their bravery. Increase the fighter’s Cool by 1. This bonus only applies once, treat all further results as Out Cold. |
+| 13	| Horrid Scars: | The fighter has been horrifically disfigured, leaving them with a fearsome visage. The fighter gains the Fearsome skill. If they already have the Fearsome skill, treat this result as Out Cold. |
+| 14	| Bitter Enmity: | The fighter bears a bitter grudge against the gang that inflicted this injury. When fighting a battle against the gang that inflicted this injury, the fighter gains the Berserker skill. If they already have the Berserker skill or roll this result a second time, treat it as Out Cold. |
+| 15-26 |	Out Cold: | The fighter misses the rest of the battle, but avoids any long term injuries. The fighter recovers in time to perform post-battle actions. |
+| 31-36	| Convalescence:| The fighter goes into Convalescence. |
+| 41	| Old Battle Wound: | At the end of each battle this fighter participates in roll a D6, on a 1 the fighter goes into Convalescence. |
+| 42	| Partially Deafened: | The fighter suffers no penalty if they are partially deafened, however, suffering this injury again reduces their Leadership by 1. |
+| 43	| Humiliated: | The fighter goes into Convalescence and their Leadership and Cool characteristics are each decreased by 1. |
+| 44	| Eye Injury: | The fighter goes into Recovery and their Ballistic Skill characteristic is decreased by 1. |
+| 45	| Hand Injury: | The fighter goes into Recovery and their Weapon Skill characteristic is decreased by 1. |
+| 46	| Hobbled: | The fighter goes into Recovery and their Movement characteristic is decreased by 1. |
+| 51	| Spinal Injury: | The fighter goes into Recovery and their Strength characteristic is decreased by 1. |
+| 52	| Enfeebled: | The fighter goes into Recovery and their Toughness characteristic is decreased by 1. |
+| 53	| Head Injury: | The fighter goes into Recovery and their Intelligence and Willpower characteristics are each decreased by 1. |
+| 54	| Multiple Injuries: | The fighter is not dead but has suffered many serious wounds. Roll a further D3 times on this table re-rolling any results of Captured, Multiple Injuries, Memorable Death, Critical Injury or Out Cold. |
+| 55-56	| Captured: | The fighter might be Captured. |
+| 61-65	| Critical Injury: | The fighter is in a critical condition – if their injuries are not successfully treated by a visit to the Doc (see Medical Escort) in the post-battle sequence, they will die. |
+| 66	| Memorable Death: | The fighter is killed instantly – not even the most talented Doc can save them. If the injury was caused by an Attack action, the attacker gains 1 additional XP. |
+
+
 ## Advancements
 
 Marius: I dislike the random aspect of the mordheim advances. It feels bad to get only leadership when all others are buffing strength and toughness
