@@ -48,6 +48,7 @@ Sonst mapped das echt gut. Einzig für die Critical Injury müssen wir uns etwas
 Philipp: Alternative hierzu wäre, dass man Hardened (61-62), Horrible Scars (63-64) und Sold to the Pits (65) mit aufnimmt
 
 Stefan: Multiple Injuries (D3?) wäre auch eine Option
+        + Philipp: Finde Multiple Injuries bei insgesamt 6 würden ziemlic hart 54 ist ja auch auch schon Multiple Injuries
 
 ## Advancements
 
