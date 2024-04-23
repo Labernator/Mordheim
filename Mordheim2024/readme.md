@@ -79,13 +79,13 @@ Marius: I dislike the random aspect of the mordheim advances. It feels bad to ge
 | 12	| The henchman becomes a Hero.	| +20 gc |
 
 ## Gainging EXP
-+ 1 Winning Leader
-+ 1 Taking Part
-+ 1 Serious Injury Henchman
-+ 2 Serious Injury Hero
-+ 2 taking Henchmen OOA
-+ 3 taking Hero OOA
-+ 1 Medical Aid
++ 1 Exp Winning Leader
++ 1 Exp Taking Part
++ 1 Exp Serious Injury Henchman
++ 2 Exp Serious Injury Hero
++ 2 Exp taking Henchmen OOA
++ 3 Exp taking Hero OOA
++ 1 Exp Medical Aid
 
 Philipp: würde das EXP System für euch passen? 
 
