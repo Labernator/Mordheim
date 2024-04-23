@@ -117,7 +117,7 @@ Flesh Wound: The fighter suffers a Flesh Wound, reducing their Toughness charact
 ## Hero wounds
 
 Marius: it feels strange that most heroes only have 1 wound. I like the necromunda heroes with at least 2. Maybe we can modify something here (+1 Wound for all heros on creation for another 30gc or something like this)  
-Philipp: Wenn alle Helden +1 Wunde erhalten, kann man die Kosten auch beibehalten oder?  
+Philipp: Wenn alle Helden +1 Wunde erhalten, kann man die Kosten auch beibehalten oder?  Alternativ der Leader erhält 2 Wunden, der Rest bleibt bei einer
 Stefan: Man könnte die +1W Optional machen für 20-30GC. Dann hat man die Option immer noch günstige Youngbloods anzuheuern, falls man das möchte.
 
 ## Mutiny in Marienburg
