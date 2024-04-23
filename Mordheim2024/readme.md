@@ -78,6 +78,17 @@ Marius: I dislike the random aspect of the mordheim advances. It feels bad to ge
 | 10-11	| Improve the fighter’s Leadership characteristic by 1. | +10 gc |
 | 12	| The henchman becomes a Hero.	| +20 gc |
 
+## Gainging EXP
++ 1 Winning Leader
++ 1 Taking Part
++ 1 Serious Injury Henchman
++ 2 Serious Injury Hero
++ 2 taking Henchmen OOA
++ 3 taking Hero OOA
++ 1 Medical Aid
+
+Philipp: würde das EXP System für euch passen? 
+
 
 ## Critical hits
 
