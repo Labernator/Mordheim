@@ -136,6 +136,9 @@ Mir gefällt hier die Variante von Wyrdwars ganz gut: https://www.wyrdwars.com/W
 ## Warband Size
 Stefan: Um die Menge an Minis auf dem Tisch etwas einzudännen schlage ich folgendes System vor: Alle starten mit einem Warband (+ Hired Swords) Limit von 12. Pro Spiel erhöht es sich um 1 bis zum Maximum das der Warband normalerweise zusteht.
 
+## Hired Swords
+Thief ist broken mit MiM Booten.
+
 ## Old House rules revisited
 Here is the list of house rules from our last campaign:
 
