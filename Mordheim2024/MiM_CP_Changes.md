@@ -1,0 +1,3 @@
+ - "Playing a scenario" +4 (statt +1)
+ - "On a roll of 6 the warband gets +1 CP" => "On a roll of 4+ the warband gets +1 CP"
+ - Alle anderen CP Rewards werden verdoppelt (+1 => +2, etc.)
