@@ -8,7 +8,7 @@ Skink priest  |	60 | 82 |
 | - Spear & Shield	| 15 |
 | Skink Great Crest | 30	| 37 |
 | - 2x Dagger,  Short Bow	| 7 |
-| Skink Great Crest | 30| 	| 37 |
+| Skink Great Crest | 30	| 37 |
 | - 2x Dagger,  Short Bow	| 7 |
 | Kroxigor	|| 200 |
 | Skink Brave | 20	| 27 |
