@@ -15,5 +15,5 @@ Skink priest  |	60 | 82 |
 | - 2x Dagger,  Short Bow	| 7 |
 | Skink Brave | 20	| 22 |
 | - 2x Dagger	| 2 |
-| Total | 500 |
+| Total | |  500 |
 
