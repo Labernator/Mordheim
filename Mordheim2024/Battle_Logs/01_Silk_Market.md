@@ -2,7 +2,8 @@
 **Szenario:** Silk Market  
 **Wetter:** Fine
 
-[](https://github.com/Labernator/Mordheim/blob/master/Mordheim2024/Pics/Screenshot_20240510_064738_Samsung%20Notes.jpg)  
+<img src="Pics/Screenshot_20240510_064738_Samsung.jpg" alt="drawing" width="300"/>
+
 
 **House Rules:**
  - Voluntary Routen ist erlaubt. Die letzte Warband auf dem Feld erhält +D3 Information Points
