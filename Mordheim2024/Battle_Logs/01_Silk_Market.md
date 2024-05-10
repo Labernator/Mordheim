@@ -2,7 +2,7 @@
 **Szenario:** Silk Market  
 **Wetter:** Fine
 
-<img src="../Pics/Screenshot_20240510_064738_Samsung.jpg" alt="drawing" width="400"/>
+<img src="../Pics/Screenshot_20240510_064738_Samsung Notes.jpg" alt="drawing" width="500"/>
 
 
 **House Rules:**
