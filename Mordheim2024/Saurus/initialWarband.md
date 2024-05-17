@@ -1,19 +1,18 @@
 | | Cost | Total Cost |
 | ---| --- | --- |
-Skink priest  |	60 | 82 | 
+Skink priest  |	60 | 62 | 
 | - 2x Dagger |	2 |
-| - extra Wound |	20 |
-|Totem Warrior | 60	| 95 |
+|Totem Warrior | 60	| 90 |
 | - extra Wound	| 20 |
-| - Spear & Shield	| 15 |
-| Skink Great Crest | 30	| 37 |
-| - 2x Dagger,  Short Bow	| 7 |
-| Skink Great Crest | 30	| 37 |
-| - 2x Dagger,  Short Bow	| 7 |
+| - Halberd | 10 |
+| Skink Great Crest | 30	| 35 |
+| - Dagger,  Short Bow	| 5 |
+| Skink Great Crest | 30	| 35 |
+| - Dagger,  Short Bow	| 5 |
 | Kroxigor	|| 200 |
-| Skink Brave | 20	| 27 |
-| - 2x Dagger,  Short Bow	| 7 |
-| Skink Brave | 20	| 22 |
-| - 2x Dagger	| 2 |
-| Total | |  500 |
+| Saurus Brave | 40	| 50 |
+| - Halberd | 10 |
+| Skink Brave | 20	| 25 |
+| - Dagger,  Short Bow	| 5 |
+| Total | |  497 |
 
