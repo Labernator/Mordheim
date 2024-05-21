@@ -18,6 +18,7 @@ totem warrior +4(part, hero, goon)
 Philipp:
 chef: +5(part, hero kill, assist)
 paskreet: +2 (part assist)
+
 injuries:
 
 eklig: captured (55)
