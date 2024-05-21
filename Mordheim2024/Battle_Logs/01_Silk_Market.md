@@ -13,11 +13,12 @@
 XP:
 
 fire mage: +6 (part, hero, hero)
+
 Marius:
-totem warrior +4(part, hero, goon)
+totem warrior +5(part, hero, goon)
 Philipp:
-chef: +5(part, hero kill, assist)
-paskreet: +2 (part assist)
+chef: +6(part, hero kill, assist)
+paskreet: +3 (part assist)
 
 injuries:
 
