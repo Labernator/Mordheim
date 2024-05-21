@@ -12,7 +12,7 @@
 
 XP:
 
-fire mage: +3 (part, hero)
+fire mage: +5 (part, hero, hero)
 Marius:
 totem warrior +4(part, hero, goon)
 Philipp:
