@@ -9,3 +9,13 @@
  - Voluntary Routen ist erlaubt. Die letzte Warband auf dem Feld erhält +D3 Information Points
  - Interrogation/Torture ist eine Double Action
  - Der Reward für 7-9 CP Information Points ist immer ein CP (nicht nur auf die 5+)
+
+XP:
+fire mage: +3 (part, hero)
+totem warrior +4(part, hero, goon)
+chef: +5(part, hero
+
+injuries:
+
+eklig: captured (55)
+totem warrior: fearsome (13)
