@@ -24,3 +24,14 @@ injuries:
 eklig: captured (55)
 lick: spinal injury (51)
 totem warrior: fearsome (13)
+skink crest: out cold (15)
+
+income:
+Marius: 2x Silks + 2 Shards
+Stefan: 2x Silks + 5 Shards 
+Philipp: 3 Shards
+
+Szenario:
+Marius: 6 IP
+Stefan: 6 IP
+Philipp: 2 IP
