@@ -31,7 +31,7 @@ skink crest: out cold (15)
 income:
 Marius: 2x Silks + 2 Shards  
 Stefan: 2x Silks + 5 Shards  + 40 fixes Einkommen + 55er Location (Rabbits Foot)   
-Philipp: 3 Shards + 50 Income 
+Philipp: 2 Treasures + 1 Shard + 50 Income 
 
 Szenario:
 Marius: 6 IP  
@@ -44,6 +44,11 @@ Philipp: 2 IP
  - 2 Winning
  - 2 Intelligence Gathered
  - 2 Hostage Captured
+
+**Philipp**
+- 4 Take Part
+- 2 Gift OOA Marius Totem Warrior
+- 2 Tainted Treasures (siehe Postgame Sequence)
 
 
 
@@ -60,3 +65,15 @@ Philipp: 2 IP
  - Ausgaben: 3x Bordello: 15GC. Chef frei kaufen: 30GC. Marksman bezahlen: 15GC. Sklaven kaufen: 20GC. => 80GC. Bleiben noch 70GC übrig.
  - Trading: Kaufe ein Schert (10GC), eine leichte Rüstung (20GC), ein Schild (5GC), einen Hunter (25GC), einen Javelin (5GC), eine Mace (3GC) und einen Dagger (2GC) für insgesamt 70GC.
  - Ausrüsten: Chef kriegt Schwert, Schild, leichte Rüstung und Rabbits Foot und gibt den Flail dem Berserker. Wulfen kriegt den Bloodstone. Alle Hunter kriegen eine Mace und der Mage kriegt einen zweiten Dagger.
+
+**Philipp**
+- Chef: kauft Black Lotus für 12 gv
+- Wizard: Temple of the horned rat: +1 auf Zaubern, leider nicht dauerhaft
+- Restliche Heroes: Wyrdstone Mine: +2 Wyrdstones
+- Nutze 1 Wyrdstone um 2 Treasures zu tainten (+2CP)
+- Verkaufe 2 tainted Treasures + 1 Wyrdstone für 40 gc
+Gc: 97 shards: 1
+- Lösegeld bezahlen -10
+- Trading: Black lotus kaufen -12, einen Verminkin anheuern -20, 4 Maces kaufen -12, leichte Rüstung kaufen -20 Summe: 64
+GC: 23 shards: 1
+- Ausrüsten: Black Lotus geht an Black Skaven, befreiter und neuer Verminkin erhalten je 2 maces, leichte Rüstung geht an Chef
