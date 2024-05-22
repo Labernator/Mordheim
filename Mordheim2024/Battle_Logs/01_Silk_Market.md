@@ -74,4 +74,4 @@ Gc: 107 shards: 1
 - Lösegeld bezahlen -10
 - Trading: Black lotus kaufen -12, einen Verminkin anheuern -20, 4 Maces kaufen -12, 2x leichte Rüstung kaufen -40 Summe: 84
 GC: 13 shards: 1
-- Ausrüsten: Black Lotus geht an Black Skaven, befreiter und neuer Verminkin erhalten je 2 maces, leichte Rüstung geht an Chef
+- Ausrüsten: Black Lotus und leichte Rüstung geht an Black Skaven, befreiter und neuer Verminkin erhalten je 2 maces, leichte Rüstung geht an Chef
