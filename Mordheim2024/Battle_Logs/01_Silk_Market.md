@@ -30,7 +30,7 @@ skink crest: out cold (15)
 
 income:
 Marius: 2x Silks + 2 Shards
-Stefan: 2x Silks + 5 Shards 
+Stefan: 2x Silks + 5 Shards  + 55er Location (Rabbits Foot)  
 Philipp: 3 Shards
 
 Szenario:
@@ -44,3 +44,14 @@ Stefan (10!)
  - 2 Winning
  - 2 Intelligence Gathered
  - 2 Hostage Captured
+
+
+
+**Post Game**  
+Stefan:  
+ - Chef: Bordello: 1XP (erstes Mal), kostet 35
+ - Berserker: Gambling Den: Warehouse Encampment
+ - Wulfen: Bordello: 2XP, kostet 5
+ - Mage: Bordello: 1XP & Conpanion, kostet 5
+ - 2 Bonsmen: Abattoir: 2 Slaves, Mordheim Map (Vague), Blood Stone, kostet 20
+ - Marksman: Kein Bloodpact, Upkeep 15
