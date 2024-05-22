@@ -11,11 +11,12 @@
  - Der Reward für 7-9 CP Information Points ist immer ein CP (nicht nur auf die 5+)
 
 XP:
-
-fire mage: +6 (part, hero, hero)
+Stefan: 
+fire mage: +6 (part, hero, hero)  
+chef: +3 (part, winning leader)  
 
 Marius:
-totem warrior +5(part, hero, goon)
+totem warrior +5(part, hero, goon)  
 Philipp:
 chef: +6(part, hero kill, assist)
 paskreet: +3 (part assist)
@@ -36,3 +37,10 @@ Szenario:
 Marius: 6 IP
 Stefan: 6 IP
 Philipp: 2 IP
+
+**Campaign Points**  
+Stefan (10!)
+ - 4 Take Part
+ - 2 Winning
+ - 2 Intelligence Gathered
+ - 2 Hostage Captured
