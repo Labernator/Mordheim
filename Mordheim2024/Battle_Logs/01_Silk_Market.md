@@ -48,7 +48,6 @@ Philipp: 2 IP
 **Philipp**
 - 4 Take Part
 - 2 Gift OOA Marius Totem Warrior
-- 2 Tainted Treasures (siehe Postgame Sequence)
 
 
 
@@ -70,10 +69,9 @@ Philipp: 2 IP
 - Chef: kauft Black Lotus für 12 gv
 - Wizard: Temple of the horned rat: +1 auf Zaubern, leider nicht dauerhaft
 - Restliche Heroes: Wyrdstone Mine: +2 Wyrdstones
-- Nutze 1 Wyrdstone um 2 Treasures zu tainten (+2CP)
-- Verkaufe 2 tainted Treasures + 1 Wyrdstone für 40 gc
-Gc: 97 shards: 1
+- Verkaufe 2 Treasures + 2 Wyrdstone für 50 gc
+Gc: 107 shards: 1
 - Lösegeld bezahlen -10
-- Trading: Black lotus kaufen -12, einen Verminkin anheuern -20, 4 Maces kaufen -12, leichte Rüstung kaufen -20 Summe: 64
-GC: 23 shards: 1
+- Trading: Black lotus kaufen -12, einen Verminkin anheuern -20, 4 Maces kaufen -12, 2x leichte Rüstung kaufen -40 Summe: 84
+GC: 13 shards: 1
 - Ausrüsten: Black Lotus geht an Black Skaven, befreiter und neuer Verminkin erhalten je 2 maces, leichte Rüstung geht an Chef
