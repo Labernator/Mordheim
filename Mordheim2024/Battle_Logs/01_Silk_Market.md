@@ -66,12 +66,11 @@ Philipp: 2 IP
  - Ausrüsten: Chef kriegt Schwert, Schild, leichte Rüstung und Rabbits Foot und gibt den Flail dem Berserker. Wulfen kriegt den Bloodstone. Alle Hunter kriegen eine Mace und der Mage kriegt einen zweiten Dagger.
 
 **Philipp**
-- Chef: kauft Black Lotus für 12 gv
-- Wizard: Temple of the horned rat: +1 auf Zaubern, leider nicht dauerhaft
+- Wizard: Temple of the horned rat: +1 auf Zaubern, leider nicht dauerhaft -15gc
 - Restliche Heroes: Wyrdstone Mine: +2 Wyrdstones
 - Verkaufe 2 Treasures + 2 Wyrdstone für 50 gc
-Gc: 107 shards: 1
+Gc: 92 shards: 1
 - Lösegeld bezahlen -10
-- Trading: Black lotus kaufen -12, einen Verminkin anheuern -20, 4 Maces kaufen -12, 2x leichte Rüstung kaufen -40 Summe: 84
-GC: 13 shards: 1
-- Ausrüsten: Black Lotus und leichte Rüstung geht an Black Skaven, befreiter und neuer Verminkin erhalten je 2 maces, leichte Rüstung geht an Chef
+- Trading: Black lotus kaufen -12, einen Verminkin anheuern -20, 4 Maces kaufen -12, 2x leichte Rüstung kaufen -40 Summe: 64
+GC: 18 shards: 1
+- Ausrüsten: Black Lotus geht an Black Skaven, befreiter und neuer Verminkin erhalten je 2 maces, leichte Rüstung geht an Chef
