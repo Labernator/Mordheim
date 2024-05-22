@@ -31,7 +31,7 @@ skink crest: out cold (15)
 income:
 Marius: 2x Silks + 2 Shards  
 Stefan: 2x Silks + 5 Shards  + 40 fixes Einkommen + 55er Location (Rabbits Foot)   
-Philipp: 3 Shards  
+Philipp: 3 Shards + 40 Income + Compass 
 
 Szenario:
 Marius: 6 IP  
