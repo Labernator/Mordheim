@@ -4,6 +4,7 @@ gc: 1
 shards: 1
 objective: "The Body Trade"
 alignment: "Chaotic"
+equipment: Marienburg Map (Vague)
 
 heros:
     - hero: Tywin {135GC} (Jarl) [4XP]
@@ -94,20 +95,13 @@ henchmen:
       rules: 
       
 notes: |
-    - Warband Rating: 585
-    
-    - Fireball    (7+)
-    18" range, first target S3, fire damage. The wizard may choose may choose to take a S1 flaming hit to increase Strength of Fireball by 1. Multiple times possible.
-    
-    - Marksman
-    No penalty for long range or cover
-    
-    - Bloodstone
-    Gain a bite attack. If the Hero put all of his enemies out of action in hand-to-hand combat, he becomes frenzied on a 4+.
-    
+    - Warband Rating: 585 
     - Hostages: 3
-    
+    - Fireball    (7+)
+    18" range, first target S3, fire damage. The wizard may choose may choose to take a S1 flaming hit to increase Strength of Fireball by 1. Multiple times possible.    
+    - Marksman
+    No penalty for long range or cover    
+    - Bloodstone
+    Gain a bite attack. If the Hero put all of his enemies out of action in hand-to-hand combat, he becomes frenzied on a 4+.       
     - Encampments:
     Waterfront Warehouse (2D6GC after each battle. On a double a Hired Sword for one game) 
-     
-    - Stash: Marienburg Map (Vague)
