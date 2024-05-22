@@ -15,28 +15,28 @@ Stefan:
 fire mage: +6 (part, hero, hero)  
 chef: +3 (part, winning leader)  
 
-Marius:
-totem warrior +5(part, hero, goon)  
-Philipp:
-chef: +6(part, hero kill, assist)
-paskreet: +3 (part assist)
+Marius:  
+totem warrior +5(part, hero, goon)    
+Philipp:  
+chef: +6(part, hero kill, assist)  
+paskreet: +3 (part assist)  
 
 injuries:
 
-eklig: captured (55)
-lick: spinal injury (51)
-totem warrior: fearsome (13)
-skink crest: out cold (15)
+eklig: captured (55)  
+lick: spinal injury (51)  
+totem warrior: fearsome (13)  
+skink crest: out cold (15)  
 
 income:
-Marius: 2x Silks + 2 Shards
-Stefan: 2x Silks + 5 Shards  + 55er Location (Rabbits Foot)  
-Philipp: 3 Shards
+Marius: 2x Silks + 2 Shards  
+Stefan: 2x Silks + 5 Shards  + 55er Location (Rabbits Foot)   
+Philipp: 3 Shards  
 
 Szenario:
-Marius: 6 IP
-Stefan: 6 IP
-Philipp: 2 IP
+Marius: 6 IP  
+Stefan: 6 IP  
+Philipp: 2 IP  
 
 **Campaign Points**  
 Stefan (10!)
