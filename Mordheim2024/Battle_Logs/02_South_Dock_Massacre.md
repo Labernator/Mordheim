@@ -1,6 +1,6 @@
 **Game Day:** 
 **Szenario:** Silk Market  
-**Wetter:** Rain
+**Wetter:** Gale
 
 <img src="../Pics/SDM1.png" alt="drawing" width="500"/>
 
@@ -10,4 +10,4 @@
  - Es gelten nur die XP Regeln aus dem Szenario mit folgender Ergänzung: 2XP für Teilnahme, zusätzlich D3 XP für Bone Giant oder Farrak ooA
 
 **Wetter:**  
-Lasts D3 turns. All missle weapons are -1 to hit.
+
