@@ -1,7 +1,7 @@
 warband: Black Death (Skaven Clan Eshin)
 campaign: 0
-gc: 7
-shards: 0
+gc: 18
+shards: 1
 equipment: 
 objective: ""
 alignment: ""
@@ -62,7 +62,7 @@ henchmen:
       armour:
       rules:
 
-    - group: Rachtilik Slinkshredder (Verminkin) [2XP]
+    - group: Rachtilik Bonefur (Verminkin) [2XP]
       stats: M5, WS3, BS3, S3, T3, W1, I4, A1, Ld5, Sv-
       weapons: Sling, Club, Club
       armour:
@@ -86,7 +86,7 @@ henchmen:
       armour:
       rules:
 
-    - group: Morskilik Guttermaster (Verminkin) [0XP]
+    - group: Skyre Stormnip (Verminkin) [0XP]
       stats: M5, WS3, BS3, S3, T3, W1, I4, A1, Ld5, Sv-
       weapons: Club, Club
       armour:
