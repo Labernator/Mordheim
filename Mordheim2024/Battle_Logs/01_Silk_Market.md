@@ -18,13 +18,13 @@ chef: +3 (part, winning leader)
 Marius:  
 totem warrior +5(part, hero, goon)    
 Philipp:  
-chef: +6(part, hero kill, assist)  
-paskreet: +3 (part assist)  
+Rerkit: +6(part, hero kill, assist)  
+Paskreet: +3 (part assist)  
 
 injuries:
 
-eklig: captured (55)  
-lick: spinal injury (51)  
+Iklik: captured (55)  
+Skitrit: spinal injury (51) -1T  
 totem warrior: fearsome (13)  
 skink crest: out cold (15)  
 
