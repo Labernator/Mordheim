@@ -7,42 +7,42 @@ objective: ""
 alignment: ""
 
 heros:
-    - hero: Ratchikt Poisonfur (Assassine Adept) [0XP]
+    - hero: Rerkit Poisonfur (Assassine Adept) [0XP]
       stats: M6, WS4, BS4, S4, T3, W2, I5, A1, Ld7, SV-
       weapons: Weeping Blades
       armour: 
       rules: Leader, Perfect Killer
       skilllists: Strength, Shooting, Academic, Combat, Speed, Special
 
-    - hero: Paskreet Verminbite (Eshin sorcerer) [0XP]
+    - hero: Nelachitt Verminbite (Eshin sorcerer) [0XP]
       stats: M5, WS3, BS3, S3, T3, W1, I4, A1, Ld6, Sv-
       weapons: Halberd, Sling
       armour: 
       rules: Magic User, Warpfire
       skilllists: Academic, Speed, Special 
 
-    - hero: Ratchilik Poisongash (Black Skaven) [0XP]
+    - hero: Quaknaw Poisongash (Black Skaven) [0XP]
       stats: M6, WS4, BS3, S4, T3, W1, I5, A1, Ld6, Sv-
       weapons: Halberd
       armour:
       rules: 
       skilllists: Combat, Strength, Speed, Special
 
-    - hero: Tholk Gutterbane (Black Skaven) [0XP]
+    - hero: Swilik Gutterbane (Black Skaven) [0XP]
       stats: M6, WS4, BS3, S4, T3, W1, I5, A1, Ld6, Sv-
       weapons: Halberd
       armour:
       rules: 
       skilllists: Combat, Strength, Speed, Special
      
-    - hero: Ikilik Doommange (Nightrunner) [0XP]
+    - hero: Rotrek Doommange (Nightrunner) [0XP]
       stats: M6, WS2, BS3, S3, T3, W1, I4, A1, Ld4, Sv-
       weapons: Sling, Dagger
       armour: 
       rules: 
       skilllists: Combat, Shooting
 
-    - hero: Skitrit Blackshard (Nightrunner) [0XP]
+    - hero: Snilik Blackshard (Nightrunner) [0XP]
       stats: M6, WS2, BS3, S3, T3, W1, I4, A1, Ld4, Sv-
       weapons: Sling, Dagger
       armour: 
@@ -50,37 +50,37 @@ heros:
       skilllists: Combat, Shooting
 
 henchmen:
-    - group: Rerkit Cankernip (Verminkin) [0XP]
+    - group: Skitrit Cankernip (Verminkin) [0XP]
       stats: M5, WS3, BS3, S3, T3, W1, I4, A1, Ld5, Sv-
       weapons: Sling, Club, Club
       armour:
       rules:
 
-    - group: Quaknaw Blackfilth (Verminkin) [0XP]
+    - group: Iklik Blackfilth (Verminkin) [0XP]
       stats: M5, WS3, BS3, S3, T3, W1, I4, A1, Ld5, Sv-
       weapons: Sling, Club, Club
       armour:
       rules:
 
-    - group: Nelatchitt Slinkshredder (Verminkin) [0XP]
+    - group: Rachtilik Slinkshredder (Verminkin) [0XP]
       stats: M5, WS3, BS3, S3, T3, W1, I4, A1, Ld5, Sv-
       weapons: Sling, Club, Club
       armour:
       rules:
 
-    - group: Skwilik Bloodpest (Verminkin) [0XP]
+    - group: Tholk Bloodpest (Verminkin) [0XP]
       stats: M5, WS3, BS3, S3, T3, W1, I4, A1, Ld5, Sv-
       weapons: Club, Club
       armour:
       rules:
 
-    - group: Rotrek Greyclaw (Verminkin) [0XP]
+    - group: Ratchkit Greyclaw (Verminkin) [0XP]
       stats: M5, WS3, BS3, S3, T3, W1, I4, A1, Ld5, Sv-
       weapons: Club, Club
       armour:
       rules:
 
-    - group: Snilik Fleshfiend (Verminkin) [0XP]
+    - group: Paskreet Fleshfiend (Verminkin) [0XP]
       stats: M5, WS3, BS3, S3, T3, W1, I4, A1, Ld5, Sv-
       weapons: Club, Club
       armour:
