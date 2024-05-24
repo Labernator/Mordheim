@@ -1,0 +1,95 @@
+warband: Black Death (Skaven Clan Eshin)
+campaign: 0
+gc: 7
+shards: 0
+equipment: 
+objective: ""
+alignment: ""
+
+heros:
+    - hero: Rerkit Poisonfur (Assassine Adept) [6XP]
+      stats: M6, WS4, BS4, S4, T3, W2, I5, A1, Ld7, SV-
+      weapons: Weeping Blades
+      armour: light armour
+      rules: Leader, Perfect Killer
+      skilllists: Strength, Shooting, Academic, Combat, Speed, Special
+
+    - hero: Nelachitt Verminbite (Eshin sorcerer) [2XP]
+      stats: M5, WS3, BS3, S3, T3, W1, I4, A1, Ld6, Sv-
+      weapons: Halberd, Sling
+      armour: 
+      rules: Magic User, Warpfire
+      skilllists: Academic, Speed, Special 
+
+    - hero: Quaknaw Poisongash (Black Skaven) [2XP]
+      stats: M6, WS4, BS3, S4, T3, W1, I5, A1, Ld6, Sv-
+      weapons: Halberd, Black Lotus
+      armour:
+      rules: 
+      skilllists: Combat, Strength, Speed, Special
+
+    - hero: Swilik Gutterbane (Black Skaven) [2XP]
+      stats: M6, WS4, BS3, S4, T3, W1, I5, A1, Ld6, Sv-
+      weapons: Halberd
+      armour:
+      rules: 
+      skilllists: Combat, Strength, Speed, Special
+     
+    - hero: Rotrek Doommange (Nightrunner) [2XP]
+      stats: M6, WS2, BS3, S3, T3, W1, I4, A1, Ld4, Sv-
+      weapons: Sling, Dagger
+      armour: 
+      rules: 
+      skilllists: Combat, Shooting
+
+    - hero: Snilik Blackshard (Nightrunner) [2XP]
+      stats: M6, WS2, BS3, S3, T3, W1, I4, A1, Ld4, Sv-
+      weapons: Sling, Dagger
+      armour: 
+      rules: 
+      skilllists: Combat, Shooting
+
+henchmen:
+    - group: Skitrit Cankernip (Verminkin) [2XP]
+      stats: M5, WS3, BS3, S3, T2, W1, I4, A1, Ld5, Sv-
+      weapons: Sling, Club, Club
+      armour:
+      rules:
+
+    - group: Iklik Blackfilth (Verminkin) [2XP]
+      stats: M5, WS3, BS3, S3, T3, W1, I4, A1, Ld5, Sv-
+      weapons: Sling, Club, Club
+      armour:
+      rules:
+
+    - group: Rachtilik Slinkshredder (Verminkin) [2XP]
+      stats: M5, WS3, BS3, S3, T3, W1, I4, A1, Ld5, Sv-
+      weapons: Sling, Club, Club
+      armour:
+      rules:
+
+    - group: Tholk Bloodpest (Verminkin) [2XP]
+      stats: M5, WS3, BS3, S3, T3, W1, I4, A1, Ld5, Sv-
+      weapons: Club, Club
+      armour:
+      rules:
+
+    - group: Ratchkit Greyclaw (Verminkin) [2XP]
+      stats: M5, WS3, BS3, S3, T3, W1, I4, A1, Ld5, Sv-
+      weapons: Club, Club
+      armour:
+      rules:
+
+    - group: Paskreet Fleshfiend (Verminkin) [3XP]
+      stats: M5, WS3, BS3, S3, T3, W1, I4, A1, Ld5, Sv-
+      weapons: Club, Club
+      armour:
+      rules:
+
+    - group: Morskilik Guttermaster (Verminkin) [0XP]
+      stats: M5, WS3, BS3, S3, T3, W1, I4, A1, Ld5, Sv-
+      weapons: Club, Club
+      armour:
+      rules:
+      
+notes: 
