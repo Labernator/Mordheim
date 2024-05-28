@@ -12,4 +12,6 @@
 **Wetter:**  
 
 **Warband rating**
-Philipp: 568
+- Black Death: 568
+- The Lanisters:
+- Saurus: 
