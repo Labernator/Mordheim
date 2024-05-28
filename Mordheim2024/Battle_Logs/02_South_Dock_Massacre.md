@@ -26,7 +26,7 @@
  - Hunter: in the street
  - Wölfe: in the street
 
-##Opposition 
+**Opposition**  
  - 16 Zombies auf dem Feld
  - 4 Zombies an einem random Gebäude
  - 3 Ghoule an der Barrikade
