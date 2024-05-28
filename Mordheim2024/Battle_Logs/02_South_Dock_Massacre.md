@@ -25,3 +25,9 @@
  - Marksmen: in the street
  - Hunter: in the street
  - Wölfe: in the street
+
+##Opposition 
+ - 16 Zombies auf dem Feld
+ - 4 Zombies an einem random Gebäude
+ - 3 Ghoule an der Barrikade
+ - 1 Dire Wolf an der Barrikade
