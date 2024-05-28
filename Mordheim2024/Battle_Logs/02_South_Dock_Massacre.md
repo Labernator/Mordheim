@@ -11,3 +11,5 @@
 
 **Wetter:**  
 
+**Warband rating**
+Philipp: 568
