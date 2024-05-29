@@ -26,6 +26,21 @@
  - Hunter: in the street
  - Wölfe: in the street
 
+**Philipp**
+- Rerkit Poisonfur (Assassine Adept) - Street Fighting
+- Nelachitt Verminbite (Eshin sorcerer) - Barricade
+- Quaknaw Poisongash (Black Skaven)  - Street Fighting    
+- Swilik Gutterbane (Black Skaven) - Barricade
+- Rotrek Doommange (Nightrunner)  - Random Edge
+- Snilik Blackshard (Nightrunner) - Barricade
+- Skitrit Cankernip (Verminkin) - Barricade
+- Iklik Blackfilth (Verminkin) - Street Fighting
+- Rachtilik Bonefur (Verminkin) [2XP] - Barricade     
+- Tholk Bloodpest (Verminkin) [2XP] - Street Fighting   
+- Ratchkit Greyclaw (Verminkin) [2XP] - Random Edge
+- Paskreet Fleshfiend (Verminkin) [3XP] - Random Edge
+- Skyre Stormnip (Verminkin) [0XP] - Random Edge
+
 **Opposition**  
  - 16 Zombies auf dem Feld
  - 4 Zombies an einem random Gebäude
