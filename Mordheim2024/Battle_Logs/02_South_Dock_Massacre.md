@@ -35,11 +35,11 @@
 - Snilik Blackshard (Nightrunner) - Barricade
 - Skitrit Cankernip (Verminkin) - Barricade
 - Iklik Blackfilth (Verminkin) - Street Fighting
-- Rachtilik Bonefur (Verminkin) [2XP] - Barricade     
-- Tholk Bloodpest (Verminkin) [2XP] - Street Fighting   
-- Ratchkit Greyclaw (Verminkin) [2XP] - Random Edge
-- Paskreet Fleshfiend (Verminkin) [3XP] - Random Edge
-- Skyre Stormnip (Verminkin) [0XP] - Random Edge
+- Rachtilik Bonefur (Verminkin) - Barricade     
+- Tholk Bloodpest (Verminkin) - Street Fighting   
+- Ratchkit Greyclaw (Verminkin) - Random Edge
+- Paskreet Fleshfiend (Verminkin) - Random Edge
+- Skyre Stormnip (Verminkin) - Random Edge
 
 **Opposition**  
  - 16 Zombies auf dem Feld
