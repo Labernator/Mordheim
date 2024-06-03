@@ -1,0 +1,470 @@
+{
+    "name": "Black Death",
+    "faction": "Skaven Clan Eshin",
+    "plot": "Poisoning the Well",
+    "campaignpoints": 6,
+    "bodycount": 13,
+    "cash": 18,
+    "stash": [],
+    "rating": 568,
+    "treasure": 1,
+    "routlimit": 4,
+    "units": [
+        {
+            "name": "Rerkit Poisonfur",
+            "type": "Assassine Adept",
+            "cost": 145,
+            "armour": "5+",
+            "xp": 6,
+            "stats": {
+                "movement": 6,
+                "weaponskill": 4,
+                "ballisticskill": 4,
+                "strength": 4,
+                "toughness": 3,
+                "wounds": 2,
+                "attacks": "1",
+                "leadership": 7,
+                "initiative": 5
+            },
+            "wargear": ["Light Armour (Armour Save +2)"],
+            "weapons": [
+                {
+                    "name": "Weeping Blades",
+                    "range": "Melee",
+                    "strength": "as User",
+                    "traits": [
+                        "Pair", "Venomous (will wound its target automatically if you roll a 6 to hit)", "Parry"
+                    ]
+                }
+            ],
+            "skilllists": [
+                "Combat",
+                "Shooting,",
+                "Academic,",
+                "Strength,",
+                "Speed",
+                "Special"
+            ],
+            "rules": [
+                {
+                    "name": "Leader",
+                    "text": "See the respective rule in the Leadership & Psychology section."
+                },
+                {
+                    "name": "Perfect Killer",
+                    "text": "An Assassin Adept always has an extra -1 modifier to any armour save the enemy has to take against wounds they inflicted (both with shooting and close combat weapons)."
+                }
+            ]
+        },
+        {
+            "name": "Nelachitt Verminbite",
+            "type": "Eshin Sorcerer",
+            "cost": 57,
+            "armour": "-",
+            "xp": 2,
+            "stats": {
+                "movement": 5,
+                "weaponskill": 3,
+                "ballisticskill": 3,
+                "strength": 3,
+                "toughness": 3,
+                "wounds": 1,
+                "leadership": 6,
+                "initiative": 4,
+                "attacks": "1"
+            },
+            "weapons": [
+                {
+                    "name": "Halberd",
+                    "range": "Melee",
+                    "strength": "+1",
+                    "traits": [
+                        "Two-handed"
+                    ]
+                },
+                {
+                    "name": "Sling",
+                    "range": "18\"",
+                    "strength": "3",
+                    "traits": [
+                        "Fire twice at half range"
+                    ]
+                }
+            ],
+            "skilllists": [
+                "Academic",
+                "Speed",
+                "Special"
+            ],
+            "rules": [
+                {
+                    "name": "Wizard",
+                    "text": "Warpfire (D8) - Range 8\" - D3 S4 hits (and one S3 hit on each model within 2\" of the target)"
+                }
+            ]
+        },
+        {
+            "name": "Quaknaw Poisongash",
+            "type": "Black Skaven",
+            "cost": 62,
+            "armour": "-",
+            "xp": 2,
+            "stats": {
+                "movement": 6,
+                "weaponskill": 4,
+                "ballisticskill": 3,
+                "strength": 4,
+                "toughness": 3,
+                "wounds": 1,
+                "attacks": "1",
+                "leadership": 6,
+                "initiative": 5
+            },
+            "wargear": ["Black Lotus (will wound its target automatically if you roll a 6 to hit)"],
+            "weapons": [
+                {
+                    "name": "Halberd",
+                    "range": "Melee",
+                    "strength": "+1",
+                    "traits": [
+                        "Two-handed"
+                    ]
+                }
+            ],
+            "skilllists": [
+                "Combat",
+                "Strength",
+                "Speed",
+                "Special"
+            ]
+        },
+        {
+            "name": "Swilik Gutterbane",
+            "type": "Black Skaven",
+            "cost": 50,
+            "armour": "-",
+            "xp": 2,
+            "stats": {
+                "movement": 6,
+                "weaponskill": 4,
+                "ballisticskill": 3,
+                "strength": 4,
+                "toughness": 3,
+                "wounds": 1,
+                "attacks": "1",
+                "leadership": 6,
+                "initiative": 5
+            },
+            "weapons": [
+                {
+                    "name": "Halberd",
+                    "range": "Melee",
+                    "strength": "+1",
+                    "traits": [
+                        "Two-handed"
+                    ]
+                }
+            ],
+            "skilllists": [
+                "Combat",
+                "Strength",
+                "Speed",
+                "Special"
+            ]
+        },
+        {
+            "name": "Rotrek Doommange",
+            "type": "Nightrunner",
+            "cost": 22,
+            "armour": "-",
+            "xp": 2,
+            "stats": {
+                "movement": 6,
+                "weaponskill": 2,
+                "ballisticskill": 3,
+                "strength": 3,
+                "toughness": 3,
+                "wounds": 1,
+                "attacks": "1",
+                "leadership": 4,
+                "initiative": 4
+            },
+            "weapons": [
+                {
+                    "name": "Sling",
+                    "range": "18\"",
+                    "strength": "3",
+                    "traits": [
+                        "Fire twice at half range"
+                    ]
+                },
+                {
+                    "name": "Dagger",
+                    "range": "Melee",
+                    "strength": "as User",
+                    "traits": [
+                        "Enemy armour save +1"
+                    ]
+                }
+            ],
+            "skilllists": [
+                "Combat",
+                "Shooting"
+            ]
+        },
+        {
+            "name": "Snilik Blackshard",
+            "type": "Nightrunner",
+            "cost": 22,
+            "armour": "-",
+            "xp": 2,
+            "stats": {
+                "movement": 6,
+                "weaponskill": 2,
+                "ballisticskill": 3,
+                "strength": 3,
+                "toughness": 3,
+                "wounds": 1,
+                "attacks": "1",
+                "leadership": 4,
+                "initiative": 4
+            },
+            "weapons": [
+                {
+                    "name": "Sling",
+                    "range": "18\"",
+                    "strength": "3",
+                    "traits": [
+                        "Fire twice at half range"
+                    ]
+                },
+                {
+                    "name": "Dagger",
+                    "range": "Melee",
+                    "strength": "as User",
+                    "traits": [
+                        "Enemy armour save +1"
+                    ]
+                }
+            ],
+            "skilllists": [
+                "Combat",
+                "Shooting"
+            ]
+        },
+        {
+            "name": "Skitrit Cankernip",
+            "type": "Verminkin",
+            "cost": 28,
+            "armour": "-",
+            "xp": 2,
+            "stats": {
+                "movement": 5,
+                "weaponskill": 3,
+                "ballisticskill": 3,
+                "strength": 3,
+                "toughness": 2,
+                "wounds": 1,
+                "attacks": "1",
+                "leadership": 5,
+                "initiative": 4
+            },
+            "weapons": [
+                {
+                    "name": "Sling",
+                    "range": "18\"",
+                    "strength": "3",
+                    "traits": [
+                        "Fire twice at half range"
+                    ]
+                },
+                {
+                    "name": "2x Club",
+                    "range": "Melee",
+                    "strength": "as User",
+                    "traits": [
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Iklik Blackfilth",
+            "type": "Verminkin",
+            "cost": 28,
+            "armour": "-",
+            "xp": 2,
+            "stats": {
+                "movement": 5,
+                "weaponskill": 3,
+                "ballisticskill": 3,
+                "strength": 3,
+                "toughness": 3,
+                "wounds": 1,
+                "attacks": "1",
+                "leadership": 5,
+                "initiative": 4
+            },
+            "weapons": [
+                {
+                    "name": "Sling",
+                    "range": "18\"",
+                    "strength": "3",
+                    "traits": [
+                        "Fire twice at half range"
+                    ]
+                },
+                {
+                    "name": "2x Club",
+                    "range": "Melee",
+                    "strength": "as User",
+                    "traits": [
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Rachtilik Bonefur",
+            "type": "Verminkin",
+            "cost": 28,
+            "armour": "-",
+            "xp": 2,
+            "stats": {
+                "movement": 5,
+                "weaponskill": 3,
+                "ballisticskill": 3,
+                "strength": 3,
+                "toughness": 3,
+                "wounds": 1,
+                "attacks": "1",
+                "leadership": 5,
+                "initiative": 4
+            },
+            "weapons": [
+                {
+                    "name": "Sling",
+                    "range": "18\"",
+                    "strength": "3",
+                    "traits": [
+                        "Fire twice at half range"
+                    ]
+                },
+                {
+                    "name": "2x Club",
+                    "range": "Melee",
+                    "strength": "as User",
+                    "traits": [
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tholk Bloodpest",
+            "type": "Verminkin",
+            "cost": 26,
+            "armour": "-",
+            "xp": 2,
+            "stats": {
+                "movement": 5,
+                "weaponskill": 3,
+                "ballisticskill": 3,
+                "strength": 3,
+                "toughness": 3,
+                "wounds": 1,
+                "attacks": "1",
+                "leadership": 5,
+                "initiative": 4
+            },
+            "weapons": [
+                {
+                    "name": "2x Club",
+                    "range": "Melee",
+                    "strength": "as User",
+                    "traits": [
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ratchkit Greyclaw",
+            "type": "Verminkin",
+            "cost": 26,
+            "armour": "-",
+            "xp": 2,
+            "stats": {
+                "movement": 5,
+                "weaponskill": 3,
+                "ballisticskill": 3,
+                "strength": 3,
+                "toughness": 3,
+                "wounds": 1,
+                "attacks": "1",
+                "leadership": 5,
+                "initiative": 4
+            },
+            "weapons": [
+                {
+                    "name": "2x Club",
+                    "range": "Melee",
+                    "strength": "as User",
+                    "traits": [
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Paskreet Fleshfiend",
+            "type": "Verminkin",
+            "cost": 26,
+            "armour": "-",
+            "xp": 2,
+            "stats": {
+                "movement": 5,
+                "weaponskill": 3,
+                "ballisticskill": 3,
+                "strength": 3,
+                "toughness": 3,
+                "wounds": 1,
+                "attacks": "1",
+                "leadership": 5,
+                "initiative": 4
+            },
+            "weapons": [
+                {
+                    "name": "2x Club",
+                    "range": "Melee",
+                    "strength": "as User",
+                    "traits": [
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Skyre Stormnip",
+            "type": "Verminkin",
+            "cost": 26,
+            "armour": "-",
+            "xp": 0,
+            "stats": {
+                "movement": 5,
+                "weaponskill": 3,
+                "ballisticskill": 3,
+                "strength": 3,
+                "toughness": 3,
+                "wounds": 1,
+                "attacks": "1",
+                "leadership": 5,
+                "initiative": 4
+            },
+            "weapons": [
+                {
+                    "name": "2x Club",
+                    "range": "Melee",
+                    "strength": "as User",
+                    "traits": [
+                    ]
+                }
+            ]
+        }
+    ]
+}
