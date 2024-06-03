@@ -6,6 +6,9 @@
     "cash": 16,
     "stash": [],
     "rating": 547,
+    "bodycount": 7,
+    "treasure": 0,
+    "routlimit": 2,
     "units": [
         {
             "name": "Haku",
