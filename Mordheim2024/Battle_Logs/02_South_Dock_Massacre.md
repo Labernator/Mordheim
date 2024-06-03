@@ -41,6 +41,16 @@
 - Paskreet Fleshfiend (Verminkin) - Random Edge
 - Skyre Stormnip (Verminkin) - Random Edge
 
+**Marius**
+- Haku (Skink Priest) - Street Fighting
+- Gojira (Totem Warrior) - Random Edge
+- Spots (Skink Great Crest) - Street Fighting     
+- Spike (Skink Great Crest) - Barricade
+- Pendragon (Kroxigor) - Street Fighting 
+- Tehanu (Saurus Brave)  - Barricade 
+- Mojo (Skink Brave) - Street Fighting
+
+
 **Opposition**  
  - 16 Zombies auf dem Feld
  - 4 Zombies an einem random Gebäude
