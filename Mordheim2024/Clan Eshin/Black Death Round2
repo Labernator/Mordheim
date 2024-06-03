@@ -5,7 +5,7 @@ shards: 1
 equipment: 
 objective: ""
 alignment: ""
-Rating: 568
+Rating: 518
 
 heros:
     - hero: Rerkit Poisonfur (Assassine Adept) [6XP]
