@@ -13,7 +13,7 @@
 ## Warband rating
 - Black Death: 568
 - The Lanisters: 710 (der Blood Stone pusht das Rating ganz schön...)
-- Saurus: 
+- Saurus: 547
 
 ## Setup
 **Stefan**  
