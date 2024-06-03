@@ -74,7 +74,7 @@ Philipp: 2 IP
 - Verkaufe 2 Treasures + 2 Wyrdstone für 50 gc
 Gc: 92 shards: 1
 - Lösegeld bezahlen -10
-- Trading: Black lotus kaufen -12, einen Verminkin anheuern -20, 4 Maces kaufen -12, 2x leichte Rüstung kaufen -40 Summe: 64
+- Trading: Black lotus kaufen -12, einen Verminkin anheuern -20, 4 Maces kaufen -12, 1x leichte Rüstung kaufen -20 Summe: 64
 GC: 18 shards: 1
 - Ausrüsten: Black Lotus geht an Black Skaven, befreiter und neuer Verminkin erhalten je 2 maces, leichte Rüstung geht an Chef
 
