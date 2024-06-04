@@ -62,3 +62,4 @@ exp
 - quaknaw +1exp
 - kilik Enfeebled
 - nelachitt +1 exp
+-rotrek +1exp
