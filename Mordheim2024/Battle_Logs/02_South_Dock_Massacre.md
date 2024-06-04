@@ -56,3 +56,6 @@
  - 4 Zombies an einem random Gebäude
  - 3 Ghoule an der Barrikade
  - 1 Dire Wolf an der Barrikade
+
+exp
+- swilik +1exp
