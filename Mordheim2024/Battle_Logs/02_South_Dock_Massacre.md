@@ -59,3 +59,4 @@
 
 exp
 - swilik +1exp
+- quaknaw +1exp
