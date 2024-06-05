@@ -79,6 +79,8 @@
 ## Injuries
 **Philipp**
 - Kilik Emfeebled -1T
+
+- **Stefan**  
 - Mage -1M
 
 ## Income
