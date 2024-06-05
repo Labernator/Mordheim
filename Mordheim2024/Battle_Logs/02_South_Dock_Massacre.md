@@ -76,6 +76,9 @@
  - Bondsman 1 +4 (teilnehmen + rescued hostage)
  - Rest +2 fürs teilnehmen
 
+**Marius**
+ - alle +2 fürs teilnehmen
+   
 ## Injuries
 **Philipp**
 - Kilik Emfeebled -1T
@@ -83,12 +86,18 @@
 - **Stefan**  
 - Mage -1M
 
+- **Marius**  
+- Spike Old Battle Wound
+
 ## Income
 **Philipp** 
 - 2 Treasures + 2 Shards + 40gc + 8gc (44) + 1 Lucky Charm
 
 **Stefan**  
 - 3 Treasures + 1 Shard + 40gc + (55) 1 Rabbits Foot 
+
+**Marius** 
+- 2 Treasures + 20gc
 
 ## Postgame Sequence
 **Philipp** 
@@ -112,6 +121,11 @@
  - Trading: Kaufe einen neuen Wolf (-15GC). Gehen also noch 41GC in War Chest.
  - Ausrüsten: Chef kriegt den Blood Stone, Wulfen kriegt den Rabbits Foot.
  - Experience: Mage kriegt den "Mind Focus" Skill für 9XP (+20 Warband Rating). Wulfen kriegt +1T für 9XP (+20 Warband Rating)
+
+**Marius** 
+- Verkaufe 2 Treasures 30 gc - Bedeutet 50 gc
+- 10gc für den Dream Parlour für meinen Chef -> setzt aus
+- Saurus Totem Warrior ins Gambling Den -> 1 treasure
 
 ## CP
 **Stefan**
