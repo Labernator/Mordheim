@@ -103,6 +103,6 @@
  - Ausrüsten: Chef kriegt den Blood Stone, Wulfen kriegt den Rabbits Foot.
  - Experience: Mage kriegt den "Mind Focus" Skill für 9XP (+20 Warband Rating). Wulfen kriegt +1T für 9XP (+20 Warband Rating)
 
-##CP
+## CP
 **Stefan**
  - +4 fürs Dabeisein
