@@ -86,10 +86,21 @@
 ## Income
 **Philipp** 
 - 2 Treasures + 2 Shards + 40gc + 8gc (44) + 1 Lucky Charm
-- 3 Treasures + 1 Shard + 40gc + (55) 1 Rabbits Foot
 
 ## Postgame Sequence
 **Philipp** 
+
+**Income**
+**Philipp** 
+- 2 Treasures + 2 Shards + 40gc + 8gc (44) + 1 Lucky Charm 
+
+**Postgame Sequence**
+**Philipp** 
+- Verkaufe 4 Treasures 55 gc - Bedeutet 121 gc
+- Magier geht zum Temple -15 gc
+- Chef geht zum Master Moulder -25gc und 1 Shard, er erhält Favour of Tchar- Beak (+1 Bite Attack)
+- 4 mal Mine +1 Shard
+- Kaufe eine Ratte + 2 Maces + 1 Sling (28gc)
 
 
 **Stefan**
@@ -108,3 +119,5 @@
 ## CP
 **Stefan**
  - +4 fürs Dabeisein
+**Philipp**
+- +1CP für Shard + 4 fürs Dabeisein
