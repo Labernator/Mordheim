@@ -87,9 +87,10 @@
 **Philipp** 
 - 2 Treasures + 2 Shards + 40gc + 8gc (44) + 1 Lucky Charm
 
+**Stefan**  
 - 3 Treasures + 1 Shard + 40gc + (55) 1 Rabbits Foot 
 
-**Postgame Sequence**
+## Postgame Sequence
 **Philipp** 
 - Verkaufe 4 Treasures 55 gc - Bedeutet 121 gc
 - Magier geht zum Temple -15 gc
