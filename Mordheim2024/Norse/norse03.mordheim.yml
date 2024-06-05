@@ -1,0 +1,94 @@
+warband: The Lannister Clan (Norse Explorer)
+campaign: 14
+gc: 41
+shards: 1
+objective: "The Body Trade"
+alignment: "Chaotic"
+equipment: 5 Hostages
+
+heros:
+    - hero: Tywin {260GC} (Jarl) [7XP]
+      stats: M4, WS4, BS3, S4, T3, W2, I4, A2, Ld8, Sv3+
+      weapons: Sword, Dagger
+      armour: Shield, Light Armour, Rabbits Foot, Bloodstone
+      rules: Leader, Slaver
+      skilllists: Speed, Combat, Special
+
+    - hero: Jaimie {85GC} (Berserker) [6XP]
+      stats: M4, WS4, BS3, S4, T3, W2, I3, A1, Ld7, Sv-
+      weapons: Flail, Dagger
+      armour: 
+      rules: Frenzy
+      skilllists: Strength, Special, Combat
+
+    - hero: The Mountain {265GC} (Wulfen) [2XP]
+      stats: M6, WS4, BS0, S4, T5, W2, I4, A2, Ld7, Sv-
+      weapons: 
+      armour: Rabbits Foot, Bloodstone
+      rules: Fearsome, Immune to Psychology, Bestial
+      skilllists: Speed, Combat, Special
+
+    - hero: Joffrey {17GC} (Bondsman) [6XP]
+      stats: M4, WS3, BS2, S3, T3, W1, I2, A1, Ld6, Sv-
+      weapons: 2x Dagger
+      armour: 
+      rules: 
+      skilllists: Speed, Combat, Special
+
+    - hero: Myrcella {17GC} (Bondsman) [4XP]
+      stats: M4, WS3, BS2, S3, T3, W1, I2, A1, Ld6, Sv-
+      weapons: 2x Dagger
+      armour: 
+      rules: 
+      skilllists: Speed, Combat, Special
+
+    - hero: Pyat Pree {67GC} (Bright Wizard) [0XP]
+      stats: M3, WS3, BS2, S3, T3, W1, I4, A1, Ld7, Sv-
+      weapons: 2x Dagger
+      armour: 
+      rules: Wizard (Fireball), Mind Focus, Courtesan Companion, Hobbled (-1M)
+      skilllists: Strength, Combat, Academic
+      
+    - hero: Arya Stark {30GC} (Tilean Marksman) [4XP]
+      stats: M4, WS3, BS4, S3, T3, W1, I3, A1, Ld7, Sv-
+      skilllists: Shooting
+      weapons: Sword, Dagger, Crossbow
+      armour: Light armour
+      rules: Steady Hands, Dead Eye Shot
+      hiredsword: true
+
+henchmen:
+    - group: The Dogs of War {60GC} (4 Wolf) [0XP]
+      stats: M9, WS3, BS0, S3, T3, W1, I3, A1, Ld5, Sv-
+      weapons: 
+      armour: 
+      rules: Animal, Pack Leader
+
+    - group: Lancel {33GC} (1 Hunter) [4XP]
+      stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+      weapons: Mace, Dagger, Javelin
+      armour: 
+      rules: 
+
+    - group: Janei {33GC} (1 Hunter) [4XP]
+      stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+      weapons: Mace, Dagger, Javelin
+      armour: 
+      rules: 
+
+    - group: Willem {33GC} (1 Hunter) [2XP]
+      stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+      weapons: Mace, Dagger, Javelin
+      armour: 
+      rules: 
+      
+notes: |
+    - Warband Rating: 836 
+    - Fireball    (7+)
+    18" range, first target S3, fire damage. The wizard may choose may choose to take a S1 flaming hit to increase Strength of Fireball by 1. Multiple times possible.    
+    - Marksman
+    No penalty for long range or cover    
+    - Bloodstone
+    Gain a bite attack. If the Hero put all of his enemies out of action in hand-to-hand combat, he becomes frenzied on a 4+.       
+    - Encampments:
+    Waterfront Warehouse (2D6GC after each battle. On a double a Hired Sword for one game) 
