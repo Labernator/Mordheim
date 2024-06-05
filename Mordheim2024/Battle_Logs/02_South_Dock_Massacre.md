@@ -87,12 +87,7 @@
 **Philipp** 
 - 2 Treasures + 2 Shards + 40gc + 8gc (44) + 1 Lucky Charm
 
-## Postgame Sequence
-**Philipp** 
-
-**Income**
-**Philipp** 
-- 2 Treasures + 2 Shards + 40gc + 8gc (44) + 1 Lucky Charm 
+- 3 Treasures + 1 Shard + 40gc + (55) 1 Rabbits Foot 
 
 **Postgame Sequence**
 **Philipp** 
