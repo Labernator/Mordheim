@@ -91,3 +91,14 @@
 
 
 **Stefan**
+ - Chef: Bone Garden: +8GC
+ - Berserker: Bordello: 1XP (erstes Mal), -5GC
+ - Wulfen: Bone Garden: -1I für das nächste Spiel...
+ - Mage: Gambling Den: -12GC
+ - 2 Bondsmen: Abattoir: 2 Slaves, Ghoule Nest für Joffrey, Blood Stone, -20GC
+ - Marksman: Kein Bloodpact, Upkeep -15GC
+ - Einkommen: Verkaufe 4 Treasuren (und behalte 1 Wyrdstone für schlechte Zeiten) für 50GC. 40GC fixes Einkommen. 9GC vom Dockside Warehouse. 1GC noch von der Warband Creation => 100GC
+ - Ausgaben: Netto aus den Aktionen der Helden: -44GC. Bleiben noch 56GC übrig.
+ - Trading: Kaufe einen neuen Wolf (-15GC). Gehen also noch 41GC in War Chest.
+ - Ausrüsten: Chef kriegt den Blood Stone, Wulfen kriegt den Rabbits Foot.
+ - Experience: Mage kriegt den "Mind Focus" Skill für 9XP. Wulfen kriegt +1T für 9XP
