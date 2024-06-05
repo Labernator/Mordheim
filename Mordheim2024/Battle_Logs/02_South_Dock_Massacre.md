@@ -74,16 +74,20 @@
  - Berserker +3 (teilnehmen + 1 kill)
  - Jarl +3 (teilnehmen + 1 kill)
  - Bondsman 1 +4 (teilnehmen + rescued hostage)
-
+ - Rest +2 fürs teilnehmen
 
 ## Injuries
 **Philipp**
 - Kilik Emfeebled -1T
+- Mage -1M
 
 ## Income
 **Philipp** 
-- 2 Treasures + 2 Shards + 40gc + 8gc (44) + 1 Lucky Charm 
+- 2 Treasures + 2 Shards + 40gc + 8gc (44) + 1 Lucky Charm
+- 3 Treasures + 1 Shard + 40gc + (55) 1 Rabbits Foot
 
-**Postgame Sequence**
+## Postgame Sequence
 **Philipp** 
 
+
+**Stefan**
