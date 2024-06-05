@@ -123,12 +123,20 @@
  - Experience: Mage kriegt den "Mind Focus" Skill für 9XP (+20 Warband Rating). Wulfen kriegt +1T für 9XP (+20 Warband Rating)
 
 **Marius** 
-- Verkaufe 2 Treasures 30 gc - Bedeutet 50 gc
-- 10gc für den Dream Parlour für meinen Chef -> setzt aus
+- 10gc für den Dream Parlour für meinen Chef -> setzt aus (noch 10gc übrig)
 - Saurus Totem Warrior ins Gambling Den -> 1 treasure
-
+- 10gc für den Dream Parlour für Spots -> setzt aus (noch 0gc übrig)
+- Spike ins Gambling Den -> 1 treasure
+- Verkaufe 3 Treasures 45 gc - Bedeutet 45 gc
+- kaufe 2 Skink braves für 40 gc . Bleiben mir 5gc und 1 treasure.
+- Als nächstes die Doppelrunde im 1 gegen 1 mit 2 Helden.
+  
 ## CP
 **Stefan**
  - +4 fürs Dabeisein
+   
 **Philipp**
 - +1CP für Shard + 4 fürs Dabeisein
+
+**Marius**
+ - +4 fürs Dabeisein
