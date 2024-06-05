@@ -57,7 +57,7 @@
  - 3 Ghoule an der Barrikade
  - 1 Dire Wolf an der Barrikade
 
-**exp**
+## XP
 **Philipp**
 - swilik +2exp (Survive + 1Kill)
 - quaknaw +2exp (Survive + 1Kill)
@@ -69,10 +69,18 @@
 - Iklik + 1Exp
 - Paskreet + 1Exp
 
-**Injuries**
+**Stefan**
+ - Wulfen +7 (teilnehmen + 5 kills)
+ - Berserker +3 (teilnehmen + 1 kill)
+ - Jarl +3 (teilnehmen + 1 kill)
+ - Bondsman 1 +4 (teilnehmen + rescued hostage)
+
+
+## Injuries
+**Philipp**
 - Kilik Emfeebled -1T
 
-**Income**
+## Income
 **Philipp** 
 - 2 Treasures + 2 Shards + 40gc + 8gc (44) + 1 Lucky Charm 
 
