@@ -97,6 +97,7 @@
 - Chef geht zum Master Moulder -25gc und 1 Shard, er erhält Favour of Tchar- Beak (+1 Bite Attack)
 - 4 mal Mine +1 Shard
 - Kaufe eine Ratte + 2 Maces + 1 Sling (28gc)
+- Snilik Blackshard (Nightrunner) bleibt zuhause ... 
 
 
 **Stefan**
