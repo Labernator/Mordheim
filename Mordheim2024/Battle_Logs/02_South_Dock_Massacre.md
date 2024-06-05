@@ -57,9 +57,20 @@
  - 3 Ghoule an der Barrikade
  - 1 Dire Wolf an der Barrikade
 
-exp
+**exp**
+**Philipp**
 - swilik +1exp
 - quaknaw +1exp
 - kilik Enfeebled
-- nelachitt +1 exp
--rotrek +1exp
+- nelachitt +2 exp
+- rotrek +1exp
+
+**Injuries**
+- Kilik Emfeebled -1T
+
+**Income**
+**Philipp** 
+- 4 Treasures + 40gc + 8gc (44) + 1 Lucky Charm 
+
+**Postgame Sequence**
+
