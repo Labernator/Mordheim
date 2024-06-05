@@ -59,11 +59,15 @@
 
 **exp**
 **Philipp**
-- swilik +1exp
-- quaknaw +1exp
-- kilik Enfeebled
-- nelachitt +2 exp
-- rotrek +1exp
+- swilik +2exp (Survive + 1Kill)
+- quaknaw +2exp (Survive + 1Kill)
+- nelachitt +2 exp (Survive + 1Kill)
+- rotrek +1exp (Survive + 1Kill)
+- Skyre + 1exp
+- Snilik + 1 Exp
+- Skitrit + 1Exp
+- Iklik + 1Exp
+- Paskreet + 1Exp
 
 **Injuries**
 - Kilik Emfeebled -1T
