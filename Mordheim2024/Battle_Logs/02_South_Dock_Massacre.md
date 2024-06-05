@@ -101,4 +101,4 @@
  - Ausgaben: Netto aus den Aktionen der Helden: -44GC. Bleiben noch 56GC übrig.
  - Trading: Kaufe einen neuen Wolf (-15GC). Gehen also noch 41GC in War Chest.
  - Ausrüsten: Chef kriegt den Blood Stone, Wulfen kriegt den Rabbits Foot.
- - Experience: Mage kriegt den "Mind Focus" Skill für 9XP. Wulfen kriegt +1T für 9XP
+ - Experience: Mage kriegt den "Mind Focus" Skill für 9XP (+20 Warband Rating). Wulfen kriegt +1T für 9XP (+20 Warband Rating)
