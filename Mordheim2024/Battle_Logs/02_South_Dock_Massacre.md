@@ -102,7 +102,7 @@
 - Chef geht zum Master Moulder -25gc und 1 Shard, er erhält Favour of Tchar- Beak (+1 Bite Attack)
 - 4 mal Mine +1 Shard
 - Kaufe eine Ratte + 2 Maces + 1 Sling (28gc)
-- Chef erhält +1 S für 8 Exp
+- Chef erhält +1 T für 8 Exp
 - 2 Clubs gehen an Rotrek, Helme gehen an Chef + 2 Black Skaven
 - Snilik Blackshard (Nightrunner) bleibt zuhause ... 
 
