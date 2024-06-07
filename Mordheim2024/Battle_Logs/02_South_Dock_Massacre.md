@@ -61,8 +61,8 @@
 **Philipp**
 - swilik +3exp (Take part + 1Kill)
 - quaknaw +3exp (Take Part + 1Kill)
-- nelachitt +2 exp (TAke Part + 1Kill)
-- rotrek +2exp (Take Part + 1Kill)
+- nelachitt +3 exp (Take Part + 1Kill)
+- rotrek +3 exp (Take Part + 1Kill)
 - Rest + 2 Exp
 **Stefan**
  - Wulfen +7 (teilnehmen + 5 kills)
