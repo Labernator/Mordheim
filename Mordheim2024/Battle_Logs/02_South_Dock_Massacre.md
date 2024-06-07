@@ -64,6 +64,7 @@
 - nelachitt +3 exp (Take Part + 1Kill)
 - rotrek +3 exp (Take Part + 1Kill)
 - Rest + 2 Exp
+  
 **Stefan**
  - Wulfen +7 (teilnehmen + 5 kills)
  - Berserker +3 (teilnehmen + 1 kill)
@@ -78,10 +79,10 @@
 **Philipp**
 - Iklik Emfeebled -1T
 
-- **Stefan**  
+**Stefan**  
 - Mage -1M
 
-- **Marius**  
+**Marius**  
 - Spike Old Battle Wound
 
 ## Income
@@ -104,7 +105,6 @@
 - Chef erhält +1 S für 8 Exp
 - 2 Clubs gehen an Rotrek, Helme gehen an Chef + 2 Black Skaven
 - Snilik Blackshard (Nightrunner) bleibt zuhause ... 
-
 
 **Stefan**
  - Chef: Bone Garden: +8GC
