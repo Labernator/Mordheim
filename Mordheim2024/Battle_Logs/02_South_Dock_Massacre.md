@@ -76,7 +76,7 @@
    
 ## Injuries
 **Philipp**
-- Kilik Emfeebled -1T
+- Iklik Emfeebled -1T
 
 - **Stefan**  
 - Mage -1M
