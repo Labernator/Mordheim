@@ -59,16 +59,11 @@
 
 ## XP
 **Philipp**
-- swilik +2exp (Survive + 1Kill)
-- quaknaw +2exp (Survive + 1Kill)
-- nelachitt +2 exp (Survive + 1Kill)
-- rotrek +1exp (Survive + 1Kill)
-- Skyre + 1exp
-- Snilik + 1 Exp
-- Skitrit + 1Exp
-- Iklik + 1Exp
-- Paskreet + 1Exp
-
+- swilik +3exp (Take part + 1Kill)
+- quaknaw +3exp (Take Part + 1Kill)
+- nelachitt +2 exp (TAke Part + 1Kill)
+- rotrek +2exp (Take Part + 1Kill)
+- Rest + 2 Exp
 **Stefan**
  - Wulfen +7 (teilnehmen + 5 kills)
  - Berserker +3 (teilnehmen + 1 kill)
@@ -91,7 +86,7 @@
 
 ## Income
 **Philipp** 
-- 2 Treasures + 2 Shards + 40gc + 8gc (44) + 1 Lucky Charm
+- 2 Treasures + 2 Shards + 40gc + 2 Clubs + 3 Helme + Map of Marienburg + Roawing boat
 
 **Stefan**  
 - 3 Treasures + 1 Shard + 40gc + (55) 1 Rabbits Foot 
