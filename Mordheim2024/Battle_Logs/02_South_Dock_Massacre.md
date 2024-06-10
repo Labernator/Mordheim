@@ -97,14 +97,15 @@
 
 ## Postgame Sequence
 **Philipp** 
-- Verkaufe 4 Treasures 55 gc - Bedeutet 121 gc
+- Verkaufe 4 Treasures 55 gc - Bedeutet 121 gc +18Gc aus letzter Runde
 - Magier geht zum Temple -15 gc
 - Chef geht zum Master Moulder -25gc und 1 Shard, er erhält Favour of Tchar- Beak (+1 Bite Attack)
 - 4 mal Mine +1 Shard
 - Kaufe eine Ratte + 2 Maces + 1 Sling (28gc)
 - Chef erhält +1 A für 8 Exp
 - 2 Clubs gehen an Rotrek, Helme gehen an Chef + 2 Black Skaven
-- Snilik Blackshard (Nightrunner) bleibt zuhause ... 
+- Snilik Blackshard (Nightrunner) bleibt zuhause ...
+- Rest: 71
 
 **Stefan**
  - Chef: Bone Garden: +8GC
