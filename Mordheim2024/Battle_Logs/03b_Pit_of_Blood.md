@@ -9,6 +9,7 @@
 <img src="../Pics/PB_3.png" alt="drawing" width="500"/>
 
 ## House Rules
+ - Heroes werden abwechselnd deloyed
  - Keine Group Activation
  - Jede Runde wird immer nur ein Held aktiviert
  - Kein Eingriff von Außen in die Arena 
