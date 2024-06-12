@@ -1,5 +1,5 @@
 **Game Day:** 18.06.2024  
-**Szenario:** Last Orders  
+**Szenario:** Pit of Blood
 **Wetter:** Was auch immer, wir sind in einer Arena
 
 <img src="../Pics/PB_1.png" alt="drawing" width="500"/>
