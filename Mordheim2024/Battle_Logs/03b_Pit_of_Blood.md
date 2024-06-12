@@ -11,6 +11,7 @@
 ## House Rules
  - Keine Group Activation
  - Jede Runde wird immer nur ein Held aktiviert
+ - Kein Eingriff von Außen in die Arena 
 
 ## Warband rating
 - The Lanisters: 836  (jetzt neu mit 250 Punkten an Blood Stones)
