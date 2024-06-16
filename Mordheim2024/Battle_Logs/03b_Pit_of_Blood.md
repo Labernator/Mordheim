@@ -24,7 +24,7 @@
  - Morning Star
 
 ## Special Rules
- - Stefan muss am Anfang jeder Runde einen D6 rollen. Bei einer 1 wird Jeffry von D3 Ghoulen attackiert.
+ - Stefan muss am Anfang jeder Runde einen D6 rollen. Bei einer 1 wird Joffrey von D3 Ghoulen attackiert.
 
 ## Kills
 
