@@ -2,7 +2,7 @@
     "name": "Black Death",
     "faction": "Skaven Clan Eshin",
     "plot": "Poisoning the Well",
-    "campaignpoints": 7,
+    "campaignpoints": 11,
     "bodycount": 14,
     "cash": 53,
     "stash": [],
@@ -23,7 +23,7 @@
                 "strength": 4,
                 "toughness": 3,
                 "wounds": 2,
-                "attacks": "1",
+                "attacks": "2",
                 "leadership": 7,
                 "initiative": 5
             },
