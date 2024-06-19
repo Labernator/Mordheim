@@ -8,16 +8,19 @@
  - Banking House erscheint komplett nutzlos
  - Casino: Kostet nur 2 Treasures
  - Leather Goods: Extrem punishing
+ - Potion Square: Kosten verdoppelt (40GC), ein anderer Held muss begleiten, dafür kein Roll auf Surgery Tables sondern removen der Condition
 
 ## Plots
  - Der Greenskin Plot erscheint komplett unmöglich
  - Die Undead Plots sind extrem schwer (Greater Artifact + High Level Hostage)
 
 ## Mages/Priests
- - Kein Direct Damage Spell zu beginn auswählen
+ - Kein Direct Damage Spell zu beginn auswählen mit Range > 12"
 
 ## Income
  - Fixes Income: 2D3x10 GC
  - Variables Income: Immer mit 6 Würfel würfeln, egal wie viele Helden das Spiel überlebt haben
 
+## General Rules
+ - Nachdem man ooA geht darf man trotzdem an der Postgame Sequence teil nehmen (kein Covalescence, etc.)
 [The Mordheimer House Rules](https://mordheimer.net/docs/house_rules) sehen alle gut aus
