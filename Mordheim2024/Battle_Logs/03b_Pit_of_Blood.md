@@ -44,6 +44,7 @@ Stefan gewinnt und bekommt D6x10GC => 60 (nice) und die Waffen (2 Nets, Spear, M
 
 ## Income
 **Stefan**
+ - Fixes Income: 40GC
  - Exploration: 3 Treasures
  - 22: 2 Nets & 4 GC
  - 11: Myrcella stirbt
@@ -57,10 +58,14 @@ Stefan gewinnt und bekommt D6x10GC => 60 (nice) und die Waffen (2 Nets, Spear, M
 
 ## Postgame Sequence 
 **Stefan**
- - Chef: Looking for Rare Items (8)
- - Berserker: Looking for Rare Items (8)
+ - Chef: Looking for Rare Items (8): Halfling Cookbook (30 + 3D6GC) => -38GC
+ - Berserker: Looking for Rare Items (8): Rabbits Foot => -10GC
  - Wulfen: Fighting Pit: +2XP, +50GC
- - Mage: Looking for Rare Items (8)
+ - Mage: Looking for Rare Items (8): Unholy Relic (15 + 3D6GC) => -24GC
  - Joffrey: Abattoir: +Mandrake Root, -20GC
  - Myrcella: stirbt in den Exploration, darf also keine coolen Dinge machen und wird nachgebaut, -15GC
  - Marksman: Kein Blood Pact, -15GC Upkeep
+ - Verkaufe 4 Nets (+12GC), 1 Spear (+5GC), Mandrake Root (+13GC), 3 Treasures (+40GC) => 70GC
+ - Einkommen: Stash (41), Szenario (60), Income (52), Verkaufen (70), Post Game (50) => 273GC
+ - Ausgaben: Post Game (122), kaufe einen neuen Wolf (15) => 137
+ - War Chest: 136 GC, 1 Wyrdstone, 6 Hostages, Morning Star, Rabbits Foot, Halfling Cookbook, Unholy Relic
