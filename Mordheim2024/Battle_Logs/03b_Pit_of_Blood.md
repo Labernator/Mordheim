@@ -66,6 +66,6 @@ Stefan gewinnt und bekommt D6x10GC => 60 (nice) und die Waffen (2 Nets, Spear, M
  - Myrcella: stirbt in den Exploration, darf also keine coolen Dinge machen und wird nachgebaut, -15GC
  - Marksman: Kein Blood Pact, -15GC Upkeep
  - Verkaufe 4 Nets (+12GC), 1 Spear (+5GC), Mandrake Root (+13GC), 3 Treasures (+40GC) => 70GC
- - Einkommen: Stash (41), Szenario (60), Income (52), Verkaufen (70), Post Game (50) => 273GC
+ - Einkommen: Stash (41), Szenario (60), Income (52), Verkaufen (70), Post Game (50), Versklavte Ratte (9) => 282GC
  - Ausgaben: Post Game (122), kaufe einen neuen Wolf (15) => 137
- - War Chest: 136 GC, 1 Wyrdstone, 6 Hostages, Morning Star, Rabbits Foot, Halfling Cookbook, Unholy Relic
+ - War Chest: 145 GC, 1 Wyrdstone, 6 Hostages, Morning Star, Rabbits Foot, Halfling Cookbook, Unholy Relic
