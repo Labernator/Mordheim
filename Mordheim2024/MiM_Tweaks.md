@@ -9,7 +9,7 @@
  - Casino: Kostet nur 2 Treasures, die CP bei 4 und 5 erhält man ohne zusätzlichen roll.
  - Leather Goods: Result 1 führt nicht zum Verkauf an Slaver, Result 2 ist "Robbed"
  - Potion Square: Kosten verdoppelt (40GC), ein anderer Held muss begleiten, dafür kein Roll auf Surgery Tables sondern removen der Condition
- - Instructor: Kosten auf 30 (statt 150) und 25 senken
+ - Instructor: Kosten auf 30 (statt 150) und 25 (statt 100) senken
  - Magicians Workshop: Preise halbieren
  - College of Magic: ersetze "2 Gargoyle" durch einen Roll auf der Serious Injury Table (für Wizards deutlich weniger punishing)
  - Herbalist: Kosten auf 25 reduzieren
