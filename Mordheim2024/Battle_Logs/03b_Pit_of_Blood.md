@@ -13,6 +13,9 @@
  - In der Arena darf nur ein einzelner Held in einer Runde aktiviert werden.
  - Rüstungen und weiteres Equipment sind ok in der Arena
  - Neue simple Action "Pick up Weapon". Nimmt eine Waffe innerhalb von 1" auf.
+ - Der "Pit Fighter" Skill gibt auch unbewaffnet +1A
+ - Ein Charge gibt auch unbewaffnet +1A
+ - Frenzy gibt unbewaffnet keine extra Attacken
 
 ## Warband rating
 - The Lanisters: 836  (jetzt neu mit 250 Punkten an Blood Stones)
