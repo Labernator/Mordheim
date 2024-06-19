@@ -33,7 +33,7 @@
 
 **Philipp**
 - Skitrit captured (freigekauft für 9gc)
-- Rotrek out cold
+- Rotrek robbed
 - Iklik out cold
 
 ## Reward
@@ -88,3 +88,10 @@ Stefan gewinnt und bekommt D6x10GC => 60 (nice) und die Waffen (2 Nets, Spear, M
  - Ausgaben: Post Game (122), kaufe einen neuen Wolf (15) => 137
  - War Chest: 145 GC, 1 Wyrdstone, 6 Hostages, Morning Star, Rabbits Foot, Halfling Cookbook, Unholy Relic
  - Bei 20 CP bekomme ich die Tannery (11111). Mein Chef bekommt ein random Grace of Shornaal: Agile. Das macht irgendwie nichts.
+
+**Philipp**
+- Start: 71 gc + 1 Shard (alt) + 20gc fixes Income 
+- Verkaufe Boot +20gc, 3 Shards 45gc
+- -9gc an Stefan
+- Kaufe 2 Maces + eine Sling für den ausgeraubten Nightrunner (8gc)
+- Rest 139 gc
