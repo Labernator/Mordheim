@@ -1,5 +1,5 @@
 **Game Day:** 24.06.2024  
-**Szenario:** Last Orders 
+**Szenario:** Last Orders  
 **Wetter:** Was auch immer, wir sind drinnen!
 
 <img src="../Pics/LO_1.png" alt="drawing" width="500"/>
