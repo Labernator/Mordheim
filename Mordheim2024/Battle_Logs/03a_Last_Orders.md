@@ -7,7 +7,9 @@
 <img src="../Pics/LO_2.png" alt="drawing" width="500"/>
 
 ## House Rules
- - 
+ - Der "Pit Fighter" Skill gibt auch unbewaffnet +1A
+ - Ein Charge gibt auch unbewaffnet +1A
+ - Frenzy gibt unbewaffnet keine extra Attacken
 
 ## Warband rating
 - The Lanisters: 836  (jetzt neu mit 250 Punkten an Blood Stones)
