@@ -6,9 +6,15 @@
 ## Locations
  - Hired Swords die eine Warband nicht anheuern kann und die man bekommen würde geben statt dessen einen Roll auf der Cargo Chart
  - Banking House erscheint komplett nutzlos
- - Casino: Kostet nur 2 Treasures
- - Leather Goods: Extrem punishing
+ - Casino: Kostet nur 2 Treasures, die CP bei 4 und 5 erhält man ohne zusätzlichen roll.
+ - Leather Goods: Result 1-2 führt nicht zum Verkauf an Slaver
  - Potion Square: Kosten verdoppelt (40GC), ein anderer Held muss begleiten, dafür kein Roll auf Surgery Tables sondern removen der Condition
+ - Instructor: Kosten auf 30 (statt 150) und 25 senken
+ - Magicians Workshop: Preise halbieren
+ - College of Magic: ersetze "2 Gargoyle" durch einen Roll auf der Serious Injury Table (für Wizards deutlich weniger punishing)
+ - Herbalist: Kosten auf 25 reduzieren
+ - Mead Hall: Result 1 führt nicht zu Verkauf an Slaver
+ - Bazaar of Books: ???
 
 ## Plots
  - Der Greenskin Plot erscheint komplett unmöglich
