@@ -26,5 +26,19 @@
 ## Special Rules
  - Stefan muss am Anfang jeder Runde einen D6 rollen. Bei einer 1 wird Joffrey von D3 Ghoulen attackiert.
 
-## Kills
+## Injuries
+**Stefan**  
+ - Wulfen und ein Wolf, beide full Recovery
+ - Mein Chef versklavt eine Ratte die für 9GC an Philipp zurück verkauft wird 
+
+## Reward
+Stefan gewinnt und bekommt D6x10GC => 60 (nice) und die Waffen (2 Nets, Spear, Morning Star)
+
+## XP
+
+
+## CP
+
+
+## Postgame Sequence 
 
