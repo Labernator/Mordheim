@@ -94,4 +94,4 @@ Stefan gewinnt und bekommt D6x10GC => 60 (nice) und die Waffen (2 Nets, Spear, M
 - Verkaufe Boot +20gc, 3 Shards 45gc
 - -9gc an Stefan
 - Kaufe 2 Maces + eine Sling für den ausgeraubten Nightrunner (8gc)
-- Rest 139 gc
+- Rest 139 gc + 1 Shard
