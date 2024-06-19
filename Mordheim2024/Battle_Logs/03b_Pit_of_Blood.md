@@ -35,6 +35,11 @@
 Stefan gewinnt und bekommt D6x10GC => 60 (nice) und die Waffen (2 Nets, Spear, Morning Star)
 
 ## XP
+**Stefan**  
+ - Chef: +15 (4x Seriuosly Injured, 3x Kill, Surviving Champion, Take Part)
+ - Berserker: +13 (4x Kill, Surviving Champion, Take Part)
+ - Wulfen +4 (1x Kill, Take Part)
+ - Rest +2 fürs Dabei sein
 
 
 ## Income
