@@ -13,7 +13,7 @@
  - Magicians Workshop: Preise halbieren
  - College of Magic: ersetze "2 Gargoyle" durch einen Roll auf der Serious Injury Table (für Wizards deutlich weniger punishing)
  - Herbalist: Kosten auf 25 reduzieren
- - Mead Hall: Result 1 führt nicht zu Verkauf an Slaver
+ - Mead Hall: Result 1 führt nicht zu Verkauf an Slaver, Result 2 führt nicht zum Roll auf Serious Injuries (?)
  - Bazaar of Books: ???
 
 ## Plots
