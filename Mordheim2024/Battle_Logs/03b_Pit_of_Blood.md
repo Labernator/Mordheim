@@ -50,7 +50,10 @@ Stefan gewinnt und bekommt D6x10GC => 60 (nice) und die Waffen (2 Nets, Spear, M
  - Warehouse: 8GC
 
 ## CP
-
+**Stefan**
+ - Dabei sein: 4
+ - Gewinnen: 2
+ - 2 Hostages (Ratte, Metzger): 0
 
 ## Postgame Sequence 
 **Stefan**
