@@ -37,6 +37,9 @@ Stefan gewinnt und bekommt D6x10GC => 60 (nice) und die Waffen (2 Nets, Spear, M
 ## XP
 
 
+## Income
+
+
 ## CP
 
 
