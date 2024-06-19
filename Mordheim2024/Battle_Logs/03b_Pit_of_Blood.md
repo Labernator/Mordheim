@@ -69,3 +69,4 @@ Stefan gewinnt und bekommt D6x10GC => 60 (nice) und die Waffen (2 Nets, Spear, M
  - Einkommen: Stash (41), Szenario (60), Income (52), Verkaufen (70), Post Game (50), Versklavte Ratte (9) => 282GC
  - Ausgaben: Post Game (122), kaufe einen neuen Wolf (15) => 137
  - War Chest: 145 GC, 1 Wyrdstone, 6 Hostages, Morning Star, Rabbits Foot, Halfling Cookbook, Unholy Relic
+ - Bei 20 CP bekomme ich die Tannery (11111). Mein Chef bekommt ein random Grace of Shornaal: Agile. Das macht irgendwie nichts.
