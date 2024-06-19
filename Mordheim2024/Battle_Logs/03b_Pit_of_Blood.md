@@ -61,7 +61,7 @@ Stefan gewinnt und bekommt D6x10GC => 60 (nice) und die Waffen (2 Nets, Spear, M
  - Warehouse: 8GC
 
 **Philipp**
-- Fixes Income:
+- Fixes Income: 20 gc
 - Exploration: 3  Treasures (alle Wyrdstone - siehe Plot)
 
 ## CP
@@ -72,6 +72,7 @@ Stefan gewinnt und bekommt D6x10GC => 60 (nice) und die Waffen (2 Nets, Spear, M
 
 **Philipp**
 - Dabei sein 4 CP
+- 2 CP für tainted treasures
 
 ## Postgame Sequence 
 **Stefan**
