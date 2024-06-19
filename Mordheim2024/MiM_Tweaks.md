@@ -5,7 +5,7 @@
 
 ## Locations
  - Hired Swords die eine Warband nicht anheuern kann und die man bekommen würde geben statt dessen einen Roll auf der Cargo Chart
- - Banking House erscheint komplett nutzlos
+ - Banking House erscheint komplett nutzlos: Muss erst bei 30CP zurück gezahlt werden. Zinsen sind nur 40%von dem was in den Results steht.
  - Casino: Kostet nur 2 Treasures, die CP bei 4 und 5 erhält man ohne zusätzlichen roll.
  - Leather Goods: Result 1 führt nicht zum Verkauf an Slaver, Result 2 ist "Robbed"
  - Potion Square: Kosten verdoppelt (40GC), ein anderer Held muss begleiten, dafür kein Roll auf Surgery Tables sondern removen der Condition
