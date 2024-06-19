@@ -44,4 +44,11 @@ Stefan gewinnt und bekommt D6x10GC => 60 (nice) und die Waffen (2 Nets, Spear, M
 
 
 ## Postgame Sequence 
-
+**Stefan**
+ - Chef: Looking for Rare Items
+ - Berserker: Looking for Rare Items
+ - Wulfen: Fighting Pit: +2XP, +50GC
+ - Mage: Looking for Rare Items
+ - Joffrey: Abattoir:
+ - Myrcella: stirbt in den Exploration, darf also keine coolen Dinge machen und wird nachgebaut, -15GC
+ - Marksman: 
