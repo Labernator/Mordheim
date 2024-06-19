@@ -29,7 +29,12 @@
 ## Injuries
 **Stefan**  
  - Wulfen und ein Wolf, beide full Recovery
- - Mein Chef versklavt eine Ratte die für 9GC an Philipp zurück verkauft wird 
+ - Mein Chef versklavt eine Ratte die für 9GC an Philipp zurück verkauft wird
+
+**Philipp**
+- Skitrit captured (freigekauft für 9gc)
+- Rotrek out cold
+- Iklik out cold
 
 ## Reward
 Stefan gewinnt und bekommt D6x10GC => 60 (nice) und die Waffen (2 Nets, Spear, Morning Star)
@@ -40,6 +45,11 @@ Stefan gewinnt und bekommt D6x10GC => 60 (nice) und die Waffen (2 Nets, Spear, M
  - Berserker: +13 (4x Kill, Surviving Champion, Take Part)
  - Wulfen +4 (1x Kill, Take Part)
  - Rest +2 fürs Dabei sein
+
+**Philipp**
+- Rotrek 4 Exp (TP + Kill)
+- Iklik 4 Exp (TP + Kill)
+- Rest + 2 Exp
 
 
 ## Income
@@ -55,6 +65,9 @@ Stefan gewinnt und bekommt D6x10GC => 60 (nice) und die Waffen (2 Nets, Spear, M
  - Dabei sein: 4
  - Gewinnen: 2
  - 2 Hostages (Ratte, Metzger): 0
+
+**Philipp**
+- Dabei sein 4 CP
 
 ## Postgame Sequence 
 **Stefan**
