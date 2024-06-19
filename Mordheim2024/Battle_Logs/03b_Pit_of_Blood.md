@@ -60,6 +60,10 @@ Stefan gewinnt und bekommt D6x10GC => 60 (nice) und die Waffen (2 Nets, Spear, M
  - 11: Myrcella stirbt
  - Warehouse: 8GC
 
+**Philipp**
+- Fixes Income:
+- Exploration: 3  Treasures (alle Wyrdstone - siehe Plot)
+
 ## CP
 **Stefan**
  - Dabei sein: 4
