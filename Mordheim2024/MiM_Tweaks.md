@@ -30,3 +30,4 @@
 ## General Rules
  - Nachdem man ooA geht darf man trotzdem an der Postgame Sequence teil nehmen (kein Covalescence, etc.)
  - [The Mordheimer House Rules](https://mordheimer.net/docs/house_rules) sehen alle gut aus
+ - Wir brauchen eine bessere Idee für Untote und die "No Pain" Regel
