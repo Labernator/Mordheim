@@ -15,5 +15,20 @@
 - The Lanisters: 836  (jetzt neu mit 250 Punkten an Blood Stones)
 - Saurus: 547
 
+## Setup
+**Stefan**  
+**Erdgeschoss**  
+ - Jarl
+ - Wulfen
+ - Joffrey
+ - Myrcella
+ - Marksman
+
+**Obergeschoss**
+ - Berserker
+ - Mage
+ - Alle Hunter
+ 
+
 ## Kills
 
