@@ -32,6 +32,9 @@
 
 ## Kills
  - Hunter 3 tötet Tehamu
+ - Wulfen killt Saurus Held
+ - Marksman killt Ghoul
+ - Willem killt Saurus
 
 ## XP
  - Jarl - 5xp (kill, winning leader, take part)
