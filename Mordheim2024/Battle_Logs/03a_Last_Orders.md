@@ -34,11 +34,12 @@
  - Hunter 3 tötet Tehamu
 
 ## XP
- - Jarl - 2xp
- - Hunter 3 - 2xp
- - Zerker - 1xp
- - Wulfen - 3xp
- - Marksman - 2xp
+ - Jarl - 5xp (kill, winning leader, take part)
+ - Willem - 4xp (kill, take part)
+ - Zerker - 3xp (serious injury, take part)
+ - Wulfen - 5xp (hero kill, take part)
+ - Marksman - 4xp (kill, take part)
+ - Rest 2XP fürs dabei sein
 
 ## Injuries
  - Tehamu - Out Cold
