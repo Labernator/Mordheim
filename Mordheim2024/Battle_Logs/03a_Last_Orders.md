@@ -31,4 +31,7 @@
  
 
 ## Kills
+ - Hunter 3 tötet Tehamu
 
+## Injuries
+ - Tehamu Out Cold
