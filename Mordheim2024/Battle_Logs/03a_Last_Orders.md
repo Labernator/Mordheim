@@ -45,3 +45,20 @@
  - Tehamu - Out Cold
  - Gojira - Head Injury
  - Dodo - captured - 9gc
+
+## Income
+**Stefan**  
+
+**Marius**  
+
+## CP
+**Stefan**  
+
+**Marius**  
+
+
+## Postgame Sequence 
+**Stefan**  
+
+
+**Marius**  
