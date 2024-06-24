@@ -33,5 +33,14 @@
 ## Kills
  - Hunter 3 tötet Tehamu
 
+## XP
+ - Jarl - 2xp
+ - Hunter 3 - 2xp
+ - Zerker - 1xp
+ - Wulfen - 3xp
+ - Marksman - 2xp
+
 ## Injuries
- - Tehamu Out Cold
+ - Tehamu - Out Cold
+ - Gojira - Head Injury
+ - Dodo - captured - 9gc
