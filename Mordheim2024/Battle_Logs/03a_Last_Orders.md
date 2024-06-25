@@ -79,7 +79,7 @@
  - Marksman: Kein Blood Pact, -15GC Upkeep
  - Verkaufe Black Dust (+13GC), 5 Treasures (+60GC) => 73GC
  - Einkommen: Stash (145), Income (78), Verkaufen (70), Post Game (0), Versklavte Ratte (9) => 302GC
- - Ausgaben: Post Game (100), kaufe einen neuen Warrior (25), Mutation: Scaly Skin (60), Mutation: Hulking Brute (50) => 235
+ - Ausgaben: Post Game (100), kaufe einen neuen Marauder (25), Mutation: Scaly Skin (60), Mutation: Hulking Brute (50) => 235
  - Umequippen: Mage kriegt einen Rabbits Foot, Chef kriegt Helm, Halfling Cookbook & Unholy Relic, Berserker kriegt Rabbits Foot, die beiden Bondsmen erhalten die Clubs und der neue Warrior kriegt Joffreys Dagger, Joffrey kriegt den zweiten Helmet
  - War Chest: 67 GC, 1 Wyrdstone, 9 Hostages, 1 Corpse, Morning Star
  - Experience Heroes: Jarl kriegt den "Mutation: Scaly Skin" Skill für 9XP (+20 Warband Rating + 60 Kosten => 80), +1W für 10XP (+25), +1T für 9XP (+20). Wulfen kriegt den "Mutation: Hulking Brute" Skill für 9XP (+20 Warband Rating + 50 Kosten => 70) für 9XP. Der Berserker kriegt +1T & +1W für 19XP (+45 Rating), Marksman kriegt +1BS für 6XP (+10 Rating), Joffrey kriegt +1T für 9XP (+20)
