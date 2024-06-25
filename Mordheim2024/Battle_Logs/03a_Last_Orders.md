@@ -58,7 +58,11 @@
  - Warehouse: 8GC
 
 **Marius**  
+ - Fixes Income: 60GC
+ - Exploration: 2 Treasures
+ - Minus 9 gc für die Geisel
 
+   
 ## CP
 **Stefan**  
  - Dabei sein: 4
@@ -66,7 +70,7 @@
  - 4 Hostages (Skink, 33, 2x Metzger): 1
 
 **Marius**  
-
+ - Dabei sein: 4
 
 ## Postgame Sequence 
 **Stefan**  
