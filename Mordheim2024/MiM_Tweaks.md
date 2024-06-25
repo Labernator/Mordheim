@@ -1,5 +1,5 @@
 ## CP Points
- - "Playing a scenario" +3 (statt +1)
+ - "Playing a scenario" +4 (statt +1)
  - "On a roll of 6 the warband gets +1 CP" => "On a roll of 4+ the warband gets +1 CP"
  - Alle anderen CP Rewards werden verdoppelt (+1 => +2, etc.)
 
@@ -32,3 +32,4 @@
  - [The Mordheimer House Rules](https://mordheimer.net/docs/house_rules) sehen alle gut aus
  - Wir brauchen eine bessere Idee für Untote und die "No Pain" Regel
  - "Monster" sind extrem stark. Ggf nur 1x pro turn Retaliation Attacks (wäre dann analog zum original Mordheim)
+ - Mind Focus ist extrem gut. Ist vielleicht nicht so schlimm, wenn die DD Spell weniger wild sind
