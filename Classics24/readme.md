@@ -1,3 +1,6 @@
+## Map
+![](modheim-map-DE.jpg)
+
 ## Houserules
 Quelle: [The New Mordheimer](https://mordheimer.net/docs/house_rules)
 
