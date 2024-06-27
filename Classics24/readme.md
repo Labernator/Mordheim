@@ -21,7 +21,7 @@ Quelle: [The New Mordheimer](https://mordheimer.net/docs/house_rules)
  - **Short bows**: Range increased to 20".
 
 **Combat**
- - **Dual wielding**: Both weapons, have -1 to hit.
+ - **Dual wielding**: Both weapons, have -1 to hit. Only heroes may dual wield
  - **Strikes First**: Compare Initiative, then WS, before rolling off
  - **Parry**: Parrying adds WS to roll. For example, a skeleton parries a vampire. The skeleton rolls 4, adds +2 WS so results in 6. The Vampire rolls a 3 and adds +4 WS, so wins with a 7
  - **Critical Hits**: A roll of a 6 to wound no longer causes a critical hit. Instead, if you have wounded the target, roll another d6. On the result of a 6, a critical hit is caused – use the advanced critical tables from the main rulebook. Skaven with the Art of Silent Death skill will cause critical hits on a 5 or 6 as usual on this roll.
