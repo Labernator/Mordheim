@@ -6,13 +6,15 @@ Possessed (90)
 
 Mutant (25)
  + Blackblood (30)
- + Dagger (2)
 
 Mutant (25)
  + Blackblood (30)
- + Dagger (2)
 
-5 Brethren (125)
- + 5 Dagger (10)
+2 Brethren (50)
 
-=> 499
+Beastman (45)
+ + Flail (15)
+
+Thief (30)
+
+=> 500
