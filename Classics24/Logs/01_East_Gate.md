@@ -14,6 +14,8 @@
 **Stefan**  
  - Brethren wird gekillt von Rerkit
  - charsi wird gekillt von Qaknaw
+ - Brethren wird gekillt von Zauberer
+ - Dieb wird gekillt von Zauberer
 
 <ins>**XP**</ins>  
 **Philipp**  
