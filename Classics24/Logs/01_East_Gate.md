@@ -11,7 +11,7 @@
  - Skyre wird gekillt vom Dieb
 
 **Stefan**  
-
+ - Brethren wird gekillt von Rerkit
 
 <ins>**XP**</ins>  
 **Philipp**  
