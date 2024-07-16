@@ -10,6 +10,7 @@
  - Swilik wird von Gheed gekillt
  - Skyre wird gekillt vom Dieb
  - Tolk wird gekillt von Gheed
+ - Qagnar wird gekillt von Deckard Cain
 
 **Stefan**  
  - Brethren wird gekillt von Rerkit
