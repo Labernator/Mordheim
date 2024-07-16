@@ -2,4 +2,4 @@
 **Szenario:** Wyrdstone Hunt  
 **Location:** Gate  
 
-![](Pics/Screenshot_20240716_093913_Chrome.jpg)
+![](../Pics/Screenshot_20240716_093913_Chrome.jpg)
