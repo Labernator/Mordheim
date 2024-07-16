@@ -7,6 +7,7 @@
 
 <ins>**Out of action**</ins>  
 **Philipp**  
+ - Swilik wird von Gheed gekillt
 
 **Stefan**  
 
