@@ -18,10 +18,24 @@
  - Brethren wird gekillt von Zauberer
  - Dieb wird gekillt von Zauberer
 
-<ins>**XP**</ins>  
+<ins>**Injuries**</ins>  
 **Philipp**  
+ - Quagbar blinded -1BS
+ - Wilig old battlewound
+ - 1 Henchmen tot
 
 **Stefan**  
+ - Charsi: Multiple 4: blinded -1BS. chest wound -1T, deep wound: misses 2 games
+ - 1 henchmen tot
+ - dieb: nervous  -1I
+
+<ins>**XP**</ins>  
+**Philipp**  
+ - Chef hat Wyrdstone
+   
+**Stefan**  
+ - Chef hat Wyrdstone & Winning Leader & Survived
+ - Gheed hat 2 gekillt und überlebt
 
 <ins>**Szenario Rewards**</ins>  
 **Philipp**  
