@@ -35,17 +35,19 @@
    
 **Stefan**  
  - Chef hat Wyrdstone & Winning Leader & Survived
- - Gheed hat 2 gekillt und überlebt
+ - Gheed hat 2 gekillt und überlebt +1BS
 
 <ins>**Szenario Rewards**</ins>  
 **Philipp**  
 
 **Stefan**  
+ - 1 Shard
 
 <ins>**Exploration**</ins>  
 **Philipp**  
 
 **Stefan**  
+ - 4 Shards
 
 <ins>**Trading**</ins>  
 **Philipp**  
