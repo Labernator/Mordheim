@@ -8,6 +8,7 @@
 <ins>**Out of action**</ins>  
 **Philipp**  
  - Swilik wird von Gheed gekillt
+ - Skyre wird gekillt vom Dieb
 
 **Stefan**  
 
