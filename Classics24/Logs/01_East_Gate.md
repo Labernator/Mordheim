@@ -1,32 +1,32 @@
 **Termin:** 16.07.24  
 **Szenario:** Wyrdstone Hunt  
-**Location:** Gate  
+**Location:** East Gate  
 
 ![](../Pics/Screenshot_20240716_093913_Chrome.jpg)
 
 
-<ans>**Out of action**</ans>  
+<ins>**Out of action**</ins>  
 **Philipp**  
 
 **Stefan**  
 
 
-**XP**  
+<ins>**XP**</ins>  
 **Philipp**  
 
 **Stefan**  
 
-**Szenario Rewards**  
+<ins>**Szenario Rewards**</ins>  
 **Philipp**  
 
 **Stefan**  
 
-**Exploration**  
+<ins>**Exploration**</ins>  
 **Philipp**  
 
 **Stefan**  
 
-**Trading**  
+<ins>**Trading**</ins>  
 **Philipp**  
 
 **Stefan**  
