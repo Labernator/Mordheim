@@ -9,9 +9,11 @@
 **Philipp**  
  - Swilik wird von Gheed gekillt
  - Skyre wird gekillt vom Dieb
+ - 
 
 **Stefan**  
  - Brethren wird gekillt von Rerkit
+ - charsi wird gekillt von Qaknaw
 
 <ins>**XP**</ins>  
 **Philipp**  
