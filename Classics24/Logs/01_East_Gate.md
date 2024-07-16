@@ -53,3 +53,6 @@
 **Philipp**  
 
 **Stefan**  
+ - Verkaufe 5 Shards für 90 (7-9 Member)
+ - Dieb klaut eine Heavy Armour und wird mit 15GC bezahlt
+ - Frischfleisch: 3 Brethren (75) in die Henchmen Group (kein extra Gold, weil die Gruppe keine XP hat)
