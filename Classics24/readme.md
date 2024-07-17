@@ -1,5 +1,5 @@
 ## Map
-![](modheim-map-DE.jpg)
+![](Pics/MordheimMapCampaign2021.jpg)
 
 ## Szenarios
 [Link](https://github.com/Labernator/Mordheim/tree/master/Old/Return-to-Mordheim/Szenarios)
