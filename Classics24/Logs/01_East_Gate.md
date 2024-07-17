@@ -34,8 +34,12 @@
  - Chef hat Wyrdstone
    
 **Stefan**  
- - Chef hat Wyrdstone & Winning Leader & Survived
- - Gheed hat 2 gekillt und überlebt +1BS
+ - Akara: Wyrdstone & Winning Leader & Survived => 3
+ - Gheed: 2 Kills & Survival => 3 **+1BS**
+ - Deckard: 1 Kill & Survival => 2
+ - Kashya: Survival => 1
+ - Thief: Kill => 1
+ - Beastmen: Survival => 1
 
 <ins>**Szenario Rewards**</ins>  
 **Philipp**  
@@ -54,5 +58,5 @@
 
 **Stefan**  
  - Verkaufe 5 Shards für 90 (7-9 Member)
- - Dieb klaut eine Heavy Armour und wird mit 15GC bezahlt
- - Frischfleisch: 3 Brethren (75) in die Henchmen Group (kein extra Gold, weil die Gruppe keine XP hat)
+ - Dieb klaut eine Heavy Armour (für den Beastman) und wird mit 15GC bezahlt
+ - Einkaufen: 1 Brethren (25) in die Henchmen Group (kein extra Gold, weil die Gruppe keine XP hat), Beastmen in eine neue Henchmen Group (45), Short Bow für Magister (5)
