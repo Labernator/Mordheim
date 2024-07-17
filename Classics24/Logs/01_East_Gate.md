@@ -35,7 +35,7 @@
    
 **Stefan**  
  - Akara: Wyrdstone & Winning Leader & Survived => 3
- - Gheed: 2 Kills & Survival => 3 **+1BS**
+ - Gheed: 2 Kills & Survival => 3 **+1WS**
  - Deckard: 1 Kill & Survival => 2
  - Kashya: Survival => 1
  - Thief: Kill => 1
