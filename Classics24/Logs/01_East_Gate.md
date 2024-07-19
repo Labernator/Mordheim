@@ -32,6 +32,7 @@
 <ins>**XP**</ins>  
 **Philipp**  
  - Chef hat Wyrdstone
+ - Zauberer 2 Kills
    
 **Stefan**  
  - Akara: Wyrdstone & Winning Leader & Survived => 3
@@ -43,18 +44,23 @@
 
 <ins>**Szenario Rewards**</ins>  
 **Philipp**  
+- 1 Shard
+- 6 gc (22)
 
 **Stefan**  
  - 1 Shard
 
 <ins>**Exploration**</ins>  
 **Philipp**  
-
+- 2 Shards
 **Stefan**  
  - 4 Shards
 
 <ins>**Trading**</ins>  
 **Philipp**  
+- Verkaufe 3 Shards für 60 gc
+- Verfügbares Einkommen (68gc)
+- Kaufe 2 Ratten(40 gc), 3 Maces (9 gc), 1 Sling (2gc), 1 Giant Rat (15 gc)
 
 **Stefan**  
  - Verkaufe 5 Shards für 90 (7-9 Member)
