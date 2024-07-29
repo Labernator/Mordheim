@@ -60,7 +60,7 @@
 **Philipp**  
 - Verkaufe 3 Shards für 60 gc
 - Verfügbares Einkommen (68gc)
-- Kaufe 2 Ratten(40 gc), 3 Maces (9 gc), 1 Sling (2gc), 1 Giant Rat (15 gc)
+- Kaufe 2 Ratten(40 gc + 4gc für Erfahrung), 2 Maces (6 gc), 1 Sling (2gc), 1 Giant Rat (15 gc)
 
 **Stefan**  
  - Verkaufe 5 Shards für 90 (7-9 Member)
