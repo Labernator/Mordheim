@@ -1,0 +1,20 @@
+Reikland;Captain;60;4;4;4;3;3;1;4;1;8;5;20;Leader, Leader (12);Combat, Shooting, Academic, Strengh, Speed;;;1;MercenaryWarrior;x;human
+Reikland;Champion;35;4;4;3;3;3;1;3;1;7;5;8;;Combat, Shooting, Strength;;;2;MercenaryWarrior;x;human
+Reikland;Young Blood;15;4;2;2;3;3;1;3;1;6;5;0;;Combat, Shooting, Speed;;;2;MercenaryWarrior;x;human
+Reikland;Warrior;25;4;3;3;3;3;1;3;1;7;5;0;;;;;;MercenaryWarrior;;human
+Reikland;Marksman;25;4;3;4;3;3;1;3;1;7;5;0;;;;;7;MercenaryMarksman;;human
+Reikland;Swordsman;35;4;4;3;3;3;1;3;1;7;5;0;Expert Swordsmen;;;;5;MercenaryWarrior;;human
+Marienburg;Captain;60;4;4;4;3;3;1;4;1;8;5;20;Leader;Combat, Shooting, Academic, Strengh, Speed;;;1;MercenaryWarrior;x;human
+Marienburg;Champion;35;4;4;3;3;3;1;3;1;7;5;8;;Combat, Shooting, Speed;;;2;MercenaryWarrior;x;human
+Marienburg;Young Blood;15;4;2;2;3;3;1;3;1;6;5;0;;Combat, Shooting, Speed;;;2;MercenaryWarrior;x;human
+Marienburg;Warrior;25;4;3;3;3;3;1;3;1;7;5;0;;;;;;MercenaryWarrior;;human
+Marienburg;Marksman;25;4;3;3;3;3;1;3;1;7;5;0;;;;;7;MercenaryMarksman;;human
+Marienburg;Swordsman;35;4;4;3;3;3;1;3;1;7;5;0;Expert Swordsmen;;;;5;MercenaryWarrior;;human
+Kislevites;Druzhina Captain;60;4;4;4;3;3;1;3;1;8;5;20;Leader, Inheritance;Combat, Shooting, Academic, Strengh, Speed;;;1;KislevWarrior;x;human
+Kislevites;Esaul;35;4;4;3;3;3;1;3;1;7;5;8;;Combat, Shooting, Speed;;;1;KislevWarrior;x;human
+Kislevites;Bear Tamer;35;4;3;3;4;3;1;3;1;7;5;8;Bear Handler;Combat,  Strengh, Speed;;;1;KislevWarrior;x;human
+Kislevites;Youths;15;4;2;2;3;3;1;3;1;6;5;0;;Combat,  Strengh, Speed;;;2;KislevWarrior;x;human
+Kislevites;Warriors;25;4;3;3;3;3;1;3;1;7;5;0;;;;;;KislevWarrior;;human
+Kislevites;Cossacks;30;4;3;3;3;3;1;3;1;7;5;0;Hate Chaos;;;;;KislevWarrior;;human
+Kislevites;Streltsi;25;4;3;3;3;3;1;3;1;7;5;0;Gun Rest;;;;3;KislevWarrior;;human
+Kislevites;Trained Bear;6;3;0;5;5;2;2;2;2;6;20;0;Trained,  Fearsome, Bear Hug, Fiecely Loyal, Animal, Large Target;;x;x;1;KislevStreletsi;;animal
