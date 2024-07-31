@@ -11,7 +11,7 @@ Quelle: [The New Mordheimer](https://mordheimer.net/docs/house_rules)
  - **Shields** give +2 to armour save (instead of +1) when in combat (when wielded with a one-handed weapon).
  - **Bucklers** give a +1 to armour save when in combat (when wielded with a one-handed weapon).
  - Increase the cost of **Hammers/Maces/Clubs** to 5 gc.
- - **Slings** are STR 2. Could also reduce range (to 16"), and/or raise the price to 5gc.
+ - **Slings** are STR 2. Reduce range (to 16").
  - **Armour** is 50% cheaper 
  - **Crossbows** cannot use Quickshot.
  - **Handguns** cause +1 to injury rolls.
