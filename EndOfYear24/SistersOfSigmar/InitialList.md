@@ -1,6 +1,6 @@
 | | Cost | Total Cost |
 | ---| --- | --- |
-|Sigmarite Matriarch  |	70 | 112 | 
+|**Sigmarite Matriarch**  |	70 | 112 | 
 | - Steel Whip |	10 |
 | - Sling |	2 |
 | - Light armour |	10 |
