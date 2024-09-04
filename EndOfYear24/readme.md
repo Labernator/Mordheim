@@ -22,10 +22,12 @@ Quelle: [The New Mordheimer](https://mordheimer.net/docs/house_rules)
  - **Strikes First**: Compare Initiative, then WS, before rolling off
  - **Parry**: Parrying adds WS to roll. For example, a skeleton parries a vampire. The skeleton rolls 4, adds +2 WS so results in 6. The Vampire rolls a 3 and adds +4 WS, so wins with a 7
  - **Critical Hits**: A roll of a 6 to wound no longer causes a critical hit. Instead, if you have wounded the target, roll another d6. On the result of a 6, a critical hit is caused – use the advanced critical tables from the main rulebook. Skaven with the Art of Silent Death skill will cause critical hits on a 5 or 6 as usual on this roll.
+ - **Failed Charge**: Stumble D6" forward
 
 **Skills**
  - New common skill, Ambidextrous, avoids dual wielding penalty, and can be taken by any hero during advances. Hired Swords & Dramatis Personae that come with two weapons automatically have this skill.
  - Nurgle's Rot (Carnival of Chaos) is banned
+ - Each skill may only be learned once in a warband
 
 **Campaign**
  - Only non-evil Human Warbands
