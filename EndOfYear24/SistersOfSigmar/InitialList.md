@@ -27,3 +27,5 @@
 | **3 Novices** | 45	| 45 |
 | **4 Novices** | 60	| 60 |
 | Total | |  500 |
+
+Zauber für die Matriarch: Hearts of Steel
