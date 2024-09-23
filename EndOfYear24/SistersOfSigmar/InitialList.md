@@ -29,3 +29,4 @@
 | Total | |  500 |
 
 Zauber für die Matriarch: Hearts of Steel
+Ein Death Crier als Priest
