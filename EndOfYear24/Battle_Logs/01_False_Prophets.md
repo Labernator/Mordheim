@@ -66,3 +66,4 @@
 **Tobi**  
 
 **Stefan**  
+ - Upkeep Pit Fighter (15)
