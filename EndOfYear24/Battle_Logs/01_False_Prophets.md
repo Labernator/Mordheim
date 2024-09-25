@@ -47,7 +47,7 @@
  - 11: 1 Shard
  - 33: Light Armour
  - 55: Jeweled Sword & Dagger
- - Szenario: 3 Wyrdstone
+ - Szenario: 3 Shards
 
 ## Ritual of Binding
 **Philipp**   
