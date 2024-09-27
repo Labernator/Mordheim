@@ -3,7 +3,7 @@
   - 2 (ein Gegner gestorben + selbst gestorben)
 
 **Marius**  
-
+ - 1 (selbst gestorben)
 **Tobi**  
 
 **Stefan**  
@@ -14,7 +14,7 @@
   - 1 Henchman tot
 
 **Marius**  
-
+ - Bren tot
 **Tobi**  
 
 **Stefan**  
@@ -25,7 +25,9 @@
   - Rest 1 Exp (TP)
 
 **Marius**  
-
+ - Eddard 2 (TP, Winning Leader)
+ - Rob 2 (TP + bludgeoned Philipps henchman)
+ - Rest 1 (TP)
 **Tobi**  
 
 **Stefan**  
@@ -39,7 +41,8 @@
   - 4 Shards gefunden + 3 behalten + 1 von Marius geklaut + 2 Gc 
 
 **Marius**  
-
+ - 4 shards gefunden + 3 behalten 
+ - 44 ein extra dice in der nächsten Exploration 
 **Tobi**  
 
 **Stefan**  
@@ -62,8 +65,9 @@
 **Philipp**   
 
 **Marius**  
-
+ - Upkeep Ali (10)
 **Tobi**  
 
 **Stefan**  
  - Upkeep Pit Fighter (15)
+
