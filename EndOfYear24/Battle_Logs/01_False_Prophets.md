@@ -4,6 +4,7 @@
 
 **Marius**  
  - 1 (selbst gestorben)
+
 **Tobi**  
 
 **Stefan**  
@@ -15,6 +16,7 @@
 
 **Marius**  
  - Bren tot
+
 **Tobi**  
 
 **Stefan**  
@@ -28,6 +30,7 @@
  - Eddard 2 (TP, Winning Leader)
  - Rob 2 (TP + bludgeoned Philipps henchman)
  - Rest 1 (TP)
+
 **Tobi**  
 
 **Stefan**  
@@ -43,6 +46,7 @@
 **Marius**  
  - 4 shards gefunden + 3 behalten 
  - 44 ein extra dice in der nächsten Exploration 
+
 **Tobi**  
 
 **Stefan**  
@@ -66,6 +70,7 @@
 
 **Marius**  
  - Upkeep Ali (10)
+
 **Tobi**  
 
 **Stefan**  
