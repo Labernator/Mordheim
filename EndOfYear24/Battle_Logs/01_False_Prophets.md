@@ -70,6 +70,9 @@
 
 **Marius**  
  - Upkeep Ali (10)
+ - verkaufe 7 shards für 110gc
+ - Rabbits Foot (10)
+ - Lucky Charm (10)
 
 **Tobi**  
 
