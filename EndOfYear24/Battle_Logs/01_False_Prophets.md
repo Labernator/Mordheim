@@ -74,5 +74,13 @@
 **Tobi**  
 
 **Stefan**  
+ - Verkaufe 7 Shards für 100GC
  - Upkeep Pit Fighter (15)
+ - Rabbits Foot (10)
+ - Lucky Charm (10)
+ - Crimson Shade (41)
+ - Light Armour (10)
+ - In den Stash kommen 14GC, 1 Wyrdstone Shard, Jeweled Sword & Dagger, Crimson Shade
+ - Die beiden Champs kriegen die Light Armours
+ - Die Chefin kriegt Foot & Charm
 
