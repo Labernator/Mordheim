@@ -34,9 +34,9 @@
 **Tobi**  
 
 **Stefan**  
- - Bellatrix: 3 (TP, Winning Leader, Kill Philipps Priest)
- - Narcissa: 2 (TP, Kill Philipps Henchman)
- - Antonin: 2 (TP, Kill Tobis Priest)
+ - Andariel: 3 (TP, Winning Leader, Kill Philipps Priest)
+ - Bloodraven: 2 (TP, Kill Philipps Henchman)
+ - Rakanishu: 2 (TP, Kill Tobis Priest)
  - Rest: 1 (TP)
 
 ## Exploration
