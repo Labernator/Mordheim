@@ -58,7 +58,7 @@
 
 ## Ritual of Binding
 **Philipp**   
-
+- 2 Shards + 1 S
 **Marius**  
 
 **Tobi**  
@@ -67,7 +67,10 @@
 
 ## Trading
 **Philipp**   
-
+- Verkaufe 6 Shards für 90 = verfügbares Einkommen 90+2+3(rest)
+- Kaufe einen Warrior mit Hammer (28 gc)
+- Kaufe einen Streletsi mit Bogen und Hammer (38 gc)
+Rest: 29
 **Marius**  
  - Upkeep Ali (10)
  - verkaufe 7 shards für 110gc
