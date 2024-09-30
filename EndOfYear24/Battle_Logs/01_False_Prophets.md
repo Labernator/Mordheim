@@ -59,6 +59,7 @@
 ## Ritual of Binding
 **Philipp**   
 - 2 Shards + 1 S
+  
 **Marius**  
 
 **Tobi**  
