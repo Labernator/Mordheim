@@ -72,6 +72,7 @@
 - Kaufe einen Warrior mit Hammer (28 gc)
 - Kaufe einen Streletsi mit Bogen und Hammer (38 gc)
 Rest: 29
+
 **Marius**  
  - Upkeep Ali (10)
  - verkaufe 7 shards für 110gc
