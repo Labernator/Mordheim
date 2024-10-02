@@ -30,6 +30,7 @@
  - Eddard 2 (TP, Winning Leader)
  - Rob 2 (TP + bludgeoned Philipps henchman)
  - Rest 1 (TP)
+=> Ali hat nun 6xp und kriegt +1 Ini
 
 **Tobi**  
 
