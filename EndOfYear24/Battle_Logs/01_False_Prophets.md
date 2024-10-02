@@ -79,7 +79,9 @@ Rest: 29
  - Upkeep Ali (10)
  - Rabbits Foot (10)
  - Lucky Charm (10)
- - Holy Relic (29)
+ - Holy Relic (29 - 6 durch Haggle => 23)
+ - Kaufe 1 Youngblood für 21 + 2 Batons für 6 => 27
+bleiben erstmal noch 31gc
 
 **Tobi**  
 
