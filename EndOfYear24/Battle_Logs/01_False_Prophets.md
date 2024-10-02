@@ -74,10 +74,12 @@
 Rest: 29
 
 **Marius**  
+ - 1gc Übertrag
+ - verkaufe 7 shards für 110gc (macht 111gc in Summe)
  - Upkeep Ali (10)
- - verkaufe 7 shards für 110gc
  - Rabbits Foot (10)
  - Lucky Charm (10)
+ - Holy Relic (29)
 
 **Tobi**  
 
