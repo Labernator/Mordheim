@@ -6,6 +6,7 @@
  - 1 (selbst gestorben)
 
 **Tobi**  
+ - 0
 
 **Stefan**  
  - 1 (ein Gegner gestorben)
@@ -18,7 +19,10 @@
  - Bren tot
 
 **Tobi**  
-
+ - 1 Looter tot
+ - 1 Thug tot
+ - 1 Footpad verpasst das nächste Game
+   
 **Stefan**  
 
 ## Experience
@@ -29,11 +33,13 @@
 **Marius**  
  - Eddard 2 (TP, Winning Leader)
  - Rob 2 (TP + bludgeoned Philipps henchman)
- - Rest 1 (TP)
+ - Rest 1 (TP) 
 => Ali hat nun 6xp und kriegt +1 Ini
 
 **Tobi**  
-
+ - Duelist Rolf „Schwarzklinge“ Jäger 1 (Hat 1 Guard von Marius getötet)
+ - Rest 1
+   
 **Stefan**  
  - Andariel: 3 (TP, Winning Leader, Kill Philipps Priest)
  - Bloodraven: 2 (TP, Kill Philipps Henchman)
@@ -49,7 +55,9 @@
  - 44 ein extra dice in der nächsten Exploration 
 
 **Tobi**  
-
+ - 4 shards gefunden
+ - 2 Maces durch "Looting the Dead" erhalten
+   
 **Stefan**  
  - 4 Shards gefunden
  - 11: 1 Shard
@@ -85,7 +93,8 @@ Rest: 29
 bleiben erstmal noch 31gc
 
 **Tobi**  
-
+- Verkaufe 6 Shards für 90gc
+  
 **Stefan**  
  - Verkaufe 7 Shards für 100GC
  - Upkeep Pit Fighter (15)
