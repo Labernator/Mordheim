@@ -79,8 +79,8 @@
 **Philipp**   
 - Verkaufe 6 Shards für 90 = verfügbares Einkommen 90+2+3(rest)
 - Kaufe einen Warrior mit Hammer (28 gc)
-- Kaufe einen Streletsi mit Bogen und Hammer (38 gc)
-Rest: 29
+- Kaufe einen Warrior mit Hammer (28 gc)
+Rest: 36
 
 **Marius**  
  - 1gc Übertrag
