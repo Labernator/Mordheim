@@ -90,7 +90,8 @@ Rest: 36
  - Lucky Charm (10)
  - Holy Relic (29 - 6 durch Haggle => 23)
  - Kaufe 1 Youngblood für 21 + 2 Batons für 6 => 27
-bleiben erstmal noch 31gc
+ - Heure einen Warlock an mit Luck of Shemtek und Sword of Rezhebel (na klasse... ein Nachkampf-Magier)
+bleiben erstmal noch 1gc
 
 **Tobi**  
 - Verkaufe 6 Shards für 90gc
