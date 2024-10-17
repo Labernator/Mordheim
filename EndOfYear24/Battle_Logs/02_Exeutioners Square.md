@@ -9,7 +9,7 @@
  - 
 
 **Stefan**  
- - 
+ - 1 (angeschrien worden)
 
 ## Injuries
 **Philipp**  
@@ -22,6 +22,8 @@
  - 
    
 **Stefan**  
+ - The Countess & 2 Henchmen recovern
+ - 1 Tainted stirbt
 
 ## Experience
 **Philipp**  
@@ -44,6 +46,15 @@
  
    
 **Stefan**  
+ - Andariel: 4 (TP, Winning Leader, Kill Tobis Priest, Wyrdstone) **+1WS**
+ - Bloodraven: 3 (TP, Kill Marius Youngblood, Wyrdstone) **Resilience**
+ - Coldcrow: 2 (TP, Kill Marius Youngblood) **+1I**
+ - The Countess: 1 (TP) 
+ - Bone Ash: 1 (TP) **+1A**
+ - Rakanishu: 1 (TP) **+1A**
+ - Wraiths: 2 (TP, Wyrdstone) **+1WS**
+ - Fallen: 1 (TP) **+1WS**
+ - Tainted: 2 (TP, Wyrdstone) **+1A**
 
 
 ## Exploration
@@ -58,7 +69,8 @@
  - 
    
 **Stefan**  
- - 
+ - 5 Shards gefunden + 4 gesammelt
+ - 666: Free Hired Sword für das nächste Spiel
 
 ## Ritual of Binding
 **Philipp**   
