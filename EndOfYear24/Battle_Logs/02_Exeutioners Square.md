@@ -16,7 +16,10 @@
   - 2 Henchman tot
 
 **Marius**  
- - 
+**Marius**  
+ - Wolf Priest of Ulric ist tot
+ - Rickon ist Hardened
+ - Theon ist Blinded on one Eye
 
 **Tobi**  
  - 
@@ -39,7 +42,17 @@
   
 
 **Marius**  
- 
+ - Eddard 2xp (1 crossbow kill und TP) **+1BS**
+ - Robb 1xp (TP) **+1WS**
+ - Rickon 1xp (TP) **+1I**
+ - Theon 2xp (1 kill und TP) **+1I**
+ - Harald (ex Blunderbussi) (TP) **Lads got Talent +1I**
+ - Gunnar 1xp (TP) **+1A**
+ - Erik 1xp (TP) **+1I**
+ - Njal 1xp (TP) **+1Ld**
+ - Jon 1xp (TP) **+1A**
+ - Ali 1xp (TP) 
+ - Merlin 1xp (TP) 
 
 **Tobi**  
  
