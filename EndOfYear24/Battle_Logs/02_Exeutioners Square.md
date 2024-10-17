@@ -51,9 +51,9 @@
  - The Countess: 1 (TP) 
  - Bone Ash: 1 (TP) **+1A**
  - Rakanishu: 1 (TP) **+1A**
- - Wraiths: 2 (TP, Wyrdstone) **+1WS**
- - Fallen: 1 (TP) **+1WS**
- - Tainted: 2 (TP, Wyrdstone) **+1A**
+ - Wraiths (Grün): 2 (TP, Wyrdstone) **+1WS**
+ - Fallen (Gelb): 1 (TP) **+1WS**
+ - Tainted (Pink): 2 (TP, Wyrdstone) **+1A**
 
 
 ## Exploration
