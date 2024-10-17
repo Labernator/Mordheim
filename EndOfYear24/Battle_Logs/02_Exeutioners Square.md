@@ -82,10 +82,10 @@
 
 ## Trading
 **Philipp**   
-- Verkaufe 6 Shards für 90 = verfügbares Einkommen 90+36(rest)
-- Kaufe einen Warrior mit Hammer (30 gc)
-- Kaufe einen Warrior mit Hammer (30 gc)
-
+- Verkaufe ... shards
+- Kaufe einen Warrior mit Hammer (28 gc)
+- Kaufe einen Warrior mit Hammer (28 gc)
+beide gehen in die neue Warrior group
 
 **Marius**  
  - 
