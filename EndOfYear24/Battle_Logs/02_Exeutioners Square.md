@@ -49,7 +49,7 @@
  - Bloodraven: 3 (TP, Kill Marius Youngblood, Wyrdstone) **Resilience**
  - Coldcrow: 2 (TP, Kill Marius Youngblood) **+1I**
  - The Countess: 1 (TP) 
- - Bone Ash: 1 (TP) **+1A**
+ - Bone Ash: 2 (TP, Kill Marius Morning Star Dude) **+1A**
  - Rakanishu: 1 (TP) **+1A**
  - Wraiths (Grün): 2 (TP, Wyrdstone) **+1WS**
  - Fallen (Gelb): 1 (TP) **+1WS**
