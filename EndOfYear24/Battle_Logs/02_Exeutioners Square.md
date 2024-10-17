@@ -94,4 +94,10 @@
 -
   
 **Stefan**  
- - 
+ - Verkaufe 7 Shards für 100GC + 14GC aus dem Stash => 114GC
+ - Upkeep Pit Fighter (15)
+ - Merchant anheuern (20)
+ - 666: Free Ogre mit Great Weapon
+ - Crimson Shade (36)
+ - Crimson Shade (38)
+ - In den Stash zurück kommen 5GC, X Wyrdstone Shard und 2x Crimson Shade
