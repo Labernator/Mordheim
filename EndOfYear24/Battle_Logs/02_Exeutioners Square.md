@@ -46,7 +46,7 @@
    
 **Stefan**  
  - Andariel: 4 (TP, Winning Leader, Kill Tobis Priest, Wyrdstone) **+1WS**
- - Bloodraven: 3 (TP, Kill Marius Youngblood, Wyrdstone) **Resilience**
+ - Bloodraven: 3 (TP, Kill Marius Youngblood, Wyrdstone) **Skill: Resilience**
  - Coldcrow: 2 (TP, Kill Marius Youngblood) **+1I**
  - The Countess: 1 (TP) 
  - Bone Ash: 2 (TP, Kill Marius Morning Star Dude) **+1A**
