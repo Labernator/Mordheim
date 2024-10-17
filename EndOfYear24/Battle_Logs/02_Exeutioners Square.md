@@ -1,6 +1,6 @@
 ## Secrets of Vantor
 **Philipp**  
-  - 2 (vom Schrei getroffen, Ritual of Binding)
+  - 2 (vom Schrei getroffen, Ritual of Binding) -1 wegen Postgame Kompelett: 4
 
 **Marius**  
  - 
@@ -73,6 +73,7 @@
 
 ## Ritual of Binding
 **Philipp**   
+- +1T Priest
   
 **Marius**  
 
@@ -83,10 +84,11 @@
 
 ## Trading
 **Philipp**   
-- Verkaufe ... shards
+- Verkaufe 4 shards für 65 + Rest 36 0 101
 - Kaufe einen Warrior mit Hammer (28 gc)
 - Kaufe einen Warrior mit Hammer (28 gc)
 beide gehen in die neue Warrior group
+Rest: 45
 
 **Marius**  
  - 
