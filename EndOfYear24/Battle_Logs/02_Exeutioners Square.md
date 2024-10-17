@@ -29,7 +29,6 @@
 **Philipp**  
   - Vasnow (Leader) 3 Exp (Wyrdstone + Winning + TP)
   - Bogumil (Bear Tamer) 2 Exp (Kill Looter + TP)
-  - Sveatopolk 2 Exp, (Wyrdstone + TP)
   - Rest + 1 TP
   - Vasnow + 1 A
   - Bogumil new Skill
@@ -59,7 +58,7 @@
 
 ## Exploration
 **Philipp**  
-  - 4 Shards gefunden + 2 gesammelt + 1 Lucky Charm
+  - 4 Shards gefunden + 1 gesammelt + 1 Lucky Charm
   - 44 extra Dice in nächster Exploration
 
 **Marius**  
