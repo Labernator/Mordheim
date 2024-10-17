@@ -9,7 +9,7 @@
  - 
 
 **Stefan**  
- - 1 (angeschrien worden)
+ - +2 (angeschrien worden, Ritual of Binding) => 3 insgesamt
 
 ## Injuries
 **Philipp**  
