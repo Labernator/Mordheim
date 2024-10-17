@@ -84,12 +84,12 @@
 
 ## Trading
 **Philipp**   
-- Verkaufe 4 shards für 65 + Rest 36 0 101
+- Verkaufe 4 shards für 65 + Rest 36 
 - Ritual of Binding kostet 1 Shard
-- Kaufe einen Warrior mit Hammer (28 gc)
-- Kaufe einen Warrior mit Hammer (28 gc)
+- Kaufe einen Warrior mit Hammer (30 gc)
+- Kaufe einen Warrior mit Hammer (30 gc)
 beide gehen in die neue Warrior group
-Rest: 45
+Rest: 41
 
 **Marius**  
  - 
