@@ -6,7 +6,7 @@
  - 
 
 **Tobi**  
- - 
+ - 0
 
 **Stefan**  
  - +2 (angeschrien worden, Ritual of Binding) => 3 insgesamt
@@ -21,7 +21,8 @@
  - Theon ist Blinded on one Eye
 
 **Tobi**  
- - 
+ - Looter Peter Rufus tot
+ - Blackheart Walter Weber setzt nächste Runde aus
    
 **Stefan**  
  - The Countess & 2 Henchmen recovern
@@ -54,7 +55,18 @@
  - Merlin 1xp (TP) 
 
 **Tobi**  
- 
+ - Bandit Prince Klaus Rottman 1xp
+ - Priest Heinz 1xp **+1S**
+ - Duelist Rolf Jäger 1xp **Skill: Quickshot**
+ - Footpad Ulf Zimmermann 0xp - hat die Runde aussetzen müssen
+ - Footpad Ludwig Stein 1xp
+ - Huckster Heinrich von Auer 1xp
+ - Blackheart Walter Weber 1xp **+1Ld**
+ - Blackheart Albrecht Krüger 1xp **+1A**
+ - Looter Fritz Vogler 1xp **+1I**
+ - Looter Hans "Kleiner Hans" Haller 1xp **+1BS**
+ - Looter Hans "Großer Hans" Haller 1xp **+1Ld**
+ - Looter Peter Rufus - tot
    
 **Stefan**  
  - Andariel: 4 (TP, Winning Leader, Kill Tobis Priest, Wyrdstone) **+1WS**
@@ -77,7 +89,9 @@
   - 4 Shards gefunden + 8gc
 
 **Tobi**  
- - 
+ - 3 Shards gefunden + 6gc
+ - 2 Batons gelootet
+ - 2 Maces aus dem ersten Game gelootet (Nachtrag)
    
 **Stefan**  
  - 5 Shards gefunden + 4 gesammelt
@@ -113,8 +127,15 @@ Rest: 41
 Rest: 20
 
 **Tobi**  
--
-  
+- Verkaufe 3 Shards für 60gc wg. forager skill der Bandits
+- Upkeep Pit fighter 15gc
+- Neuen Looter mit 1 Sling angeheuert für 32gc
+- Rabbits Foot gefunden 10gc
+- Lucky Charm gefunden 10gc
+- Bandit Price kriegt n Helm 10gc
+
+Rest: 6gc
+
 **Stefan**  
  - Verkaufe 7 Shards für 100GC + 14GC aus dem Stash => 114GC
  - Upkeep Pit Fighter (15)
