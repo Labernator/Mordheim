@@ -31,7 +31,7 @@
   - Bogumil (Bear Tamer) 2 Exp (Kill Looter + TP)
   - Rest + 1 TP
   - Vasnow + 1 A
-  - Bogumil new Skill
+  - Bogumil new Skill (Resilient)
   - Sveatopolk +1 S
   - Liudyn new Skill
   - Grim Saviours + 1I
