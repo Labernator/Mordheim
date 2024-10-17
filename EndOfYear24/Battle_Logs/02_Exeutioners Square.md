@@ -1,6 +1,6 @@
 ## Secrets of Vantor
 **Philipp**  
-  - 1 (vom Schrei getroffen)
+  - 2 (vom Schrei getroffen, Ritual of Binding)
 
 **Marius**  
  - 
@@ -79,6 +79,7 @@
 **Tobi**  
 
 **Stefan**  
+ - +1I...
 
 ## Trading
 **Philipp**   
@@ -100,4 +101,5 @@ beide gehen in die neue Warrior group
  - 666: Free Ogre mit Great Weapon
  - Crimson Shade (36)
  - Crimson Shade (38)
- - In den Stash zurück kommen 5GC, X Wyrdstone Shard und 2x Crimson Shade
+ - Ritual of Binding kostet 1 Shard
+ - In den Stash zurück kommen 5GC, 1 Wyrdstone Shard (2 insgesamt) und 2x Crimson Shade (3 insgesamt)
