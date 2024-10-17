@@ -75,7 +75,7 @@
   - 44 extra Dice in nächster Exploration
 
 **Marius**  
- -  
+  - 4 Shards gefunden + 8gc
 
 **Tobi**  
  - 
@@ -105,7 +105,11 @@ beide gehen in die neue Warrior group
 Rest: 41
 
 **Marius**  
- - 
+- Verkaufe 4 shards für 65 und habe 1 vom letzten mal 
+- Kaufe einen neuen Priester (60) -> der hat dieselben Spells wieder der Alte (Blood Lust und Wolf's Hunger)
+- Bleiben 6 Gold übrig für 2 Batons für Ihn
+- Dann kriege ich 20 für meinen Blunderbuss zurück
+Rest: 20
 
 **Tobi**  
 -
