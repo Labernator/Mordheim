@@ -16,7 +16,6 @@
   - 2 Henchman tot
 
 **Marius**  
-**Marius**  
  - Wolf Priest of Ulric ist tot
  - Rickon ist Hardened
  - Theon ist Blinded on one Eye
