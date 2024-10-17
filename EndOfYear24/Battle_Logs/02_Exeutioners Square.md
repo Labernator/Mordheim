@@ -101,6 +101,7 @@
 - Kaufe einen Warrior mit Hammer (30 gc)
 - Kaufe einen Warrior mit Hammer (30 gc)
 beide gehen in die neue Warrior group
+
 Rest: 41
 
 **Marius**  
@@ -108,6 +109,7 @@ Rest: 41
 - Kaufe einen neuen Priester (60) -> der hat dieselben Spells wieder der Alte (Blood Lust und Wolf's Hunger)
 - Bleiben 6 Gold übrig für 2 Batons für Ihn
 - Dann kriege ich 20 für meinen Blunderbuss zurück
+  
 Rest: 20
 
 **Tobi**  
