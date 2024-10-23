@@ -9,6 +9,7 @@ Quelle: [The New Mordheimer](https://mordheimer.net/docs/house_rules)
  - **Armour** is 50% cheaper 
  - **Crossbows** cannot use Quickshot.
  - **Handguns** cause +1 to injury rolls.
+ - **Blunderbuss** may not shoot in combat
  - **Helmet** treats an injury roll of 1-3 as stunned (instead of the additional 4+ roll against stunned)
  - Introduce a new item, **Beat Stick**. It costs 3 gc, and is like a Hammer/Mace but without the Concussion special rule. Alternatively, separate Clubs from Hammers/Maces and remove the rule from clubs (while increasing the cost of Hammer/Maces).
  - **Ranged Weapons**: equipped by max 50% of your warband.
