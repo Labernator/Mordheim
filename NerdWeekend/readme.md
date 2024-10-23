@@ -15,6 +15,7 @@ Quelle: [The New Mordheimer](https://mordheimer.net/docs/house_rules)
  - **Ranged Weapons**: equipped by max 50% of your warband.
  - **Spears** will always Strike First the first round of combat, even when charged.
  - **Blackpowder weapons**: reduce prices by a third, rounding up.
+ - **Blunderbuss ban**: Too wonky and no fun to be at the receiving end.
  - **Lucky Rabbits Foot, Lucky Charm, & Holy/Unholy Relics** are limited to 1 per warband.
  - **Short bows**: Range increased to 20".
 
