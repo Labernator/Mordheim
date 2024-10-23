@@ -13,7 +13,8 @@
 |**Pit Fighter** | 30	| 30 |
 |**Dwarf Troll Slayer** | 25	| 25 |
 |**Halfling Scout** | 15	| 15 |
-| **2 Looters** | 50	| 50 |
+| **2 Looters** | 50	| 54 |
+| - 2 Sling |	4 |
 | **2 Poachers** | 70	| 70 |
 | **1 Thug** | 30	| 30 |
 | **3 Gutterscum** | 30	| 30 |
